@@ -349,12 +349,12 @@
         "description": "Wird einmal mit 50% Gesundheit wiederbelebt."
       },
       "REROLL": {
-        "name": "Reroll",
-        "description": "Once per rank, allows to get different choices when leveling up."
+        "name": "Neu würfeln",
+        "description": "Einmal pro Rang, ermöglicht verschiedene Wahlmöglichkeiten beim Stufenaufstieg."
       },
       "SKIP": {
-        "name": "Skip",
-        "description": "Once per rank, allows to skip level up choices and get Experience instead."
+        "name": "Überspringen",
+        "description": "Erlaubt einmal pro Rang das Überspringen von Levelaufstiegswahlen und gewährt stattdessen Erfahrung."
       }
     }
   },
@@ -890,13 +890,159 @@
     "english": "Turkish",
     "native": "Türkçe",
     "api": "turkish",
-    "translations": {}
+    "translations": {
+      "POWER": {
+        "name": "Kuvvet",
+        "description": "Seviye başına verilen hasar %5 artar. (maks %25)"
+      },
+      "REGEN": {
+        "name": "Can Yenileme",
+        "description": "Seviye başına saniyede 0.1 can yeniler. (maks 0.5)"
+      },
+      "MAXHEALTH": {
+        "name": "Azami Can",
+        "description": "Seviye başına azami can %10 artar. (maks %30)"
+      },
+      "ARMOR": {
+        "name": "Zırh",
+        "description": "Seviye başına alınan hasar 1 azalır. (maks 3)"
+      },
+      "AREA": {
+        "name": "Etki Alanı",
+        "description": "Seviye başına saldırı etki alanı %5 artar. (maks %10)"
+      },
+      "SPEED": {
+        "name": "Hız",
+        "description": "Seviye başına saldırı hızı %10 artar. (maks %20)"
+      },
+      "COOLDOWN": {
+        "name": "Bekleme Süresi",
+        "description": "Silah bekleme süreleri %2.5 azalır. (maks %5)"
+      },
+      "DURATION": {
+        "name": "Etki Süresi",
+        "description": "Seviye başına saldırı etkileri %15 daha uzun sürer. (maks %30)"
+      },
+      "AMOUNT": {
+        "name": "Miktar",
+        "description": "Fazladan 1 saldırı gerçekleştir. (Tüm silahlar)"
+      },
+      "MOVESPEED": {
+        "name": "Hareket Hızı",
+        "description": "Seviye başına hareket hızı %5 artar. (maks %10)"
+      },
+      "MAGNET": {
+        "name": "Çekim",
+        "description": "Seviye başına eşya çekim alanı %25 artar. (maks %50)"
+      },
+      "LUCK": {
+        "name": "Şans",
+        "description": "Seviye başına şans %10 artar. (Maks %30)"
+      },
+      "GROWTH": {
+        "name": "Büyüme",
+        "description": "Seviye başına tecrübe kazanımı %3 artar. (maks %15)"
+      },
+      "GREED": {
+        "name": "Hırs",
+        "description": "Seviye başına altın kazanımı %10 artar. (maks %50)"
+      },
+      "SHIELD": {
+        "name": "Kalkan",
+        "description": "Bir saldırıyı engeller. Laurel ile artar."
+      },
+      "REVIVAL": {
+        "name": "Yeniden Doğ",
+        "description": "Azami canın %50'siyle yeniden doğarsın. (bir kerelik)"
+      },
+      "REROLL": {
+        "name": "Yenile",
+        "description": "Seviye başına 1 seviye atlama seçeneklerini yenileme hakkı."
+      },
+      "SKIP": {
+        "name": "Pas",
+        "description": "Seviye başına 1 seviye atlama seçeneklerini pas geçip tecrübe kazanma hakkı."
+      }
+    }
   },
   "uk": {
     "english": "Ukrainian",
     "native": "Українська",
     "api": "ukrainian",
-    "translations": {}
+    "translations": {
+      "POWER": {
+        "name": "Сила",
+        "description": "Збільшує завдану шкоду на 5% за рівень (макс. +25%)."
+      },
+      "REGEN": {
+        "name": "Регенерація",
+        "description": "Відновлює 0.1 ОЗ за рівень (макс. 0.5) за секунду."
+      },
+      "MAXHEALTH": {
+        "name": "Макс. ОЗ",
+        "description": "Збільшує макс. кількість ОЗ на 10% за рівень (макс. +30%)."
+      },
+      "ARMOR": {
+        "name": "Броня",
+        "description": "Зменшує отримувану шкоду на 1 за рівень (макс. -3)."
+      },
+      "AREA": {
+        "name": "Розмір",
+        "description": "Збільшує розмір атак на 5% за рівень (макс. +10%)."
+      },
+      "SPEED": {
+        "name": "Швидкість",
+        "description": "Снаряди рухаються на 10% швидше за рівень (макс. 20%)."
+      },
+      "COOLDOWN": {
+        "name": "Відкат",
+        "description": "Використання зброї на 2.5% швидше за рівень (макс. 5%)."
+      },
+      "DURATION": {
+        "name": "Термін",
+        "description": "Ефекти від зброї тривають на 15% довше за рівень (макс. +30%)."
+      },
+      "AMOUNT": {
+        "name": "Кількість",
+        "description": "Випускає на 1 снаряд більше (вся зброя)."
+      },
+      "MOVESPEED": {
+        "name": "Рухливість",
+        "description": "Персонаж переміщається на 5% швидше за рівень (макс. 10%)."
+      },
+      "MAGNET": {
+        "name": "Магніт",
+        "description": "Область підбору предметів на 25% більша за рівень (макс. +50%)."
+      },
+      "LUCK": {
+        "name": "Удача",
+        "description": "Шанс повезти зростає на 10% за рівень (макс. +30%)."
+      },
+      "GROWTH": {
+        "name": "Приріст",
+        "description": "Заробляє на 3% більше за рівень (макс. 15%)."
+      },
+      "GREED": {
+        "name": "Жадібність",
+        "description": "Заробляє на 10% більше монет за рівень (макс. +50%)."
+      },
+      "SHIELD": {
+        "name": "Щит",
+        "description": "Запобігає шкоді він однієї атаки. Об'єднується із Лавром."
+      },
+      "REVIVAL": {
+        "name": "Відродження",
+        "description": "Відроджує один раз с 50% ОЗ."
+      },
+      "REROLL": {
+        "name": "Переролення",
+        "description": "Один раз на ранг, дозволяє отримати інші варіанти під час підвищення рівня."
+      },
+      "SKIP": {
+        "name": "Пропуск",
+        "description": "Один раз за ранг, дозволяє пропускати варіанти підвищення рівня і натомість отримати досвід."
+      }
+    }
   },
   "vn": {
     "english": "Vietnamese",

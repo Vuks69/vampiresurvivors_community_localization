@@ -720,13 +720,125 @@
     "english": "Turkish",
     "native": "Türkçe",
     "api": "turkish",
-    "translations": {}
+    "translations": {
+      "CLOVER": {
+        "description": "%10 şans kazandırır.",
+        "name": "Küçük Yonca"
+      },
+      "COIN": {
+        "description": "Toplam altınına 1 ekler.",
+        "name": "Altın Para"
+      },
+      "COINBAG1": {
+        "description": "Toplam altınına 10 ekler.",
+        "name": "Altın Kesesi"
+      },
+      "COINBAG2": {
+        "description": "Toplam altınına 25 ekler.",
+        "name": "Büyük Altın Kesesi"
+      },
+      "COINBAGMAX": {
+        "description": "Toplam altınına 100 ekler.",
+        "name": "Devasa Altın Kesesi",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "GEM": {
+        "description": "Tecrübe kazandırır.",
+        "name": "Tecrübe Cevheri"
+      },
+      "OROLOGION": {
+        "description": "Tüm düşmanların zamanını durdurur.",
+        "name": "Saat",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "ROAST": {
+        "description": "30 can verir.",
+        "name": "Yer Tavuğu",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "ROSARY": {
+        "description": "Görüş alanındaki tüm düşmanları yok eder.",
+        "name": "Kutsal Tesbih",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "TREASURE": {
+        "description": "İçinden altın ve güçlendirme çıkar. Güçlü düşmanlardan düşer.",
+        "name": "Hazine Sandığı",
+        "tips": "Güçlendirme kalitesi Şans'a bağlıdır."
+      },
+      "VACUUM": {
+        "description": "Yerdeki tüm tecrübe cevherlerini çeker.",
+        "name": "Vakum",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "NFT": {
+        "description": "Geçici olarak alev püskürtür. Karakter özelliklerine bağlıdır.",
+        "name": "Nduja Fritta",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      }
+    }
   },
   "uk": {
     "english": "Ukrainian",
     "native": "Українська",
     "api": "ukrainian",
-    "translations": {}
+    "translations": {
+      "CLOVER": {
+        "description": "Підніміть, щоб стати на 10% щасливіше.",
+        "name": "Маленький Клевер"
+      },
+      "COIN": {
+        "description": "Додає 1 до загальної кількості ваших золотих монет.",
+        "name": "Золота Монета"
+      },
+      "COINBAG1": {
+        "description": "Додає 10 до загальної кількості ваших золотих монет.",
+        "name": "Мішок монет"
+      },
+      "COINBAG2": {
+        "description": "Додає 25 до загальної кількості ваших золотих монет.",
+        "name": "Великий Мішок Монет"
+      },
+      "COINBAGMAX": {
+        "description": "Додає 100 до загальної кількості ваших золотих монет.",
+        "name": "Багатий Мішок Монет",
+        "tips": "Частота випадіння залежить від Удачі."
+      },
+      "GEM": {
+        "description": "Збільшує досвід.",
+        "name": "Самоцвіт досвіду"
+      },
+      "OROLOGION": {
+        "description": "Заморожує всіх ворогів на 10 секунд.",
+        "name": "Орологіон",
+        "tips": "Частота випадіння залежить від Удачі."
+      },
+      "ROAST": {
+        "description": "Відновлює 30 ОЗ.",
+        "name": "Смажене Курча",
+        "tips": "Частота випадіння залежить від Удачі."
+      },
+      "ROSARY": {
+        "description": "Знищує всіх ворогів в полі зору.",
+        "name": "Четки",
+        "tips": "Частота випадіння залежить від Удачі."
+      },
+      "TREASURE": {
+        "description": "Нагороджує монетами і посиленнями. Випадає з сильних ворогів.",
+        "name": "Скриня зі Скарбами",
+        "tips": "Якість залежить від Удачі."
+      },
+      "VACUUM": {
+        "description": "Збирає всі самоцвіти досвіду, ті, що залишилися на землі.",
+        "name": "Вакуум",
+        "tips": "Частота випадіння залежить від Удачі."
+      },
+      "NFT": {
+        "description": "Тимчасово випускає конус полум'я. Залежить від статистики гравця.",
+        "name": "Ндуя Фрітта",
+        "tips": "Частота випадіння залежить від Удачі."
+      }
+    }
   },
   "vn": {
     "english": "Vietnamese",

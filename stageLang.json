@@ -329,13 +329,47 @@
     "english": "Turkish",
     "native": "Türkçe",
     "api": "turkish",
-    "translations": {}
+    "translations": {
+      "FOREST": {
+        "stageName": "Çılgın Orman",
+        "description": "Şato yalanmış ama kızarmış piliç bedava, gayet iyi takas.",
+        "hyperTips": "%50 Altın bonusu"
+      },
+      "LIBRARY": {
+        "stageName": "Şaşalı Kütüphane",
+        "description": "Bu sükun dolu uçsuz bucaksız kütüphane; dinlenmek, meditasyon yapmak ve kızarmış piliç için etrafı kırıp dökmek için ideal ortam. Ama burada taş maskenin ne işi var?",
+        "hyperTips": "%50 Altın bonusu\n%10 Şans bonusu"
+      },
+      "GREENACRES": {
+        "stageName": "Yeşil Arazi",
+        "description": "Ölümlülerin bulunmaması gereken bir yer. Kader her dakika değişir.",
+        "tips": "Düşman azami canı +%50",
+        "hyperTips": "%50 Altın bonusu\n%10 Şans bonusu"
+      }
+    }
   },
   "uk": {
     "english": "Ukrainian",
     "native": "Українська",
     "api": "ukrainian",
-    "translations": {}
+    "translations": {
+      "FOREST": {
+        "stageName": "Божевільний Ліс",
+        "description": "Замок - брехня, але тут все ще є безкоштовне смажене курча, так що все добре.",
+        "hyperTips": "50% бонус до Золота"
+      },
+      "LIBRARY": {
+        "stageName": "Бібліотека",
+        "description": "Ця тиха довга бібліотека - ідеальне місце для відпочинку, медитації та приготування смаженого курча. Але що тут робить кам'яна маска?",
+        "hyperTips": "50% бонус до Золота\n10% бонус до Удачі"
+      },
+      "GREENACRES": {
+        "stageName": "Зелені Акры",
+        "description": "Місце, куди смертним вхід заборонено. Доля змінюється щохвилинич.",
+        "tips": "Здоров'я ворогів +50%",
+        "hyperTips": "50% бонус до Золота\n10% бонус до Удачі"
+      }
+    }
   },
   "vn": {
     "english": "Vietnamese",

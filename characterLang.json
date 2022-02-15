@@ -290,7 +290,7 @@
       "CROCI": {
         "name": "Krochi",
         "surname": "Freetto",
-        "description": "Starts with 1 Revival. Gains 1 more Revival at level 33."
+        "description": "Startet mit 1 Wiederbelebung. Erhält 1 weitere Wiederbelebung bei Level 33."
       }
     }
   },
@@ -730,13 +730,128 @@
     "english": "Turkish",
     "native": "Türkçe",
     "api": "turkish",
-    "translations": {}
+    "translations": {
+      "ANTONIO": {
+        "description": "Her 10 seviyede hasarı %10 artar. (maks %50)",
+        "charName": "Antonio",
+        "surname": "Belpaese"
+      },
+      "IMELDA": {
+        "description": "Her 5 seviyede tecrübe kazanımı %10 artar. (maks %30)",
+        "charName": "Imelda",
+        "surname": "Belpaese"
+      },
+      "CIRO": {
+        "charName": "Arca",
+        "description": "Silah bekleme süreleri her 10 seviyede %5 azalır. (maks %15)",
+        "surname": "Ladonna"
+      },
+      "DOMMARIO": {
+        "charName": "Dommario",
+        "description": "Kalıcı +%40 etki süresi ve silah hızı. -%40 Hareket hızı."
+      },
+      "EXDASH": {
+        "description": "En azından şanslı."
+      },
+      "GENNARO": {
+        "charName": "Gennaro",
+        "description": "Kalıcı +1 saldırı. (tüm silahlar)",
+        "surname": "Belpaese"
+      },
+      "GERMANA": {
+        "charName": "Clerici",
+        "description": "Kalıcı 0.5/sn can yenileme ve +30 Azami Can. Geçici etki alanı bonusuyla başlar.",
+        "prefix": "Suor"
+      },
+      "MORTACCIO": {
+        "charName": "Mortaccio",
+        "description": "Her 20 seviyede 1 ekstra saldırı kazanır. (maks +3)"
+      },
+      "CAMILLO": {
+        "charName": "Poe",
+        "description": "Kalıcı +%25 çekim alanı ve -30 Azami Can.",
+        "surname": "Ratcho"
+      },
+      "PASQUALINA": {
+        "charName": "Pasqualina",
+        "description": "Her 5 seviyede saldırı hızı %10 artar. (maks %30)",
+        "surname": "Belpaese"
+      },
+      "PORTA": {
+        "charName": "Porta",
+        "description": "Kalıcı +%30 etki alanı. Geçici bekleme süresi bonusuyla başlar.",
+        "surname": "Ladonna"
+      },
+      "CROCI": {
+        "name": "Krochi",
+        "surname": "Freetto",
+        "description": "Fazladan 1 yeniden canlanma."
+      }
+    }
   },
   "uk": {
     "english": "Ukrainian",
     "native": "Українська",
     "api": "ukrainian",
-    "translations": {}
+    "translations": {
+      "ANTONIO": {
+        "description": "Наносить на 10% більше шкоди кожні 10 рівнів (макс. +50%).",
+        "charName": "Антоніо",
+        "surname": "Бельпезе"
+      },
+      "IMELDA": {
+        "description": "Отримує на 10% більше досвіду кожні 5 рівнів (макс. +30%).",
+        "charName": "Имельда",
+        "surname": "Бельпезе"
+      },
+      "CIRO": {
+        "charName": "Арка",
+        "description": "Час Відкату зброї зменьшується на 5% кожні 10 рівнів (макс. -15%).",
+        "surname": "Ладонна"
+      },
+      "DOMMARIO": {
+        "charName": "Доммаріо",
+        "description": "Відразу +40% к Довжині та Швидкості, -40% Рухливості."
+      },
+      "EXDASH": {
+        "charName": "Екздаш",
+        "description": "Принаймні, він щасливий."
+      },
+      "GENNARO": {
+        "charName": "Дженнаро",
+        "description": "Відразу +1 снаряд (вся зброя).",
+        "surname": "Бельпезе"
+      },
+      "GERMANA": {
+        "charName": "Клерічі",
+        "description": "Відразу +0.5 ОЗ/с и +30 Макс. ОЗ. Починає з тимчасовим бонусом до Розміру.",
+        "prefix": "Суор"
+      },
+      "MORTACCIO": {
+        "charName": "Мортаччо",
+        "description": "Отримує більше снарядів кожні 20 рівнів (макс.+3)."
+      },
+      "CAMILLO": {
+        "charName": "По",
+        "description": "Відразу +25% до радіусу збору та -30 від Макс. ОЗ.",
+        "surname": "Ратчо"
+      },
+      "PASQUALINA": {
+        "charName": "Паскуаліна",
+        "description": "Снаряди стають на 10% швидше кожні 5 рівнів (макс. +30%).",
+        "surname": "Бельпезе"
+      },
+      "PORTA": {
+        "charName": "Порта",
+        "description": "Відразу +30% до Розміру. Починає з тимчасовим бонусом до Відкату.",
+        "surname": "Ладонна"
+      },
+      "CROCI": {
+        "name": "Крочі",
+        "surname": "Фрітто",
+        "description": "Починає з 1 Відродженням. Отримує по 1 Відродженню кожні 33 рівня."
+      }
+    }
   },
   "vn": {
     "english": "Vietnamese",

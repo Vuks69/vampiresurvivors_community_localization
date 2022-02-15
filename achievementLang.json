@@ -591,34 +591,34 @@
         "description": "Besiege insgesamt 100000 Gegner."
       },
       "Recover1000HP": {
-        "description": "Recover a total of 1000 HP."
+        "description": "Stelle insgesamt 1000 HP wieder her."
       },
       "Earn5000CoinsInASingleRun": {
-        "description": "Earn 5000 coins in a single run."
+        "description": "Verdiene 5000 Münzen in einer einzigen Runde."
       },
       "EvolveSantaWater": {
-        "description": "Evolve the Santa Water."
+        "description": "Entwickle das Santa Water."
       },
       "UniteBirds": {
-        "description": "Unite Ebony Wings and Peachone."
+        "description": "Vereinige Ebenholz-Flügel und Peachone."
       },
       "EvolveGarlic": {
-        "description": "Evolve the Garlic."
+        "description": "Entwickle den Knoblauch."
       },
       "Unlock2Hypers": {
-        "description": "Unlock Hyper mode for 2 stages."
+        "description": "Schalte den Hyper Modus für 2 Stages frei."
       },
       "EvolveLightning": {
-        "description": "Evolve the Lightning Ring."
+        "description": "Entwickle den Blitzring weiter."
       },
       "ReachLV100WithMortaccio": {
-        "description": "Reach Level 100 with Mortaccio."
+        "description": "Erreiche Level 100 mit Mortaccio."
       },
       "Survive30MinutesInGreenAcres": {
-        "description": "Survive 30 minutes in Green Acres."
+        "description": "Überlebe 30 Minuten in Grüner Acker."
       },
       "Survive20MinutesWithCross": {
-        "description": "Survive 20 minutes with Krochi."
+        "description": "Überlebe 20 Minuten mit Krochi."
       }
     }
   },
@@ -1550,13 +1550,291 @@
     "english": "Turkish",
     "native": "Türkçe",
     "api": "turkish",
-    "translations": {}
+    "translations": {
+      "ReachLV5": {
+        "description": "5. seviyeye ulaş."
+      },
+      "ReachLV10": {
+        "description": "10. seviyeye ulaş."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Aynı anda 6 silah kullan."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Ateş Asası'nı 4. seviyeye yükselt."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Kral İncili'ni 4. seviyeye yükselt."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Santa Suyu'nu 4. seviyeye yükselt."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Yıldırım Yüzüğü'nü 4. seviyeye yükselt."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Büyülü Asa'yı 7. seviyeye yükselt."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Peachone'ı  7. seviyeye yükselt."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Rün İzi'ni 7. seviyeye yükselt."
+      },
+      "Survive1Minute": {
+        "description": "Herhangi bir karakterle 1 dakika hayatta kal."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Pasqualina ile 5 dakika hayatta kal."
+      },
+      "Survive10Minutes": {
+        "description": "Herhangi bir karakterle 10 dakika hayatta kal."
+      },
+      "Survive20Minutes": {
+        "description": "Herhangi bir karakterle 20 dakika hayatta kal."
+      },
+      "Destroy20Candles": {
+        "description": "20 ışık kaynağını kır."
+      },
+      "Eat5PotRoast": {
+        "description": "5 Yer Tavuğu ye."
+      },
+      "FindAClover": {
+        "description": "Bir Küçük Yonca bul."
+      },
+      "FindAVacuum": {
+        "description": "Bir Vakum bul."
+      },
+      "FindAnOrologion": {
+        "description": "Bir Saat bul."
+      },
+      "FindARosary": {
+        "description": "Bir Kutsal Tesbih bul."
+      },
+      "Defeat5000Enemies": {
+        "description": "Toplamda 5000 düşman katlet."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Toplamda 3000 iskelet katlet."
+      },
+      "DefeatBossMadForest": {
+        "description": "Çılgın Orman'da dev Mavi Venüs'ü yen."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Çılgın Orman'da 20. seviyeye ulaş."
+      },
+      "DefeatBossLibrary": {
+        "description": "Şaşalı Kütüphane'de Nesuferit'i yen."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Gennaro ile 5 dakika hayatta kal."
+      },
+      "FindAStoneMask": {
+        "description": "Taş Maske bul."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Sarımsak'ı 7. seviyeye yükselt."
+      },
+      "EvolveWhip": {
+        "description": "Kırbaç'ı evrimleştir."
+      },
+      "EvolveMagicWand": {
+        "description": "Büyülü Asa'yı evrimleştir."
+      },
+      "EvolveKnife": {
+        "description": "Bıçak'ı evrimleştir."
+      },
+      "EvolveAxe": {
+        "description": "Balta'yı evrimleştir."
+      },
+      "EvolveCross": {
+        "description": "Haç'ı evrimleştir."
+      },
+      "EvolveKingBible": {
+        "description": "Kral İncili'ni evrimleştir."
+      },
+      "EvolveFireWand": {
+        "description": "Ateş Asası'nı evrimleştir."
+      },
+      "Defeat100KEnemies": {
+        "description": "Toplamda 10000 düşman katlet."
+      },
+      "Recover1000HP": {
+        "description": "Toplamda 1000 can yenile."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Bir oyunda 5000 altın kazan."
+      },
+      "EvolveSantaWater": {
+        "description": "Santa Suyu'nu evrimleştir."
+      },
+      "UniteBirds": {
+        "description": "Peachone'ı ve Kara Kanat'ı birleştir."
+      },
+      "EvolveGarlic": {
+        "description": "Sarımsak'ı evrimleştir."
+      },
+      "Unlock2Hypers": {
+        "description": "2 bölümün Hiper modunu aç."
+      },
+      "EvolveLightning": {
+        "description": "Yıldırım Yüzüğü'nü evrimleştir."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Mortaccio ile 100. seviyeye ulaş."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Yeşil Arazi'de 30 dakika hayatta kal."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Krochi ile 20 dakika hayatta kal."
+      }
+    }
   },
   "uk": {
     "english": "Ukrainian",
     "native": "Українська",
     "api": "ukrainian",
-    "translations": {}
+    "translations": {
+      "ReachLV5": {
+        "description": "Досягти Рівня 5."
+      },
+      "ReachLV10": {
+        "description": "Досягти Рівня 10."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Тримайте 6 різних видів зброї одночасно."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Отримайте Вогняний Жезл 4 рівня."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Отримайте Королівську Біблію 4 рівня."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Отримайте Святу Воду 4 рівня."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Отримайте Кільце Блискавки 4 рівня."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Отримайте Магічний Жезл 7 рівня."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Отримайте Пішона 7 рівня."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Отримайте Рунтрейсер 7 рівня."
+      },
+      "Survive1Minute": {
+        "description": "Виживіть 1 хвилину з будь-яким персонажем."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Виживіть 5 хвилин з Паскуаліну."
+      },
+      "Survive10Minutes": {
+        "description": "Виживіть 10 хвилин із будь-яким персонажем."
+      },
+      "Survive20Minutes": {
+        "description": "Виживіть 20 хвилин із будь-яким персонажем."
+      },
+      "Destroy20Candles": {
+        "description": "Знищте 20 джерел світла."
+      },
+      "Eat5PotRoast": {
+        "description": "Знайти 5 Смажених Курчат."
+      },
+      "FindAClover": {
+        "description": "Знайдіть Маленьку Конюшини."
+      },
+      "FindAVacuum": {
+        "description": "Знайдіть Вакуум."
+      },
+      "FindAnOrologion": {
+        "description": "Знайдіть Орологіон."
+      },
+      "FindARosary": {
+        "description": "Знайдіть Четки."
+      },
+      "Defeat5000Enemies": {
+        "description": "Переможіть загалом 5000 ворогів."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Переможіть загалом 3000 скелетів."
+      },
+      "DefeatBossMadForest": {
+        "description": "Переможіть гігантську Блакитну Венеру у Божевільному лісі."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Досягніть  20 рівня у Божевільному лісі."
+      },
+      "DefeatBossLibrary": {
+        "description": "Переможіть Несуферіта в Бібліотеці."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Виживіть 5 хвилин із Дженнаро."
+      },
+      "FindAStoneMask": {
+        "description": "Знайдіть Кам'яну Маску."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Отримайте Часник 7 рівня."
+      },
+      "EvolveWhip": {
+        "description": "Поліпшіть Батіг."
+      },
+      "EvolveMagicWand": {
+        "description": "Поліпшіть Магічний Жезл."
+      },
+      "EvolveKnife": {
+        "description": "Поліпшіть Ніж."
+      },
+      "EvolveAxe": {
+        "description": "Поліпшіть Сокиру."
+      },
+      "EvolveCross": {
+        "description": "Поліпшіть Хрест."
+      },
+      "EvolveKingBible": {
+        "description": "Поліпшіть Королівську Біблію."
+      },
+      "EvolveFireWand": {
+        "description": "Поліпшіть Вогняне Жезло."
+      },
+      "Defeat100KEnemies": {
+        "description": "Переможіть загалом 100000 ворогів."
+      },
+      "Recover1000HP": {
+        "description": "Відновіть загалом 1000 ОЗ."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Заробіть 5000 монет за один забіг."
+      },
+      "EvolveSantaWater": {
+        "description": "Поліпшіть Святу Воду."
+      },
+      "UniteBirds": {
+        "description": "Об'єднайте Ебонітові Крила та Пішона."
+      },
+      "EvolveGarlic": {
+        "description": "Поліпшіть часник."
+      },
+      "Unlock2Hypers": {
+        "description": "Відкрийте режим Гіпер для двох етапів."
+      },
+      "EvolveLightning": {
+        "description": "Поліпшіть Кільце Блискавки."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Досягніть рівня 100 з Мортаччо."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Виживіть 30 хвилин у Зелених Акрах."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Виживіть 20 хвилин із Крочі."
+      }
+    }
   },
   "vn": {
     "english": "Vietnamese",

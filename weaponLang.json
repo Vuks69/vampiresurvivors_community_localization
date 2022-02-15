@@ -842,27 +842,27 @@
         "description": "Der Charakter erholt sich um 0,1 LP pro Sekunde."
       },
       "VORTEX": {
-        "name": "Soul Eater",
-        "description": "Evolved Garlic. Steals hearts. Power increases when recovering HP.",
-        "tips": "Requires: Pummarola."
+        "name": "Seelenfresser",
+        "description": "Weiterentwickelter Knoblauch. Stiehlt Leben. Stärke erhöht sich wenn HP wiederhergestellt wird.",
+        "tips": "Benötigt: Pummarola."
       },
       "BORA": {
         "name": "La Borra",
-        "description": "Evolved Santa Water. Damaging zones follow you and grow when they move.",
-        "tips": "Requires: Attractorb."
+        "description": "Weiterentwickeltes Santa Water. Schädliche Zonen folgen dir und wachsen wenn sie sich bewegen.",
+        "tips": "Benötigt: Anziehungskugel."
       },
       "SILF3": {
         "name": "Vandalier",
-        "description": "Union of Ebony Wings and Peachone."
+        "description": "Vereinigung aus Ebenholz-Flügel und Peachone."
       },
       "REVIVAL": {
         "name": "Tiragisú",
-        "description": "Revives once with 50% health."
+        "description": "Wiederbelebt einmalig mit 50% Leben."
       },
       "LOOP": {
-        "name": "Thunder Loop",
-        "description": "Evolved Lightning Ring. Projectiles strike twice.",
-        "tips": "Requires: Duplicator."
+        "name": "Donnerschleife",
+        "description": "Entwickelter Blitzring. Geschosse schlagen zwei mal ein.",
+        "tips": "Benötigt: Duplikator."
       }
     }
   },
@@ -2160,13 +2160,413 @@
     "english": "Turkish",
     "native": "Türkçe",
     "api": "turkish",
-    "translations": {}
+    "translations": {
+      "WHIP": {
+        "name": "Kırbaç",
+        "description": "Saldırısı yataydır, düşmanlardan geçer.",
+        "tips": "İşlemez: hız, etki süresi."
+      },
+      "VAMPIRICA": {
+        "name": "Kanlı Gözyaşı",
+        "description": "Evrilmiş Kırbaç. Can çekebilir ve kritik hasar vurabilir.",
+        "tips": "Gereksinim: Oyuk Kalp"
+      },
+      "MAGIC_MISSILE": {
+        "name": "Büyülü Asa",
+        "description": "En yakın düşmana ateş eder.",
+        "tips": "İşlemez: etki süresi."
+      },
+      "HOLY_MISSILE": {
+        "name": "Kutsal Asa",
+        "description": "Evrilmiş Büyülü Asa. Bekleme süresi yoktur.",
+        "tips": "Gereksinim: Boş Cilt"
+      },
+      "AXE": {
+        "name": "Balta",
+        "description": "Yüksek hasar, geniş alan.",
+        "tips": "İşlemez: etki süresi."
+      },
+      "SCYTHE": {
+        "name": "Ölüm Sarmalı",
+        "description": "Evrilmiş Balta. Düşmanlardan geçer.",
+        "tips": "Gereksinim: Şamdan."
+      },
+      "KNIFE": {
+        "name": "Bıçak",
+        "description": "Seri biçimde bakılan yöne ateş eder.",
+        "tips": "İşlemez: etki süresi."
+      },
+      "THOUSAND": {
+        "name": "Bin Bıçak",
+        "description": "Evrilmiş Bıçak. Bekleme süresi yoktur.",
+        "tips": "Gereksinim: Bileklik"
+      },
+      "HOLYWATER": {
+        "name": "Santa Suyu",
+        "description": "Hasar veren alanlar oluşturur.",
+        "tips": "İşlemez: hız."
+      },
+      "DIAMOND": {
+        "name": "Rün İzi",
+        "description": "Düşmanlardan geçer, seker.",
+        "tips": "En iyi kombo: hız, etki süresi."
+      },
+      "FIREBALL": {
+        "name": "Ateş Asası",
+        "description": "Rastgele bir düşmana doğru ateş eder, ağır hasar verir.",
+        "tips": "İşlemez: etki süresi."
+      },
+      "HELLFIRE": {
+        "name": "Cehennem Ateşi",
+        "description": "Evrilmiş Ateş Asası. Düşmanlardan geçer.",
+        "tips": "Gereksinim: Ispanak."
+      },
+      "HOLYBOOK": {
+        "name": "Kral İncili",
+        "description": "Karakterin etrafında döner.",
+        "tips": "En iyi kombo: hız, etki süresi, alan."
+      },
+      "VESPERS": {
+        "name": "Uğursuz Akşam Duası",
+        "description": "Evrilmiş Kral İncili. Sürekli aktif.",
+        "tips": "Gereksinim: Büyübüken"
+      },
+      "CROSS": {
+        "name": "Haç",
+        "description": "En yakın düşmana ateş eder, bumerang etkisi vardır.",
+        "tips": "İşlemez: etki süresi."
+      },
+      "HEAVENSWORD": {
+        "name": "İlahi Kılıç",
+        "description": "Evrilmiş Haç: Kritik hasar verebilir.",
+        "tips": "Gereksinim: Yonca"
+      },
+      "GARLIC": {
+        "name": "Sarımsak",
+        "description": "Alandaki düşmanlara hasar verir, itilme ve donma dirençlerini azaltır.",
+        "tips": "İşlemez: miktar, etki süresi, hız."
+      },
+      "LAUREL": {
+        "name": "Laurel",
+        "description": "Aktifken saldırılardan korur.",
+        "tips": "En iyi kombo: bekleme süresi"
+      },
+      "LIGHTNING": {
+        "name": "Yıldırım Yüzüğü",
+        "description": "Rastgele düşmanları çarpar.",
+        "tips": "İşlemez: hız, etki süresi"
+      },
+      "PENTAGRAM": {
+        "name": "Pentagram",
+        "description": "Görüş alanındaki her şeyi yok eder.",
+        "tips": "En iyi kombo: bekleme süresi ve şans."
+      },
+      "SILF": {
+        "name": "Peachone",
+        "description": "Dairesel bir alanı bombalar.",
+        "tips": "En iyi kombo: bekleme süresi, etki süresi."
+      },
+      "SILF2": {
+        "name": "Kara Kanat",
+        "description": "Dairesel bir alanı bombalar.",
+        "tips": "En iyi kombo: bekleme süresi, etki süresi."
+      },
+      "BONE": {
+        "name": "Kemik",
+        "description": "Seken bir kemik fırlatır.",
+        "tips": "En iyi kombo: etki süresi, hız."
+      },
+      "LANCET": {
+        "name": "Saat Neşteri",
+        "description": "Düşmanların zamanını durdurma şansı.",
+        "tips": "İşlemez: kuvvet, hız, miktar, etki alanı."
+      },
+      "POWER": {
+        "name": "Ispanak",
+        "description": "Verilen hasarı %10 arttırır."
+      },
+      "AREA": {
+        "name": "Şamdan",
+        "description": "Saldırı etki alanını %10 arttırır."
+      },
+      "SPEED": {
+        "name": "Bileklik",
+        "description": "Saldırı hızını %10 arttırır."
+      },
+      "COOLDOWN": {
+        "name": "Boş Cilt",
+        "description": "Silahların bekleme süresini %8 azaltır."
+      },
+      "DURATION": {
+        "name": "Büyübüken",
+        "description": "Silahların etki süresini %10 arttırır."
+      },
+      "AMOUNT": {
+        "name": "Kopyalayıcı",
+        "description": "Silahlar daha fazla fırlatılabilir ateşler."
+      },
+      "MAXHEALTH": {
+        "name": "Oyuk Kalp",
+        "description": "Azami canı %10 arttırır."
+      },
+      "ARMOR": {
+        "name": "Zırh",
+        "description": "Alınan hasarı 1 azaltır."
+      },
+      "MOVESPEED": {
+        "name": "Kanatlar",
+        "description": "Hareket hızı %10 artar."
+      },
+      "MAGNET": {
+        "description": "Eşya çekiş menzili artar.",
+        "name": "Çekenküre"
+      },
+      "GROWTH": {
+        "name": "Taç",
+        "description": "Tecrübe kazanımı %8 artar."
+      },
+      "LUCK": {
+        "name": "Yonca",
+        "description": "Şans %10 artar."
+      },
+      "GREED": {
+        "name": "Taş Maske",
+        "description": "Altın kazancı %10 artar."
+      },
+      "REGEN": {
+        "name": "Pummarola",
+        "description": "Saniyede 0.1 can yeniler."
+      },
+      "VORTEX": {
+        "name": "Ruh Yiyen",
+        "description": "Can çalar. Can yenilerken kuvvet artar.",
+        "tips": "Gereksinim: Pummarola."
+      },
+      "BORA": {
+        "name": "La Borra",
+        "description": "Evrilmiş Santa Suyu. Alanlar oyuncuyu takip eder ve bu esnada genişler.",
+        "tips": "Gereksinim: Çekenküre"
+      },
+      "SILF3": {
+        "name": "Vandalier",
+        "description": "Peachone ve Kara Kanat'ın birleşimi."
+      },
+      "REVIVAL": {
+        "name": "Tiramisu",
+        "description": "Azami canın %50'siyle yeniden canlandırır."
+      },
+      "LOOP": {
+        "name": "Fırtına İlmiği",
+        "description": "Evrilmiş Yıldırım Yüzüğü. Saldırıları ikişer gerçekleşir.",
+        "tips": "Gereksinim: Kopyalayıcı"
+      }
+    }
   },
   "uk": {
     "english": "Ukrainian",
     "native": "Українська",
     "api": "ukrainian",
-    "translations": {}
+    "translations": {
+      "WHIP": {
+        "name": "Батіг",
+        "description": "Атакує горизонтально, проходячи скріщь ворогів.",
+        "tips": "Ігнорирує: швидкість, термін."
+      },
+      "VAMPIRICA": {
+        "name": "Кровяна Сльоза",
+        "description": "Покращенний Батіг. Може наносити критичну шкоду та поглинати ОЗ.",
+        "tips": "Потребує: Пусте Серце."
+      },
+      "MAGIC_MISSILE": {
+        "name": "Чарівна Паличка",
+        "description": "Стріляє в найближчого ворога.",
+        "tips": "Ігнорирує: термін."
+      },
+      "HOLY_MISSILE": {
+        "name": "Святий Жезл",
+        "description": "Покращена Чарівна Паличка. Стріляє без затримки.",
+        "tips": "Потребує: Пустий Том."
+      },
+      "AXE": {
+        "name": "Сокира",
+        "description": "Велика шкода, велика область ураження.",
+        "tips": "Ігнорирує: термін."
+      },
+      "SCYTHE": {
+        "name": "Смертельна Спіраль",
+        "description": "Покращена Сокира. Проходить скрізь ворогів.",
+        "tips": "Потребує: Канделябр."
+      },
+      "KNIFE": {
+        "name": "Ніж",
+        "description": "Швидко кидаються у напрямку погляду.",
+        "tips": "Ігнорирує: термін."
+      },
+      "THOUSAND": {
+        "name": "Тисяча Лез",
+        "description": "Покращений Ніж. Кидаються без затримки.",
+        "tips": "Потребує: Наруч."
+      },
+      "HOLYWATER": {
+        "name": "Свята Вода",
+        "description": "Створює зони, що завдають шкоди.",
+        "tips": "Ігнорирує: швидкість."
+      },
+      "DIAMOND": {
+        "name": "Рунтрейсер",
+        "description": "Проходить скріщьь ворогів, відскакує.",
+        "tips": "Краще поєднується з: швидкість, термін."
+      },
+      "FIREBALL": {
+        "name": "Вогняний Жезл",
+        "description": "Стріляє у випадкових ворогів, завдаючи великої шкоди.",
+        "tips": "Ігнорирує: термін."
+      },
+      "HELLFIRE": {
+        "name": "Пекельне Полум'я",
+        "description": "Покраений Вогняний Жезл. Проходить скрізь ворогів.",
+        "tips": "Потребує: Шпинат."
+      },
+      "HOLYBOOK": {
+        "name": "Королівська Біблія",
+        "description": "Кружиться навколо персонажа.",
+        "tips": "Краще поєднується з: швидкість, термін, розмір."
+      },
+      "VESPERS": {
+        "name": "Нечестива Вечірня",
+        "description": "Покращена Королівська Біблія. Ніколи не закінчується.",
+        "tips": "Потребує: Заклинач."
+      },
+      "CROSS": {
+        "name": "Хрест",
+        "description": "Цілиться у найближчого ворога, має ефект бумерангу..",
+        "tips": "Ігнорирує: термін."
+      },
+      "HEAVENSWORD": {
+        "name": "Небесний Меч",
+        "description": "Покращений Хрест. Може завдавати критичної шкоди.",
+        "tips": "Потребує: Конюшина."
+      },
+      "GARLIC": {
+        "name": "Часник",
+        "description": "Б'є по найближчих ворогів. Знижує опір до відкидання та заморожування.",
+        "tips": "Ігнорує: кількість, термін, швидкість."
+      },
+      "LAUREL": {
+        "name": "Лавр",
+        "description": "Захищає від шкоди, коли активний.",
+        "tips": "Краще поєднується з: лише відкат."
+      },
+      "LIGHTNING": {
+        "name": "Кільце Блискавки",
+        "description": "Б'є у випадкових ворогів.",
+        "tips": "Ігнорує: швидкість, термін."
+      },
+      "PENTAGRAM": {
+        "name": "Пентаграма",
+        "description": "Знищує все у полі зору.",
+        "tips": "Краще поєднується з: тільки відкат та удача."
+      },
+      "SILF": {
+        "name": "Пішон",
+        "description": "Бомбардує в зоні, що кружляє.",
+        "tips": "Краще поєднується з: відкат, термін."
+      },
+      "SILF2": {
+        "name": "Ебонітові Крила",
+        "description": "Бомбардує в зоні, що кружляє.",
+        "tips": "Краще поєднується з: відкат, термін."
+      },
+      "BONE": {
+        "name": "Кістка",
+        "description": "Кидає снаряд, що відскакує.",
+        "tips": "Краще поєднується з: термін, швидкість."
+      },
+      "LANCET": {
+        "name": "Годинник Ланцет",
+        "description": "Шанс тимчасово заморозити ворогів.",
+        "tips": "Ігнорує: сила, швидкість, кількість, розмір."
+      },
+      "POWER": {
+        "name": "Шпинат",
+        "description": "Збільшує шкоду, що наноситься на 10%."
+      },
+      "AREA": {
+        "name": "Канделябр",
+        "description": "Збільшує розмір атак на 10%."
+      },
+      "SPEED": {
+        "name": "Наруч",
+        "description": "Прискорює снаряди на 10%."
+      },
+      "COOLDOWN": {
+        "name": "Пустий Том",
+        "description": "Зменшує відкат зброї на 8%."
+      },
+      "DURATION": {
+        "name": "Заклинач",
+        "description": "Продовжує ефект зброї на 10%."
+      },
+      "AMOUNT": {
+        "name": "Дублікатор",
+        "description": "Зброя випускає більше снарядів."
+      },
+      "MAXHEALTH": {
+        "name": "Пусте Серце",
+        "description": "Збільшує макс. ОЗ на 10%."
+      },
+      "ARMOR": {
+        "name": "Броня",
+        "description": "Зменшує отримувану шкоду на 1."
+      },
+      "MOVESPEED": {
+        "name": "Крила",
+        "description": "Персонаж переміщається на 10% швидше."
+      },
+      "MAGNET": {
+        "description": "Персонаж підбирає предмети здалеку.",
+        "name": "Магнітосфера"
+      },
+      "GROWTH": {
+        "name": "Корона",
+        "description": "Персонаж отримує на 8% більше досвіду."
+      },
+      "LUCK": {
+        "name": "Конюшина",
+        "description": "Персонаж стає на 10% щасливішим."
+      },
+      "GREED": {
+        "name": "Кам'яна Маска",
+        "description": "Персонаж заробляє на 10% більше монет."
+      },
+      "REGEN": {
+        "name": "Пуммарола",
+        "description": "Персонаж відновлює 0.1 ОЗ в секунду."
+      },
+      "VORTEX": {
+        "name": "Поглинач Душ",
+        "description": "Покращений часник. Краде серця. Сила збільшується при регенерації ОЗ.",
+        "tips": "Потребує: Пуммарола."
+      },
+      "BORA": {
+        "name": "Гуща",
+        "description": "Покращена Свята Вода. Зони шкоди зміщуються до вас і ростуть у русі.",
+        "tips": "Потребує: Магнітосфера."
+      },
+      "SILF3": {
+        "name": "Вандаліст",
+        "description": "Союз Ебонітових Крил та Пішона."
+      },
+      "REVIVAL": {
+        "name": "Тірагісу",
+        "description": "Відроджує один раз з 50% ОЗ."
+      },
+      "LOOP": {
+        "name": "Громова петля",
+        "description": "Покращене Кільце Блискавки. Снаряди б'ють двічі.",
+        "tips": "Потребує: Дублікатор."
+      }
+    }
   },
   "vn": {
     "english": "Vietnamese",
