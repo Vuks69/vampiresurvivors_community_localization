@@ -948,7 +948,7 @@
         "description": "Zdobądź 10 poziom."
       },
       "Have6DifferentWeapons": {
-        "description": "Władaj 6-cioma różnymi brońmi jednocześnie."
+        "description": "Posiadaj 6 broni jednocześnie."
       },
       "GetFireWandToLevel4": {
         "description": "Ulepsz Różdżkę Ognia do poziomu 4."
@@ -966,10 +966,10 @@
         "description": "Ulepsz Różdżkę Maga do poziomu 7."
       },
       "GetPeachoneToLevel7": {
-        "description": "Ulepsz Gołompa do poziomu 7."
+        "description": "Ulepsz Goempiceę do poziomu 7."
       },
       "GetRunetracerToLevel7": {
-        "description": "Ulepsz Runetracer do poziomu 7."
+        "description": "Ulepsz Odłamek Runy do poziomu 7."
       },
       "Survive1Minute": {
         "description": "Przetrwaj 1 minutę którąkolwiek z postaci."
@@ -996,7 +996,7 @@
         "description": "Znajdź Próżnię."
       },
       "FindAnOrologion": {
-        "description": "Znajdź Orologion."
+        "description": "Znajdź Chronometr."
       },
       "FindARosary": {
         "description": "Znajdź Różaniec."
@@ -1008,13 +1008,13 @@
         "description": "Pokonaj w sumie 3000 szlekietów."
       },
       "DefeatBossMadForest": {
-        "description": "Pokonaj ogromną Niebieską Muchołówkę w Lesie Szaleńców."
+        "description": "Pokonaj Ogromną Niebieską Muchołówkę w Obłąkanym Lesie."
       },
       "ReachLV20InMadForest": {
-        "description": "Zdobądź 20 poziom w Lesie Szaleńców."
+        "description": "Zdobądź 20 poziom w Obłąkanym Lesie."
       },
       "DefeatBossLibrary": {
-        "description": "Pokonaj Nesuferita w Bibliotece."
+        "description": "Pokonaj Nesuferita w Mozaikowej Bibliotece."
       },
       "Survive5MinutesWithKnife": {
         "description": "Przetrwaj 5 minut jako Gennaro."
@@ -1026,7 +1026,7 @@
         "description": "Ulepsz Czosnek do poziomu 7."
       },
       "EvolveWhip": {
-        "description": "Wyewoluuj Batog."
+        "description": "Wyewoluuj Bicz."
       },
       "EvolveMagicWand": {
         "description": "Wyewoluuj Różdżkę Maga."
@@ -1044,7 +1044,7 @@
         "description": "Wyewoluuj Biblię Królów."
       },
       "EvolveFireWand": {
-        "description": "Wyewoluuj Różdżkę Płomieni."
+        "description": "Wyewoluuj Ognisty Kostur."
       },
       "Defeat100KEnemies": {
         "description": "Pokonaj w sumie 100,000 przeciwników."
@@ -1059,7 +1059,7 @@
         "description": "Wyewoluuj Wodę Świeconą."
       },
       "UniteBirds": {
-        "description": "Zjednocz Gołompa i Hebanoskrzydłego."
+        "description": "Zjednocz Goempiceę i Hebanoskrzydłego."
       },
       "EvolveGarlic": {
         "description": "Wyewoluuj Czosnek."
@@ -1074,7 +1074,7 @@
         "description": "Zdobądź 100 poziom jako Mortaccio."
       },
       "Survive30MinutesInGreenAcres": {
-        "description": "Przetrwaj 30 minut na Zielonych Włościach."
+        "description": "Przetrwaj 30 minut na Zielonym Zagonie."
       },
       "Survive20MinutesWithCross": {
         "description": "Przetrwaj 20 minut jako Krochi."
