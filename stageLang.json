@@ -5,18 +5,18 @@
     "api": "polish",
     "translations": {
       "FOREST": {
-        "stageName": "Las Szaleńców",
-        "description": "Na Zamek nie ma co liczyć, ale przynajmniej jest tu trochę darmowego kurczaka z rożna, więc jest całkiem spoko.",
+        "stageName": "Obłąkany Las",
+        "description": "Na Zamek nie ma co liczyć, ale przynajmniej można znaleźć darmowe Kurczaki na Podłodze, więc nie ma co narzekać.",
         "hyperTips": "50% premii do Złota"
       },
       "LIBRARY": {
-        "stageName": "Biblioteka",
-        "description": "Ta cicha, przepastna biblioteka to idealne miejsce na odpoczynek, przemyślenia i splądrowanie kilku pieczonych kurczaków. Ale co, u licha, robi tu ta kamienna maska?",
+        "stageName": "Mozaikowa Biblioteka",
+        "description": "Ta cicha, przepastna biblioteka to idealne miejsce na odpoczynek, przemyślenia i zebranie kilku pieczonych kurczaków. Ale co, u licha, robi tu ta kamienna maska?",
         "hyperTips": "50% premii do Złota\n10% premii do Szczęścia"
       },
       "GREENACRES": {
-        "stageName": "Zielone Włości",
-        "description": "Miejsce, gdzie śmiertelnicy nie są mile widziani. Los zmienia się z każdą minutą.",
+        "stageName": "Zielony Zagon",
+        "description": "Miejsce, gdzie śmiertelnicy nie mają wstępu. Los zmienia się z każdą minutą.",
         "tips": "Zdrowie przeciwników +50%",
         "hyperTips": "50% premii do Złota\n10% premii do Szczęścia"
       }

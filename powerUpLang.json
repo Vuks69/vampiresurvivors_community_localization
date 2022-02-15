@@ -5,12 +5,12 @@
     "api": "polish",
     "translations": {
       "POWER": {
-        "name": "Moc",
+        "name": "Siła",
         "description": "Każdy punkt zwiększa zadawane obrażenia o 5% (maks. +25%)."
       },
       "REGEN": {
         "name": "Regeneracja",
-        "description": "Każdy punkt zwiększa regeneracje życia o 0.1 punktu życia na sekundę (maks. 0.5)."
+        "description": "Każdy punkt zwiększa regeneracje życia o 0.1 PZ na sekundę (maks. 0.5)."
       },
       "MAXHEALTH": {
         "name": "Zdrowie",
@@ -21,7 +21,7 @@
         "description": "Każdy punkt zmniejsza otrzymywane obrażenia o 1 (maks. -3)"
       },
       "AREA": {
-        "name": "Obszar",
+        "name": "Obszar Ataku",
         "description": "Każdy punkt zwiększa obszar ataków o 5% (maks. +10%)."
       },
       "SPEED": {
@@ -33,15 +33,15 @@
         "description": "Każdy punkt zmniejsza czas odnowienia broni o 2.5% (maks. 5%)."
       },
       "DURATION": {
-        "name": "Trwanie",
+        "name": "Czas Trwania",
         "description": "Każdy punkt przedłuża czas trwania efektów broni o 15% (maks. +30%)."
       },
       "AMOUNT": {
         "name": "Ilość",
-        "description": "Wszystkie bronie strzelają jednym więcej pociskiem."
+        "description": "Wszystkie bronie wystrzeliwują dodatkowy pocisk."
       },
       "MOVESPEED": {
-        "name": "Szybkość",
+        "name": "Zwinność",
         "description": "Każdy punkt zwiększa prędkość poruszania się postaci o 5% (maks. 10%)."
       },
       "MAGNET": {
@@ -53,7 +53,7 @@
         "description": "Każdy punkt zwiększa szczęście o 10% (maks. +30%)."
       },
       "GROWTH": {
-        "name": "Wzrost",
+        "name": "Rozwój",
         "description": "Każdy punkt zwiększa wartość zdobywanego doświadczenia o 3% (maks. 15%)."
       },
       "GREED": {
@@ -61,16 +61,16 @@
         "description": "Każdy punkt zwiększa ilość zdobywanych monet o 10% (maks. +50%)."
       },
       "SHIELD": {
-        "name": "Tarcza",
+        "name": "Absorbcja",
         "description": "Zapobiega obrażeniom od jednego ataku. Łączy się z Laurem."
       },
       "REVIVAL": {
-        "name": "Odrodzenie",
+        "name": "Wskrzeszenie",
         "description": "Odradzasz się raz z połową punktów zdrowia."
       },
       "REROLL": {
         "name": "Przelosowanie",
-        "description": "Każdy punkt daje jedną możliwość otrzymania nowych wyborów przy zdobyciu poziomu."
+        "description": "Każdy punkt daje jednorazową możliwość zmiany wyborów przy zdobyciu poziomu."
       },
       "SKIP": {
         "name": "Pominięcie",
