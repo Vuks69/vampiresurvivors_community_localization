@@ -1,6 +1,7 @@
 # Vampire Survivors Community Localization Files
 
 Updated for Vampire Survivors v0.2.12
+
 Currently available connumity translations: PL, UK, TR, DE
 
 ## Official sources
