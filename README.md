@@ -6,9 +6,8 @@ Strona gry: https://store.steampowered.com/app/1794680/Vampire_Survivors/
 
 ## Chcesz pomóc?
 
-1. Utwórz forka
-2. Wprowadź w tym forku swoje zmiany
-3. Otwórz Pull Requesta
+Możesz utworzyć zgłoszenie (Issue) lub zaproponować swoje zmiany poprzez Pull Requesta.
+Możesz też napisać do mnie (@Vuks69) z prośbą o dodanie jako kontrybutor - będziesz mógł/mogła tworzyć branche bezpośrednio w tym repozytorium.
 
 ## Instalacja
 
