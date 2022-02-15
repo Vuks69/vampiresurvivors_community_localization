@@ -5,24 +5,24 @@
     "api": "polish",
     "translations": {
       "WHIP": {
-        "name": "Batog",
+        "name": "Bicz",
         "description": "Atakuje w poziomie, przebija się przez przeciwników.",
         "tips": "Ignoruje: prędkość, czas trwania."
       },
       "VAMPIRICA": {
-        "name": "Krwawa Łza",
-        "description": "Wyewoluowany Batog. Ma szansę na obrażenia krytyczne i kradzież życia.",
+        "name": "Krwawy Kat",
+        "description": "Wyewoluowany Bicz. Ma szansę na zadanie obrażeń krytycznych oraz absorbuje zdrowie wrogów.",
         "tips": "Wymaga: Próżne Serce"
       },
       "MAGIC_MISSILE": {
-        "name": "Różdżka Maga",
+        "name": "Magiczna Różdżka",
         "description": "Strzela w najbliższego przeciwnika.",
         "tips": "Ignoruje: czas trwania."
       },
       "HOLY_MISSILE": {
         "name": "Święty Kostur",
-        "description": "Wyewoluowana Różdżka Maga. Strzela bez przerwy.",
-        "tips": "Wyamaga: Pusta Księga."
+        "description": "Wyewoluowana Magiczna Różdżka. Strzela bez przerwy.",
+        "tips": "Wymaga: Pusta Księga."
       },
       "AXE": {
         "name": "Topór",
@@ -32,7 +32,7 @@
       "SCYTHE": {
         "name": "Spirala Śmierci",
         "description": "Wyewoluowany Topór. Przebija się przez przeciwników.",
-        "tips": "Wymaga: Kandelabrador."
+        "tips": "Wymaga: Świecznik."
       },
       "KNIFE": {
         "name": "Sztylet",
@@ -40,7 +40,7 @@
         "tips": "Ignoruje: czas trwania."
       },
       "THOUSAND": {
-        "name": "Huragan Ostrzy",
+        "name": "Ostrze Milenium",
         "description": "Wyewoluowany Sztylet. Strzela bez przerwy.",
         "tips": "Wymaga: Karwasz."
       },
@@ -50,17 +50,17 @@
         "tips": "Ignoruje: prędkość."
       },
       "DIAMOND": {
-        "name": "Znak Runiczny",
+        "name": "Runiczny Kreślarz",
         "description": "Przebija się przez wrogów i odbija od krawędzi.",
         "tips": "Najskuteczniejszy z: prędkością, czasem trwania."
       },
       "FIREBALL": {
-        "name": "Różdżka Ognia",
+        "name": "Ognisty Kostur",
         "description": "Strzela w losowego przeciwnika, zadaje znaczne obrażenia.",
         "tips": "Ignoruje: czas trwania"
       },
       "HELLFIRE": {
-        "name": "Pożoga",
+        "name": "Ogień Piekielny",
         "description": "Wyewoluowana Różdżka Ognia. Przebija się przez przeciwników.",
         "tips": "Wymaga: Szpinak."
       },
@@ -70,7 +70,7 @@
         "tips": "Najskuteczniejsza z: prędkością, czasem trwania, obszarem."
       },
       "VESPERS": {
-        "name": "Szatańskie Nieszpory",
+        "name": "Modlitewnik Świętoktadcy",
         "description": "Wyewoluowana Biblia Królów. Nigdy się nie kończy.",
         "tips": "Wymaga: Zaklinacz."
       },
@@ -82,7 +82,7 @@
       "HEAVENSWORD": {
         "name": "Niebiańska Klinga",
         "description": "Wyewoluowany Krzyż. Ma szansę na obrażenia krytyczne.",
-        "tips": "Wymaga: Koniczyna."
+        "tips": "Wymaga: Koniczynka."
       },
       "GARLIC": {
         "name": "Czosnek",
@@ -105,7 +105,7 @@
         "tips": "Najskuteczniejszy z: czasem odnowienia i szczęściem (niczym więcej)."
       },
       "SILF": {
-        "name": "Gołomp",
+        "name": "Goempicea",
         "description": "Bombarduje obszar wokół postaci.",
         "tips": "Najskuteczniejszy z: czasem odnowienia, czasem trwania."
       },
@@ -120,7 +120,7 @@
         "tips": "Najskuteczniejsza z: czasem trwania, prędkością."
       },
       "LANCET": {
-        "name": "Strzałka Czasu",
+        "name": "Wskazówka Zegara",
         "description": "Szansa na zamrożenie przeciwników.",
         "tips": "Ignoruje: moc, prędkość, ilość, obszar."
       },
@@ -129,7 +129,7 @@
         "description": "Zwiększa zadawane obrażenia o 10%."
       },
       "AREA": {
-        "name": "Kandelabrador",
+        "name": "Świecznik",
         "description": "Zwiększa obszar ataków o 10%."
       },
       "SPEED": {
@@ -169,7 +169,7 @@
         "description": "Postać zyskuje 8% więcej doświadczenia."
       },
       "LUCK": {
-        "name": "Koniczyna",
+        "name": "Koniczynka",
         "description": "Postać zyskuje +10% do Szczęścia."
       },
       "GREED": {
@@ -195,7 +195,7 @@
         "description": "Synteza Hebanoskrzydłego i Gołompa."
       },
       "REVIVAL": {
-        "name": "Tiragisú",
+        "name": "Tiramisu",
         "description": "Jednorazowo odradza z połową życia."
       },
       "LOOP": {
