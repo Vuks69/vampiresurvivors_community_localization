@@ -450,12 +450,12 @@
     "api": "polish",
     "translations": {
       "ANTONIO": {
-        "description": "Zyskuje 10% więcej zadawanych obrażeń co 5 poziomów (maks. +50%).",
+        "description": "Jego siła wzrasta o 10% co 5 poziomów (maks. +50%).",
         "charName": "Antonio",
         "surname": "Belpaese"
       },
       "IMELDA": {
-        "description": "Zyskuje 10% więcej doświadczenia co 5 poziomów (maks. +30%).",
+        "description": "Zwiększa otrzymywane doświadczenie o 10% co 5 poziomów (maks. +30%).",
         "charName": "Imelda",
         "surname": "Belpaese"
       },
@@ -466,7 +466,7 @@
       },
       "DOMMARIO": {
         "charName": "Dommario",
-        "description": "Stałe +40% do czasu trwania i prędkości, -40% prędkości poruszania."
+        "description": "Prędkość pocisków i czas trwania zwiększone o 40%, -40% prędkości ruchu."
       },
       "EXDASH": {
         "description": "Przynajmniej ma farta."
@@ -478,7 +478,7 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "+30 Maks. Zdrowia, +0.5 zdrowia/s. Początkowa premia do obszaru.",
+        "description": "+30 Maks. Zdrowia, +0.5 PZ/s. Zaczyna z tymczasową premią do obszaru ataku.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
@@ -487,12 +487,12 @@
       },
       "CAMILLO": {
         "charName": "Poe",
-        "description": "Stała premia +25% do zasięgu podnoszenia przedmiotów i -30 Maksymalnego Zdrowia.",
+        "description": "+25% do zasięgu podnoszenia przedmiotów i -30% Maksymalnego Zdrowia.",
         "surname": "Ratcho"
       },
       "PASQUALINA": {
         "charName": "Pasqualina",
-        "description": "Pociski zwiększają swoją prędkość o 10% co każde 5 poziomów (maks. +30%).",
+        "description": "Pociski zwiększają swoją prędkość o 10% co 5 poziomów (maks. +30%).",
         "surname": "Belpaese"
       },
       "PORTA": {
