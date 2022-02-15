@@ -606,7 +606,7 @@
         "description": "Zapobiega obrażeniom od jednego ataku. Łączy się z Laurem."
       },
       "REVIVAL": {
-        "name": "Wskrzeszenie",
+        "name": "Odrodzenie",
         "description": "Odradzasz się raz z połową punktów zdrowia."
       },
       "REROLL": {
