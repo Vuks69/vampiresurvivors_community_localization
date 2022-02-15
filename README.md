@@ -1,26 +1,24 @@
-# Vampire Survivors Polish Localization
+# Vampire Survivors Community Localization Files
 
-## Pliki polskiej lokalizacji dla gry Vampire Survivors.
+Updated for Vampire Survivors v0.2.12
 
-Strona gry: https://store.steampowered.com/app/1794680/Vampire_Survivors/
+## Official sources
 
-Oficjalne repozytorium dla tłumaczy VS: https://github.com/Poncle/vampire-survivors-localisation
+Official Discord: https://discord.com/invite/vampire-survivors
 
-## Chcesz pomóc?
+Steam page: https://store.steampowered.com/app/1794680/Vampire_Survivors/
 
-Możesz utworzyć zgłoszenie (Issue) lub zaproponować swoje zmiany poprzez Pull Requesta.
-Możesz też napisać do mnie (@Vuks69) z prośbą o dodanie jako kontrybutor - będziesz mógł/mogła tworzyć branche bezpośrednio w tym repozytorium.
+Official repository for community translation tools: https://github.com/Poncle/vampire-survivors-localisation
 
-## Instalacja
+## Want to help?
 
-Ściągnij wszystkie pliki i umieść je w folderze `Vampire Survivors\resources\app\.webpack\renderer\assets\lang\`
+You can fork this repository, update the relevant translations and open a PR, or post your own google spreadsheet/generated files in the `Localization` topic found on the [#modding](https://discord.com/channels/904353235006017556/937659884470693908) channel on the official discord.
 
-Aby łatwo dostać się do folderu gry, w kliencie Steam naciśnij grę prawym przyciskiem myszy i wybierz
+## Installation
 
-`Zarządzaj > Przeglądaj lokalne pliki`
+Download all `.json` files and put them in `Vampire Survivors\resources\app\.webpack\renderer\assets\lang\`
 
-## Oficjalny serwer Discord
+To easily get to the game's base folder, go to your Steam Library, rightclick the game and select `Manage > Browse local files`
 
-https://discord.com/invite/vampire-survivors
-
-Na tym serwerze prowadzimy również dyskusję nt. lokalizacji - kanał `#modding`, wątek `polish localization`.
+## Contributors
+* Polski: @Wikizza (WikiDev#1816), @RedHeadMaster (RedHeadMaster#6618), @Vuks69 (Vuks#5767)
