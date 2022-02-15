@@ -1550,7 +1550,146 @@
     "english": "Turkish",
     "native": "Türkçe",
     "api": "turkish",
-    "translations": {}
+    "translations": {
+      "ReachLV5": {
+        "description": "5. seviyeye ulaş."
+      },
+      "ReachLV10": {
+        "description": "10. seviyeye ulaş."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Aynı anda 6 silah kullan."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Ateş Asası'nı 4. seviyeye yükselt."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Kral İncili'ni 4. seviyeye yükselt."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Santa Suyu'nu 4. seviyeye yükselt."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Yıldırım Yüzüğü'nü 4. seviyeye yükselt."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Büyülü Asa'yı 7. seviyeye yükselt."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Peachone'ı  7. seviyeye yükselt."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Rün İzi'ni 7. seviyeye yükselt."
+      },
+      "Survive1Minute": {
+        "description": "Herhangi bir karakterle 1 dakika hayatta kal."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Pasqualina ile 5 dakika hayatta kal."
+      },
+      "Survive10Minutes": {
+        "description": "Herhangi bir karakterle 10 dakika hayatta kal."
+      },
+      "Survive20Minutes": {
+        "description": "Herhangi bir karakterle 20 dakika hayatta kal."
+      },
+      "Destroy20Candles": {
+        "description": "20 ışık kaynağını kır."
+      },
+      "Eat5PotRoast": {
+        "description": "5 Yer Tavuğu ye."
+      },
+      "FindAClover": {
+        "description": "Bir Küçük Yonca bul."
+      },
+      "FindAVacuum": {
+        "description": "Bir Vakum bul."
+      },
+      "FindAnOrologion": {
+        "description": "Bir Saat bul."
+      },
+      "FindARosary": {
+        "description": "Bir Kutsal Tesbih bul."
+      },
+      "Defeat5000Enemies": {
+        "description": "Toplamda 5000 düşman katlet."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Toplamda 3000 iskelet katlet."
+      },
+      "DefeatBossMadForest": {
+        "description": "Çılgın Orman'da dev Mavi Venüs'ü yen."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Çılgın Orman'da 20. seviyeye ulaş."
+      },
+      "DefeatBossLibrary": {
+        "description": "Şaşalı Kütüphane'de Nesuferit'i yen."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Gennaro ile 5 dakika hayatta kal."
+      },
+      "FindAStoneMask": {
+        "description": "Taş Maske bul."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Sarımsak'ı 7. seviyeye yükselt."
+      },
+      "EvolveWhip": {
+        "description": "Kırbaç'ı evrimleştir."
+      },
+      "EvolveMagicWand": {
+        "description": "Büyülü Asa'yı evrimleştir."
+      },
+      "EvolveKnife": {
+        "description": "Bıçak'ı evrimleştir."
+      },
+      "EvolveAxe": {
+        "description": "Balta'yı evrimleştir."
+      },
+      "EvolveCross": {
+        "description": "Haç'ı evrimleştir."
+      },
+      "EvolveKingBible": {
+        "description": "Kral İncili'ni evrimleştir."
+      },
+      "EvolveFireWand": {
+        "description": "Ateş Asası'nı evrimleştir."
+      },
+      "Defeat100KEnemies": {
+        "description": "Toplamda 10000 düşman katlet."
+      },
+      "Recover1000HP": {
+        "description": "Toplamda 1000 can yenile."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Bir oyunda 5000 altın kazan."
+      },
+      "EvolveSantaWater": {
+        "description": "Santa Suyu'nu evrimleştir."
+      },
+      "UniteBirds": {
+        "description": "Peachone'ı ve Kara Kanat'ı birleştir."
+      },
+      "EvolveGarlic": {
+        "description": "Sarımsak'ı evrimleştir."
+      },
+      "Unlock2Hypers": {
+        "description": "2 bölümün Hiper modunu aç."
+      },
+      "EvolveLightning": {
+        "description": "Yıldırım Yüzüğü'nü evrimleştir."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Mortaccio ile 100. seviyeye ulaş."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Yeşil Arazi'de 30 dakika hayatta kal."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Krochi ile 20 dakika hayatta kal."
+      }
+    }
   },
   "uk": {
     "english": "Ukrainian",

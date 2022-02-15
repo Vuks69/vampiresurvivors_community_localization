@@ -329,7 +329,24 @@
     "english": "Turkish",
     "native": "Türkçe",
     "api": "turkish",
-    "translations": {}
+    "translations": {
+      "FOREST": {
+        "stageName": "Çılgın Orman",
+        "description": "Şato yalanmış ama kızarmış piliç bedava, gayet iyi takas.",
+        "hyperTips": "%50 Altın bonusu"
+      },
+      "LIBRARY": {
+        "stageName": "Şaşalı Kütüphane",
+        "description": "Bu sükun dolu uçsuz bucaksız kütüphane; dinlenmek, meditasyon yapmak ve kızarmış piliç için etrafı kırıp dökmek için ideal ortam. Ama burada taş maskenin ne işi var?",
+        "hyperTips": "%50 Altın bonusu\n%10 Şans bonusu"
+      },
+      "GREENACRES": {
+        "stageName": "Yeşil Arazi",
+        "description": "Ölümlülerin bulunmaması gereken bir yer. Kader her dakika değişir.",
+        "tips": "Düşman azami canı +%50",
+        "hyperTips": "%50 Altın bonusu\n%10 Şans bonusu"
+      }
+    }
   },
   "uk": {
     "english": "Ukrainian",

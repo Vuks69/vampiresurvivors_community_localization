@@ -720,7 +720,63 @@
     "english": "Turkish",
     "native": "Türkçe",
     "api": "turkish",
-    "translations": {}
+    "translations": {
+      "CLOVER": {
+        "description": "%10 şans kazandırır.",
+        "name": "Küçük Yonca"
+      },
+      "COIN": {
+        "description": "Toplam altınına 1 ekler.",
+        "name": "Altın Para"
+      },
+      "COINBAG1": {
+        "description": "Toplam altınına 10 ekler.",
+        "name": "Altın Kesesi"
+      },
+      "COINBAG2": {
+        "description": "Toplam altınına 25 ekler.",
+        "name": "Büyük Altın Kesesi"
+      },
+      "COINBAGMAX": {
+        "description": "Toplam altınına 100 ekler.",
+        "name": "Devasa Altın Kesesi",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "GEM": {
+        "description": "Tecrübe kazandırır.",
+        "name": "Tecrübe Cevheri"
+      },
+      "OROLOGION": {
+        "description": "Tüm düşmanların zamanını durdurur.",
+        "name": "Saat",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "ROAST": {
+        "description": "30 can verir.",
+        "name": "Yer Tavuğu",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "ROSARY": {
+        "description": "Görüş alanındaki tüm düşmanları yok eder.",
+        "name": "Kutsal Tesbih",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "TREASURE": {
+        "description": "İçinden altın ve güçlendirme çıkar. Güçlü düşmanlardan düşer.",
+        "name": "Hazine Sandığı",
+        "tips": "Güçlendirme kalitesi Şans'a bağlıdır."
+      },
+      "VACUUM": {
+        "description": "Yerdeki tüm tecrübe cevherlerini çeker.",
+        "name": "Vakum",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "NFT": {
+        "description": "Geçici olarak alev püskürtür. Karakter özelliklerine bağlıdır.",
+        "name": "Nduja Fritta",
+        "tips": "Düşme oranı Şans'a bağlıdır."
+      }
+    }
   },
   "uk": {
     "english": "Ukrainian",
