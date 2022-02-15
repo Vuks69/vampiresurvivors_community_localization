@@ -674,12 +674,12 @@
       "credit_tileset": "• Tilesets:",
       "postGame_done1": "FERTIG",
       "weaponLevelUp_revivals": "+%0 Leben",
-      "preload_warning_title": "PHOTOSENSITIVITY WARNING",
-      "preload_warning_text": "This game contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing.",
-      "credit_translation": "TRANSLATION",
-      "levelup_skip": "SKIP",
-      "levelup_reroll": "REROLL",
-      "levelup_Xleft": "%0 left"
+      "preload_warning_title": "LICHTEMPFINDLICHKEITSWARNUNG",
+      "preload_warning_text": "Dieses Spiel enthält helle, blinkende Lichter. Bitte hören Sie sofort auf zu spielen und konsultieren Sie einen Arzt, wenn Sie Benommenheit, verändertes Sehvermögen, Augen- oder Gesichtszucken, Zucken oder Schütteln der Arme oder Beine, Orientierungslosigkeit, Verwirrung oder kurzzeitigen Bewusstseinsverlust verspüren.\n\nWenn Sie oder einer Ihrer Verwandten unter Anfällen oder Epilepsie leiden, konsultieren Sie vor dem Spielen einen Arzt.",
+      "credit_translation": "ÜBERSETZUNG",
+      "levelup_skip": "ÜBERSPRINGEN",
+      "levelup_reroll": "NEU WÜRFELN",
+      "levelup_Xleft": "%0 übrig"
     }
   },
   "el": {

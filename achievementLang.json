@@ -591,34 +591,34 @@
         "description": "Besiege insgesamt 100000 Gegner."
       },
       "Recover1000HP": {
-        "description": "Recover a total of 1000 HP."
+        "description": "Stelle insgesamt 1000 HP wieder her."
       },
       "Earn5000CoinsInASingleRun": {
-        "description": "Earn 5000 coins in a single run."
+        "description": "Verdiene 5000 Münzen in einer einzigen Runde."
       },
       "EvolveSantaWater": {
-        "description": "Evolve the Santa Water."
+        "description": "Entwickle das Santa Water."
       },
       "UniteBirds": {
-        "description": "Unite Ebony Wings and Peachone."
+        "description": "Vereinige Ebenholz-Flügel und Peachone."
       },
       "EvolveGarlic": {
-        "description": "Evolve the Garlic."
+        "description": "Entwickle den Knoblauch."
       },
       "Unlock2Hypers": {
-        "description": "Unlock Hyper mode for 2 stages."
+        "description": "Schalte den Hyper Modus für 2 Stages frei."
       },
       "EvolveLightning": {
-        "description": "Evolve the Lightning Ring."
+        "description": "Entwickle den Blitzring weiter."
       },
       "ReachLV100WithMortaccio": {
-        "description": "Reach Level 100 with Mortaccio."
+        "description": "Erreiche Level 100 mit Mortaccio."
       },
       "Survive30MinutesInGreenAcres": {
-        "description": "Survive 30 minutes in Green Acres."
+        "description": "Überlebe 30 Minuten in Grüner Acker."
       },
       "Survive20MinutesWithCross": {
-        "description": "Survive 20 minutes with Krochi."
+        "description": "Überlebe 20 Minuten mit Krochi."
       }
     }
   },

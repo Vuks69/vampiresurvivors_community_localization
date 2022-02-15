@@ -842,27 +842,27 @@
         "description": "Der Charakter erholt sich um 0,1 LP pro Sekunde."
       },
       "VORTEX": {
-        "name": "Soul Eater",
-        "description": "Evolved Garlic. Steals hearts. Power increases when recovering HP.",
-        "tips": "Requires: Pummarola."
+        "name": "Seelenfresser",
+        "description": "Weiterentwickelter Knoblauch. Stiehlt Leben. Stärke erhöht sich wenn HP wiederhergestellt wird.",
+        "tips": "Benötigt: Pummarola."
       },
       "BORA": {
         "name": "La Borra",
-        "description": "Evolved Santa Water. Damaging zones follow you and grow when they move.",
-        "tips": "Requires: Attractorb."
+        "description": "Weiterentwickeltes Santa Water. Schädliche Zonen folgen dir und wachsen wenn sie sich bewegen.",
+        "tips": "Benötigt: Anziehungskugel."
       },
       "SILF3": {
         "name": "Vandalier",
-        "description": "Union of Ebony Wings and Peachone."
+        "description": "Vereinigung aus Ebenholz-Flügel und Peachone."
       },
       "REVIVAL": {
         "name": "Tiragisú",
-        "description": "Revives once with 50% health."
+        "description": "Wiederbelebt einmalig mit 50% Leben."
       },
       "LOOP": {
-        "name": "Thunder Loop",
-        "description": "Evolved Lightning Ring. Projectiles strike twice.",
-        "tips": "Requires: Duplicator."
+        "name": "Donnerschleife",
+        "description": "Entwickelter Blitzring. Geschosse schlagen zwei mal ein.",
+        "tips": "Benötigt: Duplikator."
       }
     }
   },
