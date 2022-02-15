@@ -1318,7 +1318,7 @@
         "tips": "Wymaga: Próżne Serce"
       },
       "MAGIC_MISSILE": {
-        "name": "Magiczna Różdżka",
+        "name": "Różdżka Maga",
         "description": "Strzela w najbliższego przeciwnika.",
         "tips": "Ignoruje: czas trwania."
       },
@@ -1348,12 +1348,12 @@
         "tips": "Wymaga: Karwasz."
       },
       "HOLYWATER": {
-        "name": "Woda Świecona",
+        "name": "Woda Święcona",
         "description": "Tworzy strefy zadające obrażenia przeciwnikom.",
         "tips": "Ignoruje: prędkość."
       },
       "DIAMOND": {
-        "name": "Runiczny Kreślarz",
+        "name": "Odłamek Runy",
         "description": "Przebija się przez wrogów i odbija od krawędzi.",
         "tips": "Najskuteczniejszy z: prędkością, czasem trwania."
       },
@@ -1373,7 +1373,7 @@
         "tips": "Najskuteczniejsza z: prędkością, czasem trwania, obszarem."
       },
       "VESPERS": {
-        "name": "Modlitewnik Świętoktadcy",
+        "name": "Brewiarz Demona",
         "description": "Wyewoluowana Biblia Królów. Nigdy się nie kończy.",
         "tips": "Wymaga: Zaklinacz."
       },
@@ -1383,7 +1383,7 @@
         "tips": "Ignoruje: czas trwania."
       },
       "HEAVENSWORD": {
-        "name": "Niebiańska Klinga",
+        "name": "Klinga Niebios",
         "description": "Wyewoluowany Krzyż. Ma szansę na obrażenia krytyczne.",
         "tips": "Wymaga: Koniczynka."
       },
@@ -1423,7 +1423,7 @@
         "tips": "Najskuteczniejsza z: czasem trwania, prędkością."
       },
       "LANCET": {
-        "name": "Wskazówka Zegara",
+        "name": "Okruch Czasu",
         "description": "Szansa na zamrożenie przeciwników.",
         "tips": "Ignoruje: moc, prędkość, ilość, obszar."
       },
