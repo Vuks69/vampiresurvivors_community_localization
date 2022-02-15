@@ -4,6 +4,8 @@
 
 Strona gry: https://store.steampowered.com/app/1794680/Vampire_Survivors/
 
+Oficjalne repozytorium dla tłumaczy VS: https://github.com/Poncle/vampire-survivors-localisation
+
 ## Chcesz pomóc?
 
 Możesz utworzyć zgłoszenie (Issue) lub zaproponować swoje zmiany poprzez Pull Requesta.
