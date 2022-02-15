@@ -462,7 +462,7 @@
       "COINBAGMAX": {
         "description": "Dodaje 100 złotych monet",
         "name": "Wypchana Sakiewka",
-        "tips": "Czestotliwość wypadania uzależniona od Szczęścia."
+        "tips": "Czestotliwość wypadania zależna od Szczęścia."
       },
       "GEM": {
         "description": "Zwiększa doświadczenie.",
@@ -470,7 +470,7 @@
       },
       "OROLOGION": {
         "description": "Zamraża wszystkich przeciwników na 10 sekund.",
-        "name": "Orologion",
+        "name": "Chronometr",
         "tips": "Czestotliwość wypadania uzależniona od Szczęścia."
       },
       "ROAST": {
@@ -486,7 +486,7 @@
       "TREASURE": {
         "description": "Nagradza złotem i ulepszeniami. Wypada z potężnych przeciwników.",
         "name": "Skrzynia Skarbów",
-        "tips": "Jakość uzależniona od Szczęścia."
+        "tips": "Jakość zależna od Szczęścia."
       },
       "VACUUM": {
         "description": "Zbiera wszystkie klejnoty doświadczenia leżące na ziemi.",
@@ -495,7 +495,7 @@
       },
       "NFT": {
         "description": "Pluje strumieniami ognia przez krótki okres. Efekt zależny od statystyk.",
-        "name": "Nduja Fritta",
+        "name": "Pikantna Kiełbasa",
         "tips": "Czestotliwość wypadania uzależniona od Szczęścia."
       }
     }
