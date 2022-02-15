@@ -349,12 +349,12 @@
         "description": "Wird einmal mit 50% Gesundheit wiederbelebt."
       },
       "REROLL": {
-        "name": "Reroll",
-        "description": "Once per rank, allows to get different choices when leveling up."
+        "name": "Neu würfeln",
+        "description": "Einmal pro Rang, ermöglicht verschiedene Wahlmöglichkeiten beim Stufenaufstieg."
       },
       "SKIP": {
-        "name": "Skip",
-        "description": "Once per rank, allows to skip level up choices and get Experience instead."
+        "name": "Überspringen",
+        "description": "Erlaubt einmal pro Rang das Überspringen von Levelaufstiegswahlen und gewährt stattdessen Erfahrung."
       }
     }
   },

@@ -24,3 +24,4 @@ To easily get to the game's base folder, go to your Steam Library, rightclick th
 * Polski: @Wikizza (WikiDev#1816), @RedHeadMaster (RedHeadMaster#6618), @Vuks69 (Vuks#5767)
 * Українська: Pilgrim#5341
 * Türkçe: sicey9#0293
+* Deutsch: ReverseZoom#4923
