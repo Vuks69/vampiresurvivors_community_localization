@@ -1,4 +1,941 @@
 {
+  "xx": {},
+  "ar": {
+    "english": "Arabic",
+    "native": "العربية",
+    "api": "arabic",
+    "translations": {}
+  },
+  "bg": {
+    "english": "Bulgarian",
+    "native": "български език",
+    "api": "bulgarian",
+    "translations": {}
+  },
+  "zh-CN": {
+    "english": "Chinese",
+    "native": "简体中文",
+    "api": "schinese",
+    "translations": {
+      "ReachLV5": {
+        "description": "达到 5 级。"
+      },
+      "ReachLV10": {
+        "description": "达到 10 级。"
+      },
+      "Have6DifferentWeapons": {
+        "description": "同时持有 6 种不同的武器。"
+      },
+      "GetFireWandToLevel4": {
+        "description": "将火焰之杖升到 4 级。"
+      },
+      "GetHolyBookToLevel4": {
+        "description": "将国王圣经升到 4 级。"
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "将圣水升到 4 级。"
+      },
+      "GetLightningRingToLevel4": {
+        "description": "将闪电戒指升到 4 级。"
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "将魔杖升到 7 级。"
+      },
+      "GetPeachoneToLevel7": {
+        "description": "将和平鸽升到 7 级。"
+      },
+      "GetRunetracerToLevel7": {
+        "description": "将符文追踪器升到 7 级。"
+      },
+      "Survive1Minute": {
+        "description": "使用任何角色存活 1 分钟。"
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "使用帕斯奎丽娜存活 5 分钟。"
+      },
+      "Survive10Minutes": {
+        "description": "使用任何角色存活 10 分钟。"
+      },
+      "Survive20Minutes": {
+        "description": "使用任何角色存活 20 分钟。"
+      },
+      "Destroy20Candles": {
+        "description": "摧毁 20 个光源。"
+      },
+      "Eat5PotRoast": {
+        "description": "找到 5 个烤鸡。"
+      },
+      "FindAClover": {
+        "description": "找到一个小三叶草。"
+      },
+      "FindAVacuum": {
+        "description": "找到一个真空。"
+      },
+      "FindAnOrologion": {
+        "description": "找到一个怀表。"
+      },
+      "FindARosary": {
+        "description": "找到一串念珠。"
+      },
+      "Defeat5000Enemies": {
+        "description": "总共击败 5000 个敌人。"
+      },
+      "Defeat3000Skeletons": {
+        "description": "总共击败 3000 个敌人。"
+      },
+      "DefeatBossMadForest": {
+        "description": "在疯狂森林中击败巨型蓝色维纳斯。"
+      },
+      "ReachLV20InMadForest": {
+        "description": "在疯狂森林中达到 20 级。"
+      },
+      "DefeatBossLibrary": {
+        "description": "在镶嵌图书馆中击败奈苏菲特。"
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "使用吉纳罗存活 5 分钟。"
+      },
+      "FindAStoneMask": {
+        "description": "找到一个石面具。"
+      },
+      "GetGarlicToLevel7": {
+        "description": "将大蒜升到 7 级。"
+      },
+      "EvolveWhip": {
+        "description": "进化鞭子。"
+      },
+      "EvolveMagicWand": {
+        "description": "进化魔杖。"
+      },
+      "EvolveKnife": {
+        "description": "进化飞刀。"
+      },
+      "EvolveAxe": {
+        "description": "进化斧头。"
+      },
+      "EvolveCross": {
+        "description": "进化十字架。"
+      },
+      "EvolveKingBible": {
+        "description": "进化钦定圣经。"
+      },
+      "EvolveFireWand": {
+        "description": "进化火焰之杖。"
+      },
+      "Defeat100KEnemies": {
+        "description": "总共击败敌人100000人。"
+      },
+      "Recover1000HP": {
+        "description": "总共恢复1000生命。"
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "在一次行动中赚5000个金币。"
+      },
+      "EvolveSantaWater": {
+        "description": "进化出圣水。"
+      },
+      "UniteBirds": {
+        "description": "乌木翅膀和桃色。"
+      },
+      "EvolveGarlic": {
+        "description": "进化大蒜。"
+      },
+      "Unlock2Hypers": {
+        "description": "解锁超级模式为2阶段。"
+      },
+      "EvolveLightning": {
+        "description": "进化出闪电戒指"
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "和莫塔乔一起达到100级。"
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "在绿地生存30分钟。"
+      },
+      "Survive20MinutesWithCross": {
+        "description": "和克罗奇一起活过20分钟。"
+      }
+    }
+  },
+  "zh-TW": {
+    "english": "Chinese (Traditional)",
+    "native": "繁體中文",
+    "api": "tchinese",
+    "translations": {}
+  },
+  "cs": {
+    "english": "Czech",
+    "native": "čeština",
+    "api": "czech",
+    "translations": {}
+  },
+  "da": {
+    "english": "Danish",
+    "native": "Dansk",
+    "api": "danish",
+    "translations": {}
+  },
+  "nl": {
+    "english": "Dutch",
+    "native": "Nederlands",
+    "api": "dutch",
+    "translations": {}
+  },
+  "en": {
+    "english": "English",
+    "native": "English",
+    "api": "english",
+    "translations": {
+      "ReachLV5": {
+        "description": "Reach Level 5."
+      },
+      "ReachLV10": {
+        "description": "Reach Level 10."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Hold 6 different weapons at once."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Get Fire Wand to Level 4."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Get King Bible to Level 4."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Get Santa Water to Level 4."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Get Lightning Ring to Level 4."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Get Magic Wand to Level 7."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Get Peachone to Level 7."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Get Runetracer to Level 7."
+      },
+      "Survive1Minute": {
+        "description": "Survive 1 minute with any character."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Survive 5 minutes with Pasqualina."
+      },
+      "Survive10Minutes": {
+        "description": "Survive 10 minutes with any character."
+      },
+      "Survive20Minutes": {
+        "description": "Survive 20 minutes with any character."
+      },
+      "Destroy20Candles": {
+        "description": "Destroy 20 light sources."
+      },
+      "Eat5PotRoast": {
+        "description": "Find 5 Floor Chickens."
+      },
+      "FindAClover": {
+        "description": "Find a Little Clover."
+      },
+      "FindAVacuum": {
+        "description": "Find a Vacuum."
+      },
+      "FindAnOrologion": {
+        "description": "Find an Orologion."
+      },
+      "FindARosary": {
+        "description": "Find a Rosary."
+      },
+      "Defeat5000Enemies": {
+        "description": "Defeat a total of 5000 enemies."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Defeat a total of 3000 skeletons."
+      },
+      "DefeatBossMadForest": {
+        "description": "Defeat the giant Blue Venus in the Mad Forest."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Reach Level 20 in Mad Forest."
+      },
+      "DefeatBossLibrary": {
+        "description": "Defeat the Nesuferit in the Inlaid Library."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Survive 5 minutes with Gennaro."
+      },
+      "FindAStoneMask": {
+        "description": "Find a Stone Mask."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Get Garlic to Level 7."
+      },
+      "EvolveWhip": {
+        "description": "Evolve the Whip."
+      },
+      "EvolveMagicWand": {
+        "description": "Evolve the Magic Wand."
+      },
+      "EvolveKnife": {
+        "description": "Evolve the Knife."
+      },
+      "EvolveAxe": {
+        "description": "Evolve the Axe."
+      },
+      "EvolveCross": {
+        "description": "Evolve the Cross."
+      },
+      "EvolveKingBible": {
+        "description": "Evolve the King Bible."
+      },
+      "EvolveFireWand": {
+        "description": "Evolve the Fire Wand."
+      },
+      "Defeat100KEnemies": {
+        "description": "Defeat a total of 100000 enemies."
+      },
+      "Recover1000HP": {
+        "description": "Recover a total of 1000 HP."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Earn 5000 coins in a single run."
+      },
+      "EvolveSantaWater": {
+        "description": "Evolve the Santa Water."
+      },
+      "UniteBirds": {
+        "description": "Unite Ebony Wings and Peachone."
+      },
+      "EvolveGarlic": {
+        "description": "Evolve the Garlic."
+      },
+      "Unlock2Hypers": {
+        "description": "Unlock Hyper mode for 2 stages."
+      },
+      "EvolveLightning": {
+        "description": "Evolve the Lightning Ring."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Reach Level 100 with Mortaccio."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Survive 30 minutes in Green Acres."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Survive 20 minutes with Krochi."
+      }
+    }
+  },
+  "fi": {
+    "english": "Finnish",
+    "native": "Suomi",
+    "api": "finnish",
+    "translations": {}
+  },
+  "fr": {
+    "english": "French",
+    "native": "Français",
+    "api": "french",
+    "translations": {
+      "ReachLV5": {
+        "description": "Atteignez le niveau 5."
+      },
+      "ReachLV10": {
+        "description": "Atteignez le niveau 10."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Portez 6 armes différentes en même temps."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Faîtes monter la Baguette de feu au niveau 4."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Faîtes monter la Bible du roi au niveau 4."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Faîtes monter l'Eau sainte au niveau 4."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Faîtes monter la Bague du tonnerre au niveau 4."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Faîtes monter la Baguette magique au niveau 7."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Faîtes monter la Pigeonne au niveau 7."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Faîtes monter le Traqueur de runes au niveau 7."
+      },
+      "Survive1Minute": {
+        "description": "Survivez 1 minute avec n'importe quel personnage."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Survivez 5 minutes avec Pasqualina."
+      },
+      "Survive10Minutes": {
+        "description": "Survivez 10 minutes avec n'importe quel personnage."
+      },
+      "Survive20Minutes": {
+        "description": "Survivez 20 minutes avec n'importe quel personnage."
+      },
+      "Destroy20Candles": {
+        "description": "Détruisez 20 sources de lumière."
+      },
+      "Eat5PotRoast": {
+        "description": "Trouvez 5 Poulets rôtis."
+      },
+      "FindAClover": {
+        "description": "Trouvez un Petit trèfle."
+      },
+      "FindAVacuum": {
+        "description": "Trouvez un Vortex."
+      },
+      "FindAnOrologion": {
+        "description": "Trouvez un Orologion."
+      },
+      "FindARosary": {
+        "description": "Trouvez un Chapelet."
+      },
+      "Defeat5000Enemies": {
+        "description": "Éliminez 5 000 ennemis au total."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Éliminez 3 000 squelettes au total."
+      },
+      "DefeatBossMadForest": {
+        "description": "Éliminez la grande Vénus bleue dans la Forêt folle."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Atteignez le niveau 20 dans la Forêt folle."
+      },
+      "DefeatBossLibrary": {
+        "description": "Éliminez le Nesfuréti dans la Bibliothèque marquetée."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Survivez 5 minutes avec Gennaro."
+      },
+      "FindAStoneMask": {
+        "description": "Trouvez un Masque de pierre."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Faîtes monter l'Ail au niveau 7."
+      },
+      "EvolveWhip": {
+        "description": "Faîtes évoluer le Fouet."
+      },
+      "EvolveMagicWand": {
+        "description": "Faîtes évoluer la Baguette magique."
+      },
+      "EvolveKnife": {
+        "description": "Faîtes évoluer le Poignard."
+      },
+      "EvolveAxe": {
+        "description": "Faîtes évoluer la Hache."
+      },
+      "EvolveCross": {
+        "description": "Faîtes évoluer la Croix."
+      },
+      "EvolveKingBible": {
+        "description": "Faîtes évoluer la Bible du roi."
+      },
+      "EvolveFireWand": {
+        "description": "Faîtes évoluer la Baguette de feu."
+      },
+      "Defeat100KEnemies": {
+        "description": "Éliminez un total de 100 000 ennemis."
+      },
+      "Recover1000HP": {
+        "description": "Récupérer un total de 1000 HP."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Gagnez 5000 pièces en un seul passage."
+      },
+      "EvolveSantaWater": {
+        "description": "Faîtes évoluer l'Eau sainte"
+      },
+      "UniteBirds": {
+        "description": "Faîtes évoluer la Pigeonne et les Ailes d'ébène."
+      },
+      "EvolveGarlic": {
+        "description": "Faîtes évoluer l'Ail."
+      },
+      "Unlock2Hypers": {
+        "description": "Déverrouillez le mode Hyper pour 2 niveaux."
+      },
+      "EvolveLightning": {
+        "description": "Faites évoluer l'Anneau de foudre."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Atteindre le niveau 100 avec Mortaccio."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Survivre 30 minutes à Grande pâture."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Survivre 20 minutes avec Krochi."
+      }
+    }
+  },
+  "de": {
+    "english": "German",
+    "native": "Deutsch",
+    "api": "german",
+    "translations": {
+      "ReachLV5": {
+        "description": "Erreiche Level 5."
+      },
+      "ReachLV10": {
+        "description": "Erreiche Level 10."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Halte 6 verschiedene Waffen auf einmal."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Bringe den Feuerstab auf Level 4."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Bringe Königsbibel auf Level 4."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Bringe Santa Water auf Level 4."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Bringe Blitzring auf Level 4."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Bringe den Zauberstab auf Level 7."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Bringe Peachone auf Level 7."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Bringe Runenläufer auf Level 7."
+      },
+      "Survive1Minute": {
+        "description": "Überlebe 1 Minute mit einem beliebigen Charakter."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Überlebe 5 Minuten mit Pasqualina."
+      },
+      "Survive10Minutes": {
+        "description": "Überlebe 10 Minuten mit einem beliebigen Charakter."
+      },
+      "Survive20Minutes": {
+        "description": "Überlebe 20 Minuten mit einem beliebigen Charakter."
+      },
+      "Destroy20Candles": {
+        "description": "Zerstöre 20 Lichtquellen."
+      },
+      "Eat5PotRoast": {
+        "description": "Finde 5 Bodenhühner."
+      },
+      "FindAClover": {
+        "description": "Finde ein Kleeblättchen."
+      },
+      "FindAVacuum": {
+        "description": "Finde ein Vakuum."
+      },
+      "FindAnOrologion": {
+        "description": "Finde ein Orologion."
+      },
+      "FindARosary": {
+        "description": "Finde einen Rosenkranz."
+      },
+      "Defeat5000Enemies": {
+        "description": "Besiege insgesamt 5000 Gegner."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Besiege insgesamt 3000 Skelette."
+      },
+      "DefeatBossMadForest": {
+        "description": "Besiege die riesige Blaue Venus im Verrückten Wald."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Erreiche Level 20 im Verrückten Wald."
+      },
+      "DefeatBossLibrary": {
+        "description": "Besiege den Nesuferit in der Intarsienbibliothek."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Überlebe 5 Minuten mit Gennaro."
+      },
+      "FindAStoneMask": {
+        "description": "Finde eine Steinmaske."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Bringe Knoblauch auf Level 7."
+      },
+      "EvolveWhip": {
+        "description": "Entwickle die Peitsche weiter."
+      },
+      "EvolveMagicWand": {
+        "description": "Entwickle den Zauberstab weiter."
+      },
+      "EvolveKnife": {
+        "description": "Entwickle das Messer weiter."
+      },
+      "EvolveAxe": {
+        "description": "Entwickle die Axt weiter."
+      },
+      "EvolveCross": {
+        "description": "Entwickle das Kreuz weiter."
+      },
+      "EvolveKingBible": {
+        "description": "Entwickle die Königsbibel weiter."
+      },
+      "EvolveFireWand": {
+        "description": "Entwickle den Feuerstab weiter."
+      },
+      "Defeat100KEnemies": {
+        "description": "Besiege insgesamt 100000 Gegner."
+      },
+      "Recover1000HP": {
+        "description": "Recover a total of 1000 HP."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Earn 5000 coins in a single run."
+      },
+      "EvolveSantaWater": {
+        "description": "Evolve the Santa Water."
+      },
+      "UniteBirds": {
+        "description": "Unite Ebony Wings and Peachone."
+      },
+      "EvolveGarlic": {
+        "description": "Evolve the Garlic."
+      },
+      "Unlock2Hypers": {
+        "description": "Unlock Hyper mode for 2 stages."
+      },
+      "EvolveLightning": {
+        "description": "Evolve the Lightning Ring."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Reach Level 100 with Mortaccio."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Survive 30 minutes in Green Acres."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Survive 20 minutes with Krochi."
+      }
+    }
+  },
+  "el": {
+    "english": "Greek",
+    "native": "Ελληνικά",
+    "api": "greek",
+    "translations": {}
+  },
+  "hu": {
+    "english": "Hungarian",
+    "native": "Magyar",
+    "api": "hungarian",
+    "translations": {}
+  },
+  "it": {
+    "english": "Italian",
+    "native": "Italiano",
+    "api": "italian",
+    "translations": {}
+  },
+  "ja": {
+    "english": "Japanese",
+    "native": "日本語",
+    "api": "japanese",
+    "translations": {
+      "ReachLV5": {
+        "description": "レベル5に到達する。"
+      },
+      "ReachLV10": {
+        "description": "レベル10に到達する。"
+      },
+      "Have6DifferentWeapons": {
+        "description": "6つの武器を一度に持つ。"
+      },
+      "GetFireWandToLevel4": {
+        "description": "炎の杖をレベル4に上げる。"
+      },
+      "GetHolyBookToLevel4": {
+        "description": "王の聖書をレベル4に上げる。"
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "聖水をレベル4に上げる。"
+      },
+      "GetLightningRingToLevel4": {
+        "description": "雷の指輪をレベル4に上げる。"
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "魔法の杖をレベル7に上げる。"
+      },
+      "GetPeachoneToLevel7": {
+        "description": "ピジョーネをレベル7に上げる。"
+      },
+      "GetRunetracerToLevel7": {
+        "description": "ルーントレイサーをレベル7に上げる。"
+      },
+      "Survive1Minute": {
+        "description": "いずれかのキャラクターで1分間生き残る。"
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "パスカリーナで5分間生き残る。"
+      },
+      "Survive10Minutes": {
+        "description": "いずれかのキャラクターで10分間生き残る。"
+      },
+      "Survive20Minutes": {
+        "description": "いずれかのキャラクターで20分間生き残る。"
+      },
+      "Destroy20Candles": {
+        "description": "光源を20個破壊する。"
+      },
+      "Eat5PotRoast": {
+        "description": "トリ肉を5つ見つける。"
+      },
+      "FindAClover": {
+        "description": "小さなクローバーを見つける。"
+      },
+      "FindAVacuum": {
+        "description": "バキュームを見つける。"
+      },
+      "FindAnOrologion": {
+        "description": "懐中時計を見つける。"
+      },
+      "FindARosary": {
+        "description": "ロザリオを見つける。"
+      },
+      "Defeat5000Enemies": {
+        "description": "敵を合計で5,000体倒す。"
+      },
+      "Defeat3000Skeletons": {
+        "description": "スケルトンを3,000体倒す。"
+      },
+      "DefeatBossMadForest": {
+        "description": "狂乱の森で巨大なブルー・ヴィーナスを倒す。"
+      },
+      "ReachLV20InMadForest": {
+        "description": "狂乱の森でレベル20に到達する。"
+      },
+      "DefeatBossLibrary": {
+        "description": "象眼の図書館でネスフェリットを倒す。"
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "ジェナーロで5分間生き残る。"
+      },
+      "FindAStoneMask": {
+        "description": "石の仮面を見つける。"
+      },
+      "GetGarlicToLevel7": {
+        "description": "ニンニクをレベル7に上げる。"
+      },
+      "EvolveWhip": {
+        "description": "ムチを進化させる。"
+      },
+      "EvolveMagicWand": {
+        "description": "魔法の杖を進化させる。"
+      },
+      "EvolveKnife": {
+        "description": "ナイフを進化させる。"
+      },
+      "EvolveAxe": {
+        "description": "オノを進化させる。"
+      },
+      "EvolveCross": {
+        "description": "十字架を進化させる。"
+      },
+      "EvolveKingBible": {
+        "description": "王の聖書を進化させる。"
+      },
+      "EvolveFireWand": {
+        "description": "炎の杖を進化させる。"
+      },
+      "Defeat100KEnemies": {
+        "description": "Defeat a total of 100000 enemies."
+      },
+      "Recover1000HP": {
+        "description": "Recover a total of 1000 HP."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Earn 5000 coins in a single run."
+      },
+      "EvolveSantaWater": {
+        "description": "Evolve the Santa Water."
+      },
+      "UniteBirds": {
+        "description": "Unite Ebony Wings and Peachone."
+      },
+      "EvolveGarlic": {
+        "description": "Evolve the Garlic."
+      },
+      "Unlock2Hypers": {
+        "description": "Unlock Hyper mode for 2 stages."
+      },
+      "EvolveLightning": {
+        "description": "Evolve the Lightning Ring."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Reach Level 100 with Mortaccio."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Survive 30 minutes in Green Acres."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Survive 20 minutes with Krochi."
+      }
+    }
+  },
+  "ko": {
+    "english": "Korean",
+    "native": "한국어",
+    "api": "koreana",
+    "translations": {
+      "ReachLV5": {
+        "description": "레벨 5에 도달하기."
+      },
+      "ReachLV10": {
+        "description": "레벨 10에 도달하기."
+      },
+      "Have6DifferentWeapons": {
+        "description": "한번에 6개의 무기를 소지하기."
+      },
+      "GetFireWandToLevel4": {
+        "description": "파이어 완드를 레벨 4까지 올리기."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "왕의 성서를 레벨 4까지 올리기."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "산타 워터를 레벨 4까지 올리기."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "번개 반지를 레벨 4까지 올리기."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "매직 완드를 레벨 7까지 올리기."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "피쵼을 레벨 7까지 올리기."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "룬트레이서를 레벨 7까지 올리기."
+      },
+      "Survive1Minute": {
+        "description": "아무 캐릭터로 1분 생존하기."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "파스퀼리나로 5분 생존하기."
+      },
+      "Survive10Minutes": {
+        "description": "캐릭터로나 10분 생존하기."
+      },
+      "Survive20Minutes": {
+        "description": "캐릭터로나 20분 생존하기."
+      },
+      "Destroy20Candles": {
+        "description": "물체 20개 파괴하기."
+      },
+      "Eat5PotRoast": {
+        "description": "치킨 5개 발견하기."
+      },
+      "FindAClover": {
+        "description": "작은 클로버 발견하기."
+      },
+      "FindAVacuum": {
+        "description": "흡입기 발견하기."
+      },
+      "FindAnOrologion": {
+        "description": "회중시계 발견하기."
+      },
+      "FindARosary": {
+        "description": "묵주 발견하기."
+      },
+      "Defeat5000Enemies": {
+        "description": "누적 5,000마리 적을 처치하기."
+      },
+      "Defeat3000Skeletons": {
+        "description": "누적 3,000마리 스켈레톤 처치하기."
+      },
+      "DefeatBossMadForest": {
+        "description": "광기의 숲에서 거대한 푸른 비너스를 쓰러뜨리기."
+      },
+      "ReachLV20InMadForest": {
+        "description": "광기의 숲에서 레벨 20에 도달하기."
+      },
+      "DefeatBossLibrary": {
+        "description": "화려한 도서관에서 네스페리트를 쓰러뜨리기."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "겐나로로 5분 생존하기."
+      },
+      "FindAStoneMask": {
+        "description": "돌가면 발견하기."
+      },
+      "GetGarlicToLevel7": {
+        "description": "마늘을 레벨 7까지 올리기."
+      },
+      "EvolveWhip": {
+        "description": "채찍 강화시키기."
+      },
+      "EvolveMagicWand": {
+        "description": "매직 완드 강화시키기."
+      },
+      "EvolveKnife": {
+        "description": "단검 강화시키기."
+      },
+      "EvolveAxe": {
+        "description": "도끼 강화시키기."
+      },
+      "EvolveCross": {
+        "description": "십자가 강화시키기."
+      },
+      "EvolveKingBible": {
+        "description": "왕의 성서 강화시키기."
+      },
+      "EvolveFireWand": {
+        "description": "파이어 완드 강화시키기."
+      },
+      "Defeat100KEnemies": {
+        "description": "누적 100,000마리의 적을 처치하기."
+      },
+      "Recover1000HP": {
+        "description": "누적 1000의 체력을 회복하기."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "한 게임에서 5000골드 획득하기"
+      },
+      "EvolveSantaWater": {
+        "description": "산타 워터 강화시키기."
+      },
+      "UniteBirds": {
+        "description": "피쵼과 흑단 날개 융합하기."
+      },
+      "EvolveGarlic": {
+        "description": "마늘 강화시키기."
+      },
+      "Unlock2Hypers": {
+        "description": "2개의 스테이지에서 하이퍼모드 언락하기."
+      },
+      "EvolveLightning": {
+        "description": "번개 반지 강화시키기."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "모르타치오로 100레벨 달성하기."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "푸른 초원에서 30분 생존하기."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "크로치로 20분 생존하기."
+      }
+    }
+  },
+  "no": {
+    "english": "Norwegian",
+    "native": "Norsk",
+    "api": "norwegian",
+    "translations": {}
+  },
   "pl": {
     "english": "Polish",
     "native": "Polski",
@@ -144,4 +1081,487 @@
       }
     }
   },
+  "pt": {
+    "english": "Portuguese",
+    "native": "Português",
+    "api": "portuguese",
+    "translations": {}
+  },
+  "pt-BR": {
+    "english": "Portuguese-Brazil",
+    "native": "Português-Brasil",
+    "api": "brazilian",
+    "translations": {
+      "ReachLV5": {
+        "description": "Alcançe o Nível 5."
+      },
+      "ReachLV10": {
+        "description": "Alcançe o Nível 10."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Possua 6 armas diferentes ao mesmo tempo."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Evolua a Varinha de Fogo para Nível 4."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Evolua a Bíblia do Rei para Nível 4."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Evolua a Água Benta para Nível 4."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Evolua o Anél de Raios para Nível 4."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Evolua a Varinha Mágica para Nível 7."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Evolua Peachone para Nível 7."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Evolua o Runetracer para Nível 7."
+      },
+      "Survive1Minute": {
+        "description": "Sobreviva 1 minuto com qualquer personagem."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Sobreviva 5 minutos com Pasqualina."
+      },
+      "Survive10Minutes": {
+        "description": "Sobreviva 10 minutos com qualquer personagem."
+      },
+      "Survive20Minutes": {
+        "description": "Sobreviva 20 minutos com qualquer personagem."
+      },
+      "Destroy20Candles": {
+        "description": "Destrua 20 fontes de luz."
+      },
+      "Eat5PotRoast": {
+        "description": "Encontre 5 Frangos Assados."
+      },
+      "FindAClover": {
+        "description": "Encontre um Pequeno Trevo."
+      },
+      "FindAVacuum": {
+        "description": "Encontre um Vácuo."
+      },
+      "FindAnOrologion": {
+        "description": "Encontre um Orologion."
+      },
+      "FindARosary": {
+        "description": "Encontre um Rosário."
+      },
+      "Defeat5000Enemies": {
+        "description": "Derrote um total de 5.000 inimigos."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Derrote um total de 5.000 inimigos."
+      },
+      "DefeatBossMadForest": {
+        "description": "Derrote a Venus Azul gigante na Floresta Louca."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Alcance o Nível 20 na Floresta Louca."
+      },
+      "DefeatBossLibrary": {
+        "description": "Derrote o Nesuferit na Biblioteca Imbutida."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Sobreviva 5 minutos com Gennaro."
+      },
+      "FindAStoneMask": {
+        "description": "Encontre uma Máscara de Pedra."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Evolua o Alho para Nível 7."
+      },
+      "EvolveWhip": {
+        "description": "Evolua o Chicote."
+      },
+      "EvolveMagicWand": {
+        "description": "Evolua a Varinha Mágica."
+      },
+      "EvolveKnife": {
+        "description": "Evolua a Adaga."
+      },
+      "EvolveAxe": {
+        "description": "Evolua o Machado."
+      },
+      "EvolveCross": {
+        "description": "Evolua a Cruz."
+      },
+      "EvolveKingBible": {
+        "description": "Evolua a Bíblia do Rei."
+      },
+      "EvolveFireWand": {
+        "description": "Evolua a Varinha de Fogo."
+      },
+      "Defeat100KEnemies": {
+        "description": "Derrote um total de 100000 inimigos."
+      },
+      "Recover1000HP": {
+        "description": "Recupere um total de 1000 HP."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Consiga 5000 moedas em uma única aventura"
+      },
+      "EvolveSantaWater": {
+        "description": "Evolua a Água Benta."
+      },
+      "UniteBirds": {
+        "description": "Combine Ebony Wings e Peachone."
+      },
+      "EvolveGarlic": {
+        "description": "Evolua o Alho."
+      },
+      "Unlock2Hypers": {
+        "description": "Destrave o modo Hyper para 2 estagios."
+      },
+      "EvolveLightning": {
+        "description": "Evolve the Lightning Ring."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Reach Level 100 with Mortaccio."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Survive 30 minutes in Green Acres."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Survive 20 minutes with Krochi."
+      }
+    }
+  },
+  "ro": {
+    "english": "Romanian",
+    "native": "Română",
+    "api": "romanian",
+    "translations": {}
+  },
+  "ru": {
+    "english": "Russian",
+    "native": "Русский",
+    "api": "russian",
+    "translations": {
+      "ReachLV5": {
+        "description": "Достичь Уровня 5."
+      },
+      "ReachLV10": {
+        "description": "Достичь Уровня 10."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Держите 6 различных видов оружия одновременно."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Получите Огненный Жезл Уровня 4."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Получите Королевскую Библию Уровня 4."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Получите Святую Воду Уровня 4."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Получите Кольцо Молнии Уровня 4."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Получите Магический Жезл Уровня 7."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Получите Пишона Уровня 7."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Получите Рунтрейсер Уровня 7."
+      },
+      "Survive1Minute": {
+        "description": "Выживите 1 минуту с любым персонажем."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Выживите 5 минут с Паскуалина."
+      },
+      "Survive10Minutes": {
+        "description": "Выживите 10 минут с любым персонажем."
+      },
+      "Survive20Minutes": {
+        "description": "Выживите 20 минут с любым персонажем."
+      },
+      "Destroy20Candles": {
+        "description": "Уничтожте 20 источников света."
+      },
+      "Eat5PotRoast": {
+        "description": "Найдите 5 Жареных Циплят."
+      },
+      "FindAClover": {
+        "description": "Найдите Маленький Клевер."
+      },
+      "FindAVacuum": {
+        "description": "Найдите Вакуум."
+      },
+      "FindAnOrologion": {
+        "description": "Найдите Орологион."
+      },
+      "FindARosary": {
+        "description": "Найдите Четки."
+      },
+      "Defeat5000Enemies": {
+        "description": "Победите в общей сложности 5000 врагов."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Победите в общей сложности 3000 скелетов."
+      },
+      "DefeatBossMadForest": {
+        "description": "Победите гигантскую Голубую Венеру в Безумном лесу."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Достигните Уровня 20 в Безумном лесу."
+      },
+      "DefeatBossLibrary": {
+        "description": "Победите Несуферита в Библиотеке."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Выживите 5 минут с Дженнаро."
+      },
+      "FindAStoneMask": {
+        "description": "Найдите Каменную Маску."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Получите Чеснок Уровня 7."
+      },
+      "EvolveWhip": {
+        "description": "Улучшите Кнут."
+      },
+      "EvolveMagicWand": {
+        "description": "Улучшите Магический Жезл."
+      },
+      "EvolveKnife": {
+        "description": "Улучшите Нож."
+      },
+      "EvolveAxe": {
+        "description": "Улучшите Топор."
+      },
+      "EvolveCross": {
+        "description": "Улучшите Крест."
+      },
+      "EvolveKingBible": {
+        "description": "Улучшите Королевскую Библию."
+      },
+      "EvolveFireWand": {
+        "description": "Улучшите Огненный Жезл."
+      },
+      "Defeat100KEnemies": {
+        "description": "Победите в общей сложности 100000 врагов."
+      },
+      "Recover1000HP": {
+        "description": "Восстановите в общей сложности 1000 ОЗ."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Заработайте 5000 монет за один забег."
+      },
+      "EvolveSantaWater": {
+        "description": "Улучшите Святую Воду."
+      },
+      "UniteBirds": {
+        "description": "Объедините Эбонитовые Крылья и Пишона."
+      },
+      "EvolveGarlic": {
+        "description": "Улучшите Чеснок."
+      },
+      "Unlock2Hypers": {
+        "description": "Откройте режим Гипер для двух этапов."
+      },
+      "EvolveLightning": {
+        "description": "Улучшите Кольцо Молнии."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Достигните Уровня 100 с Мортаччо."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Выживите 30 минут в Зеленых Акрах."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Выживите 20 минут с Крочи."
+      }
+    }
+  },
+  "es": {
+    "english": "Spanish",
+    "native": "Español",
+    "api": "spanish",
+    "translations": {
+      "ReachLV5": {
+        "description": "Alcanza el nivel 5."
+      },
+      "ReachLV10": {
+        "description": "Alcanza el nivel 10."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Porta 6 armas distintas a la vez."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Mejora la varita ígnea al nivel 4."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Mejora la biblia real al nivel 4."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Mejora el agua sagrada al nivel 4."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Mejora el anillo eléctrico al nivel 4."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Mejora la varita mágica al nivel 7."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Mejora el pichón al nivel 7."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Mejora la runa láser al nivel 7."
+      },
+      "Survive1Minute": {
+        "description": "Sobrevive 1 minuto con cualquier personaje."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Sobrevive 5 minutos con Pasqualina."
+      },
+      "Survive10Minutes": {
+        "description": "Sobrevive 10 minutos con cualquier personaje."
+      },
+      "Survive20Minutes": {
+        "description": "Sobrevive 20 minutos con cualquier personaje."
+      },
+      "Destroy20Candles": {
+        "description": "Destruye 20 fuentes de luz."
+      },
+      "Eat5PotRoast": {
+        "description": "Encuentra 5 pollos asados."
+      },
+      "FindAClover": {
+        "description": "Encuentra un trébol pequeño."
+      },
+      "FindAVacuum": {
+        "description": "Encuentra un aspersor."
+      },
+      "FindAnOrologion": {
+        "description": "Encuentra un orologion."
+      },
+      "FindARosary": {
+        "description": "Encuentra un rosario."
+      },
+      "Defeat5000Enemies": {
+        "description": "Vence a un total de 5000 enemigos."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Vence a un total de 3000 esqueletos."
+      },
+      "DefeatBossMadForest": {
+        "description": "Vence a la venus azul gigante en el Bosque Demente."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Alcanza el nivel 20 en el Bosque Demente."
+      },
+      "DefeatBossLibrary": {
+        "description": "Vence a Nesuferit en la Biblioteca Interna."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Sobrevive 5 minutos con Gennaro."
+      },
+      "FindAStoneMask": {
+        "description": "Encuentra una máscara de piedra."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Mejora el ajo al nivel 7."
+      },
+      "EvolveWhip": {
+        "description": "Haz evolucionar el látigo."
+      },
+      "EvolveMagicWand": {
+        "description": "Haz evolucionar la varita mágica."
+      },
+      "EvolveKnife": {
+        "description": "Haz evolucionar el cuchillo."
+      },
+      "EvolveAxe": {
+        "description": "Haz evolucionar el hacha."
+      },
+      "EvolveCross": {
+        "description": "Haz evolucionar la cruz."
+      },
+      "EvolveKingBible": {
+        "description": "Haz evolucionar la biblia real."
+      },
+      "EvolveFireWand": {
+        "description": "Haz evolucionar la varita ígnea."
+      },
+      "Defeat100KEnemies": {
+        "description": "Defeat a total of 100000 enemies."
+      },
+      "Recover1000HP": {
+        "description": "Recover a total of 1000 HP."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Earn 5000 coins in a single run."
+      },
+      "EvolveSantaWater": {
+        "description": "Evolve the Santa Water."
+      },
+      "UniteBirds": {
+        "description": "Unite Ebony Wings and Peachone."
+      },
+      "EvolveGarlic": {
+        "description": "Evolve the Garlic."
+      },
+      "Unlock2Hypers": {
+        "description": "Unlock Hyper mode for 2 stages."
+      },
+      "EvolveLightning": {
+        "description": "Evolve the Lightning Ring."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Reach Level 100 with Mortaccio."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Survive 30 minutes in Green Acres."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Survive 20 minutes with Krochi."
+      }
+    }
+  },
+  "es-419": {
+    "english": "Spanish-Latin America",
+    "native": "Español-Latinoamérica",
+    "api": "latam",
+    "translations": {}
+  },
+  "sv": {
+    "english": "Swedish",
+    "native": "Svenska",
+    "api": "swedish",
+    "translations": {}
+  },
+  "th": {
+    "english": "Thai",
+    "native": "ไทย",
+    "api": "thai",
+    "translations": {}
+  },
+  "tr": {
+    "english": "Turkish",
+    "native": "Türkçe",
+    "api": "turkish",
+    "translations": {}
+  },
+  "uk": {
+    "english": "Ukrainian",
+    "native": "Українська",
+    "api": "ukrainian",
+    "translations": {}
+  },
+  "vn": {
+    "english": "Vietnamese",
+    "native": "Tiếng Việt",
+    "api": "vietnamese",
+    "translations": {}
+  }
 }
