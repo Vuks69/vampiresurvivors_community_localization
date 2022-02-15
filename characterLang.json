@@ -730,7 +730,64 @@
     "english": "Turkish",
     "native": "Türkçe",
     "api": "turkish",
-    "translations": {}
+    "translations": {
+      "ANTONIO": {
+        "description": "Her 10 seviyede hasarı %10 artar. (maks %50)",
+        "charName": "Antonio",
+        "surname": "Belpaese"
+      },
+      "IMELDA": {
+        "description": "Her 5 seviyede tecrübe kazanımı %10 artar. (maks %30)",
+        "charName": "Imelda",
+        "surname": "Belpaese"
+      },
+      "CIRO": {
+        "charName": "Arca",
+        "description": "Silah bekleme süreleri her 10 seviyede %5 azalır. (maks %15)",
+        "surname": "Ladonna"
+      },
+      "DOMMARIO": {
+        "charName": "Dommario",
+        "description": "Kalıcı +%40 etki süresi ve silah hızı. -%40 Hareket hızı."
+      },
+      "EXDASH": {
+        "description": "En azından şanslı."
+      },
+      "GENNARO": {
+        "charName": "Gennaro",
+        "description": "Kalıcı +1 saldırı. (tüm silahlar)",
+        "surname": "Belpaese"
+      },
+      "GERMANA": {
+        "charName": "Clerici",
+        "description": "Kalıcı 0.5/sn can yenileme ve +30 Azami Can. Geçici etki alanı bonusuyla başlar.",
+        "prefix": "Suor"
+      },
+      "MORTACCIO": {
+        "charName": "Mortaccio",
+        "description": "Her 20 seviyede 1 ekstra saldırı kazanır. (maks +3)"
+      },
+      "CAMILLO": {
+        "charName": "Poe",
+        "description": "Kalıcı +%25 çekim alanı ve -30 Azami Can.",
+        "surname": "Ratcho"
+      },
+      "PASQUALINA": {
+        "charName": "Pasqualina",
+        "description": "Her 5 seviyede saldırı hızı %10 artar. (maks %30)",
+        "surname": "Belpaese"
+      },
+      "PORTA": {
+        "charName": "Porta",
+        "description": "Kalıcı +%30 etki alanı. Geçici bekleme süresi bonusuyla başlar.",
+        "surname": "Ladonna"
+      },
+      "CROCI": {
+        "name": "Krochi",
+        "surname": "Freetto",
+        "description": "Fazladan 1 yeniden canlanma."
+      }
+    }
   },
   "uk": {
     "english": "Ukrainian",
