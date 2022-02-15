@@ -51,7 +51,7 @@
       },
       "AMOUNT": {
         "name": "数量",
-        "description": "多发射 1 枚射弹（所有武器）。"
+        "description": "发射 1 枚射弹（所有武器）。"
       },
       "MOVESPEED": {
         "name": "移动速度",
@@ -63,7 +63,7 @@
       },
       "LUCK": {
         "name": "幸运",
-        "description": "每级别有几率增加 10% 的幸运值（最多 +30%）。"
+        "description": "每级有几率增加 10% 的幸运值（最多 +30%）。"
       },
       "GROWTH": {
         "name": "成长",
@@ -82,12 +82,12 @@
         "description": "以 50%生命值复活一次。"
       },
       "REROLL": {
-        "name": "Reroll",
-        "description": "Once per rank, allows to get different choices when leveling up."
+        "name": "重新选择",
+        "description": "每级一次， 允许在升级时获得不同的选择。"
       },
       "SKIP": {
-        "name": "Skip",
-        "description": "Once per rank, allows to skip level up choices and get Experience instead."
+        "name": "跳过",
+        "description": "每级一次， 允许跳过升级选择并获得经验。"
       }
     }
   },
@@ -210,7 +210,7 @@
         "description": "Augmente les dégâts infligés de 5 % par rang (+ 25 % max)."
       },
       "REGEN": {
-        "name": "Récupération",
+        "name": "Guérison",
         "description": "Restaure 0.1 PV par seconde par rang (0.5 max)."
       },
       "MAXHEALTH": {
@@ -226,7 +226,7 @@
         "description": "Augmente la portée des attaques de 5 % par rang (+ 10 % max)."
       },
       "SPEED": {
-        "name": "Puissance de tir",
+        "name": "Mouvement",
         "description": "Les projectiles se déplacent 10 % plus vite par rang (+ 20 % max)."
       },
       "COOLDOWN": {
@@ -254,7 +254,7 @@
         "description": "La probabilité d'avoir de la chance augmente de 10 % par rang (+ 30 % max)."
       },
       "GROWTH": {
-        "name": "Développement",
+        "name": "Apprendre",
         "description": "Rapporte 3 % d'expérience en plus par rang (+ 15 % max)."
       },
       "GREED": {
@@ -266,16 +266,16 @@
         "description": "Annule les dégâts d'une attaque. Se combine au Laurier."
       },
       "REVIVAL": {
-        "name": "Résurrection",
+        "name": "Relance",
         "description": "Ressuscite une fois avec 50 % de points de vie."
       },
       "REROLL": {
-        "name": "Reroll",
-        "description": "Once per rank, allows to get different choices when leveling up."
+        "name": "Retenter",
+        "description": "Une fois par rang, permet d'obtenir des choix différents lors de la montée en niveau."
       },
       "SKIP": {
-        "name": "Skip",
-        "description": "Once per rank, allows to skip level up choices and get Experience instead."
+        "name": "Passer",
+        "description": "Une fois par rang, permet de sauter les choix de montée de niveau et d'obtenir de l'expérience à la place."
       }
     }
   },
@@ -446,11 +446,11 @@
         "description": "1回だけ50%のライフで復活する。"
       },
       "REROLL": {
-        "name": "Reroll",
+        "name": "リロール",
         "description": "Once per rank, allows to get different choices when leveling up."
       },
       "SKIP": {
-        "name": "Skip",
+        "name": "スキップ",
         "description": "Once per rank, allows to skip level up choices and get Experience instead."
       }
     }
@@ -462,75 +462,75 @@
     "translations": {
       "POWER": {
         "name": "괴력",
-        "description": "피해량을 5% 증가시킵니다. (최대 +25%)"
+        "description": "레벨 당 피해량을 5% 증가시킵니다. (최대 +25%)"
       },
       "REGEN": {
         "name": "회복",
-        "description": "초당 체력회복량이 0.1 증가합니다. (최대 0.5)"
+        "description": "레벨 당 초당 체력회복량이 0.1 증가합니다. (최대 0.5)"
       },
       "MAXHEALTH": {
         "name": "최대 체력",
-        "description": "최대 체력을 10% 증가시킵니다. (최대 +30%)"
+        "description": "레벨 당 최대 체력을 10% 증가시킵니다. (최대 +30%)"
       },
       "ARMOR": {
         "name": "방어력",
-        "description": "피격 데미지를 1씩 감소시킵니다.(최대 -3)"
+        "description": "레벨 당 피격 데미지를 1 감소시킵니다.(최대 -3)"
       },
       "AREA": {
         "name": "공격범위",
-        "description": "공격범위를 5%씩 증가시킵니다. (최대 +10%)"
+        "description": "레벨 당 공격범위를 5% 증가시킵니다. (최대 +10%)"
       },
       "SPEED": {
         "name": "투사체 속도",
-        "description": "투사체가 10% 빨라집니다. (최대20%)"
+        "description": "레벨 당 투사체가 10% 빨라집니다. (최대20%)"
       },
       "COOLDOWN": {
         "name": "쿨타임",
-        "description": "무기 쿨타임이 2.5% 감소합니다.(최대 5%)."
+        "description": "레벨 당 무기 쿨타임이 2.5% 감소합니다.(최대 5%)."
       },
       "DURATION": {
         "name": "지속시간",
-        "description": "무기의 효과 지속시간이 15% 연장됩니다. (최대 +30%)"
+        "description": "레벨 당 무기의 효과 지속시간이 15% 연장됩니다. (최대 +30%)"
       },
       "AMOUNT": {
         "name": "투사체 수",
-        "description": "투사체를 1개 더 발사합니다. (모든 무기)"
+        "description": "레벨 당 투사체를 1개 더 발사합니다. (모든 무기)"
       },
       "MOVESPEED": {
         "name": "이동속도",
-        "description": "이동속도가 5% 빨라집니다. (최대 10%)"
+        "description": "레벨 당 이동속도가 5% 빨라집니다. (최대 10%)"
       },
       "MAGNET": {
         "name": "자석",
-        "description": "아이템 획득 범위가 25% 증가합니다.(최대 +50%)"
+        "description": "레벨 당 아이템 획득 범위가 25% 증가합니다.(최대 +50%)"
       },
       "LUCK": {
         "name": "행운",
-        "description": "행운이 10% 증가합니다. (최대 +30%)"
+        "description": "레벨 당 행운이 10% 증가합니다. (최대 +30%)"
       },
       "GROWTH": {
         "name": "성장",
-        "description": "3%의 추가 경험치를 획득합니다. (최대 15%)"
+        "description": "레벨 당 3%의 추가 경험치를 획득합니다. (최대 15%)"
       },
       "GREED": {
         "name": "탐욕",
-        "description": "10%의 추가 골드를 획득합니다. (최대 +50%)"
+        "description": "레벨 당 10%의 추가 골드를 획득합니다. (최대 +50%)"
       },
       "SHIELD": {
         "name": "보호막",
-        "description": "피격을 한 번 막아줍니다. 월계관의 충전횟수와 합산됩니다."
+        "description": "피격을 한 번 막아줍니다. 월계수의 충전횟수와 합산됩니다."
       },
       "REVIVAL": {
         "name": "부활",
         "description": "50% 체력으로 1회 부활합니다."
       },
       "REROLL": {
-        "name": "Reroll",
-        "description": "Once per rank, allows to get different choices when leveling up."
+        "name": "새로고침",
+        "description": "레벨 당 한번 레벨업 시 선택지를 새로고침 할 수 있습니다."
       },
       "SKIP": {
-        "name": "Skip",
-        "description": "Once per rank, allows to skip level up choices and get Experience instead."
+        "name": "건너뛰기",
+        "description": "레벨 당 한번 레벨업 시 선택지를 건너뛰는 대신 경험치를 받습니다."
       }
     }
   },
@@ -695,12 +695,12 @@
         "description": "Revive uma vez com 50% de saúde."
       },
       "REROLL": {
-        "name": "Reroll",
-        "description": "Once per rank, allows to get different choices when leveling up."
+        "name": "Rolar Novamente",
+        "description": "Uma vez por rank, permite obter escolhas diferentes ao ganhar um nível."
       },
       "SKIP": {
-        "name": "Skip",
-        "description": "Once per rank, allows to skip level up choices and get Experience instead."
+        "name": "Pular",
+        "description": "Uma vez por rank, permite ganhar experiência ao invés de escolher um item ao evoluir."
       }
     }
   },
@@ -717,35 +717,35 @@
     "translations": {
       "POWER": {
         "name": "Сила",
-        "description": "Увеличивает нанесенный урон на 5% за уровень (макс. +25%)."
+        "description": "Увеличивает наносимый урон на 5% с каждым рангом (макс. +25%)."
       },
       "REGEN": {
         "name": "Регенерация",
-        "description": "Восстанавливает 0.1 ОЗ за уровень (макс. 0.5) в секунду."
+        "description": "Восстанавливает 0.1 ОЗ с каждым рангом (макс. 0.5) в секунду."
       },
       "MAXHEALTH": {
         "name": "Макс. ОЗ",
-        "description": "Увеличивает макс. количество ОЗ на 10% за уровень (макс. +30%)."
+        "description": "Увеличивает макс. количество ОЗ на 10% с каждым рангом  (макс. +30%)."
       },
       "ARMOR": {
         "name": "Броня",
-        "description": "Уменьшает получаемый урон на 1 за уровень (макс. -3)."
+        "description": "Уменьшает получаемый урон на 1 с каждым рангом  (макс. -3)."
       },
       "AREA": {
         "name": "Размер",
-        "description": "Увеличивает размер атак на 5% за уровень (макс. +10%)."
+        "description": "Увеличивает размер атак на 5% с каждым рангом  (макс. +10%)."
       },
       "SPEED": {
         "name": "Скорость",
-        "description": "Снаряды двигаются на 10% быстрее за уровень (макс. 20%)."
+        "description": "Снаряды двигаются на 10% быстрее с каждым рангом (макс. 20%)."
       },
       "COOLDOWN": {
         "name": "Откат",
-        "description": "Использование оружия на 2.5% быстрее за уровень (макс. 5%)."
+        "description": "Оружие используется на 2.5% чаще с каждым рангом (макс. 5%)."
       },
       "DURATION": {
         "name": "Срок",
-        "description": "Эффекты от оружия длятся на 15% дольше за уровень (макс. +30%)."
+        "description": "Эффекты от оружия длятся на 15% дольше с каждым рангом (макс. +30%)."
       },
       "AMOUNT": {
         "name": "Количество",
@@ -753,39 +753,39 @@
       },
       "MOVESPEED": {
         "name": "Подвижность",
-        "description": "Персонаж перемещается на 5% быстрее за уровень (макс. 10%)."
+        "description": "Персонаж перемещается на 5% быстрее с каждым рангом (макс. 10%)."
       },
       "MAGNET": {
         "name": "Магнит",
-        "description": "Область подбора предметов на 25%  больше за уровень (макс. +50%)."
+        "description": "Область подбора предметов на 25%  больше с каждым рангом (макс. +50%)."
       },
       "LUCK": {
         "name": "Удача",
-        "description": "Шанс повезти возрастает на 10% за уровень (макс. +30%)."
+        "description": "Шанс везения возрастает на 10% с каждым рангом (макс. +30%)."
       },
       "GROWTH": {
         "name": "Прирост",
-        "description": "Зарабатывает на 3% бошьне за уровень (макс. 15%)."
+        "description": "Дает на 3% больше опыта с каждым рангом (макс. 15%)."
       },
       "GREED": {
         "name": "Жадность",
-        "description": "Зарабатывает на 10% бошьне монет за уровень уровень (макс. +50%)."
+        "description": "Дает на 10% больше монет с каждым рангом (макс. +50%)."
       },
       "SHIELD": {
         "name": "Щит",
-        "description": "Предотвращает урон он одной атаки. Объединяется с Лавром."
+        "description": "Предотвращает урон от одной атаки. Объединяется с Лавром."
       },
       "REVIVAL": {
-        "name": "Возрождение",
-        "description": "Возрождает один раз с 50% ОЗ."
+        "name": "Оживление",
+        "description": "Оживляет один раз с 50% ОЗ."
       },
       "REROLL": {
-        "name": "Reroll",
-        "description": "Once per rank, allows to get different choices when leveling up."
+        "name": "Повтор",
+        "description": "Один раз за забег, дает получить другие варианты выбора при повышении уровня."
       },
       "SKIP": {
-        "name": "Skip",
-        "description": "Once per rank, allows to skip level up choices and get Experience instead."
+        "name": "Пропуск",
+        "description": "Один раз за забег, дает пропустить выбор при повышения уровня и взамен получить опыт."
       }
     }
   },

@@ -117,7 +117,7 @@
         "description": "进化十字架。"
       },
       "EvolveKingBible": {
-        "description": "进化钦定圣经。"
+        "description": "进化国王圣经。"
       },
       "EvolveFireWand": {
         "description": "进化火焰之杖。"
@@ -135,7 +135,7 @@
         "description": "进化出圣水。"
       },
       "UniteBirds": {
-        "description": "乌木翅膀和桃色。"
+        "description": "搭配乌木之翼和和平鸽"
       },
       "EvolveGarlic": {
         "description": "进化大蒜。"
@@ -751,7 +751,7 @@
         "description": "炎の杖を進化させる。"
       },
       "Defeat100KEnemies": {
-        "description": "Defeat a total of 100000 enemies."
+        "description": "敵を合計で100,000体倒す。"
       },
       "Recover1000HP": {
         "description": "Recover a total of 1000 HP."
@@ -760,19 +760,19 @@
         "description": "Earn 5000 coins in a single run."
       },
       "EvolveSantaWater": {
-        "description": "Evolve the Santa Water."
+        "description": "聖水を進化させる。"
       },
       "UniteBirds": {
         "description": "Unite Ebony Wings and Peachone."
       },
       "EvolveGarlic": {
-        "description": "Evolve the Garlic."
+        "description": "ニンニクを進化させる。"
       },
       "Unlock2Hypers": {
         "description": "Unlock Hyper mode for 2 stages."
       },
       "EvolveLightning": {
-        "description": "Evolve the Lightning Ring."
+        "description": "雷の指輪を進化させる。"
       },
       "ReachLV100WithMortaccio": {
         "description": "Reach Level 100 with Mortaccio."
@@ -781,7 +781,7 @@
         "description": "Survive 30 minutes in Green Acres."
       },
       "Survive20MinutesWithCross": {
-        "description": "Survive 20 minutes with Krochi."
+        "description": "Krochiで20分間生き残る。"
       }
     }
   },
@@ -806,16 +806,16 @@
         "description": "왕의 성서를 레벨 4까지 올리기."
       },
       "GetHolyWaterToLevel4": {
-        "description": "산타 워터를 레벨 4까지 올리기."
+        "description": "성수를 레벨 4까지 올리기."
       },
       "GetLightningRingToLevel4": {
-        "description": "번개 반지를 레벨 4까지 올리기."
+        "description": "벼락 반지를 레벨 4까지 올리기."
       },
       "GetMagicMissileToLevel7": {
         "description": "매직 완드를 레벨 7까지 올리기."
       },
       "GetPeachoneToLevel7": {
-        "description": "피쵼을 레벨 7까지 올리기."
+        "description": "하얀 비둘기를 레벨 7까지 올리기."
       },
       "GetRunetracerToLevel7": {
         "description": "룬트레이서를 레벨 7까지 올리기."
@@ -905,16 +905,16 @@
         "description": "한 게임에서 5000골드 획득하기"
       },
       "EvolveSantaWater": {
-        "description": "산타 워터 강화시키기."
+        "description": "성수 강화시키기."
       },
       "UniteBirds": {
-        "description": "피쵼과 흑단 날개 융합하기."
+        "description": "하얀 비둘기와 검은 비둘기 융합하기."
       },
       "EvolveGarlic": {
         "description": "마늘 강화시키기."
       },
       "Unlock2Hypers": {
-        "description": "2개의 스테이지에서 하이퍼모드 언락하기."
+        "description": "광기의 숲과 화려한 도서관에서 하이퍼모드 언락하기."
       },
       "EvolveLightning": {
         "description": "번개 반지 강화시키기."
@@ -1219,16 +1219,16 @@
         "description": "Destrave o modo Hyper para 2 estagios."
       },
       "EvolveLightning": {
-        "description": "Evolve the Lightning Ring."
+        "description": "Evolua o Anél de Raios."
       },
       "ReachLV100WithMortaccio": {
-        "description": "Reach Level 100 with Mortaccio."
+        "description": "Alcance o Nível 100 com Mortaccio."
       },
       "Survive30MinutesInGreenAcres": {
-        "description": "Survive 30 minutes in Green Acres."
+        "description": "Sobreviva 30 minutos nas Planícies verdes."
       },
       "Survive20MinutesWithCross": {
-        "description": "Survive 20 minutes with Krochi."
+        "description": "Sobreviva 20 minutos com Krochi."
       }
     }
   },
@@ -1250,13 +1250,13 @@
         "description": "Достичь Уровня 10."
       },
       "Have6DifferentWeapons": {
-        "description": "Держите 6 различных видов оружия одновременно."
+        "description": "Удерживайте 6 разных видов оружия за забег."
       },
       "GetFireWandToLevel4": {
         "description": "Получите Огненный Жезл Уровня 4."
       },
       "GetHolyBookToLevel4": {
-        "description": "Получите Королевскую Библию Уровня 4."
+        "description": "Получите Библию Короля Уровня 4."
       },
       "GetHolyWaterToLevel4": {
         "description": "Получите Святую Воду Уровня 4."
@@ -1298,7 +1298,7 @@
         "description": "Найдите Вакуум."
       },
       "FindAnOrologion": {
-        "description": "Найдите Орологион."
+        "description": "Найдите Часослов."
       },
       "FindARosary": {
         "description": "Найдите Четки."
@@ -1343,7 +1343,7 @@
         "description": "Улучшите Крест."
       },
       "EvolveKingBible": {
-        "description": "Улучшите Королевскую Библию."
+        "description": "Улучшите Библию Короля."
       },
       "EvolveFireWand": {
         "description": "Улучшите Огненный Жезл."
@@ -1361,7 +1361,7 @@
         "description": "Улучшите Святую Воду."
       },
       "UniteBirds": {
-        "description": "Объедините Эбонитовые Крылья и Пишона."
+        "description": "Объедините Черные Крылья и Пишона."
       },
       "EvolveGarlic": {
         "description": "Улучшите Чеснок."

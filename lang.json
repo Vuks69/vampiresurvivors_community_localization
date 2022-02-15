@@ -165,10 +165,11 @@
       "postGame_done1": "拾取",
       "weaponLevelUp_revivals": "+%0 生命",
       "preload_warning_title": "光敏性的警告",
-      "preload_warning_text": "这个游戏里有明亮的闪光。如果您出现头晕、视力改变、眼睛或脸部抽搐、胳膊或腿抽搐或摇晃、方向不清、神志不清或瞬间失去知觉，请立即停止游戏并咨询医生。如果你或你的任何亲戚有癫痫或癫痫的病史，在玩游戏前请咨询医生。",
+      "preload_warning_text": "该游戏包含明亮的闪光灯/n如果您出现头晕 视力改变眼睛或面部抽搐/n手臂或腿抽搐或颤抖迷失方向混乱或暂时失去知觉请立即停止游戏并咨询医生。 如果您或您的任何亲属有癫痫发作或癫痫病史 游玩之前请咨询医生。",
       "credit_translation": "翻译人员",
-      "levelup_skip": "SKIP",
-      "levelup_reroll": "REROLL"
+      "levelup_skip": "跳过",
+      "levelup_reroll": "重新选择",
+      "levelup_Xleft": "还剩 %0 次"
     }
   },
   "zh-TW": {
@@ -347,11 +348,12 @@
       "credit_tileset": "• tilesets:",
       "postGame_done1": "DONE",
       "weaponLevelUp_revivals": "Adds %0 Revival.",
-      "preload_warning_title": "PHOTOSENSITIVITY WARNING",
+      "preload_warning_title": "PHOTOSENSITIVITYWARNING",
       "preload_warning_text": "This game contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing.",
       "credit_translation": "TRANSLATION",
       "levelup_skip": "SKIP",
-      "levelup_reroll": "REROLL"
+      "levelup_reroll": "REROLL",
+      "levelup_Xleft": "%0 left"
     }
   },
   "fi": {
@@ -409,7 +411,7 @@
       "weaponLevelUp_charge": "Ajoute %0 charge de plus\n",
       "weaponLevelUp_charges": "Ajoute %0 charges de plus\n",
       "weaponLevelUp_effect%": "[Tout] Durée de l'effet : + %0%\n",
-      "weaponLevelUp_effect": "L'effet dure %0% secondes de plus\n",
+      "weaponLevelUp_effect": "L'effet dure %0 secondes de plus\n",
       "weaponLevelUp_cooldown%": "Cooldown réduit de %0%\n",
       "weaponLevelUp_cooldown": "Cooldown réduit de %0 secondes\n",
       "weaponLevelUp_health": "Augmente la santé max de %0%\n",
@@ -515,8 +517,9 @@
       "preload_warning_title": "AVERTISSEMENT DE PHOTOSENSIBILITÉ",
       "preload_warning_text": "Ce jeu contient des lumières clignotantes. Veuillez arrêter immédiatement de jouer et consulter un médecin si vous ressentez des étourdissements, une altération de la vision, des contractions des yeux ou du visage, des secousses ou des tremblements des bras ou des jambes, une désorientation, une confusion ou une perte de conscience momentanée.",
       "credit_translation": "TRADUCTION",
-      "levelup_skip": "SKIP",
-      "levelup_reroll": "REROLL"
+      "levelup_skip": "Passer",
+      "levelup_reroll": "Relancer",
+      "levelup_Xleft": "%0 restant"
     }
   },
   "de": {
@@ -675,7 +678,8 @@
       "preload_warning_text": "This game contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing.",
       "credit_translation": "TRANSLATION",
       "levelup_skip": "SKIP",
-      "levelup_reroll": "REROLL"
+      "levelup_reroll": "REROLL",
+      "levelup_Xleft": "%0 left"
     }
   },
   "el": {
@@ -848,11 +852,12 @@
       "credit_tileset": "• タイルセット：",
       "postGame_done1": "終了",
       "weaponLevelUp_revivals": "+%0ライフ",
-      "preload_warning_title": "PHOTOSENSITIVITY WARNING",
+      "preload_warning_title": "感光性の警告",
       "preload_warning_text": "This game contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing.",
-      "credit_translation": "TRANSLATION",
-      "levelup_skip": "SKIP",
-      "levelup_reroll": "REROLL"
+      "credit_translation": "翻訳",
+      "levelup_skip": "スキップ",
+      "levelup_reroll": "リロール",
+      "levelup_Xleft": "%0つ残り"
     }
   },
   "ko": {
@@ -892,18 +897,18 @@
       "weapon_new": "신규!",
       "weapon_level_": "레벨:",
       "weapon_bonus_": "보너스:",
-      "weaponLevelUp_damageAll": "[전체] 기본 데미지 %0% 증가\n",
-      "weaponLevelUp_damage": "기본 데미지 %0% 증가\n",
+      "weaponLevelUp_damageAll": "[전체] 기본 피해 %0% 증가\n",
+      "weaponLevelUp_damage": "기본 피해 %0 증가\n",
       "weaponLevelUp_all": "[전체]",
-      "weaponLevelUp_area": "기본 범위 %0% 증가\n",
+      "weaponLevelUp_area": "기본 공격범위 %0% 증가\n",
       "weaponLevelUp_speed": "투사체 속도 %0% 증가\n",
       "weaponLevelUp_projectile": "투사체 %0개 증가\n",
       "weaponLevelUp_projectiles": "투사체 %0개 증가\n",
-      "weaponLevelUp_enemy": "적 %0마리를 추가로 통과\n",
-      "weaponLevelUp_enemies": "적 %0마리를 추가로 통과\n",
+      "weaponLevelUp_enemy": "적 %0마리를 추가로 관통\n",
+      "weaponLevelUp_enemies": "적 %0마리를 추가로 관통\n",
       "weaponLevelUp_charge": "충전 %0회 추가\n",
       "weaponLevelUp_charges": "충전 %0회 추가\n",
-      "weaponLevelUp_effect%": "[All] 효과 지속 시간 %0% 증가\n",
+      "weaponLevelUp_effect%": "[전체] 효과 지속 시간 %0% 증가\n",
       "weaponLevelUp_effect": "효과 지속 시간 %0초 증가\n",
       "weaponLevelUp_cooldown%": "쿨타임 %0% 감소\n",
       "weaponLevelUp_cooldown": "쿨타임 %0초 감소\n",
@@ -914,7 +919,7 @@
       "weaponLevelUp_luck": "행운 %0% 증가\n",
       "weaponLevelUp_recovery": "초당 체력 회복량이 %0 증가합니다.",
       "weaponLevelUp_value": "골드 획득량 %0% 증가\n",
-      "weaponLevelUp_reduceDamage": "받는 데미지 %0 감소\n",
+      "weaponLevelUp_reduceDamage": "피격 데미지 %0 감소\n",
       "weaponLevelUp_shield": "보호막 무적 시간 %0초 증가\n",
       "genericPopup_name": "이름",
       "genericPopup_new": "신규!",
@@ -1006,12 +1011,13 @@
       "credit_angel": "• 천사 및 폭발 sfx:",
       "credit_tileset": "• 타일셋:",
       "postGame_done1": "완료",
-      "weaponLevelUp_revivals": "목숨 %0 추가",
+      "weaponLevelUp_revivals": "부활횟수 %0 추가",
       "preload_warning_title": "광과민성요소 포함주의",
       "preload_warning_text": "이 게임은 광점멸 요소가 있습니다. 현기증, 시력저하, 눈 혹은 안면마비, 손발저림, 방향감상실, 착란, 순간적 의식상실을 경험하셨다면 바로 플레이를 중단하시고 의사와 상담하십시오.\n\n발작 또는 간질의 경험 혹은 가족력이 있다면 플레이 전 의사와 상담하십시오.",
-      "credit_translation": "변역",
-      "levelup_skip": "SKIP",
-      "levelup_reroll": "REROLL"
+      "credit_translation": "현지화",
+      "levelup_skip": "건너뛰기",
+      "levelup_reroll": "새로고침",
+      "levelup_Xleft": "%0 남음"
     }
   },
   "no": {
@@ -1215,7 +1221,7 @@
       "treasure_header": "Tesouro Encontrado!",
       "treasure_open": "ABRIR",
       "levelup_header": "Ganhou um Nível!",
-      "levelup_footer": "\n\n\naumenta sua Sorte\n\n para ter a change de conseguir 4 escolhas.",
+      "levelup_footer": "\n\n\naumente sua Sorte\n\n para ter a change de conseguir 4 escolhas.",
       "weapon_name": "Nome",
       "weapon_level": "Nível",
       "weapon_description": "Descrição",
@@ -1223,7 +1229,7 @@
       "weapon_level_": "nível:",
       "weapon_bonus_": "Bônus:",
       "weaponLevelUp_damageAll": "[Todos] Dano base aumentado em %0%\n",
-      "weaponLevelUp_damage": "Dano base aumentado em %0%\n",
+      "weaponLevelUp_damage": "Dano base aumentado em %0\n",
       "weaponLevelUp_all": "[Todos]",
       "weaponLevelUp_area": "Área base aumentada em %0%\n",
       "weaponLevelUp_speed": "Velocidade base aumentada em %0%\n",
@@ -1340,8 +1346,9 @@
       "preload_warning_title": "ALERTA DE FOTO-SENSITIVIDADE",
       "preload_warning_text": "Este jogo possui fortes luzes piscantes. Por favor pare de jogar imediatamente e consulte um médico em caso de: sentir a cabeça leve, visão alterada, movimentos involuntários no olho, rosto, braços ou pernas, desorientação, confusão ou perca momentária de percepção.\n\nSe você ou algum de seus familiares possuir um histórico de tonturas ou epilepsia, consulte um médico antes de jogar.",
       "credit_translation": "TRADUÇÃO",
-      "levelup_skip": "SKIP",
-      "levelup_reroll": "REROLL"
+      "levelup_skip": "PULAR",
+      "levelup_reroll": "ROLAR NOVAMENTE",
+      "levelup_Xleft": "%0 restante"
     }
   },
   "ro": {
@@ -1362,7 +1369,7 @@
       "menu_start": "НАЧАТЬ",
       "menu_credit": "авторы",
       "menu_screen": "экран",
-      "options_header": "Настройки",
+      "options_header": "Опции",
       "options_sounds": "Звуки",
       "options_music": "Музыка",
       "options_flashing_VFX": "Вспышки",
@@ -1376,7 +1383,7 @@
       "pause_resume": "ВЕРНУТЬСЯ",
       "newItem_header": "Оружие найдено!",
       "newItem_get": "ВЗЯТЬ",
-      "newItem_discard": "ОТКАЗАТЬСЯ",
+      "newItem_discard": "ОТБРОСИТЬ",
       "treasure_header": "Сокровище найдено!",
       "treasure_open": "ОТКРЫТЬ",
       "levelup_header": "Новый Уровень!",
@@ -1420,7 +1427,7 @@
       "genericPopup_obtainsCoin": "Получить: %0  золотых монет",
       "genericPopup_level": "уровень:",
       "genericPopup_achievement": "Новое Достижение!",
-      "genericPopup_unlocks": "Открыть:",
+      "genericPopup_unlocks": "Открывает:",
       "genericPopup_unlocked": "Открыто:",
       "genericPopup_unlocksHyper": "Открыть: Гипер %0",
       "genericPopup_unlockedHyper": "Открыто: Гипер %0",
@@ -1434,7 +1441,7 @@
       "character_header": "Выбор Персонажа",
       "weapon_header": "Коллекция",
       "gameOver_bonus": "Бонусные монеты: %0",
-      "gameOver_revive": "ВОЗРОДИТЬ",
+      "gameOver_revive": "ОЖИВИТЬ",
       "gameOver_quit": "ВЫЙТИ",
       "postGame_header": "Результаты",
       "postGame_normal": "- Нормальный - Золото x %0",
@@ -1444,7 +1451,7 @@
       "postGame_goldEarned": "Золота заработано:",
       "postGame_levelReached": "Достигнутый уровень:",
       "postGame_enemiesDefeated": "Врагов уничтожено:",
-      "postGame_unlocks": "Открывает!",
+      "postGame_unlocks": "Открыто!",
       "postGame_done": "ГОТОВО",
       "postGame_hideAchievements": "Скрыть\nДостижения",
       "postGame_showAchievements": "Показать\nДостижения",
@@ -1483,12 +1490,12 @@
       "resolution_header": "Разрешение",
       "resolution_fullscreen": "ПОЛНЫЙ ЭКРАН",
       "topBar_back": "НАЗАД",
-      "topBar_options": "НАСТРОЙКИ",
+      "topBar_options": "ОПЦИИ",
       "topBar_quit": "ВЫЙТИ",
       "credits_header": "Авторы",
       "credits_gameBy": "- игра от",
-      "credits_artwork": "ПРОГРАММИРОВАНИЕ",
-      "credits_programming": "ГЛАВНЫЙ ХУДОЖНИК",
+      "credits_artwork": "ГЛАВНЫЙ ХУДОЖНИК",
+      "credits_programming": "ПРОГРАММИРОВАНИЕ",
       "credits_audio": "ЗВУК & МУЗЫКА",
       "credits_graphics": "ГРАФИКА",
       "credits_animations": "АНИМАЦИИ",
@@ -1501,12 +1508,13 @@
       "credit_angel": "• звуки ангела и взрыва:",
       "credit_tileset": "• тайлсеты:",
       "postGame_done1": "ГОТОВО",
-      "weaponLevelUp_revivals": "Добавляет %0  Возрождение.",
+      "weaponLevelUp_revivals": "Добавляет %0  Оживление.",
       "preload_warning_title": "ПРЕДУПРЕЖДЕНИЕ О СВЕТОЧУВСТВИТЕЛЬНОСТИ",
       "preload_warning_text": "Эта игра содержит яркие вспышки. Пожалуйста, немедленно прекратите игру и обратитесь к врачу, если вы испытываете головокружение, изменение зрения, подергивание глаз или лица, подергивание или дрожание рук или ног, дезориентацию, спутанность сознания или кратковременную потерю сознания.\n\nЕсли у вас или у кого-либо из ваших родственников в родословной были припадки или эпилепсия, проконсультируйтесь с врачом перед игрой.",
       "credit_translation": "ПЕРЕВОД",
-      "levelup_skip": "SKIP",
-      "levelup_reroll": "REROLL"
+      "levelup_skip": "ПРОПУСК",
+      "levelup_reroll": "ПОВТОР",
+      "levelup_Xleft": "%0 осталось"
     }
   },
   "es": {
@@ -1620,7 +1628,7 @@
       "powerupConfirm_confirm": "Confirmar",
       "powerupConfirm_price": "Precio",
       "powerupConfirm_buy": "Comprar",
-      "powerupConfirm_maxed": "NIVEL\nMÁXIMO\\Nalcanzado",
+      "powerupConfirm_maxed": "NIVEL\nMÁXIMO\nalcanzado",
       "powerupConfirm_start": "COMENZAR",
       "stageSelection_header": "Elegir nivel",
       "stageSelectionPanel_name": "Nombre",
@@ -1665,7 +1673,8 @@
       "preload_warning_text": "This game contains bright flashing lights. Please immediately stop playing and consult a doctor if you experience lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness.\n\nIf you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing.",
       "credit_translation": "TRANSLATION",
       "levelup_skip": "SKIP",
-      "levelup_reroll": "REROLL"
+      "levelup_reroll": "REROLL",
+      "levelup_Xleft": "%0 left"
     }
   },
   "es-419": {

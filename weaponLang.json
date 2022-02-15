@@ -139,7 +139,7 @@
       },
       "POWER": {
         "name": "菠菜",
-        "description": "使造成的伤害提高 10%。"
+        "description": "造成的伤害提高 10%。"
       },
       "AREA": {
         "name": "烛台",
@@ -147,7 +147,7 @@
       },
       "SPEED": {
         "name": "护腕",
-        "description": "使射弹速度提高 10%。"
+        "description": "射弹速度提高 10%。"
       },
       "COOLDOWN": {
         "name": "空白之书",
@@ -179,7 +179,7 @@
       },
       "GROWTH": {
         "name": "王冠",
-        "description": "增加角色获得的经验 7%。"
+        "description": "增加角色获得的经验 8%。"
       },
       "LUCK": {
         "name": "三叶草",
@@ -195,7 +195,7 @@
       },
       "VORTEX": {
         "name": "噬魂者",
-        "description": "进化大蒜。 偷心。 恢复HP时伤害增加",
+        "description": "进化大蒜恢复生命值时伤害增加",
         "tips": "要求: 普玛罗拉."
       },
       "BORA": {
@@ -205,16 +205,16 @@
       },
       "SILF3": {
         "name": "破坏者",
-        "description": "乌木之翼和和平鸽的搭配"
+        "description": "乌木之翼搭配平鸽"
       },
       "REVIVAL": {
         "name": "提拉吉苏",
         "description": "以50%的生命值复活一次。"
       },
       "LOOP": {
-        "name": "Thunder Loop",
-        "description": "Evolved Lightning Ring. Projectiles strike twice.",
-        "tips": "Requires: Duplicator."
+        "name": "雷环",
+        "description": "进化的闪电戒指。 射弹击中两次。",
+        "tips": "要求: 复制器."
       }
     }
   },
@@ -621,7 +621,7 @@
       },
       "GROWTH": {
         "name": "Couronne",
-        "description": "Le personnage gagne 7 % d'expérience supplémentaire."
+        "description": "Le personnage gagne 8% d'expérience supplémentaire."
       },
       "LUCK": {
         "name": "Trèfle",
@@ -827,7 +827,7 @@
       },
       "GROWTH": {
         "name": "Krone",
-        "description": "Der Charakter erhält 7% mehr Erfahrung."
+        "description": "Der Charakter erhält 8% mehr Erfahrung."
       },
       "LUCK": {
         "name": "Kleeblatt",
@@ -1051,7 +1051,7 @@
       },
       "GROWTH": {
         "name": "王冠",
-        "description": "キャラクターのEXP獲得が7%アップ。"
+        "description": "キャラクターのEXP獲得が8%アップ。"
       },
       "LUCK": {
         "name": "クローバー",
@@ -1102,8 +1102,8 @@
       },
       "VAMPIRICA": {
         "name": "피눈물",
-        "description": "강화된 채찍입니다. 치명타 데미지를 입히고 HP를 흡수합니다.",
-        "tips": "요구 사항: 공허한 심장"
+        "description": "채찍의 강화형. 치명타 피해를 입히고 HP를 흡수합니다.",
+        "tips": "요구 사항: 칠흑 심장"
       },
       "MAGIC_MISSILE": {
         "name": "매직 완드",
@@ -1112,17 +1112,17 @@
       },
       "HOLY_MISSILE": {
         "name": "홀리 완드",
-        "description": "강화된 매직 완드입니다. 딜레이 없이 발사됩니다.",
+        "description": "매직 완드의 강화형. 딜레이 없이 발사됩니다.",
         "tips": "요구 사항: 빈 성서"
       },
       "AXE": {
         "name": "도끼",
-        "description": "데미지가 높고 공격 범위가 넓습니다.",
+        "description": "피해량이 높고 공격 범위가 넓습니다.",
         "tips": "파워업 무시: 지속시간"
       },
       "SCYTHE": {
         "name": "죽음의 소용돌이",
-        "description": "강화된 도끼입니다. 적을 관통합니다.",
+        "description": "도끼의 강화형. 적을 관통합니다.",
         "tips": "요구 사항: 촛대"
       },
       "KNIFE": {
@@ -1132,11 +1132,11 @@
       },
       "THOUSAND": {
         "name": "천 개의 칼날",
-        "description": "강화된 단검입니다. 딜레이 없이 발사됩니다.",
+        "description": "단검의 강화형. 딜레이 없이 발사됩니다.",
         "tips": "요구 사항: 브레이서"
       },
       "HOLYWATER": {
-        "name": "산타 워터",
+        "name": "성수",
         "description": "화염 구덩이를 생성합니다.",
         "tips": "파워업 무시: 스피드"
       },
@@ -1152,18 +1152,18 @@
       },
       "HELLFIRE": {
         "name": "헬파이어",
-        "description": "강화된 파이어 완드입니다. 적을 관통합니다.",
+        "description": "파이어 완드의 강화형. 적을 관통합니다.",
         "tips": "요구 사항: 시금치."
       },
       "HOLYBOOK": {
         "name": "왕의 성서",
-        "description": "캐릭터 주변을 회전합니다.",
+        "description": "성서가 주변을 회전하며 공격합니다",
         "tips": "추천 조합: 투사체 속도, 지속시간, 공격범위"
       },
       "VESPERS": {
-        "name": "불경한 베스퍼",
-        "description": "강화된 왕의 성서입니다. 사라지지 않습니다.",
-        "tips": "요구 사항: 스펠바인더."
+        "name": "불경한 기도",
+        "description": "왕의 성서의 강화형. 사라지지 않습니다.",
+        "tips": "요구 사항: 주문속박기"
       },
       "CROSS": {
         "name": "십자가",
@@ -1172,16 +1172,16 @@
       },
       "HEAVENSWORD": {
         "name": "셀레스트 에페",
-        "description": "강화된 십자가입니다. 치명타 데미지를 줍니다.",
+        "description": "십자가의 강화형. 치명타 피해를 줍니다.",
         "tips": "요구 사항: 클로버."
       },
       "GARLIC": {
         "name": "마늘",
-        "description": "가까운 적에게 데미지를 줍니다. 넉백과 빙결에 저항을 감소시킵니다.",
+        "description": "범위 내의 적에게 피해를 줍니다. 넉백과 빙결저항을 감소시킵니다",
         "tips": "파워업 무시: 투사체 수, 지속시간, 투사체 속도"
       },
       "LAUREL": {
-        "name": "월계관",
+        "name": "월계수",
         "description": "피격 데미지를 막아줍니다.",
         "tips": "추천 조합: 쿨타임만 적용됨"
       },
@@ -1196,18 +1196,18 @@
         "tips": "추천 조합: 쿨타임과 행운만 적용"
       },
       "SILF": {
-        "name": "피쵼",
+        "name": "하얀 비둘기",
         "description": "원형의 구역을 폭격합니다.",
         "tips": "추천 조합: 쿨타임, 지속시간"
       },
       "SILF2": {
-        "name": "흑단 날개",
+        "name": "검은 비둘기",
         "description": "원형의 구역을 폭격합니다.",
         "tips": "추천 조합: 쿨타임, 지속시간"
       },
       "BONE": {
         "name": "뼈다귀",
-        "description": "튕겨나오는 발사체를 투척합니다.",
+        "description": "튕겨나오는 투사체를 던집니다.",
         "tips": "추천 조합: 지속시간, 투사체 속도"
       },
       "LANCET": {
@@ -1232,15 +1232,15 @@
         "description": "쿨타임이 8% 감소합니다."
       },
       "DURATION": {
-        "name": "스펠바인더",
+        "name": "주문속박기",
         "description": "지속시간이 10% 증가합니다."
       },
       "AMOUNT": {
-        "name": "복제기",
-        "description": "추가 발사체를 획득합니다."
+        "name": "복제 반지",
+        "description": "추가 투사체를 획득합니다."
       },
       "MAXHEALTH": {
-        "name": "공허한 심장",
+        "name": "칠흑 심장",
         "description": "최대 체력이 10% 증가합니다."
       },
       "ARMOR": {
@@ -1249,50 +1249,50 @@
       },
       "MOVESPEED": {
         "name": "날개",
-        "description": "캐릭터가 10% 빠르게 움직입니다."
+        "description": "10% 빠르게 움직입니다."
       },
       "MAGNET": {
-        "description": "캐릭터가 더 멀리 있는 아이템을 획득합니다.",
-        "name": "어트랙터브"
+        "description": "더 멀리 있는 아이템을 획득합니다.",
+        "name": "매혹의 오브"
       },
       "GROWTH": {
         "name": "왕관",
-        "description": "캐릭터가 8% 추가 경험치를 획득합니다."
+        "description": "8% 추가 경험치를 획득합니다."
       },
       "LUCK": {
         "name": "클로버",
-        "description": "캐릭터의 행운이 10% 증가합니다."
+        "description": "행운이 10% 증가합니다."
       },
       "GREED": {
         "name": "돌가면",
-        "description": "캐릭터가 10% 추가 골드를 획득합니다."
+        "description": "10% 추가 골드를 획득합니다."
       },
       "REGEN": {
-        "name": "퍼마롤러",
-        "description": "캐릭터의 초당 체력회복량이 0.1의 증가합니다."
+        "name": "붉은 심장",
+        "description": "초당 체력회복량이 0.1의 증가합니다."
       },
       "VORTEX": {
-        "name": "소울 이터",
-        "description": "Garlic 진화형. 체력을 흡수합니다. 체력흡수 시 위력이 증가합니다.",
-        "tips": "요구 사항: 퍼마롤러"
+        "name": "영혼포식자",
+        "description": "마늘의 강화형. 체력을 흡수합니다. 체력흡수 시 위력이 증가합니다.",
+        "tips": "요구 사항: 붉은 심장"
       },
       "BORA": {
         "name": "정화자",
-        "description": "강화된 산타워터입니다. 불구덩이가 따라다니며, 움직일 때마다 커집니다.",
-        "tips": "요구 사항: 어트랙터브"
+        "description": "성수의 강화형. 불구덩이가 점점 커지며 캐릭터를 따릅니다.",
+        "tips": "요구 사항: 매혹의 오브"
       },
       "SILF3": {
         "name": "파괴자",
-        "description": "피쵼과 흑단 날개의 융합"
+        "description": "하얀 비둘기와 검은 비둘기의 융합"
       },
       "REVIVAL": {
-        "name": "티라지수",
+        "name": "티라미수",
         "description": "한번 50%의 체력으로 부활합니다."
       },
       "LOOP": {
         "name": "번개 고리",
-        "description": "강화된 번개 반지. 투사체가 2회 공격합니다.",
-        "tips": "요구 사항: 복제기"
+        "description": "번개 반지의 강화형. 투사체가 2회 공격합니다.",
+        "tips": "요구 사항: 복제 반지"
       }
     }
   },
@@ -1714,9 +1714,9 @@
         "description": "Revive com 50% de saúde uma vez."
       },
       "LOOP": {
-        "name": "Thunder Loop",
-        "description": "Evolved Lightning Ring. Projectiles strike twice.",
-        "tips": "Requires: Duplicator."
+        "name": "Ciclo de Raios",
+        "description": "Anél de Raios evoluido. Projéteis atacam duas vezes.",
+        "tips": "Requer: Duplicador."
       }
     }
   },
@@ -1742,13 +1742,13 @@
         "tips": "Требует: Пустое Сердце."
       },
       "MAGIC_MISSILE": {
-        "name": "Волшебная Палочка",
+        "name": "Чарующий Жезл",
         "description": "Стреляет в ближайшего врага.",
         "tips": "Игнорирует: срок."
       },
       "HOLY_MISSILE": {
         "name": "Святой Жезл",
-        "description": "Улучшенная Волшебная Палочка. Стреляет без задержки.",
+        "description": "Улучшенный Чарующий Жезл. Стреляет без задержки.",
         "tips": "Требует: Пустой Том."
       },
       "AXE": {
@@ -1757,7 +1757,7 @@
         "tips": "Игнорирует: срок."
       },
       "SCYTHE": {
-        "name": "Смертельная Спираль",
+        "name": "Спираль Смерти",
         "description": "Улучшенный Топор. Проходит сквозь врагов.",
         "tips": "Требует: Канделябр."
       },
@@ -1792,13 +1792,13 @@
         "tips": "Требует: Шпинат."
       },
       "HOLYBOOK": {
-        "name": "Королевская Библия",
+        "name": "Библия Короля",
         "description": "Кружится вокруг персонажа.",
         "tips": "Лучше сочитается с: скорость, срок, размер."
       },
       "VESPERS": {
-        "name": "Нечестивая Вечерня",
-        "description": "Улучшенная Королевская Библия. Никогда не заканчивается.",
+        "name": "Жуткая Вечерня",
+        "description": "Улучшенная Библия Короля. Никогда не заканчивается.",
         "tips": "Требует: Заклинатель."
       },
       "CROSS": {
@@ -1837,7 +1837,7 @@
         "tips": "Лучше сочитается с: откат, срок."
       },
       "SILF2": {
-        "name": "Эбонитовые Крылья",
+        "name": "Черные Крылья",
         "description": "Бомбардирует в кружащейся зоне.",
         "tips": "Лучше сочитается с: откат, срок."
       },
@@ -1919,11 +1919,11 @@
       },
       "SILF3": {
         "name": "Вандалист",
-        "description": "Союз Эбонитовых Крыльев и Пишона."
+        "description": "Союз Черных Крыльев и Пишона."
       },
       "REVIVAL": {
         "name": "Тирагису",
-        "description": "Возрождает один раз с 50% ОЗ."
+        "description": "Оживляет один раз с 50% ОЗ."
       },
       "LOOP": {
         "name": "Громовая петля",
@@ -2099,7 +2099,7 @@
       },
       "GROWTH": {
         "name": "Corona",
-        "description": "El personaje consigue un 7 % más de experiencia."
+        "description": "El personaje consigue un 8% más de experiencia."
       },
       "LUCK": {
         "name": "Trébol",

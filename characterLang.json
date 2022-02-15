@@ -23,7 +23,7 @@
         "surname": "贝尔帕斯"
       },
       "IMELDA": {
-        "description": "每 5 级增加 10% 的伤害（最多 +30%）。",
+        "description": "每5级增加10%的经验（最多 +30%）。",
         "charName": "伊梅尔达",
         "surname": "贝尔帕斯"
       },
@@ -34,7 +34,7 @@
       },
       "DOMMARIO": {
         "charName": "多马利奥",
-        "description": "永久持续时间和速度+40%，移动速度-30%。"
+        "description": "永久持续时间和速度+40%， 移动速度-30%。"
       },
       "EXDASH": {
         "description": "至少他们是幸运的。"
@@ -46,8 +46,8 @@
       },
       "GERMANA": {
         "charName": "克莱里奇",
-        "description": "永久生命值每秒0.5，且最大生命值 +30。开局带有临时范围加成。",
-        "prefix": "寒"
+        "description": "永久生命值每秒0.5， 且最大生命值 +30。 开局带有临时范围加成。",
+        "prefix": "苏奥尔"
       },
       "MORTACCIO": {
         "charName": "莫塔乔",
@@ -55,7 +55,7 @@
       },
       "CAMILLO": {
         "charName": "波",
-        "description": "永久拾取范围+25%，但最大生命值 -30。",
+        "description": "永久拾取范围+25%， 但最大生命值 -30。",
         "surname": "拉奇奥"
       },
       "PASQUALINA": {
@@ -65,13 +65,13 @@
       },
       "PORTA": {
         "charName": "波尔塔",
-        "description": "永久 +30% 范围。开局带有临时冷却加成。",
+        "description": "永久范围+30%开局带有临时冷却加成。",
         "surname": "拉多纳"
       },
       "CROCI": {
         "name": "克罗奇",
         "surname": "弗赖托",
-        "description": "1级复活一次。33级在获得复活一次"
+        "description": "1级复活一次。 33级在获得复活一次"
       }
     }
   },
@@ -202,7 +202,7 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "=+ 0.5 PV et + 30 de santé max, en permanence. Commence avec un bonus de portée temporaire.",
+        "description": "+ 0.5 PV et + 30 de santé max, en permanence. Commence avec un bonus de portée temporaire.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
@@ -423,7 +423,7 @@
       },
       "PASQUALINA": {
         "charName": "파스퀼리나",
-        "description": "매 5레벨마다 발사체의 속도가 10%증가합니다. (최대 +30%)",
+        "description": "매 5레벨마다 투사체의 속도가 10%증가합니다. (최대 +30%)",
         "surname": "벨파에제"
       },
       "PORTA": {
@@ -641,7 +641,7 @@
       "CROCI": {
         "name": "Крочи",
         "surname": "Фритто",
-        "description": "Начинает с 1 Возрождением. Получает по 1 Возрождению каждые 33 уровня."
+        "description": "Сразу +1 Оживление. Получает 1 Оживление каждые 33 уровня."
       }
     }
   },
