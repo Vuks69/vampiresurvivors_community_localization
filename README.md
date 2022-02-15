@@ -22,3 +22,4 @@ To easily get to the game's base folder, go to your Steam Library, rightclick th
 
 ## Contributors
 * Polski: @Wikizza (WikiDev#1816), @RedHeadMaster (RedHeadMaster#6618), @Vuks69 (Vuks#5767)
+* Türkçe: sicey9#0293
