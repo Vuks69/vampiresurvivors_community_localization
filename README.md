@@ -23,7 +23,14 @@ Download all `.json` files and put them in `Vampire Survivors\resources\app\.web
 To easily get to the game's base folder, go to your Steam Library, rightclick the game and select `Manage > Browse local files`
 
 ## Contributors
-* PL/Polski: @Wikizza (WikiDev#1816), @RedHeadMaster (RedHeadMaster#6618), @Vuks69 (Vuks#5767), DavidGildour#3337
-* UK/Українська: Pilgrim#5341
-* TR/Türkçe: sicey9#0293
-* DE/Deutsch: ReverseZoom#4923
+* PL/Polski:
+  * @Wikizza (WikiDev#1816)
+  * @RedHeadMaster (RedHeadMaster#6618)
+  * @Vuks69 (Vuks#5767)
+  * DavidGildour#3337
+* UK/Українська:
+  * Pilgrim#5341
+* TR/Türkçe:
+  * sicey9#0293
+* DE/Deutsch:
+  * ReverseZoom#4923
