@@ -1556,7 +1556,146 @@
     "english": "Ukrainian",
     "native": "Українська",
     "api": "ukrainian",
-    "translations": {}
+    "translations": {
+      "ReachLV5": {
+        "description": "Досягти Рівня 5."
+      },
+      "ReachLV10": {
+        "description": "Досягти Рівня 10."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Тримайте 6 різних видів зброї одночасно."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Отримайте Вогняний Жезл 4 рівня."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Отримайте Королівську Біблію 4 рівня."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Отримайте Святу Воду 4 рівня."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Отримайте Кільце Блискавки 4 рівня."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Отримайте Магічний Жезл 7 рівня."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Отримайте Пішона 7 рівня."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Отримайте Рунтрейсер 7 рівня."
+      },
+      "Survive1Minute": {
+        "description": "Виживіть 1 хвилину з будь-яким персонажем."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Виживіть 5 хвилин з Паскуаліну."
+      },
+      "Survive10Minutes": {
+        "description": "Виживіть 10 хвилин із будь-яким персонажем."
+      },
+      "Survive20Minutes": {
+        "description": "Виживіть 20 хвилин із будь-яким персонажем."
+      },
+      "Destroy20Candles": {
+        "description": "Знищте 20 джерел світла."
+      },
+      "Eat5PotRoast": {
+        "description": "Знайти 5 Смажених Курчат."
+      },
+      "FindAClover": {
+        "description": "Знайдіть Маленьку Конюшини."
+      },
+      "FindAVacuum": {
+        "description": "Знайдіть Вакуум."
+      },
+      "FindAnOrologion": {
+        "description": "Знайдіть Орологіон."
+      },
+      "FindARosary": {
+        "description": "Знайдіть Четки."
+      },
+      "Defeat5000Enemies": {
+        "description": "Переможіть загалом 5000 ворогів."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Переможіть загалом 3000 скелетів."
+      },
+      "DefeatBossMadForest": {
+        "description": "Переможіть гігантську Блакитну Венеру у Божевільному лісі."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Досягніть  20 рівня у Божевільному лісі."
+      },
+      "DefeatBossLibrary": {
+        "description": "Переможіть Несуферіта в Бібліотеці."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Виживіть 5 хвилин із Дженнаро."
+      },
+      "FindAStoneMask": {
+        "description": "Знайдіть Кам'яну Маску."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Отримайте Часник 7 рівня."
+      },
+      "EvolveWhip": {
+        "description": "Поліпшіть Батіг."
+      },
+      "EvolveMagicWand": {
+        "description": "Поліпшіть Магічний Жезл."
+      },
+      "EvolveKnife": {
+        "description": "Поліпшіть Ніж."
+      },
+      "EvolveAxe": {
+        "description": "Поліпшіть Сокиру."
+      },
+      "EvolveCross": {
+        "description": "Поліпшіть Хрест."
+      },
+      "EvolveKingBible": {
+        "description": "Поліпшіть Королівську Біблію."
+      },
+      "EvolveFireWand": {
+        "description": "Поліпшіть Вогняне Жезло."
+      },
+      "Defeat100KEnemies": {
+        "description": "Переможіть загалом 100000 ворогів."
+      },
+      "Recover1000HP": {
+        "description": "Відновіть загалом 1000 ОЗ."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Заробіть 5000 монет за один забіг."
+      },
+      "EvolveSantaWater": {
+        "description": "Поліпшіть Святу Воду."
+      },
+      "UniteBirds": {
+        "description": "Об'єднайте Ебонітові Крила та Пішона."
+      },
+      "EvolveGarlic": {
+        "description": "Поліпшіть часник."
+      },
+      "Unlock2Hypers": {
+        "description": "Відкрийте режим Гіпер для двох етапів."
+      },
+      "EvolveLightning": {
+        "description": "Поліпшіть Кільце Блискавки."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Досягніть рівня 100 з Мортаччо."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Виживіть 30 хвилин у Зелених Акрах."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Виживіть 20 хвилин із Крочі."
+      }
+    }
   },
   "vn": {
     "english": "Vietnamese",
