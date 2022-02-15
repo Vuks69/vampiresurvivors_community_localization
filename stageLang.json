@@ -1,64 +1,5 @@
 {
   "xx": {},
-  "ar": {
-    "english": "Arabic",
-    "native": "العربية",
-    "api": "arabic",
-    "translations": {}
-  },
-  "bg": {
-    "english": "Bulgarian",
-    "native": "български език",
-    "api": "bulgarian",
-    "translations": {}
-  },
-  "zh-CN": {
-    "english": "Chinese",
-    "native": "简体中文",
-    "api": "schinese",
-    "translations": {
-      "FOREST": {
-        "stageName": "疯狂森林",
-        "description": "城堡是个谎言，但这里仍有免费的烤鸡，所以没关系。",
-        "hyperTips": "金币加成50%"
-      },
-      "LIBRARY": {
-        "stageName": "镶嵌图书馆",
-        "description": "这个安静的长条形图书馆是休息、冥想和搜寻烤鸡的理想场所。但这里为什么会有石面具？",
-        "hyperTips": "金币加成50%\n幸运加成10%"
-      },
-      "GREENACRES": {
-        "stageName": "绿地",
-        "description": "不允许凡人进入的地方。命运时时刻刻都在改变。",
-        "tips": "敌人生命值 +50%",
-        "hyperTips": "金币加成50%\n幸运加成10%"
-      }
-    }
-  },
-  "zh-TW": {
-    "english": "Chinese (Traditional)",
-    "native": "繁體中文",
-    "api": "tchinese",
-    "translations": {}
-  },
-  "cs": {
-    "english": "Czech",
-    "native": "čeština",
-    "api": "czech",
-    "translations": {}
-  },
-  "da": {
-    "english": "Danish",
-    "native": "Dansk",
-    "api": "danish",
-    "translations": {}
-  },
-  "nl": {
-    "english": "Dutch",
-    "native": "Nederlands",
-    "api": "dutch",
-    "translations": {}
-  },
   "en": {
     "english": "English",
     "native": "English",
@@ -82,265 +23,28 @@
       }
     }
   },
-  "fi": {
-    "english": "Finnish",
-    "native": "Suomi",
-    "api": "finnish",
-    "translations": {}
-  },
-  "fr": {
-    "english": "French",
-    "native": "Français",
-    "api": "french",
-    "translations": {
-      "FOREST": {
-        "stageName": "Forêt folle",
-        "description": "Le Château est un mensonge. Mais il y a quand même du poulet rôti gratuit dans le coin, alors tout va bien.",
-        "hyperTips": "50 % d'or bonus"
-      },
-      "LIBRARY": {
-        "stageName": "Bibliothèque marquetée",
-        "description": "Calme, cette bibliothèque longiligne est l'endroit idéal pour se reposer, méditer et chercher du poulet rôti. Mais pourquoi y a-t-il un masque de pierre ici ?",
-        "hyperTips": "50 % d'or bonus\n10 % de chance bonus"
-      },
-      "GREENACRES": {
-        "stageName": "Grande pâture",
-        "description": "Un lieu interdit aux mortels. Là-bas, chaque minute qui passe fait vaciller le destin.",
-        "tips": "Santé des ennemis + 50 %",
-        "hyperTips": "50 % d'or bonus\n10 % de chance bonus"
-      }
-    }
-  },
-  "de": {
-    "english": "German",
-    "native": "Deutsch",
-    "api": "german",
-    "translations": {
-      "FOREST": {
-        "stageName": "Verrückter Wald",
-        "description": "Das Schloss ist eine Lüge, aber hier gibt es trotzdem kostenloses Brathähnchen, also ist alles gut.",
-        "hyperTips": "50% Goldbonus"
-      },
-      "LIBRARY": {
-        "stageName": "Intarsienbibliothek",
-        "hyperTips": "50% Goldbonus\n10% Glücksbonus"
-      },
-      "GREENACRES": {
-        "stageName": "Grüner Acker",
-        "description": "Ein Ort, an dem Sterbliche nicht erlaubt sind. Das Schicksal ändert sich jede Minute.",
-        "tips": "Gesundheit der Gegner +50%",
-        "hyperTips": "50% Goldbonus\n10% Glücksbonus"
-      }
-    }
-  },
-  "el": {
-    "english": "Greek",
-    "native": "Ελληνικά",
-    "api": "greek",
-    "translations": {}
-  },
-  "hu": {
-    "english": "Hungarian",
-    "native": "Magyar",
-    "api": "hungarian",
-    "translations": {}
-  },
-  "it": {
-    "english": "Italian",
-    "native": "Italiano",
-    "api": "italian",
-    "translations": {}
-  },
-  "ja": {
-    "english": "Japanese",
-    "native": "日本語",
-    "api": "japanese",
-    "translations": {
-      "FOREST": {
-        "stageName": "狂乱の森",
-        "description": "城は偽物だが、 ここではタダでロースト チキンが手に入るのでいいとしよう。",
-        "hyperTips": "50%ゴールドボーナス"
-      },
-      "LIBRARY": {
-        "stageName": "象眼の図書館",
-        "description": "このどこまでも長く続く図書館は、 いつでも静けさに包まれている。 休息や瞑想はもちろんのこと…… ローストチキン探しにもぴったりだ。しかし、なぜこんなところに石の仮面があるんだろうか？",
-        "hyperTips": "50%のゴールドボーナス\n10%の運気ボーナス"
-      },
-      "GREENACRES": {
-        "stageName": "緑の地",
-        "description": "人間は決して立ち入れない場所。 ここでは運命が数分で変わってしまう。",
-        "tips": "敵のライフ50%アップ",
-        "hyperTips": "50%のゴールドボーナス\n10%の運気ボーナス"
-      }
-    }
-  },
-  "ko": {
-    "english": "Korean",
-    "native": "한국어",
-    "api": "koreana",
-    "translations": {
-      "FOREST": {
-        "stageName": "광기의 숲",
-        "description": "성은 가짜지만 바닥에 공짜 치킨이 굴러다니네요. 뭐 아무래도 좋지 않습니까?",
-        "hyperTips": "골드 50% 보너스"
-      },
-      "LIBRARY": {
-        "stageName": "화려한 도서관",
-        "description": "조용하고 큰 도서관으로 휴식, 명상은 물론 치킨을 찾으러 다니기에도 좋습니다. 그런데 돌가면은 여기서 뭘 하는 걸까요?",
-        "hyperTips": "골드 50% 보너스\n행운 10% 보너스"
-      },
-      "GREENACRES": {
-        "stageName": "푸른 초원",
-        "description": "필멸자에겐 허락되지 않은 지역입니다. 운명은 시시각각 변합니다.",
-        "tips": "적 체력 +50%",
-        "hyperTips": "골드 50% 보너스\n행운 10% 보너스"
-      }
-    }
-  },
-  "no": {
-    "english": "Norwegian",
-    "native": "Norsk",
-    "api": "norwegian",
-    "translations": {}
-  },
+ 
   "pl": {
     "english": "Polish",
     "native": "Polski",
     "api": "polish",
     "translations": {
       "FOREST": {
-        "stageName": "Las Szaleńców",
-        "description": "Na Zamek nie ma co liczyć, ale przynajmniej jest tu trochę darmowego kurczaka z rożna, więc jest całkiem spoko.",
+        "stageName": "Obłąkany Las",
+        "description": "Na Zamek nie ma co liczyć, ale przynajmniej można znaleźć darmowe Kurczaki na Podłodze, więc nie ma co narzekać.",
         "hyperTips": "50% premii do Złota"
       },
       "LIBRARY": {
-        "stageName": "Biblioteka",
-        "description": "Ta cicha, przepastna biblioteka to idealne miejsce na odpoczynek, przemyślenia i splądrowanie kilku pieczonych kurczaków. Ale co, u licha, robi tu ta kamienna maska?",
+        "stageName": "Mozaikowa Biblioteka",
+        "description": "Ta cicha, przepastna biblioteka to idealne miejsce na odpoczynek, przemyślenia i zebranie kilku pieczonych kurczaków. Ale co, u licha, robi tu ta kamienna maska?",
         "hyperTips": "50% premii do Złota\n10% premii do Szczęścia"
       },
       "GREENACRES": {
-        "stageName": "Zielone Włości",
-        "description": "Miejsce, gdzie śmiertelnicy nie są mile widziani. Los zmienia się z każdą minutą.",
+        "stageName": "Zielony Zagon",
+        "description": "Miejsce, gdzie śmiertelnicy nie mają wstępu. Los zmienia się z każdą minutą.",
         "tips": "Zdrowie przeciwników +50%",
         "hyperTips": "50% premii do Złota\n10% premii do Szczęścia"
       }
     }
   },
-  "pt": {
-    "english": "Portuguese",
-    "native": "Português",
-    "api": "portuguese",
-    "translations": {}
-  },
-  "pt-BR": {
-    "english": "Portuguese-Brazil",
-    "native": "Português-Brasil",
-    "api": "brazilian",
-    "translations": {
-      "FOREST": {
-        "stageName": "Floresta Louca",
-        "description": "O Castelo é uma mentira, mas ao menos tem frango assado aqui, então tudo bem.",
-        "hyperTips": "50% Bônus em moedas"
-      },
-      "LIBRARY": {
-        "stageName": "Biblioteca Imbutida",
-        "description": "Esta biblioteca quieta e longa é o lugar ideal para descansar, meditar e procurar frangos assados. Mas o que uma máscara de pedra está fazendo aqui?",
-        "hyperTips": "50% Bônus em moedas\n10% Bônus de Sorte"
-      },
-      "GREENACRES": {
-        "stageName": "Planicies Verdes",
-        "description": "Um lugar onde mortais não são permitidos. O destino muda a cada minuto.",
-        "tips": "Saúde dos inimigos +50%",
-        "hyperTips": "50% Bônus em moedas\n10% Bônus de Sorte"
-      }
-    }
-  },
-  "ro": {
-    "english": "Romanian",
-    "native": "Română",
-    "api": "romanian",
-    "translations": {}
-  },
-  "ru": {
-    "english": "Russian",
-    "native": "Русский",
-    "api": "russian",
-    "translations": {
-      "FOREST": {
-        "stageName": "Безумный Лес",
-        "description": "Замок - ложь, но здесь все еще есть бесплатный жареный цыпленок, так что все хорошо.",
-        "hyperTips": "50% бонус к Золоту"
-      },
-      "LIBRARY": {
-        "stageName": "Библиотека",
-        "description": "Эта тихая длинная библиотека - идеальное место для отдыха, медитации и приготовления жареного цыпленка. Но что здесь делает каменная маска?",
-        "hyperTips": "50% бонус к Золоту\n10% бонус к Удаче"
-      },
-      "GREENACRES": {
-        "stageName": "Зеленые Акры",
-        "description": "Место, куда смертным вход воспрещен. Судьба меняется каждую минуту.",
-        "tips": "Здоровье врагов +50%",
-        "hyperTips": "50% бонус к Золоту\n10% бонус к Удаче"
-      }
-    }
-  },
-  "es": {
-    "english": "Spanish",
-    "native": "Español",
-    "api": "spanish",
-    "translations": {
-      "FOREST": {
-        "stageName": "Bosque Demente",
-        "description": "El castillo es de mentira, pero aún queda pollo asado gratis por aquí, así que no pasa nada.",
-        "hyperTips": "Bonus de 50 % de oro"
-      },
-      "LIBRARY": {
-        "stageName": "Biblioteca Interna",
-        "description": "Esta biblioteca tranquila y grande es perfecta para descansar, meditar y recolectar pollo asado. ¿Qué hace aquí esta máscara de piedra?",
-        "hyperTips": "Bonus de 50 % de oro\nBonus de 10 % de suerte"
-      },
-      "GREENACRES": {
-        "stageName": "Llanuras Verdes",
-        "description": "Un lugar prohibido para los mortales. Su destino cambia cada minuto.",
-        "tips": "Salud de los enemigos +50 %",
-        "hyperTips": "Bonus de 50 % de oro\nBonus de 10 % de suerte"
-      }
-    }
-  },
-  "es-419": {
-    "english": "Spanish-Latin America",
-    "native": "Español-Latinoamérica",
-    "api": "latam",
-    "translations": {}
-  },
-  "sv": {
-    "english": "Swedish",
-    "native": "Svenska",
-    "api": "swedish",
-    "translations": {}
-  },
-  "th": {
-    "english": "Thai",
-    "native": "ไทย",
-    "api": "thai",
-    "translations": {}
-  },
-  "tr": {
-    "english": "Turkish",
-    "native": "Türkçe",
-    "api": "turkish",
-    "translations": {}
-  },
-  "uk": {
-    "english": "Ukrainian",
-    "native": "Українська",
-    "api": "ukrainian",
-    "translations": {}
-  },
-  "vn": {
-    "english": "Vietnamese",
-    "native": "Tiếng Việt",
-    "api": "vietnamese",
-    "translations": {}
-  }
 }
