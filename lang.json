@@ -1182,7 +1182,7 @@
       "preload_warning_text": "Ta gra zawiera efekty jasnych, migających świateł. Prosimy o natychmiastowe zaprzestanie gry i konsultację z lekarzem jeśli zauważysz u siebie zawroty głowy, zaburzenia wzroku, skurcze mięśni twarzy i/lub oczu, skurcze rąk i nóg, problemy z orientacją lub chwilowe utraty świadomości.\n\nJeśli Ty lub ktokolwiek z Twoich krewnych cierpiał w przeszłości na udary lub epilepsję, przed rozpoczęciem gry skonsultuj się z lekarzem.",
       "credit_translation": "TŁUMACZENIE",
       "levelup_skip": "POMINIĘCIE",
-      "levelup_reroll": "PRZELOSOWANIE"
+      "levelup_reroll": "PRZELOSOWANIE",
       "levelup_Xleft": "pozostało %0"
     }
   },
