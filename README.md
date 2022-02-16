@@ -32,5 +32,6 @@ To easily get to the game's base folder, go to your Steam Library, rightclick th
   * Pilgrim#5341
 * TR/Türkçe:
   * sicey9#0293
+  * Mark Lindsay
 * DE/Deutsch:
   * ReverseZoom#4923
