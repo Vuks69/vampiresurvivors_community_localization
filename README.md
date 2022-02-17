@@ -2,7 +2,7 @@
 
 Updated for Vampire Survivors v0.2.12
 
-Currently available community translations: PL, UK, TR, DE
+Currently available community translations: PL, UK, TR, DE, EO
 
 ## Official sources
 
@@ -35,3 +35,5 @@ To easily get to the game's base folder, go to your Steam Library, rightclick th
   * Mark Lindsay
 * DE/Deutsch:
   * ReverseZoom#4923
+* EO/Esperanto:
+  * ᏕᏖᎩᎶᎥᎶᎧᏖᏂ ♡#7082

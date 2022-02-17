@@ -160,6 +160,68 @@
       }
     }
   },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "CLOVER": {
+        "description": "Elektu por akiri 10% pli bonŝanca.",
+        "name": "Eta Trifolio"
+      },
+      "COIN": {
+        "description": "Aldonas 1 al viaj oraj moneroj entute.",
+        "name": "Ora Monero"
+      },
+      "COINBAG1": {
+        "description": "Aldonas 10 al viaj oraj moneroj entute.",
+        "name": "Monera Sako"
+      },
+      "COINBAG2": {
+        "description": "Aldonas 25 al viaj oraj moneroj entute.",
+        "name": "Granda Monera Sako"
+      },
+      "COINBAGMAX": {
+        "description": "Aldonas 100 al viaj oraj moneroj entute.",
+        "name": "Riĉa Monera Sako",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "GEM": {
+        "description": "Pliigas sperton.",
+        "name": "Sperta Gemo"
+      },
+      "OROLOGION": {
+        "description": "Frostas ĉiujn malamikojn ĝustatempe dum 10 sekundoj.",
+        "name": "Orologion",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "ROAST": {
+        "description": "Restarigas 30 sanpoentojn.",
+        "name": "Planka Kokido",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "ROSARY": {
+        "description": "Detruas ĉiujn malamikojn en vido.",
+        "name": "Rosario",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "TREASURE": {
+        "description": "Premioj moneroj kaj potenco-ups. Faligite de fortaj malamikoj.",
+        "name": "Trezorkesto",
+        "tips": "Kvalito trafita de Bonŝanco."
+      },
+      "VACUUM": {
+        "description": "Kolektas ĉiujn spertajn gemojn lasitajn sur la tero.",
+        "name": "Vakuo",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "NFT": {
+        "description": "Provizore elsendas konusojn de flamoj. Trafita de ludanta statistiko.",
+        "name": "Nduja Fritta",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      }
+    }
+  },
   "fi": {
     "english": "Finnish",
     "native": "Suomi",

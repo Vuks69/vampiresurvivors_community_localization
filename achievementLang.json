@@ -326,6 +326,151 @@
       }
     }
   },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "ReachLV5": {
+        "description": "Atingu la Nivelon 5."
+      },
+      "ReachLV10": {
+        "description": "Atingu la Nivelon 10."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Tenu 6 malsamajn armilojn samtempe."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Akiru Fajrvergon al Nivelo 4."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Akiru Reĝan Biblion al Nivelo 4."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Akiru Santa Akvon al Nivelo 4."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Akiru Fulman Ringon al Nivelo 4."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Akiru Magiavergon al Nivelo 7."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Akiru Peachone al Nivelo 7."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Airu Runspuron al Nivelo 7."
+      },
+      "Survive1Minute": {
+        "description": "Travivu 1 minuton kun iu ajn rolulo."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Travivu 5 minutojn kun Paskalina."
+      },
+      "Survive10Minutes": {
+        "description": "Travivu 10 minutojn kun iu ajn rolulo."
+      },
+      "Survive20Minutes": {
+        "description": "Travivu 20 minutojn kun iu ajn rolulo."
+      },
+      "Destroy20Candles": {
+        "description": "Detruu 20 lumfontojn."
+      },
+      "Eat5PotRoast": {
+        "description": "Trovu 5 Plankajn Kokidojn."
+      },
+      "FindAClover": {
+        "description": "Trovu Etan Trifolion."
+      },
+      "FindAVacuum": {
+        "description": "Trovu Vakuon."
+      },
+      "FindAnOrologion": {
+        "description": "Trovu Orologion."
+      },
+      "FindARosary": {
+        "description": "Trovu Rosarion."
+      },
+      "Defeat5000Enemies": {
+        "description": "Venku entute 5000 malamikojn."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Venku entute 3000 skeletojn."
+      },
+      "DefeatBossMadForest": {
+        "description": "Venku la gigantan Bluan Venuson en la Freneza Arbaro."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Atingu la Nivelon 20 en Freneza Arbaro."
+      },
+      "DefeatBossLibrary": {
+        "description": "Venku la Nesuferiton en la Inkrustita Biblioteko."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Travivu 5 minutojn kun Gennaro."
+      },
+      "FindAStoneMask": {
+        "description": "Trovu Ŝtonan Maskon."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Akiru Ajlon al Nivelo 7."
+      },
+      "EvolveWhip": {
+        "description": "Evoluu la Vipon."
+      },
+      "EvolveMagicWand": {
+        "description": "Evoluu la Magiavergon."
+      },
+      "EvolveKnife": {
+        "description": "Evoluu la Tranĉilon."
+      },
+      "EvolveAxe": {
+        "description": "Evoluu la Hakilon."
+      },
+      "EvolveCross": {
+        "description": "Evoluu la Krucon."
+      },
+      "EvolveKingBible": {
+        "description": "Evoluu la Reĝan Biblion."
+      },
+      "EvolveFireWand": {
+        "description": "Evoluu la Fajrvergon."
+      },
+      "Defeat100KEnemies": {
+        "description": "Venku entute 100000 malamikojn."
+      },
+      "Recover1000HP": {
+        "description": "Rekuperu entute 1000 SP."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Gajnu 5000 monerojn en ununura kuro."
+      },
+      "EvolveSantaWater": {
+        "description": "Evoluu la Santa Akvon."
+      },
+      "UniteBirds": {
+        "description": "Unuigu Ebonajn Flugilojn kaj Peachone."
+      },
+      "EvolveGarlic": {
+        "description": "Evoluu la Ajlon."
+      },
+      "Unlock2Hypers": {
+        "description": "Malŝlosu Hyper-reĝimon por 2 stadioj."
+      },
+      "EvolveLightning": {
+        "description": "Evoluu la Fulman Ringon."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Atingu Nivelon 100 kun Mortaĉio."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Travivu 30 minutojn en Verdaj Akreoj."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Travivu 20 minutojn kun Kroĉi."
+      }
+    }
+  },
   "fi": {
     "english": "Finnish",
     "native": "Suomi",

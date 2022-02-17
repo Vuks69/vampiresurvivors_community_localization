@@ -82,6 +82,29 @@
       }
     }
   },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "FOREST": {
+        "stageName": "Freneza Arbaro",
+        "description": "La Kastelo estas mensogo, sed ankoraŭ estas senpaga rostita kokido ĉi tie, do ĉio bonas.",
+        "hyperTips": "50% Ora bonuso"
+      },
+      "LIBRARY": {
+        "stageName": "Inkrustitlibrejo",
+        "description": "Ĉi tiu trankvila, longa biblioteko estas la ideala loko kie ripozi, mediti kaj furaĝi por rostita kokido. Sed kion faras ĉi tie ŝtona masko?",
+        "hyperTips": "50% Ora bonuso\n10% Bonŝanca bonuso"
+      },
+      "GREENACRES": {
+        "stageName": "Verdaj Akreoj",
+        "description": "Loko kie mortontoj ne estas permesitaj. La sorto ŝanĝiĝas ĉiun minuton.",
+        "tips": "Sano de malamikoj +50%",
+        "hyperTips": "50% Ora bonuso\n10% Bonŝanca bonuso"
+      }
+    }
+  },
   "fi": {
     "english": "Finnish",
     "native": "Suomi",
