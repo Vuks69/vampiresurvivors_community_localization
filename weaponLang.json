@@ -448,6 +448,212 @@
       }
     }
   },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "WHIP": {
+        "name": "Vipo",
+        "description": "Atakos horizontale, pasas tra malamikoj.",
+        "tips": "Ignoras: rapideco, daŭro."
+      },
+      "VAMPIRICA": {
+        "name": "Sange Ŝiro",
+        "description": "Evoluinta Vipo. Povas kaŭzi kritikan damaĝon kaj sorbi SP.",
+        "tips": "Postulas: Kava Koro"
+      },
+      "MAGIC_MISSILE": {
+        "name": "Magiavergo",
+        "description": "Pafas al la plej proksima malamiko.",
+        "tips": "Ignoras: daŭro."
+      },
+      "HOLY_MISSILE": {
+        "name": "Sanktavergo",
+        "description": "Evoluinta Magiavergo. Pafas sen prokrasto.",
+        "tips": "Postulas: Malplena Tomo."
+      },
+      "AXE": {
+        "name": "Hakilo",
+        "description": "Multe da damaĝo, multe da Areo-skalado.",
+        "tips": "Ignoras: daŭro."
+      },
+      "SCYTHE": {
+        "name": "Spiralo de Morto",
+        "description": "Evoluinta Hakilo. Pasas tra malamikoj.",
+        "tips": "Postulas: Kandelabrador."
+      },
+      "KNIFE": {
+        "name": "Tranĉilo",
+        "description": "Pafas rapide en la fronta direkto.",
+        "tips": "Ignoras: daŭro."
+      },
+      "THOUSAND": {
+        "name": "Mil Rando",
+        "description": "Evoluinta Tranĉilo. Pafas sen prokrasto.",
+        "tips": "Postulas: Stego."
+      },
+      "HOLYWATER": {
+        "name": "Santa Akvo",
+        "description": "Generas damaĝajn zonojn.",
+        "tips": "Ignoras: rapideco."
+      },
+      "DIAMOND": {
+        "name": "Runspuron",
+        "description": "Trapasas malamikojn, resaltas ĉirkaŭe.",
+        "tips": "Plej bone kun: rapideco, daŭro."
+      },
+      "FIREBALL": {
+        "name": "Fajrvergo",
+        "description": "Pafas kontraŭ hazarda malamiko, kaŭzas pezan damaĝon.",
+        "tips": "Ignoras: daŭro."
+      },
+      "HELLFIRE": {
+        "name": "Inferafajro",
+        "description": "Evoluinta Fajrvergo. Pasas tra malamikoj.",
+        "tips": "Postulas: Spinaco."
+      },
+      "HOLYBOOK": {
+        "name": "Reĝa Biblio",
+        "description": "Orbitas ĉirkaŭ la rolulo.",
+        "tips": "Plej bone kun: rapideco, daŭro, areo."
+      },
+      "VESPERS": {
+        "name": "Malsanktaj Vesperoj",
+        "description": "Evoluinta Reĝa Biblio. Neniam finiĝas.",
+        "tips": "Postulas: Sorĉligo."
+      },
+      "CROSS": {
+        "name": "Kruco",
+        "description": "Celas plej proksiman malamikon, havas bumerangan efikon.",
+        "tips": "Ignoras: daŭro."
+      },
+      "HEAVENSWORD": {
+        "name": "Ĉiela Glavo",
+        "description": "Evoluinta Kruco. Povas kaŭzi kritikan damaĝon.",
+        "tips": "Postulas: Trifolio."
+      },
+      "GARLIC": {
+        "name": "Ajlo",
+        "description": "Damaĝas proksimajn malamikojn. Reduktas reziston al refrapo kaj frosto.",
+        "tips": "Ignoras: kvanto, daŭro, rapideco."
+      },
+      "LAUREL": {
+        "name": "Laŭro",
+        "description": "Ŝildas kontraŭ damaĝo kiam aktiva.",
+        "tips": "Plej bone kun: malvarmigo nur."
+      },
+      "LIGHTNING": {
+        "name": "Fulma Ringo",
+        "description": "Batas kontraŭ hazardaj malamikoj.",
+        "tips": "Ignoras: rapideco, daŭro."
+      },
+      "PENTAGRAM": {
+        "name": "Pentagramo",
+        "description": "Forigas ĉion en vido.",
+        "tips": "Plej bone kun: malvarmigo kaj bonŝanco nur."
+      },
+      "SILF": {
+        "name": "Peachone",
+        "description": "Bombardas en ronda zono.",
+        "tips": "Plej bone kun: malvarmigo, daŭro."
+      },
+      "SILF2": {
+        "name": "Ebonaj Flugiloj",
+        "description": "Bombardas en ronda zono.",
+        "tips": "Plej bone kun: malvarmigo, daŭro."
+      },
+      "BONE": {
+        "name": "Osto",
+        "description": "Ĵetas resaltan kuglon.",
+        "tips": "Plej bone kun: daŭro, rapideco."
+      },
+      "LANCET": {
+        "name": "Horloĝo Lanceto",
+        "description": "Ŝanco frostigi malamikojn ĝustatempe.",
+        "tips": "Ignoras: potencon, rapidecon, kvanton, areon."
+      },
+      "POWER": {
+        "name": "Spinaco",
+        "description": "Pliigas kaŭzitan damaĝon je 10%."
+      },
+      "AREA": {
+        "name": "Kandelabrador",
+        "description": "Pliigas la areon de atakoj je 10%."
+      },
+      "SPEED": {
+        "name": "Stego",
+        "description": "Pliigas la rapidecon de kugloj je 10%."
+      },
+      "COOLDOWN": {
+        "name": "Malplena Tomo",
+        "description": "Reduktas la malvarmiĝon de armiloj je 8%."
+      },
+      "DURATION": {
+        "name": "Sorĉligo",
+        "description": "Pliigas la daŭron de armilefikoj je 10%."
+      },
+      "AMOUNT": {
+        "name": "Duobligilo",
+        "description": "Armiloj pafas pli da ĵetaĵoj."
+      },
+      "MAXHEALTH": {
+        "name": "Kava Koro",
+        "description": "Pliigas maks sanecon je 10%."
+      },
+      "ARMOR": {
+        "name": "Kiraso",
+        "description": "Reduktas envenantan damaĝon je 1."
+      },
+      "MOVESPEED": {
+        "name": "Flugiloj",
+        "description": "Rolulo movas 10% pli rapidan."
+      },
+      "MAGNET": {
+        "description": "Rolulo kolektas erojn de pli malproksime.",
+        "name": "Allogorbo"
+      },
+      "GROWTH": {
+        "name": "Krono",
+        "description": "Rolulo akiras 8% pli da sperto."
+      },
+      "LUCK": {
+        "name": "Trifolio",
+        "description": "Rolulo akiras 10% pli bonŝanca."
+      },
+      "GREED": {
+        "name": "Ŝtona Masko",
+        "description": "Rolulo gajnas 10% pli da moneroj."
+      },
+      "REGEN": {
+        "name": "Pummarola",
+        "description": "Rolulo reakiras 0.1 SP je sekundo."
+      },
+      "VORTEX": {
+        "name": "Animmanĝanto",
+        "description": "Evoluinta Ajlo. Ŝtelas korojn. Potenco pliiĝas dum reakiro de SP.",
+        "tips": "Postulas: Pummarola."
+      },
+      "BORA": {
+        "name": "La Borra",
+        "description": "Evoluinta Santa Akvo. Damaĝaj zonoj sekvas vin kaj kreskas kiam ili moviĝas.",
+        "tips": "Postulas: Allogorbo."
+      },
+      "SILF3": {
+        "name": "Vandaliero",
+        "description": "Unio de Ebonaj Flugiloj kaj Peachone."
+      },
+      "REVIVAL": {
+        "name": "Tiragisú",
+        "description": "Reviviĝas unufoje kun 50% saneco."
+      },
+      "LOOP": {
+        "name": "Tondro Buklo",
+        "description": "Evoluinta Fulma Ringo. Kugloj batas dufoje.",
+        "tips": "Postulas: Duobligilo."
+      }
+    }
+  },
   "fi": {
     "english": "Finnish",
     "native": "Suomi",

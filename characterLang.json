@@ -162,6 +162,69 @@
       }
     }
   },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "ANTONIO": {
+        "description": "Gajnas 10% pli da damaĝo ĉiujn 10 nivelojn (maks +50%).",
+        "charName": "Antonio",
+        "surname": "Belpaese"
+      },
+      "IMELDA": {
+        "description": "Akiras 10% pli da sperto ĉiujn 5 nivelojn (maks +30%).",
+        "charName": "Imelda",
+        "surname": "Belpaese"
+      },
+      "CIRO": {
+        "charName": "Arka",
+        "description": "Malvarmigo de armilo estas reduktita je 5% ĉiujn 10 nivelojn (maks -15%).",
+        "surname": "Ladonna"
+      },
+      "DOMMARIO": {
+        "charName": "Dommario",
+        "description": "Permanenta +40% daŭro kaj rapideco, -40% movrapideco."
+      },
+      "EXDASH": {
+        "description": "Almenaŭ ili estas bonŝancaj."
+      },
+      "GENNARO": {
+        "charName": "Ĝennaro",
+        "description": "Permanenta +1 kuglo (ĉiuj armiloj).",
+        "surname": "Belpaese"
+      },
+      "GERMANA": {
+        "charName": "Kleriĉi",
+        "description": "Permanenta +0.5 SP/s kaj +30 Maks Saneco. Komenciĝas kun provizora areo-bonuso.",
+        "prefix": "Suor"
+      },
+      "MORTACCIO": {
+        "charName": "Mortaĉio",
+        "description": "Akiras pli da ĵetaĵoj ĉiujn 20 nivelojn (maks+3)."
+      },
+      "CAMILLO": {
+        "charName": "Po",
+        "description": "Permanenta +25% ŝarĝoradiuso kaj -30 maks saneco.",
+        "surname": "Rajĉo"
+      },
+      "PASQUALINA": {
+        "charName": "Paskalina",
+        "description": "Kugloj ricevas 10% pli rapide ĉiujn 5 nivelojn (maks +30%).",
+        "surname": "Belpaese"
+      },
+      "PORTA": {
+        "charName": "Porta",
+        "description": "Permanenta +30% areo. Komenciĝas kun provizora malvarmiga bonuso.",
+        "surname": "Ladonna"
+      },
+      "CROCI": {
+        "name": "Krochi",
+        "surname": "Freetto",
+        "description": "Komenciĝas kun 1 Reviviĝo. Gajnas 1 plian Reviviĝon ĉe nivelo 33."
+      }
+    }
+  },
   "fi": {
     "english": "Finnish",
     "native": "Suomi",

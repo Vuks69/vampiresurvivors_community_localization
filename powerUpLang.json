@@ -194,6 +194,85 @@
       }
     }
   },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "POWER": {
+        "name": "Potenco",
+        "description": "Pliigas kaŭzitan damaĝon je 5% per rango (maks +25%)."
+      },
+      "REGEN": {
+        "name": "Retrovo",
+        "description": "Reakiras 0.1 SP per rango (maks 0.5) je sekundo."
+      },
+      "MAXHEALTH": {
+        "name": "Maks Saneco",
+        "description": "Pliigas maks sanecon je 10% per rango (maks +30%)"
+      },
+      "ARMOR": {
+        "name": "Kiraso",
+        "description": "Reduktas envenantan damaĝon je 1 per rango (maks -3)"
+      },
+      "AREA": {
+        "name": "Areo",
+        "description": "Pliigas areon de atakoj je 5% per rango (maks +10%)."
+      },
+      "SPEED": {
+        "name": "Rapideco",
+        "description": "Kugloj moviĝas 10% pli rapide per rango (maks 20%)."
+      },
+      "COOLDOWN": {
+        "name": "Malvarmiĝi",
+        "description": "Uzas armilojn 2.5% pli rapide per rango (maks 5%)."
+      },
+      "DURATION": {
+        "name": "Daŭro",
+        "description": "Efikoj de armiloj daŭras 15% pli longe per rango (maks +30%)."
+      },
+      "AMOUNT": {
+        "name": "Kvanto",
+        "description": "Pafas 1 plian kuglon (ĉiujn armilojn)."
+      },
+      "MOVESPEED": {
+        "name": "Movrapedecon",
+        "description": "Rolulo moviĝas 5% pli rapide per rango (maks 10%)."
+      },
+      "MAGNET": {
+        "name": "Magneto",
+        "description": "Eroj-kolekto gamo +25% per rango (maks +50%)."
+      },
+      "LUCK": {
+        "name": "Ŝanco",
+        "description": "Ŝanco akiri bonŝancon pliiĝas je 10% per rango (maks +30%)."
+      },
+      "GROWTH": {
+        "name": "Kresko",
+        "description": "Akiras 3% pli da sperto per rango (maks 15%)."
+      },
+      "GREED": {
+        "name": "Avideco",
+        "description": "Gajnas 10% pli da moneroj per rango (maks +50%)."
+      },
+      "SHIELD": {
+        "name": "Ŝildo",
+        "description": "Malhelpas damaĝon por unu atako. Stakoj kun Laŭro."
+      },
+      "REVIVAL": {
+        "name": "Reviviĝo",
+        "description": "Reviviĝas unufoje kun 50% saneco."
+      },
+      "REROLL": {
+        "name": "Reruligo",
+        "description": "Unufoje por rango, permesas akiri malsamajn elektojn dum niveliĝo."
+      },
+      "SKIP": {
+        "name": "Salto",
+        "description": "Unufoje por rango, permesas preterpasi elektojn de nivelo supren kaj akiri Sperton anstataŭe."
+      }
+    }
+  },
   "fi": {
     "english": "Finnish",
     "native": "Suomi",
