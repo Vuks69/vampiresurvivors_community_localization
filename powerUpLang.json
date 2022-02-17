@@ -236,7 +236,7 @@
         "description": "Pafas 1 plian kuglon (ĉiujn armilojn)."
       },
       "MOVESPEED": {
-        "name": "Movrapedecon",
+        "name": "Movrapedeco",
         "description": "Rolulo moviĝas 5% pli rapide per rango (maks 10%)."
       },
       "MAGNET": {
