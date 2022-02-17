@@ -4,7 +4,146 @@
     "english": "Arabic",
     "native": "العربية",
     "api": "arabic",
-    "translations": {}
+    "translations": {
+      "ReachLV5": {
+        "description": "اوصل الى مستوى 5."
+      },
+      "ReachLV10": {
+        "description": "اوصل الى مستوى 10."
+      },
+      "Have6DifferentWeapons": {
+        "description": "احمل 6 اسلحة مختلفة معاً."
+      },
+      "GetFireWandToLevel4": {
+        "description": "ارفع عصا النار الى المستوى 4."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "ارفع انجيل الملك الى المستوى 4."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "ارفع ماء سانتا الى المستوى 4."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "ارفع خاتم البرق الى المستوى 4."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "ارفع العصا السحرية الى المستوى 7."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "ارفع الحمامة الى المستوى 7."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "ارفع الطلسم المتتبع الى المستوى 7."
+      },
+      "Survive1Minute": {
+        "description": "ابقى على قيد الحياة 1 دقيقة بأي شخصية."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "ابقى على قيد الحياة 5 دقائق ب باسكالينا."
+      },
+      "Survive10Minutes": {
+        "description": "ابقى على قيد الحياة 10 دقائق بأي شخصية."
+      },
+      "Survive20Minutes": {
+        "description": "ابقى على قيد الحياة 20 دقيقة بأي شخصية."
+      },
+      "Destroy20Candles": {
+        "description": "دمر 20 مصدر ضوء."
+      },
+      "Eat5PotRoast": {
+        "description": "اعثر على 5 دجاج الأرض."
+      },
+      "FindAClover": {
+        "description": "اعثر على برسيم صغيرة."
+      },
+      "FindAVacuum": {
+        "description": "اعثر على مكنسة."
+      },
+      "FindAnOrologion": {
+        "description": "اعثر على ساعة."
+      },
+      "FindARosary": {
+        "description": "اعثر على مسباح."
+      },
+      "Defeat5000Enemies": {
+        "description": "اهزم مجموع 5000 عدو."
+      },
+      "Defeat3000Skeletons": {
+        "description": "اهزم مجموع 3000 هيكل عظمي."
+      },
+      "DefeatBossMadForest": {
+        "description": "اهزم الزهرة الزرقاء العملاقة في الغابة المجنونة."
+      },
+      "ReachLV20InMadForest": {
+        "description": "اوصل الى مستوى 20 في الغابة المجنونة."
+      },
+      "DefeatBossLibrary": {
+        "description": "اهزم النيسوفريت في المكتبة المرصعة."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "ابقى على قيد الحياة 5 دقائق ب قينارو."
+      },
+      "FindAStoneMask": {
+        "description": "اعثر على قناع حجري."
+      },
+      "GetGarlicToLevel7": {
+        "description": "ارفع الثوم الى المستوى 7."
+      },
+      "EvolveWhip": {
+        "description": "طور السوط."
+      },
+      "EvolveMagicWand": {
+        "description": "طور العصا السحرية."
+      },
+      "EvolveKnife": {
+        "description": "طور السكين."
+      },
+      "EvolveAxe": {
+        "description": "طور الفأس."
+      },
+      "EvolveCross": {
+        "description": "طور الصليب."
+      },
+      "EvolveKingBible": {
+        "description": "طور انجيل الملك."
+      },
+      "EvolveFireWand": {
+        "description": "طور عصا النار."
+      },
+      "Defeat100KEnemies": {
+        "description": "اهزم مجموع 100000 عدو."
+      },
+      "Recover1000HP": {
+        "description": "استرجع مجموع 1000 نقاط صحة."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "اجمع 5000 عملة نقدية بلعبة واحدة."
+      },
+      "EvolveSantaWater": {
+        "description": "طور ماء سانتا."
+      },
+      "UniteBirds": {
+        "description": "وحد الحمامة والأجنحة السوداء."
+      },
+      "EvolveGarlic": {
+        "description": "طور الثوم."
+      },
+      "Unlock2Hypers": {
+        "description": "افتح طور الضجيج ب 2 مرحلة."
+      },
+      "EvolveLightning": {
+        "description": "طور خاتم البرق."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "اوصل مستوى 100 ب مورتاتشيو."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "ابقى على قيد الحياة لمدة 30 دقيقة بالفدان الخضراء."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "ابقى على قيد الحياة لمدة 20 دقيقة بكروتشي."
+      }
+    }
   },
   "bg": {
     "english": "Bulgarian",
