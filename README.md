@@ -2,7 +2,7 @@
 
 Updated for Vampire Survivors v0.2.12
 
-Currently available community translations: PL, UK, TR, DE, EO
+Currently available community translations: PL, UK, TR, DE, EO, AR
 
 ## Official sources
 
@@ -24,9 +24,9 @@ To easily get to the game's base folder, go to your Steam Library, rightclick th
 
 ## Contributors
 * PL/Polski:
-  * @Wikizza (WikiDev#1816)
-  * @RedHeadMaster (RedHeadMaster#6618)
-  * @Vuks69 (Vuks#5767)
+  * WikiDev#1816 (@Wikizza)
+  * RedHeadMaster#6618 (@RedHeadMaster)
+  * Vuks#5767 (@Vuks69)
   * DavidGildour#3337
 * UK/Українська:
   * Pilgrim#5341
@@ -37,3 +37,5 @@ To easily get to the game's base folder, go to your Steam Library, rightclick th
   * ReverseZoom#4923
 * EO/Esperanto:
   * ᏕᏖᎩᎶᎥᎶᎧᏖᏂ ♡#7082
+* AR/العربية
+  * SoHyped#1111
