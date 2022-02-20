@@ -264,6 +264,10 @@
       "SKIP": {
         "name": "Skip",
         "description": "Once per rank, allows to skip level up choices and get Experience instead."
+      },
+        "CURSE": {
+        "name": "Curse",
+        "description": "Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%)."
       }
     }
   },
@@ -768,6 +772,10 @@
       "SKIP": {
         "name": "Pominięcie",
         "description": "Jednorazowo otrzymaj Doświadczenie zamiast wyboru przedmiotu przy zdobyciu poziomu."
+      },
+        "CURSE": {
+        "name": "Klątwa",
+        "description": "Zwiększa prędkość, zdrowie, ilość oraz częstotliwość przeciwników o 10% (maks. +50%)."
       }
     }
   },
