@@ -2141,7 +2141,18 @@
       },
       "Survive20MinutesWithCross": {
         "description": "Виживіть 20 хвилин із Крочі."
-      }
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "Виживіть 20 хвилин з Прокляттям не менше 10%."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Виживіть 30 хвилин із Лама."
+      },
+      "Defeat3000Buers": {
+        "description": "Вбийте в загальній кількості 3000 Левових Голів."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Досягніть 100 рівня з Ятта Кавалло."
     }
   },
   "vn": {
