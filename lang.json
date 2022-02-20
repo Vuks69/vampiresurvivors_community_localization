@@ -2329,7 +2329,8 @@
       "credit_translation": "ПЕРЕКЛАД",
       "levelup_skip": "ПРОПУСТИТИ",
       "levelup_reroll": "ПЕРЕРОЛИТИ",
-      "levelup_Xleft": "%0 залишилось"
+      "levelup_Xleft": "%0 залишилось",
+      "weaponLevelUp_curse": "Підвищує ворожу швидкість, здоров'я, чисельність і частоту появи на %0%."
     }
   },
   "vn": {
