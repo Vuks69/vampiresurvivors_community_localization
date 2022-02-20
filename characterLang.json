@@ -216,6 +216,16 @@
         "name": "Krochi",
         "surname": "Freetto",
         "description": "Starts with 1 Revival. Gains 1 more Revival at level 33."
+      },
+      "LAMA": {
+        "name": "Lama",
+        "surname": "Ladonna",
+        "description": "Gains +5% Might, MoveSpeed, and Curse every 10 levels (max +20%)."
+      },
+      "CAVALLO": {
+        "prefix": "Yatta",
+        "name": "Cavallo",
+        "description": "Gets more projectiles every 20 levels (max+3)."
       }
     }
   },
@@ -624,6 +634,16 @@
         "name": "Krochi",
         "surname": "Freetto",
         "description": "Zaczyna z 1 Odrodzeniem. Zdobywa kolejne Odrodzenie na 33 poziomie."
+      },
+      "LAMA": {
+        "name": "Lama",
+        "surname": "Ladonna",
+        "description": "Zwiększa siłę, prędkość i klątwę o 5% co 10 poziomów (maks. +20%)."
+      },
+      "CAVALLO": {
+        "prefix": "Yatta",
+        "name": "Cavallo",
+        "description": "Zyskuje dodatkowy pocisk co 20 poziomów (maks. +3)."
       }
     }
   },
