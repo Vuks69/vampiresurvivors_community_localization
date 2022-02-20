@@ -645,6 +645,15 @@
         "name": "Thunder Loop",
         "description": "Evolved Lightning Ring. Projectiles strike twice.",
         "tips": "Requires: Duplicator."
+      },
+      "CURSE": {
+        "name": "Skull O'Maniac",
+        "description": "Increases enemy speed, health, quantity, and frequency by 10%."
+      },
+      "CHERRY": {
+        "name": "Cherry Bomb",
+        "description": "Throws a bouncing projectile. Explodes, sometimes.",
+        "tips": "Best with: luck."
       }
     }
   },
@@ -1911,6 +1920,15 @@
         "name": "Pętla Gromów",
         "description": "Wyewoluowany Pierścień Gromu. Pociski uderzają dwukrotnie.",
         "tips": "Wymaga: Duplikator."
+      },
+      "CURSE": {
+        "name": "Czaszka Szaleńca",
+        "description": "Zwiększa prędkość, zdrowie, ilość oraz częstotliwość przeciwników o 10%."
+      },
+      "CHERRY": {
+        "name": "Wiśniowa Bomba",
+        "description": "Rzuca odbijającym się pociskiem. Czasem wybucha.",
+        "tips": "Najskuteczniejsza z Szczęściem."
       }
     }
   },
