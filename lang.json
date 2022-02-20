@@ -507,7 +507,8 @@
       "credit_translation": "TRANSLATION",
       "levelup_skip": "SKIP",
       "levelup_reroll": "REROLL",
-      "levelup_Xleft": "%0 left"
+      "levelup_Xleft": "%0 left",
+      "weaponLevelUp_curse": "Increases enemy speed, health, quantity, and frequency by %0%."
     }
   },
   "eo": {
@@ -1497,7 +1498,8 @@
       "credit_translation": "TŁUMACZENIE",
       "levelup_skip": "POMINIĘCIE",
       "levelup_reroll": "PRZELOSOWANIE",
-      "levelup_Xleft": "pozostało %0"
+      "levelup_Xleft": "pozostało %0",
+      "weaponLevelUp_curse": "Zwiększa prędkość, zdrowie, ilość oraz częstotliwość fal o %0%."
     }
   },
   "pt": {
