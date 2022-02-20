@@ -462,6 +462,18 @@
       },
       "Survive20MinutesWithCross": {
         "description": "Survive 20 minutes with Krochi."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "Survive 20 minutes with at least +10% Curse."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Survive 30 minutes with Lama."
+      },
+      "Defeat3000Buers": {
+        "description": "Defeat a total of 3000 Lion Heads."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Reach Level 100 with Yatta Cavallo."
       }
     }
   },
@@ -1362,6 +1374,18 @@
       },
       "Survive20MinutesWithCross": {
         "description": "Przetrwaj 20 minut jako Krochi."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "Przetrwaj 20 minut mając przynajmniej 10% klątwy."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Przetrwaj 30 minut jako Lama."
+      },
+      "Defeat3000Buers": {
+        "description": "Pokonaj 3000 Lwich Głów."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Zdobądź 100 poziom jako Yatta Cavallo."
       }
     }
   },
