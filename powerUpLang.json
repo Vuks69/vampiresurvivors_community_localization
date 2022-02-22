@@ -707,7 +707,7 @@
       },
       "REGEN": {
         "name": "Regeneracja",
-        "description": "Każdy punkt zwiększa regeneracje życia o 0.1 PZ na sekundę (maks. 0.5)."
+        "description": "Każdy punkt zwiększa regenerację zdrowia o 0.1 PZ na sekundę (maks. 0.5)."
       },
       "MAXHEALTH": {
         "name": "Zdrowie",
@@ -718,7 +718,7 @@
         "description": "Każdy punkt zmniejsza otrzymywane obrażenia o 1 (maks. -3)"
       },
       "AREA": {
-        "name": "Obszar Ataku",
+        "name": "Obszar",
         "description": "Każdy punkt zwiększa obszar ataków o 5% (maks. +10%)."
       },
       "SPEED": {
@@ -766,7 +766,7 @@
         "description": "Odradzasz się raz z połową punktów zdrowia."
       },
       "REROLL": {
-        "name": "Przelosowanie",
+        "name": "Losowanie",
         "description": "Każdy punkt daje jednorazową możliwość zmiany wyborów przy zdobyciu poziomu."
       },
       "SKIP": {
@@ -775,7 +775,7 @@
       },
         "CURSE": {
         "name": "Klątwa",
-        "description": "Zwiększa prędkość, zdrowie, ilość oraz częstotliwość przeciwników o 10% (maks. +50%)."
+        "description": "Zwiększa prędkość, zdrowie oraz ilość przeciwników o 10% (maks. +50%)."
       }
     }
   },
