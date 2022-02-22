@@ -1406,7 +1406,7 @@
       "genericPopup_new": "Nowość!",
       "genericPopup_description": "Opis",
       "genericPopup_tips": "Wskazówka",
-      "genericPopup_obtained": "Zyskano",
+      "genericPopup_obtained": "Zdobyto",
       "genericPopup_obtainedCoin": "Zyskano: %0 złotych monet",
       "genericPopup_obtainsCoin": "Zyskuje: %0  złotych monet",
       "genericPopup_level": "poziom:",
@@ -1435,7 +1435,7 @@
       "postGame_goldEarned": "Zdobyte złoto:",
       "postGame_levelReached": "Osiągnięty poziom:",
       "postGame_enemiesDefeated": "Pokonani przeciwnicy:",
-      "postGame_unlocks": "Odblokowuje!",
+      "postGame_unlocks": "Odblokowano!",
       "postGame_done": "GOTOWE",
       "postGame_hideAchievements": "Ukryj\nOsiągnięcia",
       "postGame_showAchievements": "Pokaż\nOsiągnięcia",
@@ -1485,7 +1485,7 @@
       "credits_animations": "ANIMACJE",
       "credit_trailer": "ZWIASTUNY",
       "credit_tech": "UŻYTE NARZĘDZIA",
-      "credit_characters": "• główne postaci:",
+      "credit_characters": "• główne postacie:",
       "credit_monsters": "• przeciwnicy:",
       "credit_main_asset_pack": "• główne assety:",
       "credit_asset_pack": "• assety UI:",
@@ -1496,10 +1496,10 @@
       "preload_warning_title": "OSTRZEŻENIE DLA WRAŻLIWYCH NA ŚWIATŁO",
       "preload_warning_text": "Ta gra zawiera efekty jasnych, migających świateł. Prosimy o natychmiastowe zaprzestanie gry i konsultację z lekarzem jeśli zauważysz u siebie zawroty głowy, zaburzenia wzroku, skurcze mięśni twarzy i/lub oczu, skurcze rąk i nóg, problemy z orientacją lub chwilowe utraty świadomości.\n\nJeśli Ty lub ktokolwiek z Twoich krewnych cierpiał w przeszłości na udary lub epilepsję, przed rozpoczęciem gry skonsultuj się z lekarzem.",
       "credit_translation": "TŁUMACZENIE",
-      "levelup_skip": "POMINIĘCIE",
-      "levelup_reroll": "PRZELOSOWANIE",
+      "levelup_skip": "POMIŃ",
+      "levelup_reroll": "LOSUJ",
       "levelup_Xleft": "pozostało %0",
-      "weaponLevelUp_curse": "Zwiększa prędkość, zdrowie, ilość oraz częstotliwość przeciwników o %0%."
+      "weaponLevelUp_curse": "Zwiększa prędkość, zdrowie oraz ilość przeciwników o %0%."
     }
   },
   "pt": {
