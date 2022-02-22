@@ -1729,7 +1729,7 @@
       },
       "VAMPIRICA": {
         "name": "Krwawy Kat",
-        "description": "Wyewoluowany Bicz. Ma szansę na zadanie obrażeń krytycznych oraz absorbuje zdrowie wrogów.",
+        "description": "Wyewoluowany Bicz. Może zadać obrażenia krytyczne i absorbuje zdrowie wrogów.",
         "tips": "Wymaga: Próżne Serce"
       },
       "MAGIC_MISSILE": {
@@ -1739,7 +1739,7 @@
       },
       "HOLY_MISSILE": {
         "name": "Święty Kostur",
-        "description": "Wyewoluowana Magiczna Różdżka. Strzela bez przerwy.",
+        "description": "Wyewoluowana Różdżka Maga. Strzela bez przerwy.",
         "tips": "Wymaga: Pusta Księga."
       },
       "AXE": {
@@ -1754,7 +1754,7 @@
       },
       "KNIFE": {
         "name": "Sztylet",
-        "description": "Strzela szybko w kierunku, w który zwrócona jest postać.",
+        "description": "Strzela szybko w kierunku, w którym zwrócona jest postać.",
         "tips": "Ignoruje: czas trwania."
       },
       "THOUSAND": {
@@ -1764,7 +1764,7 @@
       },
       "HOLYWATER": {
         "name": "Woda Święcona",
-        "description": "Tworzy strefy zadające obrażenia przeciwnikom.",
+        "description": "Tworzy plamy ognia zadające obrażenia przeciwnikom.",
         "tips": "Ignoruje: prędkość."
       },
       "DIAMOND": {
@@ -1779,7 +1779,7 @@
       },
       "HELLFIRE": {
         "name": "Ogień Piekielny",
-        "description": "Wyewoluowana Różdżka Ognia. Przebija się przez przeciwników.",
+        "description": "Wyewoluowany Ognisty Kostur. Przebija się przez przeciwników.",
         "tips": "Wymaga: Szpinak."
       },
       "HOLYBOOK": {
@@ -1820,7 +1820,7 @@
       "PENTAGRAM": {
         "name": "Pentagram",
         "description": "Usuwa wszystko w zasięgu wzroku.",
-        "tips": "Najskuteczniejszy z: czasem odnowienia i szczęściem (niczym więcej)."
+        "tips": "Działa tylko z czasem odnowienia i szczęściem."
       },
       "SILF": {
         "name": "Goempicea",
@@ -1887,7 +1887,7 @@
         "description": "Postać zyskuje 8% więcej doświadczenia."
       },
       "LUCK": {
-        "name": "Koniczynka",
+        "name": "Koniczyna",
         "description": "Postać zyskuje +10% do Szczęścia."
       },
       "GREED": {
@@ -1900,17 +1900,17 @@
       },
       "VORTEX": {
         "name": "Pożeracz Dusz",
-        "description": "Wyewoluowany Czosnek. Kradnie życie. Silniejszy podczas regeneracji HP.",
+        "description": "Wyewoluowany Czosnek. Kradnie życie. Silniejszy podczas regeneracji PZ.",
         "tips": "Wymaga: Pummarola."
       },
       "BORA": {
         "name": "La Borra",
-        "description": "Wyewoluowana Woda Świecona. Płomienie powiększają się podążając za graczem.",
+        "description": "Wyewoluowana Woda Świecona. Plamy powiększają się podążając za graczem.",
         "tips": "Wymaga: Atraktor."
       },
       "SILF3": {
         "name": "Wandalier",
-        "description": "Synteza Hebanoskrzydłego i Gołompa."
+        "description": "Połączenie Hebanoskrzydłego i Gołompa."
       },
       "REVIVAL": {
         "name": "Tiramisu",
@@ -1923,7 +1923,7 @@
       },
       "CURSE": {
         "name": "Czaszka Szaleńca",
-        "description": "Zwiększa prędkość, zdrowie, ilość oraz częstotliwość przeciwników o 10%."
+        "description": "Zwiększa prędkość, zdrowie oraz ilość przeciwników o 10%."
       },
       "CHERRY": {
         "name": "Wiśniowa Bomba",
