@@ -1309,7 +1309,216 @@
     "english": "Hungarian",
     "native": "Magyar",
     "api": "hungarian",
-    "translations": {}
+    "translations": {
+      "WHIP": {
+        "name": "Korbács",
+        "description": "Vízszintes támadás, áthatol az ellenfeleken.",
+        "tips": "Figyelmen kívül hagyja: gyorsaság, időtartam."
+      },
+      "VAMPIRICA": {
+        "name": "Véres könnycsepp",
+        "description": "Felfejlesztett Korbács. Kritikus sebzést okozhat és ÉP-t szipolyoz.",
+        "tips": "Szükséges: Üres szív."
+      },
+      "MAGIC_MISSILE": {
+        "name": "Varázspálca",
+        "description": "A legközelebbi ellenfélre lő.",
+        "tips": "Figyelmen kívül hagyja: időtartam."
+      },
+      "HOLY_MISSILE": {
+        "name": "Szent pálca",
+        "description": "Felfejlesztett Varázspálca. Folyamatosan lő.",
+        "tips": "Szükséges: Üres kódex."
+      },
+      "AXE": {
+        "name": "Balta",
+        "description": "Nagy sebzés, nagy területskálázás.",
+        "tips": "Figyelmen kívül hagyja: időtartam."
+      },
+      "SCYTHE": {
+        "name": "Halálspirál",
+        "description": "Felfejlesztett Balta. Áthatol az ellenfeleken.",
+        "tips": "Szükséges: Kandelabrador."
+      },
+      "KNIFE": {
+        "name": "Tőr",
+        "description": "Gyorsan lő a szemközti irányba.",
+        "tips": "Figyelmen kívül hagyja: időtartam."
+      },
+      "THOUSAND": {
+        "name": "Ezer penge",
+        "description": "Felfejlesztett Tőr. Folyamatosan lő.",
+        "tips": "Szükséges: Csuklóvédő."
+      },
+      "HOLYWATER": {
+        "name": "Szenteltvíz",
+        "description": "Sebző zónákat hoz létre.",
+        "tips": "Figyelmen kívül hagyja: gyorsaság."
+      },
+      "DIAMOND": {
+        "name": "Rúnajelző",
+        "description": "Áthatol az ellenfeleken, pattog.",
+        "tips": "Legjobb ezzel: gyorsaság, időtartam."
+      },
+      "FIREBALL": {
+        "name": "Tűzpálca",
+        "description": "Véletlenszerű ellenfélre lő, nagy sebzést okoz.",
+        "tips": "Figyelmen kívül hagyja: időtartam."
+      },
+      "HELLFIRE": {
+        "name": "Pokoltűz",
+        "description": "Felfejlesztett Tűzpálca. Áthatol az ellenfeleken.",
+        "tips": "Szükséges: Spenót."
+      },
+      "HOLYBOOK": {
+        "name": "Biblia",
+        "description": "A karakter körül köröz.",
+        "tips": "Legjobb ezzel: gyorsaság, időtartam, terület."
+      },
+      "VESPERS": {
+        "name": "Szentségtelen imakönyv",
+        "description": "Felfejlesztett Biblia. Folyamatosan pörög.",
+        "tips": "Szükséges: Bűbájoskötet."
+      },
+      "CROSS": {
+        "name": "Kereszt",
+        "description": "A legközelebbi ellenfélre céloz, bumeránghatása van.",
+        "tips": "Figyelmen kívül hagyja: időtartam."
+      },
+      "HEAVENSWORD": {
+        "name": "Mennyei pallos",
+        "description": "Felfejlesztett Kereszt. Kritikus sebzést okozhat.",
+        "tips": "Szükséges: Lóhere."
+      },
+      "GARLIC": {
+        "name": "Fokhagyma",
+        "description": "Sebzi a közeli ellenfeleket. Csökkenti a hátralökés- és a fagyasztás-ellenállást.",
+        "tips": "Figyelmen kívül hagyja: mennyiség, időtartam, gyorsaság."
+      },
+      "LAUREL": {
+        "name": "Babér",
+        "description": "Véd a sebzéstől, amíg aktív.",
+        "tips": "Legjobb ezzel: csak újratöltés."
+      },
+      "LIGHTNING": {
+        "name": "Villámgyűrű",
+        "description": "Véletlenszerű ellenfelekre csap le.",
+        "tips": "Figyelmen kívül hagyja: gyorsaság, időtartam."
+      },
+      "PENTAGRAM": {
+        "name": "Pentagramma",
+        "description": "Mindent elpusztít a képernyőn.",
+        "tips": "Legjobb ezzel: csak újratöltés és szerencse."
+      },
+      "SILF": {
+        "name": "Gerle",
+        "description": "Egy köröző zónában bombáz.",
+        "tips": "Legjobb ezzel: újratöltés, időtartam."
+      },
+      "SILF2": {
+        "name": "Ébenszárny",
+        "description": "Egy köröző zónában bombáz.",
+        "tips": "Legjobb ezzel: újratöltés, időtartam."
+      },
+      "BONE": {
+        "name": "Csont",
+        "description": "Egy pattogó lövedék.",
+        "tips": "Legjobb ezzel: időtartam, gyorsaság."
+      },
+      "LANCET": {
+        "name": "Óraszike",
+        "description": "Esély az ellenségek időbeli megfagyasztására.",
+        "tips": "Figyelmen kívül hagyja: erő, gyorsaság, mennyiség, terület."
+      },
+      "POWER": {
+        "name": "Spenót",
+        "description": "10%-kal növeli az okozott sebzést."
+      },
+      "AREA": {
+        "name": "Kandelabrador",
+        "description": "10%-kal növeli a támadások területét."
+      },
+      "SPEED": {
+        "name": "Csuklóvédő",
+        "description": "10%-kal növeli a lövedékek gyorsaságát."
+      },
+      "COOLDOWN": {
+        "name": "Üres kódex",
+        "description": "8%-kal csökkenti a fegyverek újratöltését."
+      },
+      "DURATION": {
+        "name": "Bűbájoskötet",
+        "description": "10%-kal növeli a fegyverek hatásának időtartamát."
+      },
+      "AMOUNT": {
+        "name": "Duplikátor",
+        "description": "A fegyverek több lövedéket lőnek."
+      },
+      "MAXHEALTH": {
+        "name": "Üres szív",
+        "description": "20%-kal növeli a max ÉP-t."
+      },
+      "ARMOR": {
+        "name": "Páncél",
+        "description": "1-gyel csökkenti a kapott sebzést."
+      },
+      "MOVESPEED": {
+        "name": "Szárnyak",
+        "description": "10%-kal gyorsabban mozog a karakter."
+      },
+      "MAGNET": {
+        "description": "A karakter messzebbről gyűjti be a tárgyakat.",
+        "name": "Vonzgömb"
+      },
+      "GROWTH": {
+        "name": "Korona",
+        "description": "8%-kal több TP-t szerez a karakter."
+      },
+      "LUCK": {
+        "name": "Lóhere",
+        "description": "10%-kal szerencsésebb a karakter."
+      },
+      "GREED": {
+        "name": "Kőmaszk",
+        "description": "10%-kal több érmét szerez a karakter."
+      },
+      "REGEN": {
+        "name": "Pummarola",
+        "description": "0,2 ÉP-t gyógyul másodpercenként a karakter."
+      },
+      "VORTEX": {
+        "name": "Lélekfaló",
+        "description": "Felfejlesztett Fokhagyma. Életerőt lop. Nő az ereje, amíg visszatölt az ÉP.",
+        "tips": "Szükséges: Pummarola."
+      },
+      "BORA": {
+        "name": "La Borra",
+        "description": "Felfejlesztett Szenteltvíz. A sebző zónák követnek, és közben nőnek.",
+        "tips": "Szükséges: Vonzgömb."
+      },
+      "SILF3": {
+        "name": "Vandalier",
+        "description": "Ébenszárny és Gerle egyesülése."
+      },
+      "REVIVAL": {
+        "name": "Tiragisú",
+        "description": "Feléleszt egyszer, 50% ÉP-vel."
+      },
+      "LOOP": {
+        "name": "Mennydörgésgyűrű",
+        "description": "Felfejlesztett Villámgyűrű. A lövedékek kétszer csapnak le.",
+        "tips": "Szükséges: Duplikátor."
+      },
+      "CURSE": {
+        "name": "Őrült koponya",
+        "description": "10%-kal növeli az ellenfelek sebességét, ÉP-jét, mennyiségét és gyakoriságát."
+      },
+      "CHERRY": {
+        "name": "Petárda",
+        "description": "Egy pattogó lövedék. Néha felrobban.",
+        "tips": "Legjobb ezzel: szerencse."
+      }
+    }
   },
   "it": {
     "english": "Italian",

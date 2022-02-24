@@ -952,7 +952,158 @@
     "english": "Hungarian",
     "native": "Magyar",
     "api": "hungarian",
-    "translations": {}
+    "translations": {
+      "ReachLV5": {
+        "description": "Érd el az 5. szintet."
+      },
+      "ReachLV10": {
+        "description": "Érd el az 10. szintet."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Legyen nálad egyszerre 6 különböző fegyver."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Fejleszd fel a Tűzpálcát a 4. szintre."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Fejleszd fel a Bibliát a 4. szintre."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Fejleszd fel a Szenteltvizet a 4. szintre."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Fejleszd fel a Villámgyűrűt a 4. szintre."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Fejleszd fel a Varázspálcát a 7. szintre."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Fejleszd fel a Gerlét a 7. szintre."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Fejleszd fel a Rúnajelzőt a 7. szintre."
+      },
+      "Survive1Minute": {
+        "description": "Élj túl 1 percet bármelyik karakterrel."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Élj túl 5 percet Pasqualinával."
+      },
+      "Survive10Minutes": {
+        "description": "Élj túl 10 percet bármelyik karakterrel."
+      },
+      "Survive20Minutes": {
+        "description": "Élj túl 20 percet bármelyik karakterrel."
+      },
+      "Destroy20Candles": {
+        "description": "Pusztíts el 20 fényforrást."
+      },
+      "Eat5PotRoast": {
+        "description": "Találj 5 Padlócsirkét."
+      },
+      "FindAClover": {
+        "description": "Találj egy Kicsi lóherét."
+      },
+      "FindAVacuum": {
+        "description": "Találj egy Vákuumot."
+      },
+      "FindAnOrologion": {
+        "description": "Találj egy Zsebórát."
+      },
+      "FindARosary": {
+        "description": "Találj egy Rózsafüzért."
+      },
+      "Defeat5000Enemies": {
+        "description": "Győzz le összesen 5000 ellenfelet."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Győzz le összesen 3000 Csontvázat."
+      },
+      "DefeatBossMadForest": {
+        "description": "Győzd le az óriási Kék Vénuszt az Őrült erdőben."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Érd el a 20. szintet az Őrült erdőben."
+      },
+      "DefeatBossLibrary": {
+        "description": "Győzd le a Nesuferitet az Intarziás könyvtárban."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Élj túl 5 percet Gennaróval."
+      },
+      "FindAStoneMask": {
+        "description": "Találj egy Kőmaszkot."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Fejleszd fel a Fokhagymát a 7. szintre."
+      },
+      "EvolveWhip": {
+        "description": "Alakítsd át a Korbácsot."
+      },
+      "EvolveMagicWand": {
+        "description": "Alakítsd át a Varázspálcát."
+      },
+      "EvolveKnife": {
+        "description": "Alakítsd át a Tőrt."
+      },
+      "EvolveAxe": {
+        "description": "Alakítsd át a Baltát."
+      },
+      "EvolveCross": {
+        "description": "Alakítsd át a Keresztet."
+      },
+      "EvolveKingBible": {
+        "description": "Alakítsd át a Bibliát."
+      },
+      "EvolveFireWand": {
+        "description": "Alakítsd át a Tűzpálcát."
+      },
+      "Defeat100KEnemies": {
+        "description": "Győzz le összesen 100 000 ellenfelet."
+      },
+      "Recover1000HP": {
+        "description": "Tölts vissza összesen 1000 ÉP-t."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Keress 5000 érmét egyetlen menet során."
+      },
+      "EvolveSantaWater": {
+        "description": "Alakítsd át a Szenteltvizet."
+      },
+      "UniteBirds": {
+        "description": "Egyesítsd Ébenszárnyat és Gerlét."
+      },
+      "EvolveGarlic": {
+        "description": "Alakítsd át a Fokhagymát."
+      },
+      "Unlock2Hypers": {
+        "description": "Oldd fel a Hiper módot 2 pályán."
+      },
+      "EvolveLightning": {
+        "description": "Alakítsd át a Villámgyűrűt."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Érd el a 100. szintet Mortaccióval."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Élj túl 30 percet a Zöld mezőkön."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Élj túl 20 percet Krochival."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "Élj túl 20 percet legalább +10% Átokkal."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Élj túl 30 percet Lamával."
+      },
+      "Defeat3000Buers": {
+        "description": "Győzz le összesen 3000 Oroszlánfejet."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Érd el a 100. szintet Yatta Cavallóval."
+      }
+    }
   },
   "it": {
     "english": "Italian",

@@ -183,7 +183,24 @@
     "english": "Hungarian",
     "native": "Magyar",
     "api": "hungarian",
-    "translations": {}
+    "translations": {
+      "FOREST": {
+        "stageName": "Őrült erdő",
+        "description": "A kastély egy hazugság, de még van ingyen grillcsirke, úgyhogy minden oké.",
+        "hyperTips": "50% bónusz arany"
+      },
+      "LIBRARY": {
+        "stageName": "Intarziás könyvtár",
+        "description": "Ez a csendes, hosszú könyvtár ideális hely pihenni, meditálni és grillcsirkét gyűjteni. De mit keres itt egy kőmaszk?",
+        "hyperTips": "50% bónusz arany\n10% bónusz szerencse"
+      },
+      "GREENACRES": {
+        "stageName": "Zöld mezők",
+        "description": "Nem halandóknak való vidék. A sors minden percben megváltozik.",
+        "tips": "Ellenfelek ÉP-je +50%",
+        "hyperTips": "50% bónusz arany\n10% bónusz szerencse"
+      }
+    }
   },
   "it": {
     "english": "Italian",

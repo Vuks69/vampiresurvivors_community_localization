@@ -418,7 +418,63 @@
     "english": "Hungarian",
     "native": "Magyar",
     "api": "hungarian",
-    "translations": {}
+    "translations": {
+      "CLOVER": {
+        "description": "Szedd fel, hogy 10%-kal szerencsésebb legyél.",
+        "name": "Kicsi lóhere"
+      },
+      "COIN": {
+        "description": "Hozzáad 1-et az aranyérméidhez.",
+        "name": "Aranyérme"
+      },
+      "COINBAG1": {
+        "description": "Hozzáad 10-et az aranyérméidhez.",
+        "name": "Érmeszütyő"
+      },
+      "COINBAG2": {
+        "description": "Hozzáad 25-öt az aranyérméidhez.",
+        "name": "Nagy érmetarisznya"
+      },
+      "COINBAGMAX": {
+        "description": "Hozzáad 100-at az aranyérméidhez.",
+        "name": "Tömött pénzzsák",
+        "tips": "A dobási arányt befolyásolja a szerencse."
+      },
+      "GEM": {
+        "description": "Növeli a tapasztalatot.",
+        "name": "Tapasztalatkő"
+      },
+      "OROLOGION": {
+        "description": "Megfagyasztja az ellenfeleket 10 másodpercre.",
+        "name": "Zsebóra",
+        "tips": "A dobási arányt befolyásolja a szerencse."
+      },
+      "ROAST": {
+        "description": "Visszatölt 30 ÉP-t.",
+        "name": "Padlócsirke",
+        "tips": "A dobási arányt befolyásolja a szerencse."
+      },
+      "ROSARY": {
+        "description": "Elpusztít minden ellenfelet a képernyőn.",
+        "name": "Rózsafüzér",
+        "tips": "A dobási arányt befolyásolja a szerencse."
+      },
+      "TREASURE": {
+        "description": "Érméket és fejlesztéseket ad. Erősebb ellenfelek dobják.",
+        "name": "Kincsesláda",
+        "tips": "A minőséget befolyásolja a szerencse."
+      },
+      "VACUUM": {
+        "description": "Összegyűjti az összes földön maradt tapasztatkövet",
+        "name": "Vákuum",
+        "tips": "A dobási arányt befolyásolja a szerencse."
+      },
+      "NFT": {
+        "description": "Egy kis ideig lángkúpot szór. A játékos statisztikái kihatnak rá.",
+        "name": "Nduja Fritta",
+        "tips": "A dobási arányt befolyásolja a szerencse."
+      }
+    }
   },
   "it": {
     "english": "Italian",

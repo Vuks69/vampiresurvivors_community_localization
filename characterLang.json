@@ -454,7 +454,74 @@
     "english": "Hungarian",
     "native": "Magyar",
     "api": "hungarian",
-    "translations": {}
+    "translations": {
+      "ANTONIO": {
+        "description": "10%-kal többet sebez 10 szintenként (max +50%).",
+        "charName": "Antonio",
+        "surname": "Belpaese"
+      },
+      "IMELDA": {
+        "description": "10%-kal több TP-t szerez 5 szintenként (max +30%).",
+        "charName": "Imelda",
+        "surname": "Belpaese"
+      },
+      "CIRO": {
+        "charName": "Arca",
+        "description": "5%-kal csökken a fegyverek újratöltése 10 szintenként (max -15%).",
+        "surname": "Ladonna"
+      },
+      "DOMMARIO": {
+        "charName": "Dommario",
+        "description": "Állandó +40% időtartam és gyorsaság, -40% sebesség."
+      },
+      "EXDASH": {
+        "description": "Legalább szerencsés."
+      },
+      "GENNARO": {
+        "charName": "Gennaro",
+        "description": "Állandó +1 lövedék (minden fegyver).",
+        "surname": "Belpaese"
+      },
+      "GERMANA": {
+        "charName": "Clerici",
+        "description": "Állandó +0,5 ÉP/mp és +30 max ÉP. Ideiglenes területbónusszal kezd.",
+        "prefix": "Suor"
+      },
+      "MORTACCIO": {
+        "charName": "Mortaccio",
+        "description": "1 további lövedéket lő 20 szintenként (max +3)."
+      },
+      "CAMILLO": {
+        "charName": "Poe",
+        "description": "Állandó +25% felszedési távolság és -30 max ÉP.",
+        "surname": "Ratcho"
+      },
+      "PASQUALINA": {
+        "charName": "Pasqualina",
+        "description": "10%-kal gyorsabbak lesznek a lövedékek 5 szintenként (max +30%).",
+        "surname": "Belpaese"
+      },
+      "PORTA": {
+        "charName": "Porta",
+        "description": "Állandó +30% terület. Ideiglenes újratöltési bónusszal kezd.",
+        "surname": "Ladonna"
+      },
+      "CROCI": {
+        "charName": "Krochi",
+        "surname": "Freetto",
+        "description": "1 Feléledéssel kezd. Kap még 1 Feléledést a 33. szinten."
+      },
+      "LAMA": {
+        "charName": "Lama",
+        "surname": "Ladonna",
+        "description": "+5% Erőt, Sebességet és Átkot kap 10 szintenként (max +20%)."
+      },
+      "CAVALLO": {
+        "prefix": "Yatta",
+        "charName": "Cavallo",
+        "description": "1 további lövedéket lő 20 szintenként (max +3)."
+      }
+    }
   },
   "it": {
     "english": "Italian",
