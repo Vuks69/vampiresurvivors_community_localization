@@ -4,9 +4,7 @@ Updated for Vampire Survivors v0.2.12
 
 Currently available community translations: PL, UK, TR, DE, EO, AR, FR
 
-Languages updated for v0.2.13: EN, PL, UK, AR, FR, TR
-
-**Be aware that official translations other than EN have NOT been updated yet and may cause problems.**
+Languages **NOT** updated for v0.2.13: DE, EO, official translations other than EN
 
 ## Official sources
 
