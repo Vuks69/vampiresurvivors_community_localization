@@ -877,72 +877,72 @@
       "WHIP": {
         "name": "Fouet",
         "description": "Lance une attaque horizontale qui traverse les ennemis.",
-        "tips": "Ignore: puissance de tir, durée."
+        "tips": "Ignore: vélocité, durée."
       },
       "VAMPIRICA": {
-        "name": "Larme de sang",
+        "name": "Larme de Sang",
         "description": "Évolution du Fouet. Peut infliger des dégâts critiques et absorber des PV.",
-        "tips": "Requiert: Cœur vide."
+        "tips": "Requiert: Cœur Vide."
       },
       "MAGIC_MISSILE": {
-        "name": "Baguette magique",
+        "name": "Baguette Magique",
         "description": "Tire sur l'ennemi le plus proche.",
         "tips": "Ignore: durée."
       },
       "HOLY_MISSILE": {
-        "name": "Sainte baguette",
-        "description": "Évolution de la Baguette magique. Tire immédiatement.",
-        "tips": "Requiert: Tome vierge."
+        "name": "Sainte Baguette",
+        "description": "Évolution de la Baguette Magique. Tire immédiatement.",
+        "tips": "Requiert: Tome Vierge."
       },
       "AXE": {
         "name": "Hache",
-        "description": "Dégâts élevés, portée étendue.",
+        "description": "Dégâts élevés, Portée étendue.",
         "tips": "Ignore: durée."
       },
       "SCYTHE": {
-        "name": "Spirale fatale",
+        "name": "Spirale Fatale",
         "description": "Évolution de la Hache. Traverse les ennemis.",
         "tips": "Requiert: Chandellabrador."
       },
       "KNIFE": {
-        "name": "Poignard",
+        "name": "Couteau",
         "description": "Tire rapidement dans la direction à laquelle le personnage fait face.",
         "tips": "Ignore: durée."
       },
       "THOUSAND": {
-        "name": "Mille et une lames",
-        "description": "Évolution du Poignard. Tire immédiatement.",
-        "tips": "Requiert: Fortifiant."
+        "name": "Mille et une Lames",
+        "description": "Évolution du Couteau. Tire immédiatement.",
+        "tips": "Requiert: Brassard."
       },
       "HOLYWATER": {
-        "name": "Eau sainte",
+        "name": "Eau Sainte",
         "description": "Génère des zones de dégâts.",
-        "tips": "Ignore: puissance de tir."
+        "tips": "Ignore: vélocité."
       },
       "DIAMOND": {
-        "name": "Traqueur de runes",
+        "name": "Traqueur de Runes",
         "description": "Traverse les ennemis, rebondit.",
-        "tips": "Plus efficace avec: puissance de tir, durée."
+        "tips": "Plus efficace avec: vélocité, durée."
       },
       "FIREBALL": {
-        "name": "Baguette de feu",
-        "description": "Tire sur les ennemis aléatoirement, inflige des dégâts lourds.",
+        "name": "Baguette de Feu",
+        "description": "Tire sur les ennemis aléatoirement, inflige de lourds dégâts.",
         "tips": "Ignore: durée."
       },
       "HELLFIRE": {
-        "name": "Feu de l'enfer",
-        "description": "Évolution de la Baguette de feu. Traverse les ennemis.",
+        "name": "Feu de l'Enfer",
+        "description": "Évolution de la Baguette de Feu. Traverse les ennemis.",
         "tips": "Requiert: Épinard."
       },
       "HOLYBOOK": {
-        "name": "Bible du roi",
+        "name": "Bible du Roi",
         "description": "Tourne autour du personnage.",
-        "tips": "Plus efficace avec: puissance de tir, durée, portée."
+        "tips": "Plus efficace avec: vélocité, durée, portée."
       },
       "VESPERS": {
-        "name": "Vêpres impies",
-        "description": "Évolution de la Bible du roi. Ne s'arrête jamais.",
-        "tips": "Requiert: Reliure magique."
+        "name": "Vêpres Impies",
+        "description": "Évolution de la Bible du Roi. Ne s'arrête jamais.",
+        "tips": "Requiert: Reliure Magique."
       },
       "CROSS": {
         "name": "Croix",
@@ -950,14 +950,14 @@
         "tips": "Ignore: durée."
       },
       "HEAVENSWORD": {
-        "name": "Épée céleste",
+        "name": "Épée Céleste",
         "description": "Évolution de la Croix. Peut infliger des dégâts critiques.",
         "tips": "Requiert: Trèfle."
       },
       "GARLIC": {
         "name": "Ail",
         "description": "Inflige des dégâts aux ennemis à proximité. Réduit la résistance au recul et à l'immobilisation.",
-        "tips": "Ignore: quantité, durée, puissance de tir."
+        "tips": "Ignore: quantité, durée, vélocité."
       },
       "LAUREL": {
         "name": "Laurier",
@@ -965,9 +965,9 @@
         "tips": "Plus efficace avec : cooldown uniquement."
       },
       "LIGHTNING": {
-        "name": "Bague du tonnerre",
+        "name": "Anneau de Foudre",
         "description": "Frappe les ennemis aléatoirement.",
-        "tips": "Ignore: puissance de tir, durée."
+        "tips": "Ignore: vélocité, durée."
       },
       "PENTAGRAM": {
         "name": "Pentagramme",
@@ -980,19 +980,19 @@
         "tips": "Plus efficace avec: cooldown, durée."
       },
       "SILF2": {
-        "name": "Ailes d'ébène",
+        "name": "Ailes d'Ébène",
         "description": "Bombarde une zone en forme de cercle.",
         "tips": "Plus efficace avec: cooldown, durée."
       },
       "BONE": {
         "name": "Os",
         "description": "Tire un projectile qui rebondit.",
-        "tips": "Plus efficace avec: durée, puissance de tir."
+        "tips": "Plus efficace avec: durée, vélocité."
       },
       "LANCET": {
-        "name": "Bistouri d'horloger",
+        "name": "Horloge en Ogive",
         "description": "Possibilité d'immobiliser les ennemis.",
-        "tips": "Ignore: force, puissance de tir, quantité, portée."
+        "tips": "Ignore: force, vélocité, quantité, portée."
       },
       "POWER": {
         "name": "Épinard",
@@ -1003,15 +1003,15 @@
         "description": "Augmente la portée des attaques de 10 %."
       },
       "SPEED": {
-        "name": "Fortifiant",
+        "name": "Brassard",
         "description": "Augmente la vitesse des projectiles de 10 %."
       },
       "COOLDOWN": {
-        "name": "Tome vierge",
+        "name": "Tome Vierge",
         "description": "Réduit le cooldown des armes de 8 %."
       },
       "DURATION": {
-        "name": "Reliure magique",
+        "name": "Reliure Magique",
         "description": "Augmente la durée des effets des armes de 10 %."
       },
       "AMOUNT": {
@@ -1019,8 +1019,8 @@
         "description": "Les armes tirent plus de projectiles."
       },
       "MAXHEALTH": {
-        "name": "Cœur vide",
-        "description": "Augmente la santé max de 10 %."
+        "name": "Cœur Vide",
+        "description": "Augmente la santé max de 20%."
       },
       "ARMOR": {
         "name": "Armure",
@@ -1032,7 +1032,7 @@
       },
       "MAGNET": {
         "description": "Le personnage ramasse les objets à une plus grande distance.",
-        "name": "Orbe d'attraction"
+        "name": "Orbe d'Attraction"
       },
       "GROWTH": {
         "name": "Couronne",
@@ -1043,35 +1043,44 @@
         "description": "Le personnage a 10 % de chance en plus."
       },
       "GREED": {
-        "name": "Masque de pierre",
+        "name": "Masque en Pierre",
         "description": "Le personnage gagne 10 % de pièces en plus."
       },
       "REGEN": {
         "name": "Pummarola",
-        "description": "Le personnage récupère 0.1 PV par seconde."
+        "description": "Le personnage récupère 0.2 PV par seconde."
       },
       "VORTEX": {
-        "name": "Mangeur d'âmes",
+        "name": "Mangeur d'Âmes",
         "description": "Évolution de l'Ail. Vole de vie. Sa puissance augmente lorsqu'il récupère des HP.",
         "tips": "Requiert: Pummarola."
       },
       "BORA": {
         "name": "La Borra",
-        "description": "Évolution de l'Eau sainte. Les zones endommagées vous suivent et augmentent lorsqu'elles se déplacent.",
-        "tips": "Requiert: Orbe d'attraction."
+        "description": "Évolution de l'Eau Sainte. Les zones de dommages vous suivent et grandissent lorsqu'elles se déplacent.",
+        "tips": "Requiert: Orbe d'Attraction."
       },
       "SILF3": {
-        "name": "Vandalier",
-        "description": "Union de la Pigeonne et des Ailes d'Ebène."
+        "name": "Vandale",
+        "description": "Union de la Pigeonne et des Ailes d'Ébène."
       },
       "REVIVAL": {
         "name": "Tiramitsu",
-        "description": "Revivre une fois avec 50% de santé."
+        "description": "Ressuscite une fois avec 50% de santé."
       },
       "LOOP": {
-        "name": "Boucle du tonnerre",
-        "description": "Évolution de l'Anneau de foudre. Les projectiles frappent deux fois.",
+        "name": "Boucle du Tonnerre",
+        "description": "Évolution de l'Anneau de Foudre. Les projectiles frappent deux fois.",
         "tips": "Requiert: Duplicateur."
+      },
+      "CURSE": {
+        "name": "Crâne O'Manie",
+        "description": "Augmente la vitesse, la vie, la quantité et la fréquence d'apparition des ennemis de 10 %."
+      },
+      "CHERRY": {
+        "name": "Bombe Cerise",
+        "description": "Envoie un projectile rebondissant. Exploser, parfois.",
+        "tips": "Plus efficace avec: chance."
       }
     }
   },

@@ -634,34 +634,34 @@
     "api": "french",
     "translations": {
       "ReachLV5": {
-        "description": "Atteignez le niveau 5."
+        "description": "Atteignez le Niveau 5."
       },
       "ReachLV10": {
-        "description": "Atteignez le niveau 10."
+        "description": "Atteignez le Niveau 10."
       },
       "Have6DifferentWeapons": {
         "description": "Portez 6 armes différentes en même temps."
       },
       "GetFireWandToLevel4": {
-        "description": "Faîtes monter la Baguette de feu au niveau 4."
+        "description": "Faites monter la Baguette de Feu au niveau 4."
       },
       "GetHolyBookToLevel4": {
-        "description": "Faîtes monter la Bible du roi au niveau 4."
+        "description": "Faites monter la Bible du Roi au niveau 4."
       },
       "GetHolyWaterToLevel4": {
-        "description": "Faîtes monter l'Eau sainte au niveau 4."
+        "description": "Faites monter l'Eau Sainte au niveau 4."
       },
       "GetLightningRingToLevel4": {
-        "description": "Faîtes monter la Bague du tonnerre au niveau 4."
+        "description": "Faites monter l'Anneau de Foudre' au niveau 4."
       },
       "GetMagicMissileToLevel7": {
-        "description": "Faîtes monter la Baguette magique au niveau 7."
+        "description": "Faites monter la Baguette Magique au niveau 7."
       },
       "GetPeachoneToLevel7": {
-        "description": "Faîtes monter la Pigeonne au niveau 7."
+        "description": "Faites monter la Pigeonne au niveau 7."
       },
       "GetRunetracerToLevel7": {
-        "description": "Faîtes monter le Traqueur de runes au niveau 7."
+        "description": "Faites monter le Traqueur de Runes au niveau 7."
       },
       "Survive1Minute": {
         "description": "Survivez 1 minute avec n'importe quel personnage."
@@ -679,10 +679,10 @@
         "description": "Détruisez 20 sources de lumière."
       },
       "Eat5PotRoast": {
-        "description": "Trouvez 5 Poulets rôtis."
+        "description": "Trouvez 5 Poulets Rôtis."
       },
       "FindAClover": {
-        "description": "Trouvez un Petit trèfle."
+        "description": "Trouvez un Petit Trèfle."
       },
       "FindAVacuum": {
         "description": "Trouvez un Vortex."
@@ -697,79 +697,91 @@
         "description": "Éliminez 5 000 ennemis au total."
       },
       "Defeat3000Skeletons": {
-        "description": "Éliminez 3 000 squelettes au total."
+        "description": "Éliminez 3 000 Squelettes au total."
       },
       "DefeatBossMadForest": {
-        "description": "Éliminez la grande Vénus bleue dans la Forêt folle."
+        "description": "Éliminez la grande Vénus Bleue dans la Forêt Enragée."
       },
       "ReachLV20InMadForest": {
-        "description": "Atteignez le niveau 20 dans la Forêt folle."
+        "description": "Atteignez le Niveau 20 dans la Forêt Enragée."
       },
       "DefeatBossLibrary": {
-        "description": "Éliminez le Nesfuréti dans la Bibliothèque marquetée."
+        "description": "Éliminez le Nesfuréti dans la Bibliothèque Marquetée."
       },
       "Survive5MinutesWithKnife": {
         "description": "Survivez 5 minutes avec Gennaro."
       },
       "FindAStoneMask": {
-        "description": "Trouvez un Masque de pierre."
+        "description": "Trouvez un Masque en Pierre."
       },
       "GetGarlicToLevel7": {
-        "description": "Faîtes monter l'Ail au niveau 7."
+        "description": "Faites monter l'Ail au niveau 7."
       },
       "EvolveWhip": {
-        "description": "Faîtes évoluer le Fouet."
+        "description": "Faites évoluer le Fouet."
       },
       "EvolveMagicWand": {
-        "description": "Faîtes évoluer la Baguette magique."
+        "description": "Faites évoluer la Baguette Magique."
       },
       "EvolveKnife": {
-        "description": "Faîtes évoluer le Poignard."
+        "description": "Faites évoluer le Couteau."
       },
       "EvolveAxe": {
-        "description": "Faîtes évoluer la Hache."
+        "description": "Faites évoluer la Hache."
       },
       "EvolveCross": {
-        "description": "Faîtes évoluer la Croix."
+        "description": "Faites évoluer la Croix."
       },
       "EvolveKingBible": {
-        "description": "Faîtes évoluer la Bible du roi."
+        "description": "Faites évoluer la Bible du Roi."
       },
       "EvolveFireWand": {
-        "description": "Faîtes évoluer la Baguette de feu."
+        "description": "Faites évoluer la Baguette de Feu."
       },
       "Defeat100KEnemies": {
         "description": "Éliminez un total de 100 000 ennemis."
       },
       "Recover1000HP": {
-        "description": "Récupérer un total de 1000 HP."
+        "description": "Récupérez un total de 1000 HP."
       },
       "Earn5000CoinsInASingleRun": {
-        "description": "Gagnez 5000 pièces en un seul passage."
+        "description": "Gagnez 5000 pièces en une seule partie."
       },
       "EvolveSantaWater": {
-        "description": "Faîtes évoluer l'Eau sainte"
+        "description": "Faites évoluer l'Eau Sainte"
       },
       "UniteBirds": {
-        "description": "Faîtes évoluer la Pigeonne et les Ailes d'ébène."
+        "description": "Faites évoluer la Pigeonne et les Ailes d'Ébène."
       },
       "EvolveGarlic": {
-        "description": "Faîtes évoluer l'Ail."
+        "description": "Faites évoluer l'Ail."
       },
       "Unlock2Hypers": {
         "description": "Déverrouillez le mode Hyper pour 2 niveaux."
       },
       "EvolveLightning": {
-        "description": "Faites évoluer l'Anneau de foudre."
+        "description": "Faites évoluer l'Anneau de Foudre."
       },
       "ReachLV100WithMortaccio": {
-        "description": "Atteindre le niveau 100 avec Mortaccio."
+        "description": "Atteindre le Niveau 100 avec Mortaccio."
       },
       "Survive30MinutesInGreenAcres": {
         "description": "Survivre 30 minutes à Grande pâture."
       },
       "Survive20MinutesWithCross": {
         "description": "Survivre 20 minutes avec Krochi."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "Survivre 20 minutes avec au moins 10 % de Malédiction."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Survivre 30 minutes avec Lama."
+      },
+      "Defeat3000Buers": {
+        "description": "Éliminez un total de 3 000 Têtes de Lion."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Atteignez le Niveau 100 Yatta Cavallo."
       }
     }
   },
