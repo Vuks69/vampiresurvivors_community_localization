@@ -4,7 +4,7 @@ Updated for Vampire Survivors v0.2.12
 
 Currently available community translations: PL, UK, TR, DE, EO, AR
 
-Languages updated for v0.2.13: EN, PL, UK
+Languages updated for v0.2.13: EN, PL, UK, HU
 
 Be aware that **official** translations other than EN have **NOT** been updated yet and may cause problems.
 
@@ -43,3 +43,5 @@ To easily get to the game's base folder, go to your Steam Library, rightclick th
   * ᏕᏖᎩᎶᎥᎶᎧᏖᏂ ♡#7082
 * AR/العربية
   * SoHyped#1111
+* HU/Magyar
+  * aronsz#3762
