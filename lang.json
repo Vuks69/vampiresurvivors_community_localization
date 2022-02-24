@@ -2169,7 +2169,8 @@
       "credit_translation": "ÇEVİRİ",
       "levelup_skip": "PAS",
       "levelup_reroll": "YENİLE",
-      "levelup_Xleft": "%0 kaldı"
+      "levelup_Xleft": "%0 kaldı",
+      "weaponLevelUp_curse": "Düşman hızı, sağlığı, sayısı ve sıklığını %0% arttırır."
     }
   },
   "uk": {

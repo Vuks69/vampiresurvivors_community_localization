@@ -2727,7 +2727,7 @@
       },
       "AMOUNT": {
         "name": "Kopyalayıcı",
-        "description": "Silahlar daha fazla fırlatılabilir ateşler."
+        "description": "Silahlar daha fazla saldırı gerçekleştirir."
       },
       "MAXHEALTH": {
         "name": "Oyuk Kalp",
@@ -2783,6 +2783,15 @@
         "name": "Fırtına İlmiği",
         "description": "Evrilmiş Yıldırım Yüzüğü. Saldırıları ikişer gerçekleşir.",
         "tips": "Gereksinim: Kopyalayıcı"
+      },
+      "CURSE": {
+        "name": "Manyak Kafatası",
+        "description": "Düşman hızı, sağlığı, sayısı ve sıklığını %10 arttırır."
+      },
+      "CHERRY": {
+        "name": "Kiraz Bombası",
+        "description": "Seker ve bazen patlar.",
+        "tips": "En iyi kombo: Şans."
       }
     }
   },
