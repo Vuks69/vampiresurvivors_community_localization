@@ -269,7 +269,7 @@
         "name": "Skip",
         "description": "Once per rank, allows to skip level up choices and get Experience instead."
       },
-        "CURSE": {
+      "CURSE": {
         "name": "Curse",
         "description": "Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%)."
       }
@@ -386,7 +386,7 @@
         "description": "Augmente la portée des attaques de 5 % par rang (+ 10 % max)."
       },
       "SPEED": {
-        "name": "Mouvement",
+        "name": "Vélocité",
         "description": "Les projectiles se déplacent 10 % plus vite par rang (+ 20 % max)."
       },
       "COOLDOWN": {
@@ -414,7 +414,7 @@
         "description": "La probabilité d'avoir de la chance augmente de 10 % par rang (+ 30 % max)."
       },
       "GROWTH": {
-        "name": "Apprendre",
+        "name": "Croissance",
         "description": "Rapporte 3 % d'expérience en plus par rang (+ 15 % max)."
       },
       "GREED": {
@@ -426,16 +426,20 @@
         "description": "Annule les dégâts d'une attaque. Se combine au Laurier."
       },
       "REVIVAL": {
-        "name": "Relance",
+        "name": "Résurrection",
         "description": "Ressuscite une fois avec 50 % de points de vie."
       },
       "REROLL": {
-        "name": "Retenter",
+        "name": "Relancer",
         "description": "Une fois par rang, permet d'obtenir des choix différents lors de la montée en niveau."
       },
       "SKIP": {
         "name": "Passer",
         "description": "Une fois par rang, permet de sauter les choix de montée de niveau et d'obtenir de l'expérience à la place."
+      },
+      "CURSE": {
+        "name": "Malédiction",
+        "description": "Augmente la vitesse, la vie, la quantité et la fréquence d'apparition des ennemis de 10 % par rang (+ 50 % max)."
       }
     }
   },
@@ -777,7 +781,7 @@
         "name": "Pominięcie",
         "description": "Jednorazowo otrzymaj Doświadczenie zamiast wyboru przedmiotu przy zdobyciu poziomu."
       },
-        "CURSE": {
+      "CURSE": {
         "name": "Klątwa",
         "description": "Zwiększa prędkość, zdrowie oraz ilość przeciwników o 10% (maks. +50%)."
       }
@@ -1121,11 +1125,15 @@
       },
       "REROLL": {
         "name": "Yenile",
-        "description": "Seviye başına 1 seviye atlama seçeneklerini yenileme hakkı."
+        "description": "Seviye atlama seçeneklerini yenileme hakkı."
       },
       "SKIP": {
         "name": "Pas",
-        "description": "Seviye başına 1 seviye atlama seçeneklerini pas geçip tecrübe kazanma hakkı."
+        "description": "Seviye atlama seçeneklerini pas geçip tecrübe kazanma hakkı."
+      },
+      "CURSE": {
+        "name": "Lanet",
+        "description": "Düşman hızı, sağlığı, sayısı ve sıklığını seviye başına %10 arttırır."
       }
     }
   },

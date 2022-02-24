@@ -325,12 +325,12 @@
       },
       "CIRO": {
         "charName": "Arca",
-        "description": "Le cooldown de l'arme est réduit de 5 % tous les 10 niveaux (- 15 % max).",
+        "description": "Le cooldown de ses armes sont réduits de 5 % tous les 10 niveaux (- 15 % max).",
         "surname": "Ladonna"
       },
       "DOMMARIO": {
         "charName": "Dommario",
-        "description": "Durée et puissance de tir à + 40 % et vitesse à - 30 %, en permanence."
+        "description": "Durée et vélocité à + 40 % et vitesse à - 30 %, en permanence."
       },
       "EXDASH": {
         "description": "Au moins, ils ont de la chance."
@@ -342,7 +342,7 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "+ 0.5 PV et + 30 de santé max, en permanence. Commence avec un bonus de portée temporaire.",
+        "description": "+ 0.5 PV par seconce et + 30 de santé max, en permanence. Commence avec un bonus de portée temporaire.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
@@ -365,9 +365,19 @@
         "surname": "Ladonna"
       },
       "CROCI": {
-        "name": "Krochi",
+        "charName": "Krochi",
         "surname": "Freetto",
-        "description": "Commence avec 1 Réssurection. Gagne 1 Réssurection de plus au niveau 33."
+        "description": "Commence avec 1 Ressurection. Gagne 1 Ressurection de plus au niveau 33."
+      },
+      "LAMA": {
+        "charName": "Lama",
+        "surname": "Ladonna",
+        "description": "Gagne + 5 % de Puissance, de Vitesse, et de Malédiction tous les 10 niveaux (+ 20 % max)."
+      },
+      "CAVALLO": {
+        "prefix": "Yatta",
+        "charName": "Cavallo",
+        "description": "Obtient des projectiles supplémentaires tous les 20 niveaux (+ 3 max)."
       }
     }
   },
@@ -936,6 +946,16 @@
         "name": "Krochi",
         "surname": "Freetto",
         "description": "Fazladan 1 yeniden canlanma."
+      },
+      "LAMA": {
+        "charName": "Lama",
+        "surname": "Ladonna",
+        "description": "Her 10 seviyede +%5 Kuvvet, Hareket Hızı ve Lanet kazanır. (Maks %20)"
+      },
+      "CAVALLO": {
+        "prefix": "Yatta",
+        "charName": "Cavallo",
+        "description": "Her 20 seviyede 1 fazladan saldırı gerçekleştirir. (maks 3)"
       }
     }
   },

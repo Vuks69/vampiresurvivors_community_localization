@@ -679,7 +679,7 @@
   },
   "fr": {
     "english": "French",
-    "native": "Français",
+    "native": "Français 90%",
     "api": "french",
     "translations": {
       "intro_start": "APPUYEZ POUR COMMENCER",
@@ -692,10 +692,10 @@
       "options_header": "Options",
       "options_sounds": "Son",
       "options_music": "Musique",
-      "options_flashing_VFX": "Effets clignotants",
+      "options_flashing_VFX": "Effets Visuels Clignotants",
       "options_visibleJoystick": "Joystick visible",
       "options_damageNumbers": "Chiffres des dégâts",
-      "options_streamersafe": "Musique streaming sans risque",
+      "options_streamersafe": "Musique Libre de Droit",
       "options_resync": "Succès Steam synchronisés",
       "options_successful": "Patientez environ 1 minute",
       "options_error": "Une erreur est survenue",
@@ -704,7 +704,7 @@
       "newItem_header": "Arme trouvée !",
       "newItem_get": "PRENDRE",
       "newItem_discard": "JETER",
-      "treasure_header": "Trésor trouvé !",
+      "treasure_header": "Trésor Trouvé !",
       "treasure_open": "OUVRIR",
       "levelup_header": "Niveau supérieur!",
       "levelup_footer": "\n\n\naugmente votre chance\n\net la probabilité d'avoir 4 choix",
@@ -718,7 +718,7 @@
       "weaponLevelUp_damage": "Dégâts de base : +%0\n",
       "weaponLevelUp_all": "[Tout]",
       "weaponLevelUp_area": "Portée de base : + %0%\n",
-      "weaponLevelUp_speed": "Puissance de tir de base : + %0%\n",
+      "weaponLevelUp_speed": "Vitesse des projectiles de base : + %0%\n",
       "weaponLevelUp_projectile": "Tire %0 projectile de plus\n",
       "weaponLevelUp_projectiles": "Tire %0 projectiles de plus\n",
       "weaponLevelUp_enemy": "Traverse %0 ennemi de plus\n",
@@ -731,7 +731,7 @@
       "weaponLevelUp_cooldown": "Cooldown réduit de %0 secondes\n",
       "weaponLevelUp_health": "Augmente la santé max de %0%\n",
       "weaponLevelUp_xp": "Augmente le gain d'XP de %0%\n",
-      "weaponLevelUp_movement": "Augmente la vitesse de %0%\n",
+      "weaponLevelUp_movement": "Augmente la vitesse de déplacement de %0%\n",
       "weaponLevelUp_range": "Portée de ramassage : + %0%\n",
       "weaponLevelUp_luck": "Probabilité d'avoir de la chance : + %0%\n",
       "weaponLevelUp_recovery": "Récupération de santé : + %0 PV par seconde",
@@ -744,7 +744,7 @@
       "genericPopup_tips": "Astuces",
       "genericPopup_obtained": "Obtenu",
       "genericPopup_obtainedCoin": "Obtenu : %0 pièces d'or",
-      "genericPopup_obtainsCoin": "Attribue : %0 pièces d'or",
+      "genericPopup_obtainsCoin": "Obtient : %0 pièces d'or",
       "genericPopup_level": "niveau :",
       "genericPopup_achievement": "Nouveau succès !",
       "genericPopup_unlocks": "Débloque :",
@@ -753,7 +753,7 @@
       "genericPopup_unlockedHyper": "Débloqué : Hyper %0",
       "weaponCollectionPanel_name": "Nom",
       "weaponCollectionPanel_description": "Description",
-      "weaponCollectionPanel_ignores": "Ignore : portée, puissance de tir, cooldown",
+      "weaponCollectionPanel_ignores": "Ignore : portée, vélocité, cooldown",
       "weaponCollectionPanel_notFound": "Pas encore trouvé.",
       "achievements_header": "Terminé : %0 sur %1",
       "collectionAchievementPanel_description": "Description",
@@ -826,15 +826,16 @@
       "credit_main_asset_pack": "• Ressources principales :",
       "credit_asset_pack": "• Ressources IU :",
       "credit_angel": "• Effets des explosions et des anges",
-      "credit_tileset": "• Ressources pixel",
+      "credit_tileset": "• Tilesets",
       "postGame_done1": "TERMINÉ",
       "weaponLevelUp_revivals": "+%0 Vies",
       "preload_warning_title": "AVERTISSEMENT DE PHOTOSENSIBILITÉ",
-      "preload_warning_text": "Ce jeu contient des lumières clignotantes. Veuillez arrêter immédiatement de jouer et consulter un médecin si vous ressentez des étourdissements, une altération de la vision, des contractions des yeux ou du visage, des secousses ou des tremblements des bras ou des jambes, une désorientation, une confusion ou une perte de conscience momentanée.",
+      "preload_warning_text": "Ce jeu contient des effets visuels clignotants. Veuillez arrêter immédiatement de jouer et consulter un médecin si vous ressentez des étourdissements, une altération de la vision, des contractions des yeux ou du visage, des secousses ou des tremblements des bras ou des jambes, une désorientation, une confusion ou une perte de conscience momentanée.",
       "credit_translation": "TRADUCTION",
       "levelup_skip": "Passer",
       "levelup_reroll": "Relancer",
-      "levelup_Xleft": "%0 restant"
+      "levelup_Xleft": "%0 restant",
+      "weaponLevelUp_curse": "Augmente la vitesse, la vie, la quantité et la fréquence des ennemis de %0%."
     }
   },
   "de": {
@@ -2169,7 +2170,8 @@
       "credit_translation": "ÇEVİRİ",
       "levelup_skip": "PAS",
       "levelup_reroll": "YENİLE",
-      "levelup_Xleft": "%0 kaldı"
+      "levelup_Xleft": "%0 kaldı",
+      "weaponLevelUp_curse": "Düşman hızı, sağlığı, sayısı ve sıklığını %0% arttırır."
     }
   },
   "uk": {
