@@ -134,20 +134,20 @@
     "api": "french",
     "translations": {
       "FOREST": {
-        "stageName": "Forêt folle",
+        "stageName": "Forêt Enragée",
         "description": "Le Château est un mensonge. Mais il y a quand même du poulet rôti gratuit dans le coin, alors tout va bien.",
-        "hyperTips": "50 % d'or bonus"
+        "hyperTips": "50 % d'Or bonus"
       },
       "LIBRARY": {
-        "stageName": "Bibliothèque\nmarquetée",
-        "description": "Calme, cette bibliothèque longiligne est l'endroit idéal pour se reposer, méditer et chercher du poulet rôti. Mais pourquoi y a-t-il un masque de pierre ici ?",
-        "hyperTips": "50 % d'or bonus\n10 % de chance bonus"
+        "stageName": "Bibliothèque\nMarquetée",
+        "description": "Calme, cette bibliothèque longiligne est l'endroit idéal pour se reposer, méditer et chercher du poulet rôti. Mais pourquoi y a-t-il un masque en pierre ici ?",
+        "hyperTips": "50 % d'Or bonus\n10 % de Chance bonus"
       },
       "GREENACRES": {
-        "stageName": "Grande pâture",
-        "description": "Un lieu interdit aux mortels. Là-bas, chaque minute qui passe fait vaciller le destin.",
+        "stageName": "Grande Pâture",
+        "description": "Un lieu interdit aux mortels. Là-bas, chaque minute qui passe modifie votre destin.",
         "tips": "Santé des ennemis + 50 %",
-        "hyperTips": "50 % d'or bonus\n10 % de chance bonus"
+        "hyperTips": "50 % d'Or bonus\n10 % de Chance bonus"
       }
     }
   },
