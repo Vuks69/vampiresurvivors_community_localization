@@ -2153,12 +2153,13 @@
       },
       "ReachLV100WithCavallo": {
         "description": "Досягніть 100 рівня з Ятта Кавалло."
+      }
+    },
+    "vn": {
+      "english": "Vietnamese",
+      "native": "Tiếng Việt",
+      "api": "vietnamese",
+      "translations": {}
     }
-  },
-  "vn": {
-    "english": "Vietnamese",
-    "native": "Tiếng Việt",
-    "api": "vietnamese",
-    "translations": {}
   }
 }
