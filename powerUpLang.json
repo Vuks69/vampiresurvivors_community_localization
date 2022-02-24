@@ -1121,11 +1121,15 @@
       },
       "REROLL": {
         "name": "Yenile",
-        "description": "Seviye başına 1 seviye atlama seçeneklerini yenileme hakkı."
+        "description": "Seviye atlama seçeneklerini yenileme hakkı."
       },
       "SKIP": {
         "name": "Pas",
-        "description": "Seviye başına 1 seviye atlama seçeneklerini pas geçip tecrübe kazanma hakkı."
+        "description": "Seviye atlama seçeneklerini pas geçip tecrübe kazanma hakkı."
+      },
+      "CURSE": {
+        "name": "Lanet",
+        "description": "Düşman hızı, sağlığı, sayısı ve sıklığını seviye başına %10 arttırır."
       }
     }
   },

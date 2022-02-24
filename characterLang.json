@@ -936,6 +936,16 @@
         "name": "Krochi",
         "surname": "Freetto",
         "description": "Fazladan 1 yeniden canlanma."
+      },
+      "LAMA": {
+        "charName": "Lama",
+        "surname": "Ladonna",
+        "description": "Her 10 seviyede +%5 Kuvvet, Hareket Hızı ve Lanet kazanır. (Maks %20)"
+      },
+      "CAVALLO": {
+        "prefix": "Yatta",
+        "charName": "Cavallo",
+        "description": "Her 20 seviyede 1 fazladan saldırı gerçekleştirir. (maks 3)"
       }
     }
   },

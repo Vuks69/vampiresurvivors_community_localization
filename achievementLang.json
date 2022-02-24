@@ -2008,6 +2008,18 @@
       },
       "Survive20MinutesWithCross": {
         "description": "Krochi ile 20 dakika hayatta kal."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "En az %10 Lanet ile 20 dakika hayatta kal."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Lama ile 30 dakika hayatta kal."
+      },
+      "Defeat3000Buers": {
+        "description": "Toplamda 3000 Aslan Kafalı İblis katlet."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Yatta Cavallo ile 100. seviyeye ulaş."
       }
     }
   },
