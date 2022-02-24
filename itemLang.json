@@ -291,58 +291,58 @@
     "translations": {
       "CLOVER": {
         "description": "Obtenez 10 % de chance en plus en le ramassant.",
-        "name": "Petit trèfle"
+        "name": "Petit Trèfle"
       },
       "COIN": {
         "description": "Ajoute 1 à votre total de pièces d'or.",
-        "name": "Pièce d'or"
+        "name": "Pièce d'Or"
       },
       "COINBAG1": {
         "description": "Ajoute 10 à votre total de pièces d'or.",
-        "name": "Bourse d'or"
+        "name": "Bourse"
       },
       "COINBAG2": {
         "description": "Ajoute 25 à votre total de pièces d'or.",
-        "name": "Sac d'or"
+        "name": "Grosse Bourse"
       },
       "COINBAGMAX": {
         "description": "Ajoute 100 à votre total de pièces d'or.",
-        "name": "Sac d'or mastoc",
-        "tips": "Taux de drop affecté par la chance."
+        "name": "Bourse de Riche",
+        "tips": "Taux de drop affecté par la Chance."
       },
       "GEM": {
         "description": "Augmente l'expérience.",
-        "name": "Gemme d'expérience"
+        "name": "Gemme d'Expérience"
       },
       "OROLOGION": {
         "description": "Immobilise tous les ennemis pendant 10 secondes.",
         "name": "Orologion",
-        "tips": "Taux de drop affecté par la chance."
+        "tips": "Taux de drop affecté par la Chance."
       },
       "ROAST": {
         "description": "Restaure 30 points de vie.",
-        "name": "Poulet rôti",
-        "tips": "Taux de drop affecté par la chance."
+        "name": "Poulet Rôti",
+        "tips": "Taux de drop affecté par la Chance."
       },
       "ROSARY": {
         "description": "Élimine tous les ennemis visibles.",
         "name": "Chapelet",
-        "tips": "Taux de drop affecté par la chance."
+        "tips": "Taux de drop affecté par la Chance."
       },
       "TREASURE": {
         "description": "Attribue des pièces et des power-ups. Droppé par les ennemis puissants.",
-        "name": "Coffre au trésor",
-        "tips": "Qualité affectée par la chance."
+        "name": "Coffre au Trésor",
+        "tips": "Qualité affectée par la Chance."
       },
       "VACUUM": {
         "description": "Récupère toutes les gemmes d'expérience laissées au sol.",
         "name": "Vortex",
-        "tips": "Taux de drop affecté par la chance."
+        "tips": "Taux de drop affecté par la Chance."
       },
       "NFT": {
         "description": "Souffle du feu en cône de façon temporaire. Objet affecté par les stats du joueur.",
         "name": "Nduja Fritta",
-        "tips": "Taux de drop affecté par la chance."
+        "tips": "Taux de drop affecté par la Chance."
       }
     }
   },
