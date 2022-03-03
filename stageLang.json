@@ -19,7 +19,13 @@
         "stageName": "الفدان الخضراء",
         "description": "مكان لا يسمح فيه بالفانين. يتغير المصير كل دقيقة.",
         "tips": "نقاط صحة الأعداء +50%",
-        "hyperTips": "50% زيادة نقود\n10% زيادة حظ"
+        "hyperTips": "50% زيادة نقود\n10% زيادة حظ",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "Dairy Plant",
+        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
+        "hyperTips": "50% Gold bonus\n10% Luck bonus"
       }
     }
   },
@@ -48,6 +54,12 @@
         "stageName": "绿地",
         "description": "不允许凡人进入的地方。 命运时时刻刻都在改变。",
         "tips": "敌人生命值 +50%",
+        "hyperTips": "金币加成50%\n幸运加成10%",
+        "stagenNumber": "挑战"
+      },
+      "WAREHOUSE": {
+        "stageName": "奶牛场",
+        "description": "藏在这里的神奇地图，可能最终会带我们找到吸血鬼，或者至少找到更多的烤鸡。",
         "hyperTips": "金币加成50%\n幸运加成10%"
       }
     }
@@ -95,30 +107,13 @@
         "stageName": "Green Acres",
         "description": "A place where mortals are not allowed. Fate changes every minute.",
         "tips": "Enemies health +50%",
+        "hyperTips": "50% Gold bonus\n10% Luck bonus",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "Dairy Plant",
+        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "hyperTips": "50% Gold bonus\n10% Luck bonus"
-      }
-    }
-  },
-  "eo": {
-    "english": "Esperanto",
-    "native": "Esperanto",
-    "api": "esperanto",
-    "translations": {
-      "FOREST": {
-        "stageName": "Freneza Arbaro",
-        "description": "La Kastelo estas mensogo, sed ankoraŭ estas senpaga rostita kokido ĉi tie, do ĉio bonas.",
-        "hyperTips": "50% Ora bonuso"
-      },
-      "LIBRARY": {
-        "stageName": "Inkrustitlibrejo",
-        "description": "Ĉi tiu trankvila, longa biblioteko estas la ideala loko kie ripozi, mediti kaj furaĝi por rostita kokido. Sed kion faras ĉi tie ŝtona masko?",
-        "hyperTips": "50% Ora bonuso\n10% Bonŝanca bonuso"
-      },
-      "GREENACRES": {
-        "stageName": "Verdaj Akreoj",
-        "description": "Loko kie mortontoj ne estas permesitaj. La sorto ŝanĝiĝas ĉiun minuton.",
-        "tips": "Sano de malamikoj +50%",
-        "hyperTips": "50% Ora bonuso\n10% Bonŝanca bonuso"
       }
     }
   },
@@ -134,20 +129,26 @@
     "api": "french",
     "translations": {
       "FOREST": {
-        "stageName": "Forêt Enragée",
+        "stageName": "Forêt folle",
         "description": "Le Château est un mensonge. Mais il y a quand même du poulet rôti gratuit dans le coin, alors tout va bien.",
-        "hyperTips": "50 % d'Or bonus"
+        "hyperTips": "50 % d'or bonus"
       },
       "LIBRARY": {
-        "stageName": "Bibliothèque\nMarquetée",
-        "description": "Calme, cette bibliothèque longiligne est l'endroit idéal pour se reposer, méditer et chercher du poulet rôti. Mais pourquoi y a-t-il un masque en pierre ici ?",
-        "hyperTips": "50 % d'Or bonus\n10 % de Chance bonus"
+        "stageName": "Bibliothèque\nmarquetée",
+        "description": "Calme, cette bibliothèque longiligne est l'endroit idéal pour se reposer, méditer et chercher du poulet rôti. Mais pourquoi y a-t-il un masque de pierre ici ?",
+        "hyperTips": "50 % d'or bonus\n10 % de chance bonus"
       },
       "GREENACRES": {
-        "stageName": "Grande Pâture",
-        "description": "Un lieu interdit aux mortels. Là-bas, chaque minute qui passe modifie votre destin.",
+        "stageName": "Grande pâture",
+        "description": "Un lieu interdit aux mortels. Là-bas, chaque minute qui passe fait vaciller le destin.",
         "tips": "Santé des ennemis + 50 %",
-        "hyperTips": "50 % d'Or bonus\n10 % de Chance bonus"
+        "hyperTips": "50 % d'or bonus\n10 % de chance bonus",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "Dairy Plant",
+        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
+        "hyperTips": "50 % d'or bonus\n10 % de chance bonus"
       }
     }
   },
@@ -169,7 +170,13 @@
         "stageName": "Grüner Acker",
         "description": "Ein Ort, an dem Sterbliche nicht erlaubt sind. Das Schicksal ändert sich jede Minute.",
         "tips": "Gesundheit der Gegner +50%",
-        "hyperTips": "50% Goldbonus\n10% Glücksbonus"
+        "hyperTips": "50% Goldbonus\n10% Glücksbonus",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "Dairy Plant",
+        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
+        "hyperTips": "50% Gold bonus\n10% Luck bonus"
       }
     }
   },
@@ -198,7 +205,13 @@
         "stageName": "Zöld mezők",
         "description": "Nem halandóknak való vidék. A sors minden percben megváltozik.",
         "tips": "Ellenfelek ÉP-je +50%",
-        "hyperTips": "50% bónusz arany\n10% bónusz szerencse"
+        "hyperTips": "50% bónusz arany\n10% bónusz szerencse",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "Dairy Plant",
+        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
+        "hyperTips": "50% Gold bonus\n10% Luck bonus"
       }
     }
   },
@@ -227,6 +240,12 @@
         "stageName": "緑の地",
         "description": "人間は決して立ち入れない場所。 ここでは運命が数分で変わってしまう。",
         "tips": "敵のライフ50%アップ",
+        "hyperTips": "50%のゴールドボーナス\n10%の運気ボーナス",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "酪農場",
+        "description": "ここに隠された魔法の地図が吸血鬼に導いてくれるかもしれないし、少なくともローストチキンをもっと食べることができるかもしれない。",
         "hyperTips": "50%のゴールドボーナス\n10%の運気ボーナス"
       }
     }
@@ -250,6 +269,12 @@
         "stageName": "푸른 초원",
         "description": "이 곳은 필멸자에게 허락된 곳이 아닙니다. 운명은 언제든지 바뀔 수 있습니다.",
         "tips": "적 체력 +50%",
+        "hyperTips": "골드 50% 보너스\n행운 10% 보너스",
+        "stagenNumber": "도전"
+      },
+      "WAREHOUSE": {
+        "stageName": "유제품 공장",
+        "description": "이 공장에 숨겨진 마법지도는 우리를 뱀파이어에게 이끌지도 모릅니다. 아니라도 치킨은 더 얻을수 있겠죠.",
         "hyperTips": "골드 50% 보너스\n행운 10% 보너스"
       }
     }
@@ -279,7 +304,13 @@
         "stageName": "Zielony Zagon",
         "description": "Miejsce, gdzie śmiertelnicy nie mają wstępu. Los zmienia się z każdą minutą.",
         "tips": "Zdrowie przeciwników +50%",
-        "hyperTips": "50% premii do Złota\n10% premii do Szczęścia"
+        "hyperTips": "50% premii do Złota\n10% premii do Szczęścia",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "Dairy Plant",
+        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
+        "hyperTips": "50% Gold bonus\n10% Luck bonus"
       }
     }
   },
@@ -308,6 +339,12 @@
         "stageName": "Planicies Verdes",
         "description": "Um lugar onde mortais não são permitidos. O destino muda a cada minuto.",
         "tips": "Saúde dos inimigos +50%",
+        "hyperTips": "50% Bônus em moedas\n10% Bônus de Sorte",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "Dairy Plant",
+        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "hyperTips": "50% Bônus em moedas\n10% Bônus de Sorte"
       }
     }
@@ -325,18 +362,24 @@
     "translations": {
       "FOREST": {
         "stageName": "Безумный Лес",
-        "description": "Замок - ложь, но здесь все еще есть бесплатный жареный цыпленок, так что все хорошо.",
+        "description": "О Замке, конечно, лгут, но здесь все еще есть бесплатный жареный цыпленок, так что все хорошо.",
         "hyperTips": "50% бонус к Золоту"
       },
       "LIBRARY": {
         "stageName": "Библиотека",
-        "description": "Эта тихая длинная библиотека - идеальное место для отдыха, медитации и приготовления жареного цыпленка. Но что здесь делает каменная маска?",
+        "description": "Эта тихая длинная библиотека - идеальное место для отдыха, медитации и поиска жареного цыпленка. Но что здесь делает каменная маска?",
         "hyperTips": "50% бонус к Золоту\n10% бонус к Удаче"
       },
       "GREENACRES": {
         "stageName": "Зеленые Акры",
-        "description": "Место, куда смертным вход воспрещен. Судьба меняется каждую минуту.",
+        "description": "Место, куда смертным вход воспрещен! Все может выйти из-под контроля в любой момент.",
         "tips": "Здоровье врагов +50%",
+        "hyperTips": "50% бонус к Золоту\n10% бонус к Удаче",
+        "stagenNumber": "Испытание"
+      },
+      "WAREHOUSE": {
+        "stageName": "Молочный Завод",
+        "description": "Волшебная карта спрятана здесь. Может она, наконец, приведет нас к вампиру или, по крайней мере, к еще одному жареному цыпленку.",
         "hyperTips": "50% бонус к Золоту\n10% бонус к Удаче"
       }
     }
@@ -360,6 +403,12 @@
         "stageName": "Llanuras Verdes",
         "description": "Un lugar prohibido para los mortales. Su destino cambia cada minuto.",
         "tips": "Salud de los enemigos +50 %",
+        "hyperTips": "Bonus de 50 % de oro\nBonus de 10 % de suerte",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "Dairy Plant",
+        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "hyperTips": "Bonus de 50 % de oro\nBonus de 10 % de suerte"
       }
     }
@@ -401,7 +450,13 @@
         "stageName": "Yeşil Arazi",
         "description": "Ölümlülerin bulunmaması gereken bir yer. Kader her dakika değişir.",
         "tips": "Düşman azami canı +%50",
-        "hyperTips": "%50 Altın bonusu\n%10 Şans bonusu"
+        "hyperTips": "%50 Altın bonusu\n%10 Şans bonusu",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "Dairy Plant",
+        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
+        "hyperTips": "50% Gold bonus\n10% Luck bonus"
       }
     }
   },
@@ -422,9 +477,15 @@
       },
       "GREENACRES": {
         "stageName": "Зелені Акры",
-        "description": "Місце, куди смертним вхід заборонено. Доля змінюється щохвилини.",
+        "description": "Місце, куди смертним вхід заборонено. Доля змінюється щохвилинич.",
         "tips": "Здоров'я ворогів +50%",
-        "hyperTips": "50% бонус до Золота\n10% бонус до Удачі"
+        "hyperTips": "50% бонус до Золота\n10% бонус до Удачі",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "Dairy Plant",
+        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
+        "hyperTips": "50% Gold bonus\n10% Luck bonus"
       }
     }
   },
@@ -433,5 +494,34 @@
     "native": "Tiếng Việt",
     "api": "vietnamese",
     "translations": {}
+  },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "FOREST": {
+        "stageName": "Freneza Arbaro",
+        "description": "La Kastelo estas mensogo, sed ankoraŭ estas senpaga rostita kokido ĉi tie, do ĉio bonas.",
+        "hyperTips": "50% Ora bonuso"
+      },
+      "LIBRARY": {
+        "stageName": "Inkrustitlibrejo",
+        "description": "Ĉi tiu trankvila, longa biblioteko estas la ideala loko kie ripozi, mediti kaj furaĝi por rostita kokido. Sed kion faras ĉi tie ŝtona masko?",
+        "hyperTips": "50% Ora bonuso\n10% Bonŝanca bonuso"
+      },
+      "GREENACRES": {
+        "stageName": "Verdaj Akreoj",
+        "description": "Loko kie mortontoj ne estas permesitaj. La sorto ŝanĝiĝas ĉiun minuton.",
+        "tips": "Sano de malamikoj +50%",
+        "hyperTips": "50% Ora bonuso\n10% Bonŝanca bonuso",
+        "stagenNumber": "Challenge"
+      },
+      "WAREHOUSE": {
+        "stageName": "Dairy Plant",
+        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
+        "hyperTips": "50% Gold bonus\n10% Luck bonus"
+      }
+    }
   }
 }

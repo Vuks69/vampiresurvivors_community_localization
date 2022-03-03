@@ -59,6 +59,11 @@
         "description": "تطلق مخاريط لهب مؤقتا. يتأثر ب طاقات اللاعب.",
         "name": "ندوجا فريتا",
         "tips": "نسبة سقوطه تتأثر بالحظ."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -127,6 +132,11 @@
         "description": "可暂时发出锥形火焰。 受玩家数值影响。",
         "name": "辣酱烘蛋",
         "tips": "掉落率受幸运值影响。"
+      },
+      "RELIC_MAP": {
+        "name": "银河系地图",
+        "description": "永久启用暂停菜单中的地图。",
+        "achievementTips": "暂停菜单地图。"
       }
     }
   },
@@ -213,68 +223,11 @@
         "description": "Temporarily emits cones of flames. Affected by player stats.",
         "name": "Nduja Fritta",
         "tips": "Drop rate affected by Luck."
-      }
-    }
-  },
-  "eo": {
-    "english": "Esperanto",
-    "native": "Esperanto",
-    "api": "esperanto",
-    "translations": {
-      "CLOVER": {
-        "description": "Elektu por akiri 10% pli bonŝanca.",
-        "name": "Eta Trifolio"
       },
-      "COIN": {
-        "description": "Aldonas 1 al viaj oraj moneroj entute.",
-        "name": "Ora Monero"
-      },
-      "COINBAG1": {
-        "description": "Aldonas 10 al viaj oraj moneroj entute.",
-        "name": "Monera Sako"
-      },
-      "COINBAG2": {
-        "description": "Aldonas 25 al viaj oraj moneroj entute.",
-        "name": "Granda Monera Sako"
-      },
-      "COINBAGMAX": {
-        "description": "Aldonas 100 al viaj oraj moneroj entute.",
-        "name": "Riĉa Monera Sako",
-        "tips": "Gutoprocento tuŝita de Bonŝanco."
-      },
-      "GEM": {
-        "description": "Pliigas sperton.",
-        "name": "Sperta Gemo"
-      },
-      "OROLOGION": {
-        "description": "Frostas ĉiujn malamikojn ĝustatempe dum 10 sekundoj.",
-        "name": "Orologion",
-        "tips": "Gutoprocento tuŝita de Bonŝanco."
-      },
-      "ROAST": {
-        "description": "Restarigas 30 sanpoentojn.",
-        "name": "Planka Kokido",
-        "tips": "Gutoprocento tuŝita de Bonŝanco."
-      },
-      "ROSARY": {
-        "description": "Detruas ĉiujn malamikojn en vido.",
-        "name": "Rosario",
-        "tips": "Gutoprocento tuŝita de Bonŝanco."
-      },
-      "TREASURE": {
-        "description": "Premioj moneroj kaj potenco-ups. Faligite de fortaj malamikoj.",
-        "name": "Trezorkesto",
-        "tips": "Kvalito trafita de Bonŝanco."
-      },
-      "VACUUM": {
-        "description": "Kolektas ĉiujn spertajn gemojn lasitajn sur la tero.",
-        "name": "Vakuo",
-        "tips": "Gutoprocento tuŝita de Bonŝanco."
-      },
-      "NFT": {
-        "description": "Provizore elsendas konusojn de flamoj. Trafita de ludanta statistiko.",
-        "name": "Nduja Fritta",
-        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -291,58 +244,63 @@
     "translations": {
       "CLOVER": {
         "description": "Obtenez 10 % de chance en plus en le ramassant.",
-        "name": "Petit Trèfle"
+        "name": "Petit trèfle"
       },
       "COIN": {
         "description": "Ajoute 1 à votre total de pièces d'or.",
-        "name": "Pièce d'Or"
+        "name": "Pièce d'or"
       },
       "COINBAG1": {
         "description": "Ajoute 10 à votre total de pièces d'or.",
-        "name": "Bourse"
+        "name": "Bourse d'or"
       },
       "COINBAG2": {
         "description": "Ajoute 25 à votre total de pièces d'or.",
-        "name": "Grosse Bourse"
+        "name": "Sac d'or"
       },
       "COINBAGMAX": {
         "description": "Ajoute 100 à votre total de pièces d'or.",
-        "name": "Bourse de Riche",
-        "tips": "Taux de drop affecté par la Chance."
+        "name": "Sac d'or mastoc",
+        "tips": "Taux de drop affecté par la chance."
       },
       "GEM": {
         "description": "Augmente l'expérience.",
-        "name": "Gemme d'Expérience"
+        "name": "Gemme d'expérience"
       },
       "OROLOGION": {
         "description": "Immobilise tous les ennemis pendant 10 secondes.",
         "name": "Orologion",
-        "tips": "Taux de drop affecté par la Chance."
+        "tips": "Taux de drop affecté par la chance."
       },
       "ROAST": {
         "description": "Restaure 30 points de vie.",
-        "name": "Poulet Rôti",
-        "tips": "Taux de drop affecté par la Chance."
+        "name": "Poulet rôti",
+        "tips": "Taux de drop affecté par la chance."
       },
       "ROSARY": {
         "description": "Élimine tous les ennemis visibles.",
         "name": "Chapelet",
-        "tips": "Taux de drop affecté par la Chance."
+        "tips": "Taux de drop affecté par la chance."
       },
       "TREASURE": {
         "description": "Attribue des pièces et des power-ups. Droppé par les ennemis puissants.",
-        "name": "Coffre au Trésor",
-        "tips": "Qualité affectée par la Chance."
+        "name": "Coffre au trésor",
+        "tips": "Qualité affectée par la chance."
       },
       "VACUUM": {
         "description": "Récupère toutes les gemmes d'expérience laissées au sol.",
         "name": "Vortex",
-        "tips": "Taux de drop affecté par la Chance."
+        "tips": "Taux de drop affecté par la chance."
       },
       "NFT": {
         "description": "Souffle du feu en cône de façon temporaire. Objet affecté par les stats du joueur.",
         "name": "Nduja Fritta",
-        "tips": "Taux de drop affecté par la Chance."
+        "tips": "Taux de drop affecté par la chance."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -405,6 +363,11 @@
         "description": "Setzt vorübergehend Flammenkegel frei. Beeinflusst die Werte des Spielers.",
         "name": "Nduja Fritta",
         "tips": "Die Drop-Rate hängt vom Glück ab."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -473,6 +436,11 @@
         "description": "Egy kis ideig lángkúpot szór. A játékos statisztikái kihatnak rá.",
         "name": "Nduja Fritta",
         "tips": "A dobási arányt befolyásolja a szerencse."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -541,6 +509,11 @@
         "description": "一時的に円錐形の炎を放出する。 プレイヤーステータスの影響を受ける。",
         "name": "ンドゥヤ・フリッタ",
         "tips": "ドロップ率は運気の影響を受ける。"
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -603,6 +576,11 @@
         "description": "바라보는 방향으로 화염을 방사합니다. 플레이어 스탯에 영향을 받습니다.",
         "name": "은두자 프리타",
         "tips": "행운이 높을수록 드랍될 확률이 높아집니다."
+      },
+      "RELIC_MAP": {
+        "name": "은하수 지도",
+        "description": "일시정지 화면에서 지도를 활성화하여 필드의 아이템 위치를 표시합니다.",
+        "achievementTips": "일시정지 메뉴 지도"
       }
     }
   },
@@ -671,6 +649,11 @@
         "description": "Pluje strumieniami ognia przez krótki okres. Efekt zależny od statystyk.",
         "name": "Pikantna Kiełbasa",
         "tips": "Czestotliwość wypadania uzależniona od Szczęścia."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -739,6 +722,11 @@
         "description": "Temporáriamente emite cones de chamas. Afetado pelos atributos do jogador.",
         "name": "Nduja Fritta",
         "tips": "Chance de Dropar afetada pela Sorte."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -754,7 +742,7 @@
     "api": "russian",
     "translations": {
       "CLOVER": {
-        "description": "Поднимите, чтобы стать на 10% удачливее.",
+        "description": "Подберите и станьте на 10% удачливее.",
         "name": "Маленький Клевер"
       },
       "COIN": {
@@ -771,7 +759,7 @@
       },
       "COINBAGMAX": {
         "description": "Добавляет 100 к общему количеству ваших золотых монет.",
-        "name": "Богатый Мешок Монет",
+        "name": "Роскошный Мешок Монет",
         "tips": "Частота выпадения зависит от Удачи."
       },
       "GEM": {
@@ -785,7 +773,7 @@
       },
       "ROAST": {
         "description": "Восстанавливает 30 ОЗ.",
-        "name": "Жаренный Цыпленок",
+        "name": "Жареный Цыпленок",
         "tips": "Частота выпадения зависит от Удачи."
       },
       "ROSARY": {
@@ -794,7 +782,7 @@
         "tips": "Частота выпадения зависит от Удачи."
       },
       "TREASURE": {
-        "description": "Награждает монетами и усилениями. Выпадает из сильных врагов.",
+        "description": "Вознаграждает монетами и усилениями. Выпадает из сильных врагов.",
         "name": "Сундук с Сокровищами",
         "tips": "Качество зависит от Удачи."
       },
@@ -804,9 +792,14 @@
         "tips": "Частота выпадения зависит от Удачи."
       },
       "NFT": {
-        "description": "Временно испускает конус пламени. Зависит от статистики игрока.",
+        "description": "Временно испускает конус пламени. Зависит от характеристик игрока.",
         "name": "Ндуя Фритта",
         "tips": "Частота выпадения зависит от Удачи."
+      },
+      "RELIC_MAP": {
+        "name": "Карта Млечного Пути",
+        "description": "Включает карту в меню паузы.",
+        "achievementTips": "карта в меню паузы."
       }
     }
   },
@@ -869,6 +862,11 @@
         "description": "Libera salvas de fuego en función de los atributos del jugador.",
         "name": "Enduja Fritta",
         "tips": "Aparece en función de tu suerte."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -949,6 +947,11 @@
         "description": "Geçici olarak alev püskürtür. Karakter özelliklerine bağlıdır.",
         "name": "Nduja Fritta",
         "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -1011,6 +1014,11 @@
         "description": "Тимчасово випускає конус полум'я. Залежить від статистики гравця.",
         "name": "Ндуя Фрітта",
         "tips": "Частота випадіння залежить від Удачі."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -1019,5 +1027,72 @@
     "native": "Tiếng Việt",
     "api": "vietnamese",
     "translations": {}
+  },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "CLOVER": {
+        "description": "Elektu por akiri 10% pli bonŝanca.",
+        "name": "Eta Trifolio"
+      },
+      "COIN": {
+        "description": "Aldonas 1 al viaj oraj moneroj entute.",
+        "name": "Ora Monero"
+      },
+      "COINBAG1": {
+        "description": "Aldonas 10 al viaj oraj moneroj entute.",
+        "name": "Monera Sako"
+      },
+      "COINBAG2": {
+        "description": "Aldonas 25 al viaj oraj moneroj entute.",
+        "name": "Granda Monera Sako"
+      },
+      "COINBAGMAX": {
+        "description": "Aldonas 100 al viaj oraj moneroj entute.",
+        "name": "Riĉa Monera Sako",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "GEM": {
+        "description": "Pliigas sperton.",
+        "name": "Sperta Gemo"
+      },
+      "OROLOGION": {
+        "description": "Frostas ĉiujn malamikojn ĝustatempe dum 10 sekundoj.",
+        "name": "Orologion",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "ROAST": {
+        "description": "Restarigas 30 sanpoentojn.",
+        "name": "Planka Kokido",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "ROSARY": {
+        "description": "Detruas ĉiujn malamikojn en vido.",
+        "name": "Rosario",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "TREASURE": {
+        "description": "Premioj moneroj kaj potenco-ups. Faligite de fortaj malamikoj.",
+        "name": "Trezorkesto",
+        "tips": "Kvalito trafita de Bonŝanco."
+      },
+      "VACUUM": {
+        "description": "Kolektas ĉiujn spertajn gemojn lasitajn sur la tero.",
+        "name": "Vakuo",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "NFT": {
+        "description": "Provizore elsendas konusojn de flamoj. Trafita de ludanta statistiko.",
+        "name": "Nduja Fritta",
+        "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
+      }
+    }
   }
 }
