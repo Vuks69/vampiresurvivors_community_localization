@@ -212,6 +212,16 @@
         "name": "قنبلة كرزية",
         "description": "ترمي مقذوفة ترتد, تنفجر, احياناُ",
         "tips": "أفضل شيء مع: الحظ"
+      },
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   },
@@ -1129,6 +1139,25 @@
         "name": "Donnerschleife",
         "description": "Entwickelter Blitzring. Geschosse schlagen zwei mal ein.",
         "tips": "Benötigt: Duplikator."
+      },
+      "CURSE": {
+        "name": "Skull O'Maniac",
+        "description": "Increases enemy speed, health, quantity, and frequency by 10%."
+      },
+      "CHERRY": {
+        "name": "Cherry Bomb",
+        "description": "Throws a bouncing projectile. Explodes, sometimes.",
+        "tips": "Best with: luck."
+      },
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   },
@@ -1350,6 +1379,16 @@
         "name": "Petárda",
         "description": "Egy pattogó lövedék. Néha felrobban.",
         "tips": "Legjobb ezzel: szerencse."
+      },
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   },
@@ -2027,6 +2066,16 @@
         "name": "Wiśniowa Bomba",
         "description": "Rzuca odbijającym się pociskiem. Czasem wybucha.",
         "tips": "Najskuteczniejsza z Szczęściem."
+      },
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   },
@@ -2947,6 +2996,16 @@
         "name": "Kiraz Bombası",
         "description": "Seker ve bazen patlar.",
         "tips": "En iyi kombo: Şans."
+      },
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   },
@@ -3153,6 +3212,25 @@
         "name": "Громова петля",
         "description": "Покращене Кільце Блискавки. Снаряди б'ють двічі.",
         "tips": "Потребує: Дублікатор."
+      },
+      "CURSE": {
+        "name": "Skull O'Maniac",
+        "description": "Increases enemy speed, health, quantity, and frequency by 10%."
+      },
+      "CHERRY": {
+        "name": "Cherry Bomb",
+        "description": "Throws a bouncing projectile. Explodes, sometimes.",
+        "tips": "Best with: luck."
+      },
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   },
@@ -3365,6 +3443,25 @@
         "name": "Tondro Buklo",
         "description": "Evoluinta Fulma Ringo. Kugloj batas dufoje.",
         "tips": "Postulas: Duobligilo."
+      },
+      "CURSE": {
+        "name": "Skull O'Maniac",
+        "description": "Increases enemy speed, health, quantity, and frequency by 10%."
+      },
+      "CHERRY": {
+        "name": "Cherry Bomb",
+        "description": "Throws a bouncing projectile. Explodes, sometimes.",
+        "tips": "Best with: luck."
+      },
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   }

@@ -70,6 +70,11 @@
         "prefix": "ياتا",
         "charName": "كافالو",
         "description": "يحصل على زيادة مقذوفات كل 20 مستوى (أقصى+3).ا"
+      },
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   },
@@ -403,6 +408,21 @@
         "name": "Krochi",
         "surname": "Freetto",
         "description": "Startet mit 1 Wiederbelebung. Erhält 1 weitere Wiederbelebung bei Level 33."
+      },
+      "LAMA": {
+        "charName": "Lama",
+        "surname": "Ladonna",
+        "description": "Gains +5% Might, MoveSpeed, and Curse every 10 levels (max +20%)."
+      },
+      "CAVALLO": {
+        "prefix": "Yatta",
+        "charName": "Cavallo",
+        "description": "Gets more projectiles every 20 levels (max+3)."
+      },
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   },
@@ -482,6 +502,11 @@
         "prefix": "Yatta",
         "charName": "Cavallo",
         "description": "1 további lövedéket lő 20 szintenként (max +3)."
+      },
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   },
@@ -723,6 +748,11 @@
         "prefix": "Yatta",
         "name": "Cavallo",
         "description": "Zyskuje dodatkowy pocisk co 20 poziomów (maks. +3)."
+      },
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   },
@@ -1060,6 +1090,11 @@
         "prefix": "Yatta",
         "charName": "Cavallo",
         "description": "Her 20 seviyede 1 fazladan saldırı gerçekleştirir. (maks 3)"
+      },
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   },
@@ -1124,6 +1159,21 @@
         "name": "Крочі",
         "surname": "Фрітто",
         "description": "Починає з 1 Відродженням. Отримує по 1 Відродженню кожні 33 рівня."
+      },
+      "LAMA": {
+        "charName": "Lama",
+        "surname": "Ladonna",
+        "description": "Gains +5% Might, MoveSpeed, and Curse every 10 levels (max +20%)."
+      },
+      "CAVALLO": {
+        "prefix": "Yatta",
+        "charName": "Cavallo",
+        "description": "Gets more projectiles every 20 levels (max+3)."
+      },
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   },
@@ -1193,6 +1243,21 @@
         "name": "Krochi",
         "surname": "Freetto",
         "description": "Komenciĝas kun 1 Reviviĝo. Gajnas 1 plian Reviviĝon ĉe nivelo 33."
+      },
+      "LAMA": {
+        "charName": "Lama",
+        "surname": "Ladonna",
+        "description": "Gains +5% Might, MoveSpeed, and Curse every 10 levels (max +20%)."
+      },
+      "CAVALLO": {
+        "prefix": "Yatta",
+        "charName": "Cavallo",
+        "description": "Gets more projectiles every 20 levels (max+3)."
+      },
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   }

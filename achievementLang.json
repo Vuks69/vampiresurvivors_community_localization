@@ -154,6 +154,24 @@
       },
       "ReachLV100WithCavallo": {
         "description": "اوصل مستوى 100 بشخصية ياتا كافالو"
+      },
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
+      },
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
+      },
+      "ReachLV40InLibrary": {
+        "description": "Reach Level 40 in Inlaid Library."
+      },
+      "DefeatBossPlant": {
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
+      },
+      "FindMilkyWayMap": {
+        "description": "Find the Milky Way Map."
       }
     }
   },
@@ -860,6 +878,36 @@
       },
       "Survive20MinutesWithCross": {
         "description": "Überlebe 20 Minuten mit Krochi."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "Survive 20 minutes with at least +10% Curse."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Survive 30 minutes with Lama."
+      },
+      "Defeat3000Buers": {
+        "description": "Defeat a total of 3000 Lion Heads."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Reach Level 100 with Yatta Cavallo."
+      },
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
+      },
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
+      },
+      "ReachLV40InLibrary": {
+        "description": "Reach Level 40 in Inlaid Library."
+      },
+      "DefeatBossPlant": {
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
+      },
+      "FindMilkyWayMap": {
+        "description": "Find the Milky Way Map."
       }
     }
   },
@@ -1023,6 +1071,24 @@
       },
       "ReachLV100WithCavallo": {
         "description": "Érd el a 100. szintet Yatta Cavallóval."
+      },
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
+      },
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
+      },
+      "ReachLV40InLibrary": {
+        "description": "Reach Level 40 in Inlaid Library."
+      },
+      "DefeatBossPlant": {
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
+      },
+      "FindMilkyWayMap": {
+        "description": "Find the Milky Way Map."
       }
     }
   },
@@ -1542,6 +1608,24 @@
       },
       "ReachLV100WithCavallo": {
         "description": "Zdobądź 100 poziom jako Yatta Cavallo."
+      },
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
+      },
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
+      },
+      "ReachLV40InLibrary": {
+        "description": "Reach Level 40 in Inlaid Library."
+      },
+      "DefeatBossPlant": {
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
+      },
+      "FindMilkyWayMap": {
+        "description": "Find the Milky Way Map."
       }
     }
   },
@@ -2254,6 +2338,24 @@
       },
       "ReachLV100WithCavallo": {
         "description": "Yatta Cavallo ile 100. seviyeye ulaş."
+      },
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
+      },
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
+      },
+      "ReachLV40InLibrary": {
+        "description": "Reach Level 40 in Inlaid Library."
+      },
+      "DefeatBossPlant": {
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
+      },
+      "FindMilkyWayMap": {
+        "description": "Find the Milky Way Map."
       }
     }
   },
@@ -2399,6 +2501,36 @@
       },
       "Survive20MinutesWithCross": {
         "description": "Виживіть 20 хвилин із Крочі."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "Survive 20 minutes with at least +10% Curse."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Survive 30 minutes with Lama."
+      },
+      "Defeat3000Buers": {
+        "description": "Defeat a total of 3000 Lion Heads."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Reach Level 100 with Yatta Cavallo."
+      },
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
+      },
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
+      },
+      "ReachLV40InLibrary": {
+        "description": "Reach Level 40 in Inlaid Library."
+      },
+      "DefeatBossPlant": {
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
+      },
+      "FindMilkyWayMap": {
+        "description": "Find the Milky Way Map."
       }
     }
   },
@@ -2550,6 +2682,36 @@
       },
       "Survive20MinutesWithCross": {
         "description": "Travivu 20 minutojn kun Kroĉi."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "Survive 20 minutes with at least +10% Curse."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Survive 30 minutes with Lama."
+      },
+      "Defeat3000Buers": {
+        "description": "Defeat a total of 3000 Lion Heads."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Reach Level 100 with Yatta Cavallo."
+      },
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
+      },
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
+      },
+      "ReachLV40InLibrary": {
+        "description": "Reach Level 40 in Inlaid Library."
+      },
+      "DefeatBossPlant": {
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
+      },
+      "FindMilkyWayMap": {
+        "description": "Find the Milky Way Map."
       }
     }
   }

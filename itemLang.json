@@ -59,6 +59,11 @@
         "description": "تطلق مخاريط لهب مؤقتا. يتأثر ب طاقات اللاعب.",
         "name": "ندوجا فريتا",
         "tips": "نسبة سقوطه تتأثر بالحظ."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -358,6 +363,11 @@
         "description": "Setzt vorübergehend Flammenkegel frei. Beeinflusst die Werte des Spielers.",
         "name": "Nduja Fritta",
         "tips": "Die Drop-Rate hängt vom Glück ab."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -426,6 +436,11 @@
         "description": "Egy kis ideig lángkúpot szór. A játékos statisztikái kihatnak rá.",
         "name": "Nduja Fritta",
         "tips": "A dobási arányt befolyásolja a szerencse."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -634,6 +649,11 @@
         "description": "Pluje strumieniami ognia przez krótki okres. Efekt zależny od statystyk.",
         "name": "Pikantna Kiełbasa",
         "tips": "Czestotliwość wypadania uzależniona od Szczęścia."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -927,6 +947,11 @@
         "description": "Geçici olarak alev püskürtür. Karakter özelliklerine bağlıdır.",
         "name": "Nduja Fritta",
         "tips": "Düşme oranı Şans'a bağlıdır."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -989,6 +1014,11 @@
         "description": "Тимчасово випускає конус полум'я. Залежить від статистики гравця.",
         "name": "Ндуя Фрітта",
         "tips": "Частота випадіння залежить від Удачі."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   },
@@ -1057,6 +1087,11 @@
         "description": "Provizore elsendas konusojn de flamoj. Trafita de ludanta statistiko.",
         "name": "Nduja Fritta",
         "tips": "Gutoprocento tuŝita de Bonŝanco."
+      },
+      "RELIC_MAP": {
+        "name": "Milky Way Map",
+        "description": "Permanently enables the map in the pause menu.",
+        "achievementTips": "pause menu map."
       }
     }
   }

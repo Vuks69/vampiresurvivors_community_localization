@@ -444,6 +444,10 @@
       "SKIP": {
         "name": "Überspringen",
         "description": "Erlaubt einmal pro Rang das Überspringen von Levelaufstiegswahlen und gewährt stattdessen Erfahrung."
+      },
+      "CURSE": {
+        "name": "Curse",
+        "description": "Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%)."
       }
     }
   },
@@ -1235,6 +1239,10 @@
       "SKIP": {
         "name": "Пропуск",
         "description": "Один раз за ранг, дозволяє пропускати варіанти підвищення рівня і натомість отримати досвід."
+      },
+      "CURSE": {
+        "name": "Curse",
+        "description": "Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%)."
       }
     }
   },
@@ -1320,6 +1328,10 @@
       "SKIP": {
         "name": "Salto",
         "description": "Unufoje por rango, permesas preterpasi elektojn de nivelo supren kaj akiri Sperton anstataŭe."
+      },
+      "CURSE": {
+        "name": "Curse",
+        "description": "Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%)."
       }
     }
   }

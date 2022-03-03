@@ -157,7 +157,16 @@
       "credit_translation": "ترجمة",
       "levelup_skip": "تخطي",
       "levelup_reroll": "تغيير",
-      "levelup_Xleft": "%0 باقي"
+      "levelup_Xleft": "%0 باقي",
+      "weaponLevelUp_curse": "Increases enemy speed, health, quantity, and frequency by %0%.",
+      "weaponLevelUp_cooldownIncreased": "Cooldown increased by %0 seconds\n",
+      "stageSelection_stageNumber": "Stage %0",
+      "charFound_ok": "OK?",
+      "charFound_joins": "%0\nJOINS THE SURVIVORS!",
+      "charFound_another": "Thank you %0, but the vampire is in another coffin!",
+      "pause_showGuides": "Show Guides",
+      "pause_hideGuides": "Hide Guides",
+      "options_restoreBackup": "Restore Backup"
     }
   },
   "bg": {
@@ -860,7 +869,16 @@
       "credit_translation": "ÜBERSETZUNG",
       "levelup_skip": "ÜBERSPRINGEN",
       "levelup_reroll": "NEU WÜRFELN",
-      "levelup_Xleft": "%0 übrig"
+      "levelup_Xleft": "%0 übrig",
+      "weaponLevelUp_curse": "Increases enemy speed, health, quantity, and frequency by %0%.",
+      "weaponLevelUp_cooldownIncreased": "Cooldown increased by %0 seconds\n",
+      "stageSelection_stageNumber": "Stage %0",
+      "charFound_ok": "OK?",
+      "charFound_joins": "%0\nJOINS THE SURVIVORS!",
+      "charFound_another": "Thank you %0, but the vampire is in another coffin!",
+      "pause_showGuides": "Show Guides",
+      "pause_hideGuides": "Hide Guides",
+      "options_restoreBackup": "Restore Backup"
     }
   },
   "el": {
@@ -1027,7 +1045,15 @@
       "levelup_skip": "ÁTUGRÁS",
       "levelup_reroll": "ÚJRADOBÁS",
       "levelup_Xleft": "%0 maradt",
-      "weaponLevelUp_curse": "%0%-kal növeli az ellenfelek sebességét, ÉP-jét, mennyiségét és gyakoriságát."
+      "weaponLevelUp_curse": "%0%-kal növeli az ellenfelek sebességét, ÉP-jét, mennyiségét és gyakoriságát.",
+      "weaponLevelUp_cooldownIncreased": "Cooldown increased by %0 seconds\n",
+      "stageSelection_stageNumber": "Stage %0",
+      "charFound_ok": "OK?",
+      "charFound_joins": "%0\nJOINS THE SURVIVORS!",
+      "charFound_another": "Thank you %0, but the vampire is in another coffin!",
+      "pause_showGuides": "Show Guides",
+      "pause_hideGuides": "Hide Guides",
+      "options_restoreBackup": "Restore Backup"
     }
   },
   "it": {
@@ -1538,7 +1564,15 @@
       "levelup_skip": "POMIŃ",
       "levelup_reroll": "LOSUJ",
       "levelup_Xleft": "pozostało %0",
-      "weaponLevelUp_curse": "Zwiększa prędkość, zdrowie oraz ilość przeciwników o %0%."
+      "weaponLevelUp_curse": "Zwiększa prędkość, zdrowie oraz ilość przeciwników o %0%.",
+      "weaponLevelUp_cooldownIncreased": "Cooldown increased by %0 seconds\n",
+      "stageSelection_stageNumber": "Stage %0",
+      "charFound_ok": "OK?",
+      "charFound_joins": "%0\nJOINS THE SURVIVORS!",
+      "charFound_another": "Thank you %0, but the vampire is in another coffin!",
+      "pause_showGuides": "Show Guides",
+      "pause_hideGuides": "Hide Guides",
+      "options_restoreBackup": "Restore Backup"
     }
   },
   "pt": {
@@ -2236,7 +2270,15 @@
       "levelup_skip": "PAS",
       "levelup_reroll": "YENİLE",
       "levelup_Xleft": "%0 kaldı",
-      "weaponLevelUp_curse": "Düşman hızı, sağlığı, sayısı ve sıklığını %0% arttırır."
+      "weaponLevelUp_curse": "Düşman hızı, sağlığı, sayısı ve sıklığını %0% arttırır.",
+      "weaponLevelUp_cooldownIncreased": "Cooldown increased by %0 seconds\n",
+      "stageSelection_stageNumber": "Stage %0",
+      "charFound_ok": "OK?",
+      "charFound_joins": "%0\nJOINS THE SURVIVORS!",
+      "charFound_another": "Thank you %0, but the vampire is in another coffin!",
+      "pause_showGuides": "Show Guides",
+      "pause_hideGuides": "Hide Guides",
+      "options_restoreBackup": "Restore Backup"
     }
   },
   "uk": {
@@ -2395,7 +2437,17 @@
       "preload_warning_text": "Ця гра містить яскраві спалахи. Будь ласка, негайно припиніть гру і зверніться до лікаря, якщо ви відчуваєте запаморочення, зміну зору, посмикування очей або обличчя, посмикування або тремтіння рук або ніг, дезорієнтацію, сплутаність свідомості або короткочасну втрату свідомості.\n\nЯкщо у вас чи у кого-небудь з ваших родичів у родоводі були напади або епілепсія, проконсультуйтеся з лікарем перед грою.",
       "credit_translation": "ПЕРЕКЛАД",
       "levelup_skip": "ПРОПУСТИТИ",
-      "levelup_reroll": "ПЕРЕРОЛИТИ"
+      "levelup_reroll": "ПЕРЕРОЛИТИ",
+      "levelup_Xleft": "%0 left",
+      "weaponLevelUp_curse": "Increases enemy speed, health, quantity, and frequency by %0%.",
+      "weaponLevelUp_cooldownIncreased": "Cooldown increased by %0 seconds\n",
+      "stageSelection_stageNumber": "Stage %0",
+      "charFound_ok": "OK?",
+      "charFound_joins": "%0\nJOINS THE SURVIVORS!",
+      "charFound_another": "Thank you %0, but the vampire is in another coffin!",
+      "pause_showGuides": "Show Guides",
+      "pause_hideGuides": "Hide Guides",
+      "options_restoreBackup": "Restore Backup"
     }
   },
   "vn": {
@@ -2561,7 +2613,16 @@
       "credit_translation": "TRADUKO",
       "levelup_skip": "SALTO",
       "levelup_reroll": "RERULIGO",
-      "levelup_Xleft": "%0 restas"
+      "levelup_Xleft": "%0 restas",
+      "weaponLevelUp_curse": "Increases enemy speed, health, quantity, and frequency by %0%.",
+      "weaponLevelUp_cooldownIncreased": "Cooldown increased by %0 seconds\n",
+      "stageSelection_stageNumber": "Stage %0",
+      "charFound_ok": "OK?",
+      "charFound_joins": "%0\nJOINS THE SURVIVORS!",
+      "charFound_another": "Thank you %0, but the vampire is in another coffin!",
+      "pause_showGuides": "Show Guides",
+      "pause_hideGuides": "Hide Guides",
+      "options_restoreBackup": "Restore Backup"
     }
   }
 }
