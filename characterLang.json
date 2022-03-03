@@ -85,12 +85,12 @@
     "api": "schinese",
     "translations": {
       "ANTONIO": {
-        "description": "每 10 级增加 10% 的伤害（最多 +50%）。",
+        "description": "每 10 级增加 10% 的伤害（最高 +50%）。",
         "charName": "安东尼奥",
         "surname": "贝尔帕斯"
       },
       "IMELDA": {
-        "description": "每5级增加10%的经验（最多 +30%）。",
+        "description": "每5级增加10%的经验（最高+30%）。",
         "charName": "伊梅尔达",
         "surname": "贝尔帕斯"
       },
@@ -136,9 +136,24 @@
         "surname": "拉多纳"
       },
       "CROCI": {
-        "name": "克罗奇",
+        "charName": "克罗奇",
         "surname": "弗赖托",
         "description": "1级复活一次。 33级在获得复活一次"
+      },
+      "LAMA": {
+        "charName": "拉玛",
+        "surname": "拉多娜",
+        "description": "每 10 级获得 +5% 力量、 移动速度和诅咒 （最高 +20%）。"
+      },
+      "CAVALLO": {
+        "prefix": "雅塔",
+        "charName": "卡瓦洛",
+        "description": "每 20 级获得更多射弹（最多 +3）。"
+      },
+      "POPPEA": {
+        "charName": "萝",
+        "surname": "卜豆",
+        "description": "每关增加1% 持续时间。"
       }
     }
   },
@@ -223,82 +238,24 @@
         "surname": "Ladonna"
       },
       "CROCI": {
-        "name": "Krochi",
+        "charName": "Krochi",
         "surname": "Freetto",
         "description": "Starts with 1 Revival. Gains 1 more Revival at level 33."
       },
       "LAMA": {
-        "name": "Lama",
+        "charName": "Lama",
         "surname": "Ladonna",
         "description": "Gains +5% Might, MoveSpeed, and Curse every 10 levels (max +20%)."
       },
       "CAVALLO": {
         "prefix": "Yatta",
-        "name": "Cavallo",
+        "charName": "Cavallo",
         "description": "Gets more projectiles every 20 levels (max+3)."
-      }
-    }
-  },
-  "eo": {
-    "english": "Esperanto",
-    "native": "Esperanto",
-    "api": "esperanto",
-    "translations": {
-      "ANTONIO": {
-        "description": "Gajnas 10% pli da damaĝo ĉiujn 10 nivelojn (maks +50%).",
-        "charName": "Antonio",
-        "surname": "Belpaese"
       },
-      "IMELDA": {
-        "description": "Akiras 10% pli da sperto ĉiujn 5 nivelojn (maks +30%).",
-        "charName": "Imelda",
-        "surname": "Belpaese"
-      },
-      "CIRO": {
-        "charName": "Arka",
-        "description": "Malvarmigo de armilo estas reduktita je 5% ĉiujn 10 nivelojn (maks -15%).",
-        "surname": "Ladonna"
-      },
-      "DOMMARIO": {
-        "charName": "Dommario",
-        "description": "Permanenta +40% daŭro kaj rapideco, -40% movrapideco."
-      },
-      "EXDASH": {
-        "description": "Almenaŭ ili estas bonŝancaj."
-      },
-      "GENNARO": {
-        "charName": "Ĝennaro",
-        "description": "Permanenta +1 kuglo (ĉiuj armiloj).",
-        "surname": "Belpaese"
-      },
-      "GERMANA": {
-        "charName": "Kleriĉi",
-        "description": "Permanenta +0.5 SP/s kaj +30 Maks Saneco. Komenciĝas kun provizora areo-bonuso.",
-        "prefix": "Suor"
-      },
-      "MORTACCIO": {
-        "charName": "Mortaĉio",
-        "description": "Akiras pli da ĵetaĵoj ĉiujn 20 nivelojn (maks+3)."
-      },
-      "CAMILLO": {
-        "charName": "Po",
-        "description": "Permanenta +25% ŝarĝoradiuso kaj -30 maks saneco.",
-        "surname": "Rajĉo"
-      },
-      "PASQUALINA": {
-        "charName": "Paskalina",
-        "description": "Kugloj ricevas 10% pli rapide ĉiujn 5 nivelojn (maks +30%).",
-        "surname": "Belpaese"
-      },
-      "PORTA": {
-        "charName": "Porta",
-        "description": "Permanenta +30% areo. Komenciĝas kun provizora malvarmiga bonuso.",
-        "surname": "Ladonna"
-      },
-      "CROCI": {
-        "name": "Krochi",
-        "surname": "Freetto",
-        "description": "Komenciĝas kun 1 Reviviĝo. Gajnas 1 plian Reviviĝon ĉe nivelo 33."
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   },
@@ -325,12 +282,12 @@
       },
       "CIRO": {
         "charName": "Arca",
-        "description": "Le cooldown de ses armes sont réduits de 5 % tous les 10 niveaux (- 15 % max).",
+        "description": "Le cooldown de l'arme est réduit de 5 % tous les 10 niveaux (- 15 % max).",
         "surname": "Ladonna"
       },
       "DOMMARIO": {
         "charName": "Dommario",
-        "description": "Durée et vélocité à + 40 % et vitesse à - 30 %, en permanence."
+        "description": "Durée et puissance de tir à + 40 % et vitesse à - 30 %, en permanence."
       },
       "EXDASH": {
         "description": "Au moins, ils ont de la chance."
@@ -342,7 +299,7 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "+ 0.5 PV par seconce et + 30 de santé max, en permanence. Commence avec un bonus de portée temporaire.",
+        "description": "+ 0.5 PV et + 30 de santé max, en permanence. Commence avec un bonus de portée temporaire.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
@@ -367,17 +324,22 @@
       "CROCI": {
         "charName": "Krochi",
         "surname": "Freetto",
-        "description": "Commence avec 1 Ressurection. Gagne 1 Ressurection de plus au niveau 33."
+        "description": "Commence avec 1 Réssurection. Gagne 1 Réssurection de plus au niveau 33."
       },
       "LAMA": {
         "charName": "Lama",
         "surname": "Ladonna",
-        "description": "Gagne + 5 % de Puissance, de Vitesse, et de Malédiction tous les 10 niveaux (+ 20 % max)."
+        "description": "Gagne +5% de puissance, de vitesse de déplacement et de malédiction tous les 10 niveaux (max +20%)."
       },
       "CAVALLO": {
         "prefix": "Yatta",
         "charName": "Cavallo",
         "description": "Obtient des projectiles supplémentaires tous les 20 niveaux (+ 3 max)."
+      },
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   },
@@ -564,7 +526,7 @@
       "GERMANA": {
         "charName": "クレーリチ",
         "description": "永続的にライフを毎秒0.5獲得し、 ライフ上限が30増加。 一時的なエリアボーナスから始 まる。",
-        "prefix": "Suor"
+        "prefix": "シスター"
       },
       "MORTACCIO": {
         "charName": "モルタッチオ",
@@ -586,9 +548,24 @@
         "surname": "ラドンナ"
       },
       "CROCI": {
-        "name": "Krochi",
-        "surname": "Freetto",
-        "description": "Starts with 1 Revival. Gains 1 more Revival at level 33."
+        "charName": "クロチ",
+        "surname": "フリート",
+        "description": "復活+1でスタート。レベル33に\nなると復活が1増える"
+      },
+      "LAMA": {
+        "charName": "ラマ",
+        "surname": "ラドンナ",
+        "description": "10レベル毎に威力、移動速度、\n呪いを+5%(最大+20%)する。"
+      },
+      "CAVALLO": {
+        "prefix": "ヤッタ",
+        "charName": "カヴァロ",
+        "description": "20レベルごとに発射物が増加 （上限：3）。"
+      },
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   },
@@ -649,9 +626,24 @@
         "surname": "라돈나"
       },
       "CROCI": {
-        "name": "크로치",
+        "charName": "크로치",
         "surname": "프리토",
         "description": "추가 목숨을 가지고 시작합니다. 33레벨에 목숨을 하나 더 획득합니다."
+      },
+      "LAMA": {
+        "charName": "라마",
+        "surname": "라돈나",
+        "description": "매 10레벨 마다 5%의 괴력, 이동속도와 저주를 받습니다. (최대 +20%)"
+      },
+      "CAVALLO": {
+        "prefix": "야타",
+        "charName": "카발로",
+        "description": "매 20레벨마다 투사체가 추가됩니다. (최대 +3)"
+      },
+      "POPPEA": {
+        "charName": "포페아",
+        "surname": "페코리나",
+        "description": "매 레벨마다 무기의 지속시간이 1%씩 증가합니다."
       }
     }
   },
@@ -797,9 +789,24 @@
         "surname": "Ladonna"
       },
       "CROCI": {
-        "name": "Krochi",
+        "charName": "Krochi",
         "surname": "Freetto",
         "description": "Pode reviver uma vez. Ganha outra vida no nível 33."
+      },
+      "LAMA": {
+        "charName": "Lama",
+        "surname": "Ladonna",
+        "description": "Ganha +5% de Poder, Movimento e Maldição a cada 10 níveis (max +20%)."
+      },
+      "CAVALLO": {
+        "prefix": "Yatta",
+        "charName": "Cavallo",
+        "description": "Ganha um projétil a cada 20 níveis (max +3)."
+      },
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   },
@@ -817,12 +824,12 @@
       "ANTONIO": {
         "description": "Наносит на 10% больше урона каждые 10 уровней (макс. +50%).",
         "charName": "Антонио",
-        "surname": "Бельпезе"
+        "surname": "Бельпаэзе"
       },
       "IMELDA": {
         "description": "Получает на 10% больше опыта каждые 5 уровней (макс. +30%).",
         "charName": "Имельда",
-        "surname": "Бельпезе"
+        "surname": "Бельпаэзе"
       },
       "CIRO": {
         "charName": "Арка",
@@ -831,19 +838,19 @@
       },
       "DOMMARIO": {
         "charName": "Доммарио",
-        "description": "Сразу +40% к Долготе и Скорости, -40% Подвижности."
+        "description": "Имеет +40% к Сроку и Скорости, -40% Подвижности."
       },
       "EXDASH": {
         "description": "По крайней мере, он везучий."
       },
       "GENNARO": {
         "charName": "Дженнаро",
-        "description": "Сразу +1 снаряд (все оружия).",
-        "surname": "Бельпезе"
+        "description": "Имеет +1 снаряд (все оружие).",
+        "surname": "Бельпаэзе"
       },
       "GERMANA": {
         "charName": "Клеричи",
-        "description": "Сразу +0.5 ОЗ/с и +30 Макс. ОЗ. Начинает с временным бонусом к Размеру.",
+        "description": "Имеет +0.5 ОЗ/сек. и +30 Макс. ОЗ. Начинает с временным бонусом к Размеру.",
         "prefix": "Суор"
       },
       "MORTACCIO": {
@@ -852,23 +859,38 @@
       },
       "CAMILLO": {
         "charName": "По",
-        "description": "Сразу +25% к радиусу сбора и -30 от Макс. ОЗ.",
+        "description": "Имеет +25% к радиусу сбора и -30 от Макс. ОЗ.",
         "surname": "Ратчо"
       },
       "PASQUALINA": {
         "charName": "Паскуалина",
         "description": "Снаряды становятся на 10% быстрее каждые 5 уровней (макс. +30%).",
-        "surname": "Бельпезе"
+        "surname": "Бельпаэзе"
       },
       "PORTA": {
         "charName": "Порта",
-        "description": "Сразу +30% к Размеру. Начинает с временным бонусом к Откату.",
+        "description": "Имеет +30% к Размеру. Начинает с временным бонусом к Откату.",
         "surname": "Ладонна"
       },
       "CROCI": {
-        "name": "Крочи",
+        "charName": "Крочи",
         "surname": "Фритто",
-        "description": "Сразу +1 Оживление. Получает 1 Оживление каждые 33 уровня."
+        "description": "Имеет +1 Оживление. Получает 1 Оживление на 33 уровне."
+      },
+      "LAMA": {
+        "charName": "Лама",
+        "surname": "Ладонна",
+        "description": "Увеличивает на +5% Силу,  Подвижность и Проклятье каждые 10 уровней (макс. +20%)."
+      },
+      "CAVALLO": {
+        "prefix": "Ятта",
+        "charName": "Кавалло",
+        "description": "Получает больше снарядов каждые 20 уровней (макс. +3)."
+      },
+      "POPPEA": {
+        "charName": "Поппея",
+        "surname": "Пекорина",
+        "description": "Прибавляет +1% к Сроку  с каждым уровнем."
       }
     }
   },
@@ -907,7 +929,7 @@
       "GERMANA": {
         "charName": "Clerici",
         "description": "0,5 PS/s y +30 de salud máx. permanente. Comienza con bonus de radio temporal.",
-        "prefix": "Suor"
+        "prefix": "Nun"
       },
       "MORTACCIO": {
         "charName": "Mortaccio",
@@ -929,9 +951,24 @@
         "surname": "Ladonna"
       },
       "CROCI": {
-        "name": "Krochi",
+        "charName": "Krochi",
         "surname": "Freetto",
         "description": "Starts with 1 Revival. Gains 1 more Revival at level 33."
+      },
+      "LAMA": {
+        "charName": "Lama",
+        "surname": "Ladonna",
+        "description": "Gains +5% Might, MoveSpeed, and Curse every 10 levels (max +20%)."
+      },
+      "CAVALLO": {
+        "prefix": "Yatta",
+        "charName": "Cavallo",
+        "description": "Consigue más proyectiles cada 20 niveles (máx. +3)."
+      },
+      "POPPEA": {
+        "charName": "Poppea",
+        "surname": "Pecorina",
+        "description": "Gains +1% Duration every level."
       }
     }
   },
@@ -1086,17 +1123,7 @@
       "CROCI": {
         "name": "Крочі",
         "surname": "Фрітто",
-        "description": "Починає з 1 Відродженням. Отримує 1 Відродження кожні 33 рівня."
-      },
-      "LAMA": {
-        "name": "Лама",
-        "surname": "Ладонна",
-        "description": "Отримує +5% Сили, Рухливості та  Прокляття кожні 10 рівнів (макс. +20%)."
-      },
-      "CAVALLO": {
-        "prefix": "Ятта",
-        "name": "Кавалло",
-        "description": "Отримує більше снарядів кожні 20 рівнів (макс.+3)."
+        "description": "Починає з 1 Відродженням. Отримує по 1 Відродженню кожні 33 рівня."
       }
     }
   },
@@ -1105,5 +1132,68 @@
     "native": "Tiếng Việt",
     "api": "vietnamese",
     "translations": {}
+  },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "ANTONIO": {
+        "description": "Gajnas 10% pli da damaĝo ĉiujn 10 nivelojn (maks +50%).",
+        "charName": "Antonio",
+        "surname": "Belpaese"
+      },
+      "IMELDA": {
+        "description": "Akiras 10% pli da sperto ĉiujn 5 nivelojn (maks +30%).",
+        "charName": "Imelda",
+        "surname": "Belpaese"
+      },
+      "CIRO": {
+        "charName": "Arka",
+        "description": "Malvarmigo de armilo estas reduktita je 5% ĉiujn 10 nivelojn (maks -15%).",
+        "surname": "Ladonna"
+      },
+      "DOMMARIO": {
+        "charName": "Dommario",
+        "description": "Permanenta +40% daŭro kaj rapideco, -40% movrapideco."
+      },
+      "EXDASH": {
+        "description": "Almenaŭ ili estas bonŝancaj."
+      },
+      "GENNARO": {
+        "charName": "Ĝennaro",
+        "description": "Permanenta +1 kuglo (ĉiuj armiloj).",
+        "surname": "Belpaese"
+      },
+      "GERMANA": {
+        "charName": "Kleriĉi",
+        "description": "Permanenta +0.5 SP/s kaj +30 Maks Saneco. Komenciĝas kun provizora areo-bonuso.",
+        "prefix": "Suor"
+      },
+      "MORTACCIO": {
+        "charName": "Mortaĉio",
+        "description": "Akiras pli da ĵetaĵoj ĉiujn 20 nivelojn (maks+3)."
+      },
+      "CAMILLO": {
+        "charName": "Po",
+        "description": "Permanenta +25% ŝarĝoradiuso kaj -30 maks saneco.",
+        "surname": "Rajĉo"
+      },
+      "PASQUALINA": {
+        "charName": "Paskalina",
+        "description": "Kugloj ricevas 10% pli rapide ĉiujn 5 nivelojn (maks +30%).",
+        "surname": "Belpaese"
+      },
+      "PORTA": {
+        "charName": "Porta",
+        "description": "Permanenta +30% areo. Komenciĝas kun provizora malvarmiga bonuso.",
+        "surname": "Ladonna"
+      },
+      "CROCI": {
+        "name": "Krochi",
+        "surname": "Freetto",
+        "description": "Komenciĝas kun 1 Reviviĝo. Gajnas 1 plian Reviviĝon ĉe nivelo 33."
+      }
+    }
   }
 }

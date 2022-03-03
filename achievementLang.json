@@ -298,13 +298,43 @@
         "description": "进化出闪电戒指"
       },
       "ReachLV100WithMortaccio": {
-        "description": "和莫塔乔一起达到100级。"
+        "description": "莫塔乔升到100级。"
       },
       "Survive30MinutesInGreenAcres": {
-        "description": "在绿地生存30分钟。"
+        "description": "绿地生存30分钟。"
       },
       "Survive20MinutesWithCross": {
-        "description": "和克罗奇一起活过20分钟。"
+        "description": "克罗奇生存20分钟。"
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "生存20分钟加上+10%的诅咒"
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "拉玛生存30分钟"
+      },
+      "Defeat3000Buers": {
+        "description": "共击败3000个狮头。"
+      },
+      "ReachLV100WithCavallo": {
+        "description": "雅塔·卡瓦洛升到100级。"
+      },
+      "EvolveSongOfMana": {
+        "description": "进化出法力之歌。"
+      },
+      "Survive15MinutesWithSong": {
+        "description": "和萝卜豆一起活15分钟。"
+      },
+      "FindCoffinStage3": {
+        "description": "在奶牛场找到并打开法老的棺材"
+      },
+      "ReachLV40InLibrary": {
+        "description": "在镶嵌图书馆中达到40级。"
+      },
+      "DefeatBossPlant": {
+        "description": "击败奶牛场的铠甲。"
+      },
+      "FindMilkyWayMap": {
+        "description": "找到银河系地图。"
       }
     }
   },
@@ -401,7 +431,7 @@
         "description": "Defeat a total of 5000 enemies."
       },
       "Defeat3000Skeletons": {
-        "description": "Defeat a total of 3000 skeletons."
+        "description": "Defeat a total of 3000 Skeletons."
       },
       "DefeatBossMadForest": {
         "description": "Defeat the giant Blue Venus in the Mad Forest."
@@ -486,151 +516,24 @@
       },
       "ReachLV100WithCavallo": {
         "description": "Reach Level 100 with Yatta Cavallo."
-      }
-    }
-  },
-  "eo": {
-    "english": "Esperanto",
-    "native": "Esperanto",
-    "api": "esperanto",
-    "translations": {
-      "ReachLV5": {
-        "description": "Atingu la Nivelon 5."
       },
-      "ReachLV10": {
-        "description": "Atingu la Nivelon 10."
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
       },
-      "Have6DifferentWeapons": {
-        "description": "Tenu 6 malsamajn armilojn samtempe."
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
       },
-      "GetFireWandToLevel4": {
-        "description": "Akiru Fajrvergon al Nivelo 4."
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
       },
-      "GetHolyBookToLevel4": {
-        "description": "Akiru Reĝan Biblion al Nivelo 4."
+      "ReachLV40InLibrary": {
+        "description": "Reach Level 40 in Inlaid Library."
       },
-      "GetHolyWaterToLevel4": {
-        "description": "Akiru Santa Akvon al Nivelo 4."
+      "DefeatBossPlant": {
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
       },
-      "GetLightningRingToLevel4": {
-        "description": "Akiru Fulman Ringon al Nivelo 4."
-      },
-      "GetMagicMissileToLevel7": {
-        "description": "Akiru Magiavergon al Nivelo 7."
-      },
-      "GetPeachoneToLevel7": {
-        "description": "Akiru Peachone al Nivelo 7."
-      },
-      "GetRunetracerToLevel7": {
-        "description": "Airu Runspuron al Nivelo 7."
-      },
-      "Survive1Minute": {
-        "description": "Travivu 1 minuton kun iu ajn rolulo."
-      },
-      "Survive5MinutesWithDiamond": {
-        "description": "Travivu 5 minutojn kun Paskalina."
-      },
-      "Survive10Minutes": {
-        "description": "Travivu 10 minutojn kun iu ajn rolulo."
-      },
-      "Survive20Minutes": {
-        "description": "Travivu 20 minutojn kun iu ajn rolulo."
-      },
-      "Destroy20Candles": {
-        "description": "Detruu 20 lumfontojn."
-      },
-      "Eat5PotRoast": {
-        "description": "Trovu 5 Plankajn Kokidojn."
-      },
-      "FindAClover": {
-        "description": "Trovu Etan Trifolion."
-      },
-      "FindAVacuum": {
-        "description": "Trovu Vakuon."
-      },
-      "FindAnOrologion": {
-        "description": "Trovu Orologion."
-      },
-      "FindARosary": {
-        "description": "Trovu Rosarion."
-      },
-      "Defeat5000Enemies": {
-        "description": "Venku entute 5000 malamikojn."
-      },
-      "Defeat3000Skeletons": {
-        "description": "Venku entute 3000 skeletojn."
-      },
-      "DefeatBossMadForest": {
-        "description": "Venku la gigantan Bluan Venuson en la Freneza Arbaro."
-      },
-      "ReachLV20InMadForest": {
-        "description": "Atingu la Nivelon 20 en Freneza Arbaro."
-      },
-      "DefeatBossLibrary": {
-        "description": "Venku la Nesuferiton en la Inkrustita Biblioteko."
-      },
-      "Survive5MinutesWithKnife": {
-        "description": "Travivu 5 minutojn kun Gennaro."
-      },
-      "FindAStoneMask": {
-        "description": "Trovu Ŝtonan Maskon."
-      },
-      "GetGarlicToLevel7": {
-        "description": "Akiru Ajlon al Nivelo 7."
-      },
-      "EvolveWhip": {
-        "description": "Evoluu la Vipon."
-      },
-      "EvolveMagicWand": {
-        "description": "Evoluu la Magiavergon."
-      },
-      "EvolveKnife": {
-        "description": "Evoluu la Tranĉilon."
-      },
-      "EvolveAxe": {
-        "description": "Evoluu la Hakilon."
-      },
-      "EvolveCross": {
-        "description": "Evoluu la Krucon."
-      },
-      "EvolveKingBible": {
-        "description": "Evoluu la Reĝan Biblion."
-      },
-      "EvolveFireWand": {
-        "description": "Evoluu la Fajrvergon."
-      },
-      "Defeat100KEnemies": {
-        "description": "Venku entute 100000 malamikojn."
-      },
-      "Recover1000HP": {
-        "description": "Rekuperu entute 1000 SP."
-      },
-      "Earn5000CoinsInASingleRun": {
-        "description": "Gajnu 5000 monerojn en ununura kuro."
-      },
-      "EvolveSantaWater": {
-        "description": "Evoluu la Santa Akvon."
-      },
-      "UniteBirds": {
-        "description": "Unuigu Ebonajn Flugilojn kaj Peachone."
-      },
-      "EvolveGarlic": {
-        "description": "Evoluu la Ajlon."
-      },
-      "Unlock2Hypers": {
-        "description": "Malŝlosu Hyper-reĝimon por 2 stadioj."
-      },
-      "EvolveLightning": {
-        "description": "Evoluu la Fulman Ringon."
-      },
-      "ReachLV100WithMortaccio": {
-        "description": "Atingu Nivelon 100 kun Mortaĉio."
-      },
-      "Survive30MinutesInGreenAcres": {
-        "description": "Travivu 30 minutojn en Verdaj Akreoj."
-      },
-      "Survive20MinutesWithCross": {
-        "description": "Travivu 20 minutojn kun Kroĉi."
+      "FindMilkyWayMap": {
+        "description": "Find the Milky Way Map."
       }
     }
   },
@@ -646,34 +549,34 @@
     "api": "french",
     "translations": {
       "ReachLV5": {
-        "description": "Atteignez le Niveau 5."
+        "description": "Atteignez le niveau 5."
       },
       "ReachLV10": {
-        "description": "Atteignez le Niveau 10."
+        "description": "Atteignez le niveau 10."
       },
       "Have6DifferentWeapons": {
         "description": "Portez 6 armes différentes en même temps."
       },
       "GetFireWandToLevel4": {
-        "description": "Faites monter la Baguette de Feu au niveau 4."
+        "description": "Faîtes monter la Baguette de feu au niveau 4."
       },
       "GetHolyBookToLevel4": {
-        "description": "Faites monter la Bible du Roi au niveau 4."
+        "description": "Faîtes monter la Bible du roi au niveau 4."
       },
       "GetHolyWaterToLevel4": {
-        "description": "Faites monter l'Eau Sainte au niveau 4."
+        "description": "Faîtes monter l'Eau sainte au niveau 4."
       },
       "GetLightningRingToLevel4": {
-        "description": "Faites monter l'Anneau de Foudre' au niveau 4."
+        "description": "Faîtes monter la Bague du tonnerre au niveau 4."
       },
       "GetMagicMissileToLevel7": {
-        "description": "Faites monter la Baguette Magique au niveau 7."
+        "description": "Faîtes monter la Baguette magique au niveau 7."
       },
       "GetPeachoneToLevel7": {
-        "description": "Faites monter la Pigeonne au niveau 7."
+        "description": "Faîtes monter la Pigeonne au niveau 7."
       },
       "GetRunetracerToLevel7": {
-        "description": "Faites monter le Traqueur de Runes au niveau 7."
+        "description": "Faîtes monter le Traqueur de runes au niveau 7."
       },
       "Survive1Minute": {
         "description": "Survivez 1 minute avec n'importe quel personnage."
@@ -691,10 +594,10 @@
         "description": "Détruisez 20 sources de lumière."
       },
       "Eat5PotRoast": {
-        "description": "Trouvez 5 Poulets Rôtis."
+        "description": "Trouvez 5 Poulets rôtis."
       },
       "FindAClover": {
-        "description": "Trouvez un Petit Trèfle."
+        "description": "Trouvez un Petit trèfle."
       },
       "FindAVacuum": {
         "description": "Trouvez un Vortex."
@@ -709,73 +612,73 @@
         "description": "Éliminez 5 000 ennemis au total."
       },
       "Defeat3000Skeletons": {
-        "description": "Éliminez 3 000 Squelettes au total."
+        "description": "Éliminez 3 000 squelettes au total."
       },
       "DefeatBossMadForest": {
-        "description": "Éliminez la grande Vénus Bleue dans la Forêt Enragée."
+        "description": "Éliminez la grande Vénus bleue dans la Forêt folle."
       },
       "ReachLV20InMadForest": {
-        "description": "Atteignez le Niveau 20 dans la Forêt Enragée."
+        "description": "Atteignez le niveau 20 dans la Forêt folle."
       },
       "DefeatBossLibrary": {
-        "description": "Éliminez le Nesfuréti dans la Bibliothèque Marquetée."
+        "description": "Éliminez le Nesfuréti dans la Bibliothèque marquetée."
       },
       "Survive5MinutesWithKnife": {
         "description": "Survivez 5 minutes avec Gennaro."
       },
       "FindAStoneMask": {
-        "description": "Trouvez un Masque en Pierre."
+        "description": "Trouvez un Masque de pierre."
       },
       "GetGarlicToLevel7": {
-        "description": "Faites monter l'Ail au niveau 7."
+        "description": "Faîtes monter l'Ail au niveau 7."
       },
       "EvolveWhip": {
-        "description": "Faites évoluer le Fouet."
+        "description": "Faîtes évoluer le Fouet."
       },
       "EvolveMagicWand": {
-        "description": "Faites évoluer la Baguette Magique."
+        "description": "Faîtes évoluer la Baguette magique."
       },
       "EvolveKnife": {
-        "description": "Faites évoluer le Couteau."
+        "description": "Faîtes évoluer le Poignard."
       },
       "EvolveAxe": {
-        "description": "Faites évoluer la Hache."
+        "description": "Faîtes évoluer la Hache."
       },
       "EvolveCross": {
-        "description": "Faites évoluer la Croix."
+        "description": "Faîtes évoluer la Croix."
       },
       "EvolveKingBible": {
-        "description": "Faites évoluer la Bible du Roi."
+        "description": "Faîtes évoluer la Bible du roi."
       },
       "EvolveFireWand": {
-        "description": "Faites évoluer la Baguette de Feu."
+        "description": "Faîtes évoluer la Baguette de feu."
       },
       "Defeat100KEnemies": {
         "description": "Éliminez un total de 100 000 ennemis."
       },
       "Recover1000HP": {
-        "description": "Récupérez un total de 1000 HP."
+        "description": "Récupérer un total de 1000 HP."
       },
       "Earn5000CoinsInASingleRun": {
-        "description": "Gagnez 5000 pièces en une seule partie."
+        "description": "Gagnez 5000 pièces en un seul passage."
       },
       "EvolveSantaWater": {
-        "description": "Faites évoluer l'Eau Sainte"
+        "description": "Faîtes évoluer l'Eau sainte"
       },
       "UniteBirds": {
-        "description": "Faites évoluer la Pigeonne et les Ailes d'Ébène."
+        "description": "Faîtes évoluer la Pigeonne et les Ailes d'ébène."
       },
       "EvolveGarlic": {
-        "description": "Faites évoluer l'Ail."
+        "description": "Faîtes évoluer l'Ail."
       },
       "Unlock2Hypers": {
         "description": "Déverrouillez le mode Hyper pour 2 niveaux."
       },
       "EvolveLightning": {
-        "description": "Faites évoluer l'Anneau de Foudre."
+        "description": "Faites évoluer l'Anneau de foudre."
       },
       "ReachLV100WithMortaccio": {
-        "description": "Atteindre le Niveau 100 avec Mortaccio."
+        "description": "Atteindre le niveau 100 avec Mortaccio."
       },
       "Survive30MinutesInGreenAcres": {
         "description": "Survivre 30 minutes à Grande pâture."
@@ -784,16 +687,34 @@
         "description": "Survivre 20 minutes avec Krochi."
       },
       "Survive20MinutesWithCurse": {
-        "description": "Survivre 20 minutes avec au moins 10 % de Malédiction."
+        "description": "Survivre 20 minutes avec au moins +10% de malédiction."
       },
       "Survive30MinutesWithAxe": {
         "description": "Survivre 30 minutes avec Lama."
       },
       "Defeat3000Buers": {
-        "description": "Éliminez un total de 3 000 Têtes de Lion."
+        "description": "Battre un total de 3000 têtes de lion."
       },
       "ReachLV100WithCavallo": {
-        "description": "Atteignez le Niveau 100 Yatta Cavallo."
+        "description": "Atteignez le niveau 100 avec Yatta Cavallo."
+      },
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
+      },
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
+      },
+      "ReachLV40InLibrary": {
+        "description": "Reach Level 40 in Inlaid Library."
+      },
+      "DefeatBossPlant": {
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
+      },
+      "FindMilkyWayMap": {
+        "description": "Find the Milky Way Map."
       }
     }
   },
@@ -1225,34 +1146,64 @@
         "description": "敵を合計で100,000体倒す。"
       },
       "Recover1000HP": {
-        "description": "Recover a total of 1000 HP."
+        "description": "HPを合計1000回復する。"
       },
       "Earn5000CoinsInASingleRun": {
-        "description": "Earn 5000 coins in a single run."
+        "description": "1回のプレイで5000枚のコインを獲得する。"
       },
       "EvolveSantaWater": {
         "description": "聖水を進化させる。"
       },
       "UniteBirds": {
-        "description": "Unite Ebony Wings and Peachone."
+        "description": "漆黒の翼 ＆ 純白の翼を合体させる。"
       },
       "EvolveGarlic": {
         "description": "ニンニクを進化させる。"
       },
       "Unlock2Hypers": {
-        "description": "Unlock Hyper mode for 2 stages."
+        "description": "ハイパーモードを2ステージ分アンロックする。"
       },
       "EvolveLightning": {
         "description": "雷の指輪を進化させる。"
       },
       "ReachLV100WithMortaccio": {
-        "description": "Reach Level 100 with Mortaccio."
+        "description": "モルタッチョでレベル100になる。"
       },
       "Survive30MinutesInGreenAcres": {
-        "description": "Survive 30 minutes in Green Acres."
+        "description": "緑の大地で30分間生存する。"
       },
       "Survive20MinutesWithCross": {
-        "description": "Krochiで20分間生き残る。"
+        "description": "クロチで20分間生存する。"
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "呪い+10%以上で20分間生存する."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "ラマで30分間生存する"
+      },
+      "Defeat3000Buers": {
+        "description": "ライオンヘッドを合計で3000体倒す。"
+      },
+      "ReachLV100WithCavallo": {
+        "description": "ヤッタ・カヴァロでレベル100に到達する。"
+      },
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
+      },
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
+      },
+      "ReachLV40InLibrary": {
+        "description": "象眼細工の図書館でレベル40に到達する。"
+      },
+      "DefeatBossPlant": {
+        "description": "酪農工場にいるリビングアーマーを倒す。"
+      },
+      "FindMilkyWayMap": {
+        "description": "天の川マップを見つける。"
       }
     }
   },
@@ -1274,7 +1225,7 @@
         "description": "파이어 완드를 레벨 4까지 올리기."
       },
       "GetHolyBookToLevel4": {
-        "description": "왕의 성서를 레벨 4까지 올리기."
+        "description": "기도문을 레벨 4까지 올리기."
       },
       "GetHolyWaterToLevel4": {
         "description": "성수를 레벨 4까지 올리기."
@@ -1361,7 +1312,7 @@
         "description": "십자가 강화시키기."
       },
       "EvolveKingBible": {
-        "description": "왕의 성서 강화시키기."
+        "description": "기도문 강화시키기."
       },
       "EvolveFireWand": {
         "description": "파이어 완드 강화시키기."
@@ -1398,6 +1349,36 @@
       },
       "Survive20MinutesWithCross": {
         "description": "크로치로 20분 생존하기."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "10% 이상의 저주를 받고 20분동안 생존하기."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "라마로 30분 생존하기."
+      },
+      "Defeat3000Buers": {
+        "description": "누적 3,000마리의 라이온 헤드 처치하기."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "야타 카발로로 100레벨 달성하기."
+      },
+      "EvolveSongOfMana": {
+        "description": "마나의 노래 강화하기."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "포페아로 15분 생존하기."
+      },
+      "FindCoffinStage3": {
+        "description": "유제품 공장에서 관을 찾아서 열기."
+      },
+      "ReachLV40InLibrary": {
+        "description": "화려한 도서관에서 레벨 40에 도달하기."
+      },
+      "DefeatBossPlant": {
+        "description": "유제품 공장 에서 소드 가디언을 쓰러트리기."
+      },
+      "FindMilkyWayMap": {
+        "description": "은하수 지도 발견하기."
       }
     }
   },
@@ -1712,6 +1693,36 @@
       },
       "Survive20MinutesWithCross": {
         "description": "Sobreviva 20 minutos com Krochi."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "Sobreviva 20 minutos com ao menos +10% de maldição."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Sobreviva 30 minutos com Lama."
+      },
+      "Defeat3000Buers": {
+        "description": "Derrote um total de 3000 Cabeças de Leão."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Alcance o Nível 100 com Yatta Cavallo."
+      },
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
+      },
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
+      },
+      "ReachLV40InLibrary": {
+        "description": "Reach Level 40 in Inlaid Library."
+      },
+      "DefeatBossPlant": {
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
+      },
+      "FindMilkyWayMap": {
+        "description": "Find the Milky Way Map."
       }
     }
   },
@@ -1727,40 +1738,40 @@
     "api": "russian",
     "translations": {
       "ReachLV5": {
-        "description": "Достичь Уровня 5."
+        "description": "Достигните 5 Уровня."
       },
       "ReachLV10": {
-        "description": "Достичь Уровня 10."
+        "description": "Достигните 10 Уровня."
       },
       "Have6DifferentWeapons": {
-        "description": "Удерживайте 6 разных видов оружия за забег."
+        "description": "Соберите 6 разных видов оружия за забег."
       },
       "GetFireWandToLevel4": {
-        "description": "Получите Огненный Жезл Уровня 4."
+        "description": "Получите Огненный Жезл 4 Уровня."
       },
       "GetHolyBookToLevel4": {
-        "description": "Получите Библию Короля Уровня 4."
+        "description": "Получите Библию Короля 4 Уровня."
       },
       "GetHolyWaterToLevel4": {
-        "description": "Получите Святую Воду Уровня 4."
+        "description": "Получите Святую Воду 4 Уровня."
       },
       "GetLightningRingToLevel4": {
-        "description": "Получите Кольцо Молнии Уровня 4."
+        "description": "Получите Кольцо Молний 4 Уровня."
       },
       "GetMagicMissileToLevel7": {
-        "description": "Получите Магический Жезл Уровня 7."
+        "description": "Получите Чарующий Жезл 7 Уровня."
       },
       "GetPeachoneToLevel7": {
-        "description": "Получите Пишона Уровня 7."
+        "description": "Получите Голубя 7 Уровня."
       },
       "GetRunetracerToLevel7": {
-        "description": "Получите Рунтрейсер Уровня 7."
+        "description": "Получите Рунтрассер 7 Уровня."
       },
       "Survive1Minute": {
         "description": "Выживите 1 минуту с любым персонажем."
       },
       "Survive5MinutesWithDiamond": {
-        "description": "Выживите 5 минут с Паскуалина."
+        "description": "Выживите 5 минут с Паскуалиной."
       },
       "Survive10Minutes": {
         "description": "Выживите 10 минут с любым персонажем."
@@ -1769,10 +1780,10 @@
         "description": "Выживите 20 минут с любым персонажем."
       },
       "Destroy20Candles": {
-        "description": "Уничтожте 20 источников света."
+        "description": "Уничтожьте 20 источников света."
       },
       "Eat5PotRoast": {
-        "description": "Найдите 5 Жареных Циплят."
+        "description": "Найдите 5 Жареных Цыплят."
       },
       "FindAClover": {
         "description": "Найдите Маленький Клевер."
@@ -1793,13 +1804,13 @@
         "description": "Победите в общей сложности 3000 скелетов."
       },
       "DefeatBossMadForest": {
-        "description": "Победите гигантскую Голубую Венеру в Безумном лесу."
+        "description": "Победите Гигантскую Голубую Венеру в Безумном Лесу."
       },
       "ReachLV20InMadForest": {
-        "description": "Достигните Уровня 20 в Безумном лесу."
+        "description": "Достигните 20 Уровня в Безумном лесу."
       },
       "DefeatBossLibrary": {
-        "description": "Победите Несуферита в Библиотеке."
+        "description": "Победите Несуферату в Библиотеке."
       },
       "Survive5MinutesWithKnife": {
         "description": "Выживите 5 минут с Дженнаро."
@@ -1808,13 +1819,13 @@
         "description": "Найдите Каменную Маску."
       },
       "GetGarlicToLevel7": {
-        "description": "Получите Чеснок Уровня 7."
+        "description": "Получите Чеснок 7 Уровня."
       },
       "EvolveWhip": {
         "description": "Улучшите Кнут."
       },
       "EvolveMagicWand": {
-        "description": "Улучшите Магический Жезл."
+        "description": "Улучшите Чарующий Жезл."
       },
       "EvolveKnife": {
         "description": "Улучшите Нож."
@@ -1844,7 +1855,7 @@
         "description": "Улучшите Святую Воду."
       },
       "UniteBirds": {
-        "description": "Объедините Черные Крылья и Пишона."
+        "description": "Объедините Черные Крылья и Голубя."
       },
       "EvolveGarlic": {
         "description": "Улучшите Чеснок."
@@ -1853,16 +1864,46 @@
         "description": "Откройте режим Гипер для двух этапов."
       },
       "EvolveLightning": {
-        "description": "Улучшите Кольцо Молнии."
+        "description": "Улучшите Кольцо Молний."
       },
       "ReachLV100WithMortaccio": {
-        "description": "Достигните Уровня 100 с Мортаччо."
+        "description": "Достигните 100 Уровня с Мортаччо."
       },
       "Survive30MinutesInGreenAcres": {
         "description": "Выживите 30 минут в Зеленых Акрах."
       },
       "Survive20MinutesWithCross": {
         "description": "Выживите 20 минут с Крочи."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "Выживите 20 минут с, как минимум, +10% Проклятья."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Выживите 30 минут с Ламой."
+      },
+      "Defeat3000Buers": {
+        "description": "Победите в общей сложности 3000 Львиных Голов."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Достигните 100 Уровня с Ятта Кавалло."
+      },
+      "EvolveSongOfMana": {
+        "description": "Улучшите Песню Маны."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Выживите 15 минут с Поппея."
+      },
+      "FindCoffinStage3": {
+        "description": "Найдите и откройте гроб на Молочном Заводе."
+      },
+      "ReachLV40InLibrary": {
+        "description": "Достигните 40 Уровня в Библиотеке."
+      },
+      "DefeatBossPlant": {
+        "description": "Победите Стража Меча на Молочном Заводе."
+      },
+      "FindMilkyWayMap": {
+        "description": "Найдите Карту Млечного Пути."
       }
     }
   },
@@ -2008,6 +2049,36 @@
       },
       "Survive20MinutesWithCross": {
         "description": "Survive 20 minutes with Krochi."
+      },
+      "Survive20MinutesWithCurse": {
+        "description": "Survive 20 minutes with at least +10% Curse."
+      },
+      "Survive30MinutesWithAxe": {
+        "description": "Survive 30 minutes with Lama."
+      },
+      "Defeat3000Buers": {
+        "description": "Defeat a total of 3000 Lion Heads."
+      },
+      "ReachLV100WithCavallo": {
+        "description": "Reach Level 100 with Yatta Cavallo."
+      },
+      "EvolveSongOfMana": {
+        "description": "Evolve the Song Of Mana."
+      },
+      "Survive15MinutesWithSong": {
+        "description": "Survive 15 minutes with Poppea."
+      },
+      "FindCoffinStage3": {
+        "description": "Find and open the coffin in the Dairy Plant."
+      },
+      "ReachLV40InLibrary": {
+        "description": "Reach Level 40 in Inlaid Library."
+      },
+      "DefeatBossPlant": {
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
+      },
+      "FindMilkyWayMap": {
+        "description": "Find the Milky Way Map."
       }
     }
   },
@@ -2328,25 +2399,158 @@
       },
       "Survive20MinutesWithCross": {
         "description": "Виживіть 20 хвилин із Крочі."
-      },
-      "Survive20MinutesWithCurse": {
-        "description": "Виживіть 20 хвилин з Прокляттям не менше 10%."
-      },
-      "Survive30MinutesWithAxe": {
-        "description": "Виживіть 30 хвилин із Лама."
-      },
-      "Defeat3000Buers": {
-        "description": "Вбийте в загальній кількості 3000 Левових Голів."
-      },
-      "ReachLV100WithCavallo": {
-        "description": "Досягніть 100 рівня з Ятта Кавалло."
       }
-    },
-    "vn": {
-      "english": "Vietnamese",
-      "native": "Tiếng Việt",
-      "api": "vietnamese",
-      "translations": {}
+    }
+  },
+  "vn": {
+    "english": "Vietnamese",
+    "native": "Tiếng Việt",
+    "api": "vietnamese",
+    "translations": {}
+  },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "ReachLV5": {
+        "description": "Atingu la Nivelon 5."
+      },
+      "ReachLV10": {
+        "description": "Atingu la Nivelon 10."
+      },
+      "Have6DifferentWeapons": {
+        "description": "Tenu 6 malsamajn armilojn samtempe."
+      },
+      "GetFireWandToLevel4": {
+        "description": "Akiru Fajrvergon al Nivelo 4."
+      },
+      "GetHolyBookToLevel4": {
+        "description": "Akiru Reĝan Biblion al Nivelo 4."
+      },
+      "GetHolyWaterToLevel4": {
+        "description": "Akiru Santa Akvon al Nivelo 4."
+      },
+      "GetLightningRingToLevel4": {
+        "description": "Akiru Fulman Ringon al Nivelo 4."
+      },
+      "GetMagicMissileToLevel7": {
+        "description": "Akiru Magiavergon al Nivelo 7."
+      },
+      "GetPeachoneToLevel7": {
+        "description": "Akiru Peachone al Nivelo 7."
+      },
+      "GetRunetracerToLevel7": {
+        "description": "Airu Runspuron al Nivelo 7."
+      },
+      "Survive1Minute": {
+        "description": "Travivu 1 minuton kun iu ajn rolulo."
+      },
+      "Survive5MinutesWithDiamond": {
+        "description": "Travivu 5 minutojn kun Paskalina."
+      },
+      "Survive10Minutes": {
+        "description": "Travivu 10 minutojn kun iu ajn rolulo."
+      },
+      "Survive20Minutes": {
+        "description": "Travivu 20 minutojn kun iu ajn rolulo."
+      },
+      "Destroy20Candles": {
+        "description": "Detruu 20 lumfontojn."
+      },
+      "Eat5PotRoast": {
+        "description": "Trovu 5 Plankajn Kokidojn."
+      },
+      "FindAClover": {
+        "description": "Trovu Etan Trifolion."
+      },
+      "FindAVacuum": {
+        "description": "Trovu Vakuon."
+      },
+      "FindAnOrologion": {
+        "description": "Trovu Orologion."
+      },
+      "FindARosary": {
+        "description": "Trovu Rosarion."
+      },
+      "Defeat5000Enemies": {
+        "description": "Venku entute 5000 malamikojn."
+      },
+      "Defeat3000Skeletons": {
+        "description": "Venku entute 3000 skeletojn."
+      },
+      "DefeatBossMadForest": {
+        "description": "Venku la gigantan Bluan Venuson en la Freneza Arbaro."
+      },
+      "ReachLV20InMadForest": {
+        "description": "Atingu la Nivelon 20 en Freneza Arbaro."
+      },
+      "DefeatBossLibrary": {
+        "description": "Venku la Nesuferiton en la Inkrustita Biblioteko."
+      },
+      "Survive5MinutesWithKnife": {
+        "description": "Travivu 5 minutojn kun Gennaro."
+      },
+      "FindAStoneMask": {
+        "description": "Trovu Ŝtonan Maskon."
+      },
+      "GetGarlicToLevel7": {
+        "description": "Akiru Ajlon al Nivelo 7."
+      },
+      "EvolveWhip": {
+        "description": "Evoluu la Vipon."
+      },
+      "EvolveMagicWand": {
+        "description": "Evoluu la Magiavergon."
+      },
+      "EvolveKnife": {
+        "description": "Evoluu la Tranĉilon."
+      },
+      "EvolveAxe": {
+        "description": "Evoluu la Hakilon."
+      },
+      "EvolveCross": {
+        "description": "Evoluu la Krucon."
+      },
+      "EvolveKingBible": {
+        "description": "Evoluu la Reĝan Biblion."
+      },
+      "EvolveFireWand": {
+        "description": "Evoluu la Fajrvergon."
+      },
+      "Defeat100KEnemies": {
+        "description": "Venku entute 100000 malamikojn."
+      },
+      "Recover1000HP": {
+        "description": "Rekuperu entute 1000 SP."
+      },
+      "Earn5000CoinsInASingleRun": {
+        "description": "Gajnu 5000 monerojn en ununura kuro."
+      },
+      "EvolveSantaWater": {
+        "description": "Evoluu la Santa Akvon."
+      },
+      "UniteBirds": {
+        "description": "Unuigu Ebonajn Flugilojn kaj Peachone."
+      },
+      "EvolveGarlic": {
+        "description": "Evoluu la Ajlon."
+      },
+      "Unlock2Hypers": {
+        "description": "Malŝlosu Hyper-reĝimon por 2 stadioj."
+      },
+      "EvolveLightning": {
+        "description": "Evoluu la Fulman Ringon."
+      },
+      "ReachLV100WithMortaccio": {
+        "description": "Atingu Nivelon 100 kun Mortaĉio."
+      },
+      "Survive30MinutesInGreenAcres": {
+        "description": "Travivu 30 minutojn en Verdaj Akreoj."
+      },
+      "Survive20MinutesWithCross": {
+        "description": "Travivu 20 minutojn kun Kroĉi."
+      }
     }
   }
 }

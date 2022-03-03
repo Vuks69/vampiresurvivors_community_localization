@@ -372,7 +372,7 @@
       },
       "MAXHEALTH": {
         "name": "空虚之心",
-        "description": "增加最大生命值 10%。"
+        "description": "增加最大生命值 20%。"
       },
       "ARMOR": {
         "name": "护甲",
@@ -400,7 +400,7 @@
       },
       "REGEN": {
         "name": "番茄",
-        "description": "角色每秒恢复 0.1 点生命。"
+        "description": "角色每秒恢复 0.2 点生命。"
       },
       "VORTEX": {
         "name": "噬魂者",
@@ -414,7 +414,7 @@
       },
       "SILF3": {
         "name": "破坏者",
-        "description": "乌木之翼搭配平鸽"
+        "description": "乌木之翼搭配和平鸽"
       },
       "REVIVAL": {
         "name": "提拉吉苏",
@@ -424,6 +424,25 @@
         "name": "雷环",
         "description": "进化的闪电戒指。 射弹击中两次。",
         "tips": "要求: 复制器."
+      },
+      "CURSE": {
+        "name": "疯狂骷髅",
+        "description": "敌人增加10%的速度，生命值，数量和次数。"
+      },
+      "CHERRY": {
+        "name": "樱桃炸弹",
+        "description": "扔出一个弹跳的射弹， 有时会爆炸。",
+        "tips": "搭配: 幸运."
+      },
+      "SONG": {
+        "name": "法力之歌",
+        "description": "垂直攻击，穿过敌人。",
+        "tips": "忽略:数量，速度。"
+      },
+      "MANNAGGIA": {
+        "name": "曼纳加",
+        "description": "进化出魔法之歌，可能会减慢敌人的速度。",
+        "tips": "要求:疯狂骷髅"
       }
     }
   },
@@ -602,7 +621,7 @@
       },
       "MAXHEALTH": {
         "name": "Hollow Heart",
-        "description": "Augments max health by 10%."
+        "description": "Augments max health by 20%."
       },
       "ARMOR": {
         "name": "Armor",
@@ -630,7 +649,7 @@
       },
       "REGEN": {
         "name": "Pummarola",
-        "description": "Character recovers 0.1 HP per second."
+        "description": "Character recovers 0.2 HP per second."
       },
       "VORTEX": {
         "name": "Soul Eater",
@@ -663,212 +682,16 @@
         "name": "Cherry Bomb",
         "description": "Throws a bouncing projectile. Explodes, sometimes.",
         "tips": "Best with: luck."
-      }
-    }
-  },
-  "eo": {
-    "english": "Esperanto",
-    "native": "Esperanto",
-    "api": "esperanto",
-    "translations": {
-      "WHIP": {
-        "name": "Vipo",
-        "description": "Atakos horizontale, pasas tra malamikoj.",
-        "tips": "Ignoras: rapideco, daŭro."
       },
-      "VAMPIRICA": {
-        "name": "Sange Ŝiro",
-        "description": "Evoluinta Vipo. Povas kaŭzi kritikan damaĝon kaj sorbi SP.",
-        "tips": "Postulas: Kava Koro"
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
       },
-      "MAGIC_MISSILE": {
-        "name": "Magiavergo",
-        "description": "Pafas al la plej proksima malamiko.",
-        "tips": "Ignoras: daŭro."
-      },
-      "HOLY_MISSILE": {
-        "name": "Sanktavergo",
-        "description": "Evoluinta Magiavergo. Pafas sen prokrasto.",
-        "tips": "Postulas: Malplena Tomo."
-      },
-      "AXE": {
-        "name": "Hakilo",
-        "description": "Multe da damaĝo, multe da Areo-skalado.",
-        "tips": "Ignoras: daŭro."
-      },
-      "SCYTHE": {
-        "name": "Spiralo de Morto",
-        "description": "Evoluinta Hakilo. Pasas tra malamikoj.",
-        "tips": "Postulas: Kandelabrador."
-      },
-      "KNIFE": {
-        "name": "Tranĉilo",
-        "description": "Pafas rapide en la fronta direkto.",
-        "tips": "Ignoras: daŭro."
-      },
-      "THOUSAND": {
-        "name": "Mil Rando",
-        "description": "Evoluinta Tranĉilo. Pafas sen prokrasto.",
-        "tips": "Postulas: Stego."
-      },
-      "HOLYWATER": {
-        "name": "Santa Akvo",
-        "description": "Generas damaĝajn zonojn.",
-        "tips": "Ignoras: rapideco."
-      },
-      "DIAMOND": {
-        "name": "Runspuron",
-        "description": "Trapasas malamikojn, resaltas ĉirkaŭe.",
-        "tips": "Plej bone kun: rapideco, daŭro."
-      },
-      "FIREBALL": {
-        "name": "Fajrvergo",
-        "description": "Pafas kontraŭ hazarda malamiko, kaŭzas pezan damaĝon.",
-        "tips": "Ignoras: daŭro."
-      },
-      "HELLFIRE": {
-        "name": "Inferafajro",
-        "description": "Evoluinta Fajrvergo. Pasas tra malamikoj.",
-        "tips": "Postulas: Spinaco."
-      },
-      "HOLYBOOK": {
-        "name": "Reĝa Biblio",
-        "description": "Orbitas ĉirkaŭ la rolulo.",
-        "tips": "Plej bone kun: rapideco, daŭro, areo."
-      },
-      "VESPERS": {
-        "name": "Malsanktaj Vesperoj",
-        "description": "Evoluinta Reĝa Biblio. Neniam finiĝas.",
-        "tips": "Postulas: Sorĉligo."
-      },
-      "CROSS": {
-        "name": "Kruco",
-        "description": "Celas plej proksiman malamikon, havas bumerangan efikon.",
-        "tips": "Ignoras: daŭro."
-      },
-      "HEAVENSWORD": {
-        "name": "Ĉiela Glavo",
-        "description": "Evoluinta Kruco. Povas kaŭzi kritikan damaĝon.",
-        "tips": "Postulas: Trifolio."
-      },
-      "GARLIC": {
-        "name": "Ajlo",
-        "description": "Damaĝas proksimajn malamikojn. Reduktas reziston al refrapo kaj frosto.",
-        "tips": "Ignoras: kvanto, daŭro, rapideco."
-      },
-      "LAUREL": {
-        "name": "Laŭro",
-        "description": "Ŝildas kontraŭ damaĝo kiam aktiva.",
-        "tips": "Plej bone kun: malvarmigo nur."
-      },
-      "LIGHTNING": {
-        "name": "Fulma Ringo",
-        "description": "Batas kontraŭ hazardaj malamikoj.",
-        "tips": "Ignoras: rapideco, daŭro."
-      },
-      "PENTAGRAM": {
-        "name": "Pentagramo",
-        "description": "Forigas ĉion en vido.",
-        "tips": "Plej bone kun: malvarmigo kaj bonŝanco nur."
-      },
-      "SILF": {
-        "name": "Peachone",
-        "description": "Bombardas en ronda zono.",
-        "tips": "Plej bone kun: malvarmigo, daŭro."
-      },
-      "SILF2": {
-        "name": "Ebonaj Flugiloj",
-        "description": "Bombardas en ronda zono.",
-        "tips": "Plej bone kun: malvarmigo, daŭro."
-      },
-      "BONE": {
-        "name": "Osto",
-        "description": "Ĵetas resaltan kuglon.",
-        "tips": "Plej bone kun: daŭro, rapideco."
-      },
-      "LANCET": {
-        "name": "Horloĝo Lanceto",
-        "description": "Ŝanco frostigi malamikojn ĝustatempe.",
-        "tips": "Ignoras: potencon, rapidecon, kvanton, areon."
-      },
-      "POWER": {
-        "name": "Spinaco",
-        "description": "Pliigas kaŭzitan damaĝon je 10%."
-      },
-      "AREA": {
-        "name": "Kandelabrador",
-        "description": "Pliigas la areon de atakoj je 10%."
-      },
-      "SPEED": {
-        "name": "Stego",
-        "description": "Pliigas la rapidecon de kugloj je 10%."
-      },
-      "COOLDOWN": {
-        "name": "Malplena Tomo",
-        "description": "Reduktas la malvarmiĝon de armiloj je 8%."
-      },
-      "DURATION": {
-        "name": "Sorĉligo",
-        "description": "Pliigas la daŭron de armilefikoj je 10%."
-      },
-      "AMOUNT": {
-        "name": "Duobligilo",
-        "description": "Armiloj pafas pli da ĵetaĵoj."
-      },
-      "MAXHEALTH": {
-        "name": "Kava Koro",
-        "description": "Pliigas maks sanecon je 10%."
-      },
-      "ARMOR": {
-        "name": "Kiraso",
-        "description": "Reduktas envenantan damaĝon je 1."
-      },
-      "MOVESPEED": {
-        "name": "Flugiloj",
-        "description": "Rolulo movas 10% pli rapidan."
-      },
-      "MAGNET": {
-        "description": "Rolulo kolektas erojn de pli malproksime.",
-        "name": "Allogorbo"
-      },
-      "GROWTH": {
-        "name": "Krono",
-        "description": "Rolulo akiras 8% pli da sperto."
-      },
-      "LUCK": {
-        "name": "Trifolio",
-        "description": "Rolulo akiras 10% pli bonŝanca."
-      },
-      "GREED": {
-        "name": "Ŝtona Masko",
-        "description": "Rolulo gajnas 10% pli da moneroj."
-      },
-      "REGEN": {
-        "name": "Pummarola",
-        "description": "Rolulo reakiras 0.1 SP je sekundo."
-      },
-      "VORTEX": {
-        "name": "Animmanĝanto",
-        "description": "Evoluinta Ajlo. Ŝtelas korojn. Potenco pliiĝas dum reakiro de SP.",
-        "tips": "Postulas: Pummarola."
-      },
-      "BORA": {
-        "name": "La Borra",
-        "description": "Evoluinta Santa Akvo. Damaĝaj zonoj sekvas vin kaj kreskas kiam ili moviĝas.",
-        "tips": "Postulas: Allogorbo."
-      },
-      "SILF3": {
-        "name": "Vandaliero",
-        "description": "Unio de Ebonaj Flugiloj kaj Peachone."
-      },
-      "REVIVAL": {
-        "name": "Tiragisú",
-        "description": "Reviviĝas unufoje kun 50% saneco."
-      },
-      "LOOP": {
-        "name": "Tondro Buklo",
-        "description": "Evoluinta Fulma Ringo. Kugloj batas dufoje.",
-        "tips": "Postulas: Duobligilo."
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   },
@@ -886,72 +709,72 @@
       "WHIP": {
         "name": "Fouet",
         "description": "Lance une attaque horizontale qui traverse les ennemis.",
-        "tips": "Ignore: vélocité, durée."
+        "tips": "Ignore: puissance de tir, durée."
       },
       "VAMPIRICA": {
-        "name": "Larme de Sang",
+        "name": "Larme de sang",
         "description": "Évolution du Fouet. Peut infliger des dégâts critiques et absorber des PV.",
-        "tips": "Requiert: Cœur Vide."
+        "tips": "Requiert: Cœur vide."
       },
       "MAGIC_MISSILE": {
-        "name": "Baguette Magique",
+        "name": "Baguette magique",
         "description": "Tire sur l'ennemi le plus proche.",
         "tips": "Ignore: durée."
       },
       "HOLY_MISSILE": {
-        "name": "Sainte Baguette",
-        "description": "Évolution de la Baguette Magique. Tire immédiatement.",
-        "tips": "Requiert: Tome Vierge."
+        "name": "Sainte baguette",
+        "description": "Évolution de la Baguette magique. Tire immédiatement.",
+        "tips": "Requiert: Tome vierge."
       },
       "AXE": {
         "name": "Hache",
-        "description": "Dégâts élevés, Portée étendue.",
+        "description": "Dégâts élevés, portée étendue.",
         "tips": "Ignore: durée."
       },
       "SCYTHE": {
-        "name": "Spirale Fatale",
+        "name": "Spirale fatale",
         "description": "Évolution de la Hache. Traverse les ennemis.",
         "tips": "Requiert: Chandellabrador."
       },
       "KNIFE": {
-        "name": "Couteau",
+        "name": "Poignard",
         "description": "Tire rapidement dans la direction à laquelle le personnage fait face.",
         "tips": "Ignore: durée."
       },
       "THOUSAND": {
-        "name": "Mille et une Lames",
-        "description": "Évolution du Couteau. Tire immédiatement.",
-        "tips": "Requiert: Brassard."
+        "name": "Mille et une lames",
+        "description": "Évolution du Poignard. Tire immédiatement.",
+        "tips": "Requiert: Fortifiant."
       },
       "HOLYWATER": {
-        "name": "Eau Sainte",
+        "name": "Eau sainte",
         "description": "Génère des zones de dégâts.",
-        "tips": "Ignore: vélocité."
+        "tips": "Ignore: puissance de tir."
       },
       "DIAMOND": {
-        "name": "Traqueur de Runes",
+        "name": "Traqueur de runes",
         "description": "Traverse les ennemis, rebondit.",
-        "tips": "Plus efficace avec: vélocité, durée."
+        "tips": "Plus efficace avec: puissance de tir, durée."
       },
       "FIREBALL": {
-        "name": "Baguette de Feu",
-        "description": "Tire sur les ennemis aléatoirement, inflige de lourds dégâts.",
+        "name": "Baguette de feu",
+        "description": "Tire sur les ennemis aléatoirement, inflige des dégâts lourds.",
         "tips": "Ignore: durée."
       },
       "HELLFIRE": {
-        "name": "Feu de l'Enfer",
-        "description": "Évolution de la Baguette de Feu. Traverse les ennemis.",
+        "name": "Feu de l'enfer",
+        "description": "Évolution de la Baguette de feu. Traverse les ennemis.",
         "tips": "Requiert: Épinard."
       },
       "HOLYBOOK": {
-        "name": "Bible du Roi",
+        "name": "Bible du roi",
         "description": "Tourne autour du personnage.",
-        "tips": "Plus efficace avec: vélocité, durée, portée."
+        "tips": "Plus efficace avec: puissance de tir, durée, portée."
       },
       "VESPERS": {
-        "name": "Vêpres Impies",
-        "description": "Évolution de la Bible du Roi. Ne s'arrête jamais.",
-        "tips": "Requiert: Reliure Magique."
+        "name": "Vêpres impies",
+        "description": "Évolution de la Bible du roi. Ne s'arrête jamais.",
+        "tips": "Requiert: Reliure magique."
       },
       "CROSS": {
         "name": "Croix",
@@ -959,14 +782,14 @@
         "tips": "Ignore: durée."
       },
       "HEAVENSWORD": {
-        "name": "Épée Céleste",
+        "name": "Épée céleste",
         "description": "Évolution de la Croix. Peut infliger des dégâts critiques.",
         "tips": "Requiert: Trèfle."
       },
       "GARLIC": {
         "name": "Ail",
         "description": "Inflige des dégâts aux ennemis à proximité. Réduit la résistance au recul et à l'immobilisation.",
-        "tips": "Ignore: quantité, durée, vélocité."
+        "tips": "Ignore: quantité, durée, puissance de tir."
       },
       "LAUREL": {
         "name": "Laurier",
@@ -974,9 +797,9 @@
         "tips": "Plus efficace avec : cooldown uniquement."
       },
       "LIGHTNING": {
-        "name": "Anneau de Foudre",
+        "name": "Bague du tonnerre",
         "description": "Frappe les ennemis aléatoirement.",
-        "tips": "Ignore: vélocité, durée."
+        "tips": "Ignore: puissance de tir, durée."
       },
       "PENTAGRAM": {
         "name": "Pentagramme",
@@ -989,19 +812,19 @@
         "tips": "Plus efficace avec: cooldown, durée."
       },
       "SILF2": {
-        "name": "Ailes d'Ébène",
+        "name": "Ailes d'ébène",
         "description": "Bombarde une zone en forme de cercle.",
         "tips": "Plus efficace avec: cooldown, durée."
       },
       "BONE": {
         "name": "Os",
         "description": "Tire un projectile qui rebondit.",
-        "tips": "Plus efficace avec: durée, vélocité."
+        "tips": "Plus efficace avec: durée, puissance de tir."
       },
       "LANCET": {
-        "name": "Horloge en Ogive",
+        "name": "Bistouri d'horloger",
         "description": "Possibilité d'immobiliser les ennemis.",
-        "tips": "Ignore: force, vélocité, quantité, portée."
+        "tips": "Ignore: force, puissance de tir, quantité, portée."
       },
       "POWER": {
         "name": "Épinard",
@@ -1012,15 +835,15 @@
         "description": "Augmente la portée des attaques de 10 %."
       },
       "SPEED": {
-        "name": "Brassard",
+        "name": "Fortifiant",
         "description": "Augmente la vitesse des projectiles de 10 %."
       },
       "COOLDOWN": {
-        "name": "Tome Vierge",
+        "name": "Tome vierge",
         "description": "Réduit le cooldown des armes de 8 %."
       },
       "DURATION": {
-        "name": "Reliure Magique",
+        "name": "Reliure magique",
         "description": "Augmente la durée des effets des armes de 10 %."
       },
       "AMOUNT": {
@@ -1028,7 +851,7 @@
         "description": "Les armes tirent plus de projectiles."
       },
       "MAXHEALTH": {
-        "name": "Cœur Vide",
+        "name": "Cœur vide",
         "description": "Augmente la santé max de 20%."
       },
       "ARMOR": {
@@ -1041,7 +864,7 @@
       },
       "MAGNET": {
         "description": "Le personnage ramasse les objets à une plus grande distance.",
-        "name": "Orbe d'Attraction"
+        "name": "Orbe d'attraction"
       },
       "GROWTH": {
         "name": "Couronne",
@@ -1052,7 +875,7 @@
         "description": "Le personnage a 10 % de chance en plus."
       },
       "GREED": {
-        "name": "Masque en Pierre",
+        "name": "Masque de pierre",
         "description": "Le personnage gagne 10 % de pièces en plus."
       },
       "REGEN": {
@@ -1060,36 +883,46 @@
         "description": "Le personnage récupère 0.2 PV par seconde."
       },
       "VORTEX": {
-        "name": "Mangeur d'Âmes",
+        "name": "Mangeur d'âmes",
         "description": "Évolution de l'Ail. Vole de vie. Sa puissance augmente lorsqu'il récupère des HP.",
         "tips": "Requiert: Pummarola."
       },
       "BORA": {
         "name": "La Borra",
-        "description": "Évolution de l'Eau Sainte. Les zones de dommages vous suivent et grandissent lorsqu'elles se déplacent.",
-        "tips": "Requiert: Orbe d'Attraction."
+        "description": "Évolution de l'Eau sainte. Les zones endommagées vous suivent et augmentent lorsqu'elles se déplacent.",
+        "tips": "Requiert: Orbe d'attraction."
       },
       "SILF3": {
-        "name": "Vandale",
-        "description": "Union de la Pigeonne et des Ailes d'Ébène."
+        "name": "Vandalier",
+        "description": "Union de la Pigeonne et des Ailes d'Ebène."
       },
       "REVIVAL": {
         "name": "Tiramitsu",
-        "description": "Ressuscite une fois avec 50% de santé."
+        "description": "Revivre une fois avec 50% de santé."
       },
       "LOOP": {
-        "name": "Boucle du Tonnerre",
-        "description": "Évolution de l'Anneau de Foudre. Les projectiles frappent deux fois.",
+        "name": "Boucle du tonnerre",
+        "description": "Évolution de l'Anneau de foudre. Les projectiles frappent deux fois.",
         "tips": "Requiert: Duplicateur."
       },
       "CURSE": {
-        "name": "Crâne O'Manie",
-        "description": "Augmente la vitesse, la vie, la quantité et la fréquence d'apparition des ennemis de 10 %."
+        "name": "Crâne O'Maniac",
+        "description": "Augmente la vitesse, la santé, la quantité et la fréquence des ennemis de 10%."
       },
       "CHERRY": {
         "name": "Bombe Cerise",
-        "description": "Envoie un projectile rebondissant. Exploser, parfois.",
-        "tips": "Plus efficace avec: chance."
+        "description": "Lance un projectile rebondissant. Explose, parfois.",
+        "tips": "Meilleur avec: chance."
+      },
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   },
@@ -1677,7 +1510,7 @@
       },
       "MAXHEALTH": {
         "name": "ホロウ・ハート",
-        "description": "ライフ上限が10%アップ。"
+        "description": "ライフ上限が20%アップ。"
       },
       "ARMOR": {
         "name": "アーマー",
@@ -1705,12 +1538,12 @@
       },
       "REGEN": {
         "name": "愛の加護",
-        "description": "ライフを毎秒0.1ずつ回復する。"
+        "description": "ライフを毎秒0.2ずつ回復する。"
       },
       "VORTEX": {
-        "name": "Soul Eater",
-        "description": "Evolved Garlic. Steals hearts. Power increases when recovering HP.",
-        "tips": "Requires: Pummarola."
+        "name": "魂食らい",
+        "description": "進化したニンニク。ハートを盗む。\nHP回復時に威力が増加する。",
+        "tips": "必要アイテム：愛の心臓"
       },
       "BORA": {
         "name": "La Borra",
@@ -1718,17 +1551,36 @@
         "tips": "Requires: Attractorb."
       },
       "SILF3": {
-        "name": "Vandalier",
-        "description": "Union of Ebony Wings and Peachone."
+        "name": "破壊者",
+        "description": "漆黒の翼と純白の翼の合体"
       },
       "REVIVAL": {
-        "name": "Tiragisú",
-        "description": "Revives once with 50% health."
+        "name": "ティラギス",
+        "description": "体力が50%の状態で1回だけ復活する。"
       },
       "LOOP": {
-        "name": "Thunder Loop",
-        "description": "Evolved Lightning Ring. Projectiles strike twice.",
-        "tips": "Requires: Duplicator."
+        "name": "雷鳴の環",
+        "description": "進化した稲妻の指輪。稲妻が2回当たる。",
+        "tips": "必要アイテム：複製の指輪"
+      },
+      "CURSE": {
+        "name": "スコル・オマニアック",
+        "description": "敵のスピード、ヘルス、数量、頻度が10%増加する。"
+      },
+      "CHERRY": {
+        "name": "サクラ爆弾",
+        "description": "弾むような投擲物を投げる。時々爆発する。",
+        "tips": "ベストな組み合わせ：運気"
+      },
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   },
@@ -1763,7 +1615,7 @@
         "tips": "파워업 무시: 지속시간"
       },
       "SCYTHE": {
-        "name": "죽음의 소용돌이",
+        "name": "죽음의 나선",
         "description": "도끼의 강화형. 적을 관통합니다.",
         "tips": "요구 사항: 촛대"
       },
@@ -1798,13 +1650,13 @@
         "tips": "요구 사항: 시금치."
       },
       "HOLYBOOK": {
-        "name": "왕의 성서",
-        "description": "성서가 주변을 회전하며 공격합니다",
+        "name": "기도문",
+        "description": "기도문이 주변을 회전하며 공격합니다",
         "tips": "추천 조합: 투사체 속도, 지속시간, 공격범위"
       },
       "VESPERS": {
-        "name": "불경한 기도",
-        "description": "왕의 성서의 강화형. 사라지지 않습니다.",
+        "name": "불경한 기도문",
+        "description": "기도문의 강화형. 사라지지 않습니다.",
         "tips": "요구 사항: 주문속박기"
       },
       "CROSS": {
@@ -1883,7 +1735,7 @@
       },
       "MAXHEALTH": {
         "name": "칠흑 심장",
-        "description": "최대 체력이 10% 증가합니다."
+        "description": "최대 체력이 20% 증가합니다."
       },
       "ARMOR": {
         "name": "갑옷",
@@ -1911,7 +1763,7 @@
       },
       "REGEN": {
         "name": "붉은 심장",
-        "description": "초당 체력회복량이 0.1의 증가합니다."
+        "description": "초당 체력회복량이 0.2의 증가합니다."
       },
       "VORTEX": {
         "name": "영혼포식자",
@@ -1935,6 +1787,25 @@
         "name": "번개 고리",
         "description": "번개 반지의 강화형. 투사체가 2회 공격합니다.",
         "tips": "요구 사항: 복제 반지"
+      },
+      "CURSE": {
+        "name": "미치광이의 두개골",
+        "description": "적들의 속도, 체력, 개체 수, 스폰율을 10% 증가시킵니다."
+      },
+      "CHERRY": {
+        "name": "체리폭탄",
+        "description": "튕겨나오며 확률적으로 폭발하는 투사체를 던집니다.",
+        "tips": "추천 조합: 행운"
+      },
+      "SONG": {
+        "name": "마나의 노래",
+        "description": "수직으로 공격하며 적을 관통합니다.",
+        "tips": "파워업 무시: 투사체 갯수, 투사체 속도"
+      },
+      "MANNAGGIA": {
+        "name": "마력의 결정체",
+        "description": "마나의 노래의 강화형. 적을 느려지게 만듭니다.",
+        "tips": "요구 사항: 미치광이의 두개골"
       }
     }
   },
@@ -2316,7 +2187,7 @@
       },
       "MAXHEALTH": {
         "name": "Coração Vazio",
-        "description": "Extende a Saúde Máxima em 10%."
+        "description": "Extende a Saúde Máxima em 20%."
       },
       "ARMOR": {
         "name": "Armadura",
@@ -2344,7 +2215,7 @@
       },
       "REGEN": {
         "name": "Pummarola",
-        "description": "Personagem recupera 0,1HP por segundo."
+        "description": "Personagem recupera 0,2HP por segundo."
       },
       "VORTEX": {
         "name": "Devorador de Almas",
@@ -2368,6 +2239,25 @@
         "name": "Ciclo de Raios",
         "description": "Anél de Raios evoluido. Projéteis atacam duas vezes.",
         "tips": "Requer: Duplicador."
+      },
+      "CURSE": {
+        "name": "Caveira do Maniaco",
+        "description": "Aumenta a velocidade, saúde, quantidade e frequência dos inimigos em 10%."
+      },
+      "CHERRY": {
+        "name": "Bomba de Brinquedo",
+        "description": "Explodes, sometimes. Atira um projétil que quica. Explode, as vezes.",
+        "tips": "Melhor com: sorte."
+      },
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   },
@@ -2390,7 +2280,7 @@
       "VAMPIRICA": {
         "name": "Кровавая Слеза",
         "description": "Улучшенный Кнут. Может наносить критический урон и поглощать ОЗ.",
-        "tips": "Требует: Пустое Сердце."
+        "tips": "Требует: Полое Сердце."
       },
       "MAGIC_MISSILE": {
         "name": "Чарующий Жезл",
@@ -2410,11 +2300,11 @@
       "SCYTHE": {
         "name": "Спираль Смерти",
         "description": "Улучшенный Топор. Проходит сквозь врагов.",
-        "tips": "Требует: Канделябр."
+        "tips": "Требует: Канделябрадор."
       },
       "KNIFE": {
         "name": "Нож",
-        "description": "Быстро метаются в направлении взгляда.",
+        "description": "Быстро метается в направлении взгляда.",
         "tips": "Игнорирует: срок."
       },
       "THOUSAND": {
@@ -2424,13 +2314,13 @@
       },
       "HOLYWATER": {
         "name": "Святая Вода",
-        "description": "Создает зоны наносящие урон.",
+        "description": "Создает зоны, наносящие урон.",
         "tips": "Игнорирует: скорость."
       },
       "DIAMOND": {
-        "name": "Рунтрейсер",
-        "description": "Проходит сквозь врагов, отскакивает.",
-        "tips": "Лучше сочитается с: скорость, срок."
+        "name": "Рунтрассер",
+        "description": "Проходит сквозь врагов, отскакивает от стен.",
+        "tips": "Лучше сочетается с: скорость, срок."
       },
       "FIREBALL": {
         "name": "Огненный Жезл",
@@ -2445,11 +2335,11 @@
       "HOLYBOOK": {
         "name": "Библия Короля",
         "description": "Кружится вокруг персонажа.",
-        "tips": "Лучше сочитается с: скорость, срок, размер."
+        "tips": "Лучше сочетается с: скорость, срок, размер."
       },
       "VESPERS": {
         "name": "Жуткая Вечерня",
-        "description": "Улучшенная Библия Короля. Никогда не заканчивается.",
+        "description": "Улучшенная Библия Короля. Никогда не прекращается.",
         "tips": "Требует: Заклинатель."
       },
       "CROSS": {
@@ -2470,35 +2360,35 @@
       "LAUREL": {
         "name": "Лавр",
         "description": "Защищает от урона, когда активен.",
-        "tips": "Лучше сочитается с: только откат."
+        "tips": "Лучше сочетается с: только откат."
       },
       "LIGHTNING": {
-        "name": "Кольцо Молнии",
+        "name": "Кольцо Молний",
         "description": "Бьет в случайных врагов.",
         "tips": "Игнорирует: скорость, срок."
       },
       "PENTAGRAM": {
         "name": "Пентаграмма",
         "description": "Стирает все в поле зрения.",
-        "tips": "Лучше сочитается с: только откат и удача."
+        "tips": "Лучше сочетается с: только откат и удача."
       },
       "SILF": {
-        "name": "Пишон",
+        "name": "Голубь",
         "description": "Бомбардирует в кружащейся зоне.",
-        "tips": "Лучше сочитается с: откат, срок."
+        "tips": "Лучше сочетается с: откат, срок."
       },
       "SILF2": {
         "name": "Черные Крылья",
         "description": "Бомбардирует в кружащейся зоне.",
-        "tips": "Лучше сочитается с: откат, срок."
+        "tips": "Лучше сочетается с: откат, срок."
       },
       "BONE": {
         "name": "Кость",
         "description": "Бросает отскакивающий снаряд.",
-        "tips": "Лучше сочитается с: срок, скорость."
+        "tips": "Лучше сочетается с: срок, скорость."
       },
       "LANCET": {
-        "name": "Часы Ланцет",
+        "name": "Копье Времени",
         "description": "Шанс временно заморозить врагов.",
         "tips": "Игнорирует: сила, скорость, количество, размер."
       },
@@ -2507,7 +2397,7 @@
         "description": "Увеличивает наносимый урон на 10%."
       },
       "AREA": {
-        "name": "Канделябр",
+        "name": "Канделябрадор",
         "description": "Увеличивает размер атак на 10%."
       },
       "SPEED": {
@@ -2520,15 +2410,15 @@
       },
       "DURATION": {
         "name": "Заклинатель",
-        "description": "Продливает эффект оружия на 10%."
+        "description": "Продлевает эффект оружия на 10%."
       },
       "AMOUNT": {
-        "name": "Дубликатор",
+        "name": "Дупликатор",
         "description": "Оружие выпускает больше снарядов."
       },
       "MAXHEALTH": {
-        "name": "Пустое Сердце",
-        "description": "Увеличивает макс. ОЗ на 10%."
+        "name": "Полое Сердце",
+        "description": "Увеличивает макс. ОЗ на 20%."
       },
       "ARMOR": {
         "name": "Броня",
@@ -2555,13 +2445,13 @@
         "description": "Персонаж зарабатывает на 10% больше монет."
       },
       "REGEN": {
-        "name": "Пуммарола",
-        "description": "Персонаж восстанавливает 0.1 ОЗ в секунду."
+        "name": "Бычье Сердце",
+        "description": "Персонаж восстанавливает 0.2 ОЗ/сек."
       },
       "VORTEX": {
         "name": "Пожиратель Душ",
         "description": "Улучшенный Чеснок. Крадет сердца. Сила возрастает при регенерации ОЗ.",
-        "tips": "Требует: Пуммарола."
+        "tips": "Требует: Бычье Сердце."
       },
       "BORA": {
         "name": "Гуща",
@@ -2570,16 +2460,35 @@
       },
       "SILF3": {
         "name": "Вандалист",
-        "description": "Союз Черных Крыльев и Пишона."
+        "description": "Союз Черных Крыльев и Голубя."
       },
       "REVIVAL": {
         "name": "Тирагису",
         "description": "Оживляет один раз с 50% ОЗ."
       },
       "LOOP": {
-        "name": "Громовая петля",
-        "description": "Улучшенное Кольцо Молнии. Снаряды бьют дважды.",
-        "tips": "Требует: Дубликатор."
+        "name": "Громовая Петля",
+        "description": "Улучшенное Кольцо Молний. Снаряды бьют дважды.",
+        "tips": "Требует: Дупликатор."
+      },
+      "CURSE": {
+        "name": "Череп О'Маньяка",
+        "description": "Увеличивает скорость, ОЗ, кол-во и частоту появления врагов на 10%."
+      },
+      "CHERRY": {
+        "name": "Вишневая Бомба",
+        "description": "Выпускает отскакивающий снаряд. Иногда взрывается.",
+        "tips": "Лучше сочетается с: удача."
+      },
+      "SONG": {
+        "name": "Песня Маны",
+        "description": "Атакует вертикально, проходя сквозь врагов.",
+        "tips": "Игнорирует: количество, скорость."
+      },
+      "MANNAGGIA": {
+        "name": "Маннаджа",
+        "description": "Улучшенная Песня Маны. Может замедлить врагов.",
+        "tips": "Требует: Череп О'Маньяка"
       }
     }
   },
@@ -2734,7 +2643,7 @@
       },
       "MAXHEALTH": {
         "name": "Corazón hueco",
-        "description": "Aumenta la salud máx. un 10 %."
+        "description": "Aumenta la salud máx. un 20%."
       },
       "ARMOR": {
         "name": "Armadura",
@@ -2762,7 +2671,7 @@
       },
       "REGEN": {
         "name": "Corazón duro",
-        "description": "El personaje recupera 0,1 PS por segundo."
+        "description": "El personaje recupera 0,2 PS por segundo."
       },
       "VORTEX": {
         "name": "Soul Eater",
@@ -2786,6 +2695,25 @@
         "name": "Thunder Loop",
         "description": "Evolved Lightning Ring. Projectiles strike twice.",
         "tips": "Requires: Duplicator."
+      },
+      "CURSE": {
+        "name": "Skull O'Maniac",
+        "description": "Increases enemy speed, health, quantity, and frequency by 10%."
+      },
+      "CHERRY": {
+        "name": "Cherry Bomb",
+        "description": "Throws a bouncing projectile. Explodes, sometimes.",
+        "tips": "Best with: luck."
+      },
+      "SONG": {
+        "name": "Song of Mana",
+        "description": "Attacks vertically, passes through enemies.",
+        "tips": "Ignores: amount, speed."
+      },
+      "MANNAGGIA": {
+        "name": "Mannajja",
+        "description": "Evolved Song of Mana. Might slow enemies down.",
+        "tips": "Requires: Skull O'Maniac"
       }
     }
   },
@@ -3029,7 +2957,7 @@
     "translations": {
       "WHIP": {
         "name": "Батіг",
-        "description": "Атакує горизонтально, проходячи скрізь ворогів.",
+        "description": "Атакує горизонтально, проходячи скріщь ворогів.",
         "tips": "Ігнорирує: швидкість, термін."
       },
       "VAMPIRICA": {
@@ -3074,7 +3002,7 @@
       },
       "DIAMOND": {
         "name": "Рунтрейсер",
-        "description": "Проходить скрізь ворогів, відскакує.",
+        "description": "Проходить скріщьь ворогів, відскакує.",
         "tips": "Краще поєднується з: швидкість, термін."
       },
       "FIREBALL": {
@@ -3099,7 +3027,7 @@
       },
       "CROSS": {
         "name": "Хрест",
-        "description": "Цілиться у найближчого ворога, має ефект бумерангу.",
+        "description": "Цілиться у найближчого ворога, має ефект бумерангу..",
         "tips": "Ігнорирує: термін."
       },
       "HEAVENSWORD": {
@@ -3109,7 +3037,7 @@
       },
       "GARLIC": {
         "name": "Часник",
-        "description": "Б'є по найближчих ворогах. Знижує опір до відкидання та заморожування.",
+        "description": "Б'є по найближчих ворогів. Знижує опір до відкидання та заморожування.",
         "tips": "Ігнорує: кількість, термін, швидкість."
       },
       "LAUREL": {
@@ -3225,15 +3153,6 @@
         "name": "Громова петля",
         "description": "Покращене Кільце Блискавки. Снаряди б'ють двічі.",
         "tips": "Потребує: Дублікатор."
-      },
-      "CURSE": {
-        "name": "Череп Маньяка",
-        "description": "Підвищує ворожу швидкість, здоров'я, чисельність і частоту появи на 10%."
-      },
-      "CHERRY": {
-        "name": "Вишнева Бомба",
-        "description": "Випускає відстрибуючий снаряд. Іноді вибухає.",
-        "tips": "Краще з: Вдача."
       }
     }
   },
@@ -3242,5 +3161,211 @@
     "native": "Tiếng Việt",
     "api": "vietnamese",
     "translations": {}
+  },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "WHIP": {
+        "name": "Vipo",
+        "description": "Atakos horizontale, pasas tra malamikoj.",
+        "tips": "Ignoras: rapideco, daŭro."
+      },
+      "VAMPIRICA": {
+        "name": "Sange Ŝiro",
+        "description": "Evoluinta Vipo. Povas kaŭzi kritikan damaĝon kaj sorbi SP.",
+        "tips": "Postulas: Kava Koro"
+      },
+      "MAGIC_MISSILE": {
+        "name": "Magiavergo",
+        "description": "Pafas al la plej proksima malamiko.",
+        "tips": "Ignoras: daŭro."
+      },
+      "HOLY_MISSILE": {
+        "name": "Sanktavergo",
+        "description": "Evoluinta Magiavergo. Pafas sen prokrasto.",
+        "tips": "Postulas: Malplena Tomo."
+      },
+      "AXE": {
+        "name": "Hakilo",
+        "description": "Multe da damaĝo, multe da Areo-skalado.",
+        "tips": "Ignoras: daŭro."
+      },
+      "SCYTHE": {
+        "name": "Spiralo de Morto",
+        "description": "Evoluinta Hakilo. Pasas tra malamikoj.",
+        "tips": "Postulas: Kandelabrador."
+      },
+      "KNIFE": {
+        "name": "Tranĉilo",
+        "description": "Pafas rapide en la fronta direkto.",
+        "tips": "Ignoras: daŭro."
+      },
+      "THOUSAND": {
+        "name": "Mil Rando",
+        "description": "Evoluinta Tranĉilo. Pafas sen prokrasto.",
+        "tips": "Postulas: Stego."
+      },
+      "HOLYWATER": {
+        "name": "Santa Akvo",
+        "description": "Generas damaĝajn zonojn.",
+        "tips": "Ignoras: rapideco."
+      },
+      "DIAMOND": {
+        "name": "Runspuron",
+        "description": "Trapasas malamikojn, resaltas ĉirkaŭe.",
+        "tips": "Plej bone kun: rapideco, daŭro."
+      },
+      "FIREBALL": {
+        "name": "Fajrvergo",
+        "description": "Pafas kontraŭ hazarda malamiko, kaŭzas pezan damaĝon.",
+        "tips": "Ignoras: daŭro."
+      },
+      "HELLFIRE": {
+        "name": "Inferafajro",
+        "description": "Evoluinta Fajrvergo. Pasas tra malamikoj.",
+        "tips": "Postulas: Spinaco."
+      },
+      "HOLYBOOK": {
+        "name": "Reĝa Biblio",
+        "description": "Orbitas ĉirkaŭ la rolulo.",
+        "tips": "Plej bone kun: rapideco, daŭro, areo."
+      },
+      "VESPERS": {
+        "name": "Malsanktaj Vesperoj",
+        "description": "Evoluinta Reĝa Biblio. Neniam finiĝas.",
+        "tips": "Postulas: Sorĉligo."
+      },
+      "CROSS": {
+        "name": "Kruco",
+        "description": "Celas plej proksiman malamikon, havas bumerangan efikon.",
+        "tips": "Ignoras: daŭro."
+      },
+      "HEAVENSWORD": {
+        "name": "Ĉiela Glavo",
+        "description": "Evoluinta Kruco. Povas kaŭzi kritikan damaĝon.",
+        "tips": "Postulas: Trifolio."
+      },
+      "GARLIC": {
+        "name": "Ajlo",
+        "description": "Damaĝas proksimajn malamikojn. Reduktas reziston al refrapo kaj frosto.",
+        "tips": "Ignoras: kvanto, daŭro, rapideco."
+      },
+      "LAUREL": {
+        "name": "Laŭro",
+        "description": "Ŝildas kontraŭ damaĝo kiam aktiva.",
+        "tips": "Plej bone kun: malvarmigo nur."
+      },
+      "LIGHTNING": {
+        "name": "Fulma Ringo",
+        "description": "Batas kontraŭ hazardaj malamikoj.",
+        "tips": "Ignoras: rapideco, daŭro."
+      },
+      "PENTAGRAM": {
+        "name": "Pentagramo",
+        "description": "Forigas ĉion en vido.",
+        "tips": "Plej bone kun: malvarmigo kaj bonŝanco nur."
+      },
+      "SILF": {
+        "name": "Peachone",
+        "description": "Bombardas en ronda zono.",
+        "tips": "Plej bone kun: malvarmigo, daŭro."
+      },
+      "SILF2": {
+        "name": "Ebonaj Flugiloj",
+        "description": "Bombardas en ronda zono.",
+        "tips": "Plej bone kun: malvarmigo, daŭro."
+      },
+      "BONE": {
+        "name": "Osto",
+        "description": "Ĵetas resaltan kuglon.",
+        "tips": "Plej bone kun: daŭro, rapideco."
+      },
+      "LANCET": {
+        "name": "Horloĝo Lanceto",
+        "description": "Ŝanco frostigi malamikojn ĝustatempe.",
+        "tips": "Ignoras: potencon, rapidecon, kvanton, areon."
+      },
+      "POWER": {
+        "name": "Spinaco",
+        "description": "Pliigas kaŭzitan damaĝon je 10%."
+      },
+      "AREA": {
+        "name": "Kandelabrador",
+        "description": "Pliigas la areon de atakoj je 10%."
+      },
+      "SPEED": {
+        "name": "Stego",
+        "description": "Pliigas la rapidecon de kugloj je 10%."
+      },
+      "COOLDOWN": {
+        "name": "Malplena Tomo",
+        "description": "Reduktas la malvarmiĝon de armiloj je 8%."
+      },
+      "DURATION": {
+        "name": "Sorĉligo",
+        "description": "Pliigas la daŭron de armilefikoj je 10%."
+      },
+      "AMOUNT": {
+        "name": "Duobligilo",
+        "description": "Armiloj pafas pli da ĵetaĵoj."
+      },
+      "MAXHEALTH": {
+        "name": "Kava Koro",
+        "description": "Pliigas maks sanecon je 10%."
+      },
+      "ARMOR": {
+        "name": "Kiraso",
+        "description": "Reduktas envenantan damaĝon je 1."
+      },
+      "MOVESPEED": {
+        "name": "Flugiloj",
+        "description": "Rolulo movas 10% pli rapidan."
+      },
+      "MAGNET": {
+        "description": "Rolulo kolektas erojn de pli malproksime.",
+        "name": "Allogorbo"
+      },
+      "GROWTH": {
+        "name": "Krono",
+        "description": "Rolulo akiras 8% pli da sperto."
+      },
+      "LUCK": {
+        "name": "Trifolio",
+        "description": "Rolulo akiras 10% pli bonŝanca."
+      },
+      "GREED": {
+        "name": "Ŝtona Masko",
+        "description": "Rolulo gajnas 10% pli da moneroj."
+      },
+      "REGEN": {
+        "name": "Pummarola",
+        "description": "Rolulo reakiras 0.1 SP je sekundo."
+      },
+      "VORTEX": {
+        "name": "Animmanĝanto",
+        "description": "Evoluinta Ajlo. Ŝtelas korojn. Potenco pliiĝas dum reakiro de SP.",
+        "tips": "Postulas: Pummarola."
+      },
+      "BORA": {
+        "name": "La Borra",
+        "description": "Evoluinta Santa Akvo. Damaĝaj zonoj sekvas vin kaj kreskas kiam ili moviĝas.",
+        "tips": "Postulas: Allogorbo."
+      },
+      "SILF3": {
+        "name": "Vandaliero",
+        "description": "Unio de Ebonaj Flugiloj kaj Peachone."
+      },
+      "REVIVAL": {
+        "name": "Tiragisú",
+        "description": "Reviviĝas unufoje kun 50% saneco."
+      },
+      "LOOP": {
+        "name": "Tondro Buklo",
+        "description": "Evoluinta Fulma Ringo. Kugloj batas dufoje.",
+        "tips": "Postulas: Duobligilo."
+      }
+    }
   }
 }

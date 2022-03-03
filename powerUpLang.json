@@ -96,11 +96,11 @@
     "translations": {
       "POWER": {
         "name": "力量",
-        "description": "造成的伤害每级别增加 5%（最多 +25%）。"
+        "description": "造成的伤害增加 5%（最多 +25%）。"
       },
       "REGEN": {
         "name": "恢复",
-        "description": "每级每秒恢复 0.1 点生命值（最多 0.5 点）。"
+        "description": "每秒恢复 0.1 点生命值（最多 0.5 点）。"
       },
       "MAXHEALTH": {
         "name": "最大生命值",
@@ -140,15 +140,15 @@
       },
       "LUCK": {
         "name": "幸运",
-        "description": "每级有几率增加 10% 的幸运值（最多 +30%）。"
+        "description": "有几率增加 10% 的幸运值（最多 +30%）。"
       },
       "GROWTH": {
         "name": "成长",
-        "description": "每级多获得 3% 的经验值（最多 15%）。"
+        "description": "获得 3% 的经验值（最多 15%）。"
       },
       "GREED": {
         "name": "贪婪",
-        "description": "每级多获得 10% 的金币（最多 +50%）。"
+        "description": "获得 10% 的金币（最多 +50%）。"
       },
       "SHIELD": {
         "name": "护盾",
@@ -160,11 +160,15 @@
       },
       "REROLL": {
         "name": "重新选择",
-        "description": "每级一次， 允许在升级时获得不同的选择。"
+        "description": "允许在升级时获得不同的选择。"
       },
       "SKIP": {
         "name": "跳过",
-        "description": "每级一次， 允许跳过升级选择并获得经验。"
+        "description": "允许跳过升级选择并获得经验。"
+      },
+      "CURSE": {
+        "name": "诅咒",
+        "description": "敌人的速度，生命值，数量和出现的次数，增加10%(最高+50%)。"
       }
     }
   },
@@ -275,85 +279,6 @@
       }
     }
   },
-  "eo": {
-    "english": "Esperanto",
-    "native": "Esperanto",
-    "api": "esperanto",
-    "translations": {
-      "POWER": {
-        "name": "Potenco",
-        "description": "Pliigas kaŭzitan damaĝon je 5% per rango (maks +25%)."
-      },
-      "REGEN": {
-        "name": "Retrovo",
-        "description": "Reakiras 0.1 SP per rango (maks 0.5) je sekundo."
-      },
-      "MAXHEALTH": {
-        "name": "Maks Saneco",
-        "description": "Pliigas maks sanecon je 10% per rango (maks +30%)"
-      },
-      "ARMOR": {
-        "name": "Kiraso",
-        "description": "Reduktas envenantan damaĝon je 1 per rango (maks -3)"
-      },
-      "AREA": {
-        "name": "Areo",
-        "description": "Pliigas areon de atakoj je 5% per rango (maks +10%)."
-      },
-      "SPEED": {
-        "name": "Rapideco",
-        "description": "Kugloj moviĝas 10% pli rapide per rango (maks 20%)."
-      },
-      "COOLDOWN": {
-        "name": "Malvarmiĝi",
-        "description": "Uzas armilojn 2.5% pli rapide per rango (maks 5%)."
-      },
-      "DURATION": {
-        "name": "Daŭro",
-        "description": "Efikoj de armiloj daŭras 15% pli longe per rango (maks +30%)."
-      },
-      "AMOUNT": {
-        "name": "Kvanto",
-        "description": "Pafas 1 plian kuglon (ĉiujn armilojn)."
-      },
-      "MOVESPEED": {
-        "name": "Movrapedeco",
-        "description": "Rolulo moviĝas 5% pli rapide per rango (maks 10%)."
-      },
-      "MAGNET": {
-        "name": "Magneto",
-        "description": "Eroj-kolekto gamo +25% per rango (maks +50%)."
-      },
-      "LUCK": {
-        "name": "Ŝanco",
-        "description": "Ŝanco akiri bonŝancon pliiĝas je 10% per rango (maks +30%)."
-      },
-      "GROWTH": {
-        "name": "Kresko",
-        "description": "Akiras 3% pli da sperto per rango (maks 15%)."
-      },
-      "GREED": {
-        "name": "Avideco",
-        "description": "Gajnas 10% pli da moneroj per rango (maks +50%)."
-      },
-      "SHIELD": {
-        "name": "Ŝildo",
-        "description": "Malhelpas damaĝon por unu atako. Stakoj kun Laŭro."
-      },
-      "REVIVAL": {
-        "name": "Reviviĝo",
-        "description": "Reviviĝas unufoje kun 50% saneco."
-      },
-      "REROLL": {
-        "name": "Reruligo",
-        "description": "Unufoje por rango, permesas akiri malsamajn elektojn dum niveliĝo."
-      },
-      "SKIP": {
-        "name": "Salto",
-        "description": "Unufoje por rango, permesas preterpasi elektojn de nivelo supren kaj akiri Sperton anstataŭe."
-      }
-    }
-  },
   "fi": {
     "english": "Finnish",
     "native": "Suomi",
@@ -386,7 +311,7 @@
         "description": "Augmente la portée des attaques de 5 % par rang (+ 10 % max)."
       },
       "SPEED": {
-        "name": "Vélocité",
+        "name": "Mouvement",
         "description": "Les projectiles se déplacent 10 % plus vite par rang (+ 20 % max)."
       },
       "COOLDOWN": {
@@ -414,7 +339,7 @@
         "description": "La probabilité d'avoir de la chance augmente de 10 % par rang (+ 30 % max)."
       },
       "GROWTH": {
-        "name": "Croissance",
+        "name": "Apprendre",
         "description": "Rapporte 3 % d'expérience en plus par rang (+ 15 % max)."
       },
       "GREED": {
@@ -426,11 +351,11 @@
         "description": "Annule les dégâts d'une attaque. Se combine au Laurier."
       },
       "REVIVAL": {
-        "name": "Résurrection",
+        "name": "Relance",
         "description": "Ressuscite une fois avec 50 % de points de vie."
       },
       "REROLL": {
-        "name": "Relancer",
+        "name": "Retenter",
         "description": "Une fois par rang, permet d'obtenir des choix différents lors de la montée en niveau."
       },
       "SKIP": {
@@ -439,7 +364,7 @@
       },
       "CURSE": {
         "name": "Malédiction",
-        "description": "Augmente la vitesse, la vie, la quantité et la fréquence d'apparition des ennemis de 10 % par rang (+ 50 % max)."
+        "description": "Augmente la vitesse, la santé, la quantité et la fréquence des ennemis de 10% par rang (max +50%)."
       }
     }
   },
@@ -693,6 +618,10 @@
       "SKIP": {
         "name": "スキップ",
         "description": "Once per rank, allows to skip level up choices and get Experience instead."
+      },
+      "CURSE": {
+        "name": "Curse",
+        "description": "Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%)."
       }
     }
   },
@@ -772,6 +701,10 @@
       "SKIP": {
         "name": "건너뛰기",
         "description": "레벨 당 한번 레벨업 시 선택지를 건너뛰는 대신 경험치를 받습니다."
+      },
+      "CURSE": {
+        "name": "저주",
+        "description": "레벨 당 10%씩 적들의 속도, 체력, 개체 수, 스폰율을 증가시킵니다. (최대 +50%)"
       }
     }
   },
@@ -946,6 +879,10 @@
       "SKIP": {
         "name": "Pular",
         "description": "Uma vez por rank, permite ganhar experiência ao invés de escolher um item ao evoluir."
+      },
+      "CURSE": {
+        "name": "Maldição",
+        "description": "Aumenta a velocidade, saúde, quantidade e frequência dos inimigos em 10% por rank (max +50%)."
       }
     }
   },
@@ -966,23 +903,23 @@
       },
       "REGEN": {
         "name": "Регенерация",
-        "description": "Восстанавливает 0.1 ОЗ с каждым рангом (макс. 0.5) в секунду."
+        "description": "Восстанавливает 0.1 ОЗ/сек. с каждым рангом (макс. 0.5)."
       },
       "MAXHEALTH": {
         "name": "Макс. ОЗ",
-        "description": "Увеличивает макс. количество ОЗ на 10% с каждым рангом  (макс. +30%)."
+        "description": "Увеличивает макс. количество ОЗ на 10% с каждым рангом (макс. +30%)."
       },
       "ARMOR": {
         "name": "Броня",
-        "description": "Уменьшает получаемый урон на 1 с каждым рангом  (макс. -3)."
+        "description": "Уменьшает получаемый урон на 1 с каждым рангом (макс. -3)."
       },
       "AREA": {
         "name": "Размер",
-        "description": "Увеличивает размер атак на 5% с каждым рангом  (макс. +10%)."
+        "description": "Увеличивает размер атак на 5% с каждым рангом (макс. +10%)."
       },
       "SPEED": {
         "name": "Скорость",
-        "description": "Снаряды двигаются на 10% быстрее с каждым рангом (макс. 20%)."
+        "description": "Снаряды движутся на 10% быстрее с каждым рангом (макс. 20%)."
       },
       "COOLDOWN": {
         "name": "Откат",
@@ -1026,11 +963,15 @@
       },
       "REROLL": {
         "name": "Повтор",
-        "description": "Один раз за забег, дает получить другие варианты выбора при повышении уровня."
+        "description": "Один раз за ранг дает получить другие варианты выбора при повышении уровня."
       },
       "SKIP": {
         "name": "Пропуск",
-        "description": "Один раз за забег, дает пропустить выбор при повышения уровня и взамен получить опыт."
+        "description": "Один раз за ранг дает пропустить выбор при повышении уровня и взамен получить опыт."
+      },
+      "CURSE": {
+        "name": "Проклятье",
+        "description": "Увеличивает скорость, ОЗ, кол-во и частоту появления врагов на 10% за ранг (макс. +50%)."
       }
     }
   },
@@ -1110,6 +1051,10 @@
       "SKIP": {
         "name": "Skip",
         "description": "Once per rank, allows to skip level up choices and get Experience instead."
+      },
+      "CURSE": {
+        "name": "Curse",
+        "description": "Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%)."
       }
     }
   },
@@ -1290,10 +1235,6 @@
       "SKIP": {
         "name": "Пропуск",
         "description": "Один раз за ранг, дозволяє пропускати варіанти підвищення рівня і натомість отримати досвід."
-      },
-      "CURSE": {
-        "name": "Прокляття",
-        "description": "Підвищує ворожу швидкість, здоров'я, чисельність і частоту появи на 10% за ранг (макс. +50%)."
       }
     }
   },
@@ -1302,5 +1243,84 @@
     "native": "Tiếng Việt",
     "api": "vietnamese",
     "translations": {}
+  },
+  "eo": {
+    "english": "Esperanto",
+    "native": "Esperanto",
+    "api": "esperanto",
+    "translations": {
+      "POWER": {
+        "name": "Potenco",
+        "description": "Pliigas kaŭzitan damaĝon je 5% per rango (maks +25%)."
+      },
+      "REGEN": {
+        "name": "Retrovo",
+        "description": "Reakiras 0.1 SP per rango (maks 0.5) je sekundo."
+      },
+      "MAXHEALTH": {
+        "name": "Maks Saneco",
+        "description": "Pliigas maks sanecon je 10% per rango (maks +30%)"
+      },
+      "ARMOR": {
+        "name": "Kiraso",
+        "description": "Reduktas envenantan damaĝon je 1 per rango (maks -3)"
+      },
+      "AREA": {
+        "name": "Areo",
+        "description": "Pliigas areon de atakoj je 5% per rango (maks +10%)."
+      },
+      "SPEED": {
+        "name": "Rapideco",
+        "description": "Kugloj moviĝas 10% pli rapide per rango (maks 20%)."
+      },
+      "COOLDOWN": {
+        "name": "Malvarmiĝi",
+        "description": "Uzas armilojn 2.5% pli rapide per rango (maks 5%)."
+      },
+      "DURATION": {
+        "name": "Daŭro",
+        "description": "Efikoj de armiloj daŭras 15% pli longe per rango (maks +30%)."
+      },
+      "AMOUNT": {
+        "name": "Kvanto",
+        "description": "Pafas 1 plian kuglon (ĉiujn armilojn)."
+      },
+      "MOVESPEED": {
+        "name": "Movrapedeco",
+        "description": "Rolulo moviĝas 5% pli rapide per rango (maks 10%)."
+      },
+      "MAGNET": {
+        "name": "Magneto",
+        "description": "Eroj-kolekto gamo +25% per rango (maks +50%)."
+      },
+      "LUCK": {
+        "name": "Ŝanco",
+        "description": "Ŝanco akiri bonŝancon pliiĝas je 10% per rango (maks +30%)."
+      },
+      "GROWTH": {
+        "name": "Kresko",
+        "description": "Akiras 3% pli da sperto per rango (maks 15%)."
+      },
+      "GREED": {
+        "name": "Avideco",
+        "description": "Gajnas 10% pli da moneroj per rango (maks +50%)."
+      },
+      "SHIELD": {
+        "name": "Ŝildo",
+        "description": "Malhelpas damaĝon por unu atako. Stakoj kun Laŭro."
+      },
+      "REVIVAL": {
+        "name": "Reviviĝo",
+        "description": "Reviviĝas unufoje kun 50% saneco."
+      },
+      "REROLL": {
+        "name": "Reruligo",
+        "description": "Unufoje por rango, permesas akiri malsamajn elektojn dum niveliĝo."
+      },
+      "SKIP": {
+        "name": "Salto",
+        "description": "Unufoje por rango, permesas preterpasi elektojn de nivelo supren kaj akiri Sperton anstataŭe."
+      }
+    }
   }
 }
