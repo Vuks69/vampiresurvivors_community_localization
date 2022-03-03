@@ -2005,7 +2005,7 @@
       },
       "MAXHEALTH": {
         "name": "Próżne Serce",
-        "description": "Zwiększa maksymalne zdrowie o 10%."
+        "description": "Zwiększa maksymalne zdrowie o 20%."
       },
       "ARMOR": {
         "name": "Pancerz",
@@ -2033,7 +2033,7 @@
       },
       "REGEN": {
         "name": "Pummarola",
-        "description": "Postać regeneruje 0.1 punkta zdrowia na sekundę."
+        "description": "Postać regeneruje 0.2 punkta zdrowia na sekundę."
       },
       "VORTEX": {
         "name": "Pożeracz Dusz",
