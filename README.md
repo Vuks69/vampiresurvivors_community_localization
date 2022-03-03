@@ -12,6 +12,12 @@ Steam page: https://store.steampowered.com/app/1794680/Vampire_Survivors/
 
 Official repository for community translation tools: https://github.com/Poncle/vampire-survivors-localisation
 
+## Installation
+
+Download all `.json` files and put them in `Vampire Survivors\resources\app\.webpack\renderer\assets\lang\`
+
+To easily get to the game's base folder, go to your Steam Library, rightclick the game and select `Manage > Browse local files`
+
 ## Want to help?
 
 You can fork this repository, update the relevant translations and open a PR, or post your own google spreadsheet/generated files in the `Localization` topic found on the [#modding](https://discord.com/channels/904353235006017556/937659884470693908) channel on the official discord.
@@ -28,12 +34,6 @@ In order to easily open a PR without having to copypaste your own translations b
 `input_langs = ["pl"]`
 
 When you open a PR with the above method, please attach the created `log.txt` file. It will help with catching any problems.
-
-## Installation
-
-Download all `.json` files and put them in `Vampire Survivors\resources\app\.webpack\renderer\assets\lang\`
-
-To easily get to the game's base folder, go to your Steam Library, rightclick the game and select `Manage > Browse local files`
 
 ## Contributors
 * PL/Polski:
