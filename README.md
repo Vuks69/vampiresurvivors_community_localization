@@ -1,10 +1,8 @@
 # Vampire Survivors Community Localization Files
 
-Partially updated for Vampire Survivors v0.2.13
+Partially updated for Vampire Survivors v0.3.0
 
 Currently available community translations: PL, UK, TR, DE, EO, AR, HU
-
-Languages **NOT** updated for v0.2.13: DE, EO, official translations other than EN
 
 ## Official sources
 
