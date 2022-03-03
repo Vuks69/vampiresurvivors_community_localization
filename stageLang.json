@@ -19,7 +19,8 @@
         "stageName": "الفدان الخضراء",
         "description": "مكان لا يسمح فيه بالفانين. يتغير المصير كل دقيقة.",
         "tips": "نقاط صحة الأعداء +50%",
-        "hyperTips": "50% زيادة نقود\n10% زيادة حظ"
+        "hyperTips": "50% زيادة نقود\n10% زيادة حظ",
+        "stagenNumber": "Challenge"
       },
       "WAREHOUSE": {
         "stageName": "Dairy Plant",
@@ -169,7 +170,8 @@
         "stageName": "Grüner Acker",
         "description": "Ein Ort, an dem Sterbliche nicht erlaubt sind. Das Schicksal ändert sich jede Minute.",
         "tips": "Gesundheit der Gegner +50%",
-        "hyperTips": "50% Goldbonus\n10% Glücksbonus"
+        "hyperTips": "50% Goldbonus\n10% Glücksbonus",
+        "stagenNumber": "Challenge"
       },
       "WAREHOUSE": {
         "stageName": "Dairy Plant",
@@ -203,7 +205,8 @@
         "stageName": "Zöld mezők",
         "description": "Nem halandóknak való vidék. A sors minden percben megváltozik.",
         "tips": "Ellenfelek ÉP-je +50%",
-        "hyperTips": "50% bónusz arany\n10% bónusz szerencse"
+        "hyperTips": "50% bónusz arany\n10% bónusz szerencse",
+        "stagenNumber": "Challenge"
       },
       "WAREHOUSE": {
         "stageName": "Dairy Plant",
@@ -301,7 +304,8 @@
         "stageName": "Zielony Zagon",
         "description": "Miejsce, gdzie śmiertelnicy nie mają wstępu. Los zmienia się z każdą minutą.",
         "tips": "Zdrowie przeciwników +50%",
-        "hyperTips": "50% premii do Złota\n10% premii do Szczęścia"
+        "hyperTips": "50% premii do Złota\n10% premii do Szczęścia",
+        "stagenNumber": "Challenge"
       },
       "WAREHOUSE": {
         "stageName": "Dairy Plant",
@@ -446,7 +450,8 @@
         "stageName": "Yeşil Arazi",
         "description": "Ölümlülerin bulunmaması gereken bir yer. Kader her dakika değişir.",
         "tips": "Düşman azami canı +%50",
-        "hyperTips": "%50 Altın bonusu\n%10 Şans bonusu"
+        "hyperTips": "%50 Altın bonusu\n%10 Şans bonusu",
+        "stagenNumber": "Challenge"
       },
       "WAREHOUSE": {
         "stageName": "Dairy Plant",
@@ -474,7 +479,8 @@
         "stageName": "Зелені Акры",
         "description": "Місце, куди смертним вхід заборонено. Доля змінюється щохвилинич.",
         "tips": "Здоров'я ворогів +50%",
-        "hyperTips": "50% бонус до Золота\n10% бонус до Удачі"
+        "hyperTips": "50% бонус до Золота\n10% бонус до Удачі",
+        "stagenNumber": "Challenge"
       },
       "WAREHOUSE": {
         "stageName": "Dairy Plant",
@@ -508,7 +514,8 @@
         "stageName": "Verdaj Akreoj",
         "description": "Loko kie mortontoj ne estas permesitaj. La sorto ŝanĝiĝas ĉiun minuton.",
         "tips": "Sano de malamikoj +50%",
-        "hyperTips": "50% Ora bonuso\n10% Bonŝanca bonuso"
+        "hyperTips": "50% Ora bonuso\n10% Bonŝanca bonuso",
+        "stagenNumber": "Challenge"
       },
       "WAREHOUSE": {
         "stageName": "Dairy Plant",
