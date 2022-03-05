@@ -187,172 +187,172 @@
     "api": "schinese",
     "translations": {
       "ReachLV5": {
-        "description": "达到 5 级。"
+        "description": "达到 5 级"
       },
       "ReachLV10": {
-        "description": "达到 10 级。"
+        "description": "达到 10 级"
       },
       "Have6DifferentWeapons": {
-        "description": "同时持有 6 种不同的武器。"
+        "description": "同时持有 6 种不同的武器"
       },
       "GetFireWandToLevel4": {
-        "description": "将火焰之杖升到 4 级。"
+        "description": "火焰之杖升到 4 级"
       },
       "GetHolyBookToLevel4": {
-        "description": "将国王圣经升到 4 级。"
+        "description": "国王圣经升到 4 级"
       },
       "GetHolyWaterToLevel4": {
-        "description": "将圣水升到 4 级。"
+        "description": "圣水升到 4 级"
       },
       "GetLightningRingToLevel4": {
-        "description": "将闪电戒指升到 4 级。"
+        "description": "闪电戒指升到 4 级"
       },
       "GetMagicMissileToLevel7": {
-        "description": "将魔杖升到 7 级。"
+        "description": "魔杖升到 7 级"
       },
       "GetPeachoneToLevel7": {
-        "description": "将和平鸽升到 7 级。"
+        "description": "和平鸽升到 7 级"
       },
       "GetRunetracerToLevel7": {
-        "description": "将符文追踪器升到 7 级。"
+        "description": "符文追踪器升到 7 级"
       },
       "Survive1Minute": {
-        "description": "使用任何角色存活 1 分钟。"
+        "description": "使用任何角色存活 1 分钟"
       },
       "Survive5MinutesWithDiamond": {
-        "description": "使用帕斯奎丽娜存活 5 分钟。"
+        "description": "使用帕斯奎丽娜存活 5 分钟"
       },
       "Survive10Minutes": {
-        "description": "使用任何角色存活 10 分钟。"
+        "description": "使用任何角色存活 10 分钟"
       },
       "Survive20Minutes": {
-        "description": "使用任何角色存活 20 分钟。"
+        "description": "使用任何角色存活 20 分钟"
       },
       "Destroy20Candles": {
-        "description": "摧毁 20 个光源。"
+        "description": "破坏 20 个火炬"
       },
       "Eat5PotRoast": {
-        "description": "找到 5 个烤鸡。"
+        "description": "找到 5 个烤鸡"
       },
       "FindAClover": {
-        "description": "找到一个小三叶草。"
+        "description": "找到三叶草"
       },
       "FindAVacuum": {
-        "description": "找到一个真空。"
+        "description": "找到真空"
       },
       "FindAnOrologion": {
-        "description": "找到一个怀表。"
+        "description": "找到怀表"
       },
       "FindARosary": {
-        "description": "找到一串念珠。"
+        "description": "找到念珠"
       },
       "Defeat5000Enemies": {
-        "description": "总共击败 5000 个敌人。"
+        "description": "总共击败 5000 个敌人"
       },
       "Defeat3000Skeletons": {
-        "description": "总共击败 3000 个敌人。"
+        "description": "总共击败 3000 个敌人"
       },
       "DefeatBossMadForest": {
-        "description": "在疯狂森林中击败巨型蓝色维纳斯。"
+        "description": "在疯狂森林中击败巨型蓝色维纳斯"
       },
       "ReachLV20InMadForest": {
-        "description": "在疯狂森林中达到 20 级。"
+        "description": "在疯狂森林中达到 20 级"
       },
       "DefeatBossLibrary": {
-        "description": "在镶嵌图书馆中击败奈苏菲特。"
+        "description": "在镶嵌图书馆中击败奈苏菲特"
       },
       "Survive5MinutesWithKnife": {
-        "description": "使用吉纳罗存活 5 分钟。"
+        "description": "使用吉纳罗存活 5 分钟"
       },
       "FindAStoneMask": {
-        "description": "找到一个石面具。"
+        "description": "找到石面具"
       },
       "GetGarlicToLevel7": {
-        "description": "将大蒜升到 7 级。"
+        "description": "大蒜升到 7 级"
       },
       "EvolveWhip": {
-        "description": "进化鞭子。"
+        "description": "进化鞭子"
       },
       "EvolveMagicWand": {
-        "description": "进化魔杖。"
+        "description": "进化魔杖"
       },
       "EvolveKnife": {
-        "description": "进化飞刀。"
+        "description": "进化飞刀"
       },
       "EvolveAxe": {
-        "description": "进化斧头。"
+        "description": "进化斧头"
       },
       "EvolveCross": {
-        "description": "进化十字架。"
+        "description": "进化十字架"
       },
       "EvolveKingBible": {
-        "description": "进化国王圣经。"
+        "description": "进化国王圣经"
       },
       "EvolveFireWand": {
-        "description": "进化火焰之杖。"
+        "description": "进化火焰之杖"
       },
       "Defeat100KEnemies": {
-        "description": "总共击败敌人100000人。"
+        "description": "击败 100000 个敌人"
       },
       "Recover1000HP": {
-        "description": "总共恢复1000生命。"
+        "description": "总共恢复1000生命"
       },
       "Earn5000CoinsInASingleRun": {
-        "description": "在一次行动中赚5000个金币。"
+        "description": "在一次行动中获得 5000 个金币"
       },
       "EvolveSantaWater": {
-        "description": "进化出圣水。"
+        "description": "进化圣水"
       },
       "UniteBirds": {
-        "description": "搭配乌木之翼和和平鸽"
+        "description": "搭配白羽鸽和黑羽鸟"
       },
       "EvolveGarlic": {
-        "description": "进化大蒜。"
+        "description": "进化大蒜"
       },
       "Unlock2Hypers": {
-        "description": "解锁超级模式为2阶段。"
+        "description": "解锁 2 个超级模式关卡"
       },
       "EvolveLightning": {
-        "description": "进化出闪电戒指"
+        "description": "进化闪电戒指"
       },
       "ReachLV100WithMortaccio": {
-        "description": "莫塔乔升到100级。"
+        "description": "莫塔乔升到 100 级"
       },
       "Survive30MinutesInGreenAcres": {
-        "description": "绿地生存30分钟。"
+        "description": "在绿地生存 30 分钟"
       },
       "Survive20MinutesWithCross": {
-        "description": "克罗奇生存20分钟。"
+        "description": "在克罗奇生存 20 分钟"
       },
       "Survive20MinutesWithCurse": {
-        "description": "生存20分钟加上+10%的诅咒"
+        "description": "使用诅咒生存 20 分钟"
       },
       "Survive30MinutesWithAxe": {
-        "description": "拉玛生存30分钟"
+        "description": "在拉玛生存 30 分钟"
       },
       "Defeat3000Buers": {
-        "description": "共击败3000个狮头。"
+        "description": "共击败 3000 个狮头"
       },
       "ReachLV100WithCavallo": {
-        "description": "雅塔·卡瓦洛升到100级。"
+        "description": "雅塔·卡瓦洛升到 100 级"
       },
       "EvolveSongOfMana": {
-        "description": "进化出法力之歌。"
+        "description": "进化法力之歌"
       },
       "Survive15MinutesWithSong": {
-        "description": "和萝卜豆一起活15分钟。"
+        "description": "和萝卜豆一起生存 15 分钟"
       },
       "FindCoffinStage3": {
-        "description": "在奶牛场找到并打开法老的棺材"
+        "description": "在奶牛场打开法老的棺材"
       },
       "ReachLV40InLibrary": {
-        "description": "在镶嵌图书馆中达到40级。"
+        "description": "在镶嵌图书馆中达到 40 级"
       },
       "DefeatBossPlant": {
-        "description": "击败奶牛场的铠甲。"
+        "description": "击败奶牛场的活铠甲"
       },
       "FindMilkyWayMap": {
-        "description": "找到银河系地图。"
+        "description": "找到小地图"
       }
     }
   },

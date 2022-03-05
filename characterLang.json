@@ -90,75 +90,75 @@
     "api": "schinese",
     "translations": {
       "ANTONIO": {
-        "description": "每 10 级增加 10% 的伤害（最高 +50%）。",
+        "description": "阶段性提升伤害。\n每10级提升10% \n(上限:50%)",
         "charName": "安东尼奥",
         "surname": "贝尔帕斯"
       },
       "IMELDA": {
-        "description": "每5级增加10%的经验（最高+30%）。",
+        "description": "阶段性提升经验收益。\n每5级增加10%\n(上限:30%)",
         "charName": "伊梅尔达",
         "surname": "贝尔帕斯"
       },
       "CIRO": {
         "charName": "阿卡",
-        "description": "武器冷却时间每 10 级减少 5%（最多 -15%）。",
+        "description": "阶段性降低武器冷却。\n每10级减少5%\n(上限:15%)",
         "surname": "拉多纳"
       },
       "DOMMARIO": {
         "charName": "多马利奥",
-        "description": "永久持续时间和速度+40%， 移动速度-30%。"
+        "description": "提升40%武器持续时间和速度，但移动速度降低30% "
       },
       "EXDASH": {
-        "description": "至少他们是幸运的。"
+        "description": "\n至少他们是幸运的。"
       },
       "GENNARO": {
         "charName": "吉纳罗",
-        "description": "永久射弹+1（所有武器）。",
+        "description": "\n额外投掷数量+1 (所有武器)",
         "surname": "贝尔帕斯"
       },
       "GERMANA": {
         "charName": "克莱里奇",
-        "description": "永久生命值每秒0.5， 且最大生命值 +30。 开局带有临时范围加成。",
+        "description": "每秒恢复0.5点生命值，\n最大生命值提升50点。\n\n开局临时加成: 范围提升",
         "prefix": "苏奥尔"
       },
       "MORTACCIO": {
         "charName": "莫塔乔",
-        "description": "每 20 级获得更多射弹（最多 +3）。"
+        "description": "阶段性增加投掷数量。\n每20级增加1个\n(上限:3)"
       },
       "CAMILLO": {
         "charName": "波",
-        "description": "永久拾取范围+25%， 但最大生命值 -30。",
+        "description": "拾取范围增加25%， 但最大生命值减少30点",
         "surname": "拉奇奥"
       },
       "PASQUALINA": {
         "charName": "帕斯奎丽娜",
-        "description": "射弹的速度每 5 级增加 10%（最多 +30%）。",
+        "description": "阶段性提升投掷速度。\n每5级增加10%\n(上限:30%)",
         "surname": "贝尔帕斯"
       },
       "PORTA": {
         "charName": "波尔塔",
-        "description": "永久范围+30%开局带有临时冷却加成。",
+        "description": "武器范围提升30%\n\n开局临时加成: 冷却降低",
         "surname": "拉多纳"
       },
       "CROCI": {
         "charName": "克罗奇",
         "surname": "弗赖托",
-        "description": "1级复活一次。 33级在获得复活一次"
+        "description": "可复活一次。 达到33级额外获得复活一次"
       },
       "LAMA": {
         "charName": "拉玛",
         "surname": "拉多娜",
-        "description": "每 10 级获得 +5% 力量、 移动速度和诅咒 （最高 +20%）。"
+        "description": "阶段性增加力量、 移动速度和诅咒。\n每10级增加5% (上限: 20%)"
       },
       "CAVALLO": {
         "prefix": "雅塔",
         "charName": "卡瓦洛",
-        "description": "每 20 级获得更多射弹（最多 +3）。"
+        "description": "阶段性获得更多投射数量。\n每20级增加1个\n(上限: 3)"
       },
       "POPPEA": {
         "charName": "萝",
         "surname": "卜豆",
-        "description": "每关增加1% 持续时间。"
+        "description": "每升1级，效果持续时间增加 1%"
       }
     }
   },

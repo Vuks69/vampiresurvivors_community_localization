@@ -238,202 +238,202 @@
     "translations": {
       "WHIP": {
         "name": "鞭子",
-        "description": "水平攻击，可穿透敌人。",
-        "tips": "无视：速度、持续时间。"
+        "description": "向水平方向攻击，可以穿透敌人。",
+        "tips": "无视加成：速度、持续时间"
       },
       "VAMPIRICA": {
         "name": "血鞭",
-        "description": "进化的鞭子，可以造成暴击伤害并吸收生命值。",
-        "tips": "需要：空虚之心"
+        "description": "进化的鞭子， 可以造成暴击伤害并吸收生命值。",
+        "tips": "合成条件：空虚之心"
       },
       "MAGIC_MISSILE": {
         "name": "魔杖",
-        "description": "向最近的敌人发射。",
-        "tips": "无视：持续时间。"
+        "description": "向最近的敌人发射魔弹。",
+        "tips": "无视加成：持续时间。"
       },
       "HOLY_MISSILE": {
         "name": "圣魔杖",
-        "description": "进化的魔杖，发射时没有延迟。",
-        "tips": "需要：空白之书。"
+        "description": "进化的魔杖， 不再需要冷却时间。",
+        "tips": "合成条件：空白之书。"
       },
       "AXE": {
         "name": "斧头",
-        "description": "高伤害、大范围。",
-        "tips": "无视：持续时间。"
+        "description": "沿抛物线投掷斧头， 造成大量的伤害。",
+        "tips": "无视加成：持续时间。"
       },
       "SCYTHE": {
         "name": "死亡旋风",
-        "description": "进化的斧头。可穿透敌人。",
-        "tips": "需要：烛台。"
+        "description": "进化的斧头， 向四周投掷可穿透敌人的镰刀。",
+        "tips": "合成条件：烛台。"
       },
       "KNIFE": {
         "name": "飞刀",
-        "description": "朝面对的方向快速发射。",
-        "tips": "无视：持续时间。"
+        "description": "朝向前方快速投掷飞刀。",
+        "tips": "无视加成：持续时间。"
       },
       "THOUSAND": {
         "name": "千刃",
-        "description": "进化的飞刀。发射时没有延迟。",
-        "tips": "需要：护腕。"
+        "description": "进化的飞刀，不再需要冷却时间。",
+        "tips": "合成条件：手套。"
       },
       "HOLYWATER": {
         "name": "圣水",
-        "description": "产生破坏性区域。",
-        "tips": "无视：速度。"
+        "description": "制造一个可持续造成伤害的区域。",
+        "tips": "无视加成：速度。"
       },
       "DIAMOND": {
         "name": "符文追踪器",
-        "description": "可穿透敌人，四处反弹。",
-        "tips": "最佳搭配：速度、持续时间。"
+        "description": "攻击穿透所有敌人，并在边缘处反弹。",
+        "tips": "推荐搭配：速度、持续时间。"
       },
       "FIREBALL": {
-        "name": "火焰之杖",
-        "description": "向随机敌人发射，造成大量伤害。",
-        "tips": "无视：持续时间。"
+        "name": "火焰法杖",
+        "description": "随机朝一名敌人发射火焰弹，造成巨大伤害。",
+        "tips": "无视加成：持续时间。"
       },
       "HELLFIRE": {
         "name": "地狱火",
-        "description": "进化的火焰之杖。可穿透敌人。",
-        "tips": "需要：菠菜。"
+        "description": "进化的火焰法杖， 发射可以穿透敌人的地狱火。",
+        "tips": "合成条件：菠菜。"
       },
       "HOLYBOOK": {
         "name": "国王圣经",
-        "description": "围绕角色旋转。",
-        "tips": "最佳搭配：速度、持续时间、范围。"
+        "description": "环绕角色旋转， 并对接触到的敌人造成伤害。",
+        "tips": "推荐搭配：速度、持续时间、范围。"
       },
       "VESPERS": {
-        "name": "邪恶的晚祷",
-        "description": "进化的国王圣经。永不结束。",
-        "tips": "需要：拼写器。"
+        "name": "罪恶祷告",
+        "description": "进化的国王圣经， 永不停止的旋转。",
+        "tips": "合成条件：拼写器。"
       },
       "CROSS": {
         "name": "十字架",
-        "description": "瞄准最近的敌人，具有回旋镖效果。",
-        "tips": "无视：持续时间。"
+        "description": "向距离最近的敌人投掷可回旋的十字架， 随后回旋并穿透所有敌人。",
+        "tips": "无视加成：持续时间。"
       },
       "HEAVENSWORD": {
         "name": "天堂之剑",
-        "description": "进化的十字架，可以造成暴击伤害。",
-        "tips": "需要：三叶草。"
+        "description": "进化的十字架， 可以造成暴击伤害。",
+        "tips": "合成条件：三叶草。"
       },
       "GARLIC": {
         "name": "大蒜",
-        "description": "对附近的敌人造成伤害。降低对击退和冻结的抗性。",
-        "tips": "无视：数量、持续时间、速度。"
+        "description": "对附近的敌人造成伤害， 并降低击退和冻结的抗性。",
+        "tips": "无视加成：冷却时间、持续时间、速度。"
       },
       "LAUREL": {
         "name": "月桂",
-        "description": "激活期间可抵御伤害。",
-        "tips": "最佳搭配：仅冷却时间。"
+        "description": "生成一个可抵挡碰撞伤害的护盾。",
+        "tips": "推荐搭配：冷却时间。"
       },
       "LIGHTNING": {
         "name": "闪电戒指",
-        "description": "随机攻击敌人。",
-        "tips": "无视：速度、持续时间。"
+        "description": "向四周随机落雷， 对敌人造成致命伤害。",
+        "tips": "无视加成：速度、持续时间。"
       },
       "PENTAGRAM": {
         "name": "五芒星",
-        "description": "清除视野内的一切。",
-        "tips": "最佳搭配：仅冷却时间和幸运。"
+        "description": "抹除一切视野内所有的敌人。",
+        "tips": "推荐搭配：冷却时间、幸运。"
       },
       "SILF": {
-        "name": "和平鸽",
-        "description": "在盘旋区域内进行轰炸。",
-        "tips": "最佳搭配：冷却时间、持续时间。"
+        "name": "白羽鸽",
+        "description": "环绕角色飞行，对区域进行轰炸。",
+        "tips": "推荐搭配：冷却时间、持续时间。"
       },
       "SILF2": {
-        "name": "乌木之翼",
-        "description": "在盘旋区域内进行轰炸。",
-        "tips": "最佳搭配：冷却时间，持续时间。"
+        "name": "黑羽鸟",
+        "description": "环绕角色飞行，对区域进行轰炸。",
+        "tips": "推荐搭配：冷却时间，持续时间。"
       },
       "BONE": {
         "name": "骨头",
-        "description": "投掷一枚弹跳的射弹。",
-        "tips": "最佳搭配：持续时间、速度。"
+        "description": "投掷一个骨头，击中敌人后或在边缘处反弹。",
+        "tips": "推荐搭配：持续时间、速度。"
       },
       "LANCET": {
-        "name": "时钟柳叶刀",
-        "description": "有机会及时冻结敌人。",
-        "tips": "无视：力量、速度、数量、范围。"
+        "name": "时之刃",
+        "description": "向随机方向戳刺，并冻结经过的敌人。",
+        "tips": "无视加成：力量、速度、数量、范围"
       },
       "POWER": {
         "name": "菠菜",
-        "description": "造成的伤害提高 10%。"
+        "description": "增加10%造成的伤害"
       },
       "AREA": {
         "name": "烛台",
-        "description": "使攻击范围增加 10%。"
+        "description": "增加10%范围"
       },
       "SPEED": {
-        "name": "护腕",
-        "description": "射弹速度提高 10%。"
+        "name": "手套",
+        "description": "增加10%投射物速度"
       },
       "COOLDOWN": {
         "name": "空白之书",
-        "description": "减少武器冷却时间 8%。"
+        "description": "减少8%冷却时间。"
       },
       "DURATION": {
-        "name": "拼写器",
-        "description": "增加武器效果持续时间 10%。"
+        "name": "咒印",
+        "description": "增加10%持续时间。"
       },
       "AMOUNT": {
         "name": "复制器",
-        "description": "武器发射更多的射弹。"
+        "description": "增加额外的投射物。"
       },
       "MAXHEALTH": {
         "name": "空虚之心",
-        "description": "增加最大生命值 20%。"
+        "description": "增加20%最大生命值。"
       },
       "ARMOR": {
         "name": "护甲",
-        "description": "受到伤害降低 1 点。"
+        "description": "降低1点受到的伤害。"
       },
       "MOVESPEED": {
         "name": "翅膀",
-        "description": "提升角色的移动速度 10%。"
+        "description": "提升10%移动速度。"
       },
       "MAGNET": {
-        "description": "角色可从更远的地方拾取物品。",
-        "name": "吸引器"
+        "name": "吸引器",
+        "description": "增加拾取范围。"
       },
       "GROWTH": {
         "name": "王冠",
-        "description": "增加角色获得的经验 8%。"
+        "description": "提升8%经验值收益。"
       },
       "LUCK": {
         "name": "三叶草",
-        "description": "提高角色的幸运值 10%。"
+        "description": "提升10%幸运值。"
       },
       "GREED": {
         "name": "石面具",
-        "description": "增加角色获得的金币 10%。"
+        "description": "提升10%金币收益。"
       },
       "REGEN": {
-        "name": "番茄",
-        "description": "角色每秒恢复 0.2 点生命。"
+        "name": "活力之心",
+        "description": "每秒恢复0.2点生命。"
       },
       "VORTEX": {
         "name": "噬魂者",
-        "description": "进化大蒜恢复生命值时伤害增加",
-        "tips": "要求: 普玛罗拉."
+        "description": "进化的大蒜。 偷取敌人生命，并在吸取生命值时提升伤害。",
+        "tips": "合成条件：活力之心"
       },
       "BORA": {
-        "name": "短绒",
-        "description": "进化的圣水。 破坏性区域会跟随您并在它们移动时增长。",
-        "tips": "要求: 吸引器."
+        "name": "拉博拉",
+        "description": "进化的圣水。 跟随你的位置制造区域，并在移动时增长。",
+        "tips": "合成条件：吸引器"
       },
       "SILF3": {
-        "name": "破坏者",
-        "description": "乌木之翼搭配和平鸽"
+        "name": "彩虹毁灭者",
+        "description": "合成条件：白羽鸽、黑羽鸟"
       },
       "REVIVAL": {
-        "name": "提拉吉苏",
-        "description": "以50%的生命值复活一次。"
+        "name": "提拉米苏",
+        "description": "复活一次，并恢复50%生命值。"
       },
       "LOOP": {
-        "name": "雷环",
-        "description": "进化的闪电戒指。 射弹击中两次。",
-        "tips": "要求: 复制器."
+        "name": "雷鸣之环",
+        "description": "进化的闪电戒指，额外的闪电。",
+        "tips": "合成条件：复制器"
       },
       "CURSE": {
         "name": "疯狂骷髅",
@@ -442,17 +442,17 @@
       "CHERRY": {
         "name": "樱桃炸弹",
         "description": "扔出一个弹跳的射弹， 有时会爆炸。",
-        "tips": "搭配: 幸运."
+        "tips": "推荐搭配：幸运"
       },
       "SONG": {
         "name": "法力之歌",
-        "description": "垂直攻击，穿过敌人。",
-        "tips": "忽略:数量，速度。"
+        "description": "向垂直方向攻击，可以穿透敌人。",
+        "tips": "无视加成：数量，速度"
       },
       "MANNAGGIA": {
         "name": "曼纳加",
-        "description": "进化出魔法之歌，可能会减慢敌人的速度。",
-        "tips": "要求:疯狂骷髅"
+        "description": "进化的法力之歌，可能会减慢敌人的速度。",
+        "tips": "合成条件：疯狂骷髅"
       }
     }
   },
