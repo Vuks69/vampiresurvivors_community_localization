@@ -28,10 +28,10 @@ In order to easily open a PR without having to copypaste your own translations b
 
 ```
 /
-├─updater.py
-├─final/
-└─sources/
-    ├─base/
+├─ updater.py
+├─ final/
+└─ sources/
+    ├─ base/
     │      achievementLang.json
     │      characterLang.json
     │      itemLang.json
@@ -40,7 +40,7 @@ In order to easily open a PR without having to copypaste your own translations b
     │      powerUpLang.json
     │      stageLang.json
     │      weaponLang.json
-    ├─pl/
+    ├─ pl/
     │      achievementLang.json
     │      characterLang.json
     │      itemLang.json
