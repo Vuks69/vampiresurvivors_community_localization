@@ -358,59 +358,59 @@
       },
       "POWER": {
         "name": "菠菜",
-        "description": "增加10%造成的伤害"
+        "description": "造成的伤害增加10%"
       },
       "AREA": {
         "name": "烛台",
-        "description": "增加10%范围"
+        "description": "范围提升10%"
       },
       "SPEED": {
         "name": "手套",
-        "description": "增加10%投射物速度"
+        "description": "投射速度增加10%"
       },
       "COOLDOWN": {
         "name": "空白之书",
-        "description": "减少8%冷却时间。"
+        "description": "冷却时间减少8%"
       },
       "DURATION": {
         "name": "咒印",
-        "description": "增加10%持续时间。"
+        "description": "持续时间增加10%"
       },
       "AMOUNT": {
         "name": "复制器",
-        "description": "增加额外的投射物。"
+        "description": "投射数量额外增加1个"
       },
       "MAXHEALTH": {
         "name": "空虚之心",
-        "description": "增加20%最大生命值。"
+        "description": "最大生命值增加20%"
       },
       "ARMOR": {
         "name": "护甲",
-        "description": "降低1点受到的伤害。"
+        "description": "受到的伤害降低1点"
       },
       "MOVESPEED": {
         "name": "翅膀",
-        "description": "提升10%移动速度。"
+        "description": "移动速度增加10%"
       },
       "MAGNET": {
         "name": "吸引器",
-        "description": "增加拾取范围。"
+        "description": "拾取范围增加"
       },
       "GROWTH": {
         "name": "王冠",
-        "description": "提升8%经验值收益。"
+        "description": "经验值收益提升8%"
       },
       "LUCK": {
         "name": "三叶草",
-        "description": "提升10%幸运值。"
+        "description": "幸运值提升10%"
       },
       "GREED": {
         "name": "石面具",
-        "description": "提升10%金币收益。"
+        "description": "金币收益提升10%"
       },
       "REGEN": {
         "name": "活力之心",
-        "description": "每秒恢复0.2点生命。"
+        "description": "每秒恢复0.2点生命"
       },
       "VORTEX": {
         "name": "噬魂者",
