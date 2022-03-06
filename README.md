@@ -26,12 +26,35 @@ In order to easily open a PR without having to copypaste your own translations b
 * Create a Python script - get it [here](https://gist.github.com/Vuks69/71345df52392ace544d2f2d4ffd68474)
 * Prepare the files like this:
 
-![image](https://user-images.githubusercontent.com/51289041/156632913-dc6b7e08-b2ea-4272-a7c6-71266e3035f1.png)
+```
+/
+├─ updater.py
+├─ final/
+└─ sources/
+    ├─ base/
+    │      achievementLang.json
+    │      characterLang.json
+    │      itemLang.json
+    │      lang.json
+    │      langKeys.json
+    │      powerUpLang.json
+    │      stageLang.json
+    │      weaponLang.json
+    ├─ pl/
+    │      achievementLang.json
+    │      characterLang.json
+    │      itemLang.json
+    │      lang.json
+    │      langKeys.json
+    │      powerUpLang.json
+    │      stageLang.json
+    └─     weaponLang.json
+```
+
 * `final` folder is where the resulting files will be written - this is what you need to commit for the Pull Request
 * `base` - put the current JSON files from this repo in there!
 * `pl` - rename this folder to your language's code (you can find it in any of the JSON files), and put your translated JSON files in here
-* in the `updater.py` script, don't forget to change the `input_langs` variable to only contain your language's code! eg. 
-`input_langs = ["pl"]`
+* in the `updater.py` script, don't forget to change the `input_langs` variable to only contain your language's code! eg. `input_langs = ["pl"]`
 
 When you open a PR with the above method, please attach the created `log.txt` file. It will help with catching any problems.
 
