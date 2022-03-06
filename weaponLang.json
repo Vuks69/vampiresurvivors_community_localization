@@ -273,7 +273,7 @@
       },
       "THOUSAND": {
         "name": "千刃",
-        "description": "进化的飞刀，不再需要冷却时间。",
+        "description": "进化的飞刀， 不再需要冷却时间。",
         "tips": "合成条件：手套。"
       },
       "HOLYWATER": {
@@ -304,7 +304,7 @@
       "VESPERS": {
         "name": "罪恶祷告",
         "description": "进化的国王圣经， 永不停止的旋转。",
-        "tips": "合成条件：拼写器。"
+        "tips": "合成条件：咒印。"
       },
       "CROSS": {
         "name": "十字架",
