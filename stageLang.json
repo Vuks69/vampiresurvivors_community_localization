@@ -42,25 +42,25 @@
     "translations": {
       "FOREST": {
         "stageName": "疯狂森林",
-        "description": "城堡是个谎言， 但这里仍有免费的烤鸡， 所以没关系。",
-        "hyperTips": "金币加成50%"
+        "description": "城堡只是个谎言， 但是没关系，因为还有免费的烤鸡。",
+        "hyperTips": "金币收益增加50%"
       },
       "LIBRARY": {
         "stageName": "镶嵌图书馆",
-        "description": "这个安静的长条形图书馆是休息、 冥想和搜寻烤鸡的理想场所。 但这里为什么会有石面具？",
-        "hyperTips": "金币加成50%\n幸运加成10%"
+        "description": "长条形的图书馆，是用来休息、冥想\n和搜寻烤鸡的理想场所。 可是这里为什么会有石面具？",
+        "hyperTips": "金币收益增加50%\n幸运增加10%"
       },
       "GREENACRES": {
         "stageName": "绿地",
-        "description": "不允许凡人进入的地方。 命运时时刻刻都在改变。",
-        "tips": "敌人生命值 +50%",
-        "hyperTips": "金币加成50%\n幸运加成10%",
+        "description": "这个地方，人类永远无法进入。\n因为灾厄随时都可能降临。",
+        "tips": "敌人生命值增加50%",
+        "hyperTips": "金币收益增加50%\n幸运增加10%",
         "stagenNumber": "挑战"
       },
       "WAREHOUSE": {
         "stageName": "奶牛场",
-        "description": "藏在这里的神奇地图，可能最终会带我们找到吸血鬼，或者至少找到更多的烤鸡。",
-        "hyperTips": "金币加成50%\n幸运加成10%"
+        "description": "藏在这里的魔法地图， 最终可能会带我们找到一个吸血鬼， 或者至少能找到更多的烤鸡。",
+        "hyperTips": "金币收益增加50%\n幸运增加10%"
       }
     }
   },

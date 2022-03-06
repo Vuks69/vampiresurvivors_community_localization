@@ -79,23 +79,23 @@
     "api": "schinese",
     "translations": {
       "CLOVER": {
-        "description": "拾取增加 10% 的幸运值",
+        "description": "幸运值增加10% ",
         "name": "三叶草"
       },
       "COIN": {
-        "description": "你的金币总数增加 1。",
+        "description": "获得1金币",
         "name": "金币"
       },
       "COINBAG1": {
-        "description": "你的金币总数增加 10。",
+        "description": "获得10金币",
         "name": "钱袋"
       },
       "COINBAG2": {
-        "description": "你的金币总数增加 25。",
+        "description": "获得25金币",
         "name": "大钱袋"
       },
       "COINBAGMAX": {
-        "description": "你的金币总数增加 100。",
+        "description": "获得100金币",
         "name": "富豪钱袋",
         "tips": "掉落率受幸运值影响。"
       },
@@ -104,32 +104,32 @@
         "name": "经验宝石"
       },
       "OROLOGION": {
-        "description": "冻结所有敌人，持续 10 秒。",
+        "description": "冻结所有敌人，持续10秒",
         "name": "怀表",
         "tips": "掉落率受幸运值影响。"
       },
       "ROAST": {
-        "description": "恢复 30 点生命值。",
+        "description": "恢复30点生命值 ",
         "name": "烤鸡",
         "tips": "掉落率受幸运值影响。"
       },
       "ROSARY": {
-        "description": "消灭视野内的所有敌人。",
-        "name": "念珠",
+        "description": "消灭视野内的所有敌人",
+        "name": "护符",
         "tips": "掉落率受幸运值影响。"
       },
       "TREASURE": {
-        "description": "金币和道具。由强大的敌人掉落。",
+        "description": "获得金币和道具，由强大的敌人掉落。",
         "name": "宝箱",
         "tips": "品质受幸运值影响。"
       },
       "VACUUM": {
-        "description": "收集所有留在地上的经验值宝石。",
-        "name": "真空",
+        "description": "收集所有留在地上的经验宝石。",
+        "name": "黑洞",
         "tips": "掉落率受幸运值影响。"
       },
       "NFT": {
-        "description": "可暂时发出锥形火焰。 受玩家数值影响。",
+        "description": "可暂时喷射锥形火焰。 威力受玩家数值影响。",
         "name": "辣酱烘蛋",
         "tips": "掉落率受幸运值影响。"
       },

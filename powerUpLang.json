@@ -96,79 +96,79 @@
     "translations": {
       "POWER": {
         "name": "力量",
-        "description": "造成的伤害增加 5%（最多 +25%）。"
+        "description": "造成的伤害提升5%\n(上限: 25%)"
       },
       "REGEN": {
         "name": "恢复",
-        "description": "每秒恢复 0.1 点生命值（最多 0.5 点）。"
+        "description": "每秒恢复生命值0.1点\n(上限: 0.5)"
       },
       "MAXHEALTH": {
         "name": "最大生命值",
-        "description": "最大生命值每级别增加 10%（最多 +30%）"
+        "description": "最大生命值增加10%\n(上限: 30%)"
       },
       "ARMOR": {
         "name": "护甲",
-        "description": "受到伤害每级减少 1 点（最多 -3 点）"
+        "description": "受到伤害减少1点\n(上限: 3)"
       },
       "AREA": {
         "name": "范围",
-        "description": "攻击范围每级增加 5%（最多 +10%）。"
+        "description": "武器范围增加5%\n(上限: 10%)"
       },
       "SPEED": {
         "name": "速度",
-        "description": "射弹的移动速度每级提升 10%（最多 20%）。"
+        "description": "投射速度提升10%\n(上限: 20%)"
       },
       "COOLDOWN": {
         "name": "冷却",
-        "description": "使用武器的速度每级提高 2.5%（最多 5%）。"
+        "description": "武器冷却使用降低2.5%\n(上限: 5%)"
       },
       "DURATION": {
         "name": "持续时间",
-        "description": "武器效果持续时间每级别延长 15%（最多 +30%）。"
+        "description": "武器持续时间增加15%\n(上限: 30%)"
       },
       "AMOUNT": {
         "name": "数量",
-        "description": "发射 1 枚射弹（所有武器）。"
+        "description": "额外增加1个投射物(所有武器)"
       },
       "MOVESPEED": {
         "name": "移动速度",
-        "description": "角色的移动速度每级提升 5%（最多 10%）。"
+        "description": "移动速度增加5%\n(上限: 10%)"
       },
       "MAGNET": {
         "name": "磁铁",
-        "description": "物品拾取范围每级 +25%（最多 +50%）。"
+        "description": "道具拾取范围增加25%\n(上限: 50%)"
       },
       "LUCK": {
         "name": "幸运",
-        "description": "有几率增加 10% 的幸运值（最多 +30%）。"
+        "description": "幸运值增加10%\n(上限: 30%)"
       },
       "GROWTH": {
         "name": "成长",
-        "description": "获得 3% 的经验值（最多 15%）。"
+        "description": "经验值收益增加3%\n(上限: 15%)"
       },
       "GREED": {
         "name": "贪婪",
-        "description": "获得 10% 的金币（最多 +50%）。"
+        "description": "金币收益增加10%\n(上限: 50%)"
       },
       "SHIELD": {
         "name": "护盾",
-        "description": "防止一次攻击造成的伤害。可与月桂叠加。"
+        "description": "阻止一次攻击造成的伤害。可与月桂叠加。"
       },
       "REVIVAL": {
         "name": "复活",
-        "description": "以 50%生命值复活一次。"
+        "description": "复活一次，并恢复50%生命值。"
       },
       "REROLL": {
-        "name": "重新选择",
-        "description": "允许在升级时获得不同的选择。"
+        "name": "骰子",
+        "description": "角色升级时，可重选一次获得不同的选择。"
       },
       "SKIP": {
         "name": "跳过",
-        "description": "允许跳过升级选择并获得经验。"
+        "description": "角色升级时，可跳过选择并获得经验。"
       },
       "CURSE": {
         "name": "诅咒",
-        "description": "敌人的速度，生命值，数量和出现的次数，增加10%(最高+50%)。"
+        "description": "增强敌人10%能力\n移动速度、生命值、数量、频率\n(上限: 50%)"
       }
     }
   },
