@@ -2,7 +2,7 @@
 
 Partially updated for Vampire Survivors v0.3.0
 
-Currently available community translations: PL, UK, TR, DE, EO, AR, HU
+Currently available community translations: PL, UK, TR, DE, EO, AR, HU, ZH-CN
 
 ## Official sources
 
@@ -56,3 +56,5 @@ When you open a PR with the above method, please attach the created `log.txt` fi
   * aronsz#3762
 * FR/Français
   * Dimithreesome#4205
+* zh-CN/简体中文
+  * @XHXIAIEIN
