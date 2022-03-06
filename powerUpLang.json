@@ -120,7 +120,7 @@
       },
       "COOLDOWN": {
         "name": "冷却",
-        "description": "武器使用速度提升2.5%\n(上限: 5%)"
+        "description": "武器冷却使用降低2.5%\n(上限: 5%)"
       },
       "DURATION": {
         "name": "持续时间",
