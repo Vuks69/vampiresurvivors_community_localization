@@ -80,4 +80,4 @@ When you open a PR with the above method, please attach the created `log.txt` fi
 * FR/Français
   * Dimithreesome#4205
 * zh-CN/简体中文
-  * @XHXIAIEIN
+  * XHXIAIEIN#5624 (@XHXIAIEIN)
