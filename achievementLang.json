@@ -995,7 +995,7 @@
         "description": "Érd el a 20. szintet az Őrült erdőben."
       },
       "DefeatBossLibrary": {
-        "description": "Győzd le a Nesuferitet az Intarziás könyvtárban."
+        "description": "Győzd le a Nesuferitet az Antik könyvtárban."
       },
       "Survive5MinutesWithKnife": {
         "description": "Élj túl 5 percet Gennaróval."
@@ -1073,22 +1073,22 @@
         "description": "Érd el a 100. szintet Yatta Cavallóval."
       },
       "EvolveSongOfMana": {
-        "description": "Evolve the Song Of Mana."
+        "description": "Alakítsd át a Manadalt."
       },
       "Survive15MinutesWithSong": {
-        "description": "Survive 15 minutes with Poppea."
+        "description": "Élj túl 15 percet Poppeával."
       },
       "FindCoffinStage3": {
-        "description": "Find and open the coffin in the Dairy Plant."
+        "description": "Találd meg és nyisd fel a koporsót a Tejgyárban."
       },
       "ReachLV40InLibrary": {
-        "description": "Reach Level 40 in Inlaid Library."
+        "description": "Érd el a 40. szintet az Antik könyvtárban."
       },
       "DefeatBossPlant": {
-        "description": "Defeat the Sword Guardian in the Dairy Plant."
+        "description": "Győzd le a Kardos őrt a Tejgyárban."
       },
       "FindMilkyWayMap": {
-        "description": "Find the Milky Way Map."
+        "description": "Találd meg a Tejút térképet."
       }
     }
   },

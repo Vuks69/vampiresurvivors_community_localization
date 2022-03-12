@@ -197,7 +197,7 @@
         "hyperTips": "50% bónusz arany"
       },
       "LIBRARY": {
-        "stageName": "Intarziás könyvtár",
+        "stageName": "Antik könyvtár",
         "description": "Ez a csendes, hosszú könyvtár ideális hely pihenni, meditálni és grillcsirkét gyűjteni. De mit keres itt egy kőmaszk?",
         "hyperTips": "50% bónusz arany\n10% bónusz szerencse"
       },
@@ -206,12 +206,12 @@
         "description": "Nem halandóknak való vidék. A sors minden percben megváltozik.",
         "tips": "Ellenfelek ÉP-je +50%",
         "hyperTips": "50% bónusz arany\n10% bónusz szerencse",
-        "stagenNumber": "Challenge"
+        "stagenNumber": "Kihívás"
       },
       "WAREHOUSE": {
-        "stageName": "Dairy Plant",
-        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
-        "hyperTips": "50% Gold bonus\n10% Luck bonus"
+        "stageName": "Tejgyár",
+        "description": "Az itt rejtőző mágikus térkép talán végre elvezethet a vámpírhoz, vagy legalább még egy kis grillcsirkéhez.",
+        "hyperTips": "50% bónusz arany\n10% bónusz szerencse"
       }
     }
   },

@@ -528,15 +528,15 @@
       },
       "REROLL": {
         "name": "Újradobás",
-        "description": "Rangonként egyszer szintlépéskor lehetséges új lehetőségeket kérése."
+        "description": "Rangonként egyszer szintlépéskor lehetséges új lehetőségek kérése."
       },
       "SKIP": {
         "name": "Átugrás",
-        "description": "Rangonként egyszer szintlépéskor lehetséges a lehetőségek átugrása TP-ért cserébe."
+        "description": "Rangonként egyszer szintlépéskor lehetséges a lehetőségek átugrása +TP-ért."
       },
       "CURSE": {
         "name": "Átok",
-        "description": "10%-kal növeli az ellenfelek sebességét, ÉP-jét, mennyiségét és gyakoriságát rangonként (max +50%)."
+        "description": "Ellenfelek sebessége, ÉP-je, mennyisége és gyakorisága +10% rangonként (max +50%)."
       }
     }
   },

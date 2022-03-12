@@ -408,7 +408,7 @@
         "name": "Tapasztalatkő"
       },
       "OROLOGION": {
-        "description": "Megfagyasztja az ellenfeleket 10 másodpercre.",
+        "description": "Lefagyasztja az ellenfeleket 10 másodpercre.",
         "name": "Zsebóra",
         "tips": "A dobási arányt befolyásolja a szerencse."
       },
@@ -438,9 +438,9 @@
         "tips": "A dobási arányt befolyásolja a szerencse."
       },
       "RELIC_MAP": {
-        "name": "Milky Way Map",
-        "description": "Permanently enables the map in the pause menu.",
-        "achievementTips": "pause menu map."
+        "name": "Tejút térkép",
+        "description": "Tartósan engedélyezi a térképet a szünet menüben.",
+        "achievementTips": "szünet menü térkép"
       }
     }
   },

@@ -1254,7 +1254,7 @@
       },
       "GARLIC": {
         "name": "Fokhagyma",
-        "description": "Sebzi a közeli ellenfeleket. Csökkenti a hátralökés- és a fagyasztás-ellenállást.",
+        "description": "Sebzi a közeli ellenfeleket. Csökkenti a hátralökés- és lefagyás-ellenállást.",
         "tips": "Figyelmen kívül hagyja: mennyiség, időtartam, gyorsaság."
       },
       "LAUREL": {
@@ -1289,7 +1289,7 @@
       },
       "LANCET": {
         "name": "Óraszike",
-        "description": "Esély az ellenségek időbeli megfagyasztására.",
+        "description": "Esély az ellenségek lefagyasztására.",
         "tips": "Figyelmen kívül hagyja: erő, gyorsaság, mennyiség, terület."
       },
       "POWER": {
@@ -1350,7 +1350,7 @@
       },
       "VORTEX": {
         "name": "Lélekfaló",
-        "description": "Felfejlesztett Fokhagyma. Életerőt lop. Nő az ereje, amíg visszatölt az ÉP.",
+        "description": "Felfejlesztett Fokhagyma. ÉP-t lop. Nő az ereje, amíg visszatölt az ÉP.",
         "tips": "Szükséges: Pummarola."
       },
       "BORA": {
@@ -1381,14 +1381,14 @@
         "tips": "Legjobb ezzel: szerencse."
       },
       "SONG": {
-        "name": "Song of Mana",
-        "description": "Attacks vertically, passes through enemies.",
-        "tips": "Ignores: amount, speed."
+        "name": "Manadal",
+        "description": "Függőleges támadás, áthatol az ellenfeleken.",
+        "tips": "Figyelmen kívül hagyja: mennyiség, gyorsaság."
       },
       "MANNAGGIA": {
         "name": "Mannajja",
-        "description": "Evolved Song of Mana. Might slow enemies down.",
-        "tips": "Requires: Skull O'Maniac"
+        "description": "Felfejlesztett Manadal. Lelassíthatja az ellenfeleket.",
+        "tips": "Szükséges: Őrült koponya"
       }
     }
   },
