@@ -71,6 +71,7 @@ When you open a PR with the above method, please attach the created `log.txt` fi
   * Mark Lindsay
 * DE/Deutsch:
   * ReverseZoom#4923
+  * DetlevH#3559
 * EO/Esperanto:
   * ᏕᏖᎩᎶᎥᎶᎧᏖᏂ ♡#7082
 * AR/العربية
