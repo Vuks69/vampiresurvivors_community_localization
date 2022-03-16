@@ -2935,7 +2935,7 @@
       },
       "MAXHEALTH": {
         "name": "Oyuk Kalp",
-        "description": "Azami canı %10 arttırır."
+        "description": "Azami canı %20 arttırır."
       },
       "ARMOR": {
         "name": "Zırh",
@@ -2963,7 +2963,7 @@
       },
       "REGEN": {
         "name": "Pummarola",
-        "description": "Saniyede 0.1 can yeniler."
+        "description": "Saniyede 0.2 can yeniler."
       },
       "VORTEX": {
         "name": "Ruh Yiyen",
@@ -2998,14 +2998,19 @@
         "tips": "En iyi kombo: Şans."
       },
       "SONG": {
-        "name": "Song of Mana",
-        "description": "Attacks vertically, passes through enemies.",
-        "tips": "Ignores: amount, speed."
+        "name": "Mana İlahisi",
+        "description": "Dikey düzlemde hasar verir, düşmanlardan geçer.",
+        "tips": "İşlemez: miktar, hız."
       },
       "MANNAGGIA": {
         "name": "Mannajja",
-        "description": "Evolved Song of Mana. Might slow enemies down.",
-        "tips": "Requires: Skull O'Maniac"
+        "description": "Evrilmiş Mana İlahisi. Düşmanları yavaşlatabilir.",
+        "tips": "Gereksinim: Manyak Kafatası"
+      },
+      "SIRE": {
+        "name": "Göz Alıcı Hilal",
+        "description": "Evrilmiş Pentagram. Bonus cevherler çıkartır ve toplar.",
+        "tips": "Gereksinim: Taç."
       }
     }
   },

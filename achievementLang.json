@@ -2340,22 +2340,34 @@
         "description": "Yatta Cavallo ile 100. seviyeye ulaş."
       },
       "EvolveSongOfMana": {
-        "description": "Evolve the Song Of Mana."
+        "description": "Mana İlahisi'ni evrimleştir."
       },
       "Survive15MinutesWithSong": {
-        "description": "Survive 15 minutes with Poppea."
+        "description": "Poppea ile 15 dakika hayatta kal."
       },
       "FindCoffinStage3": {
-        "description": "Find and open the coffin in the Dairy Plant."
+        "description": "Süt Fabrikası'ndaki tabutu bul ve aç."
       },
       "ReachLV40InLibrary": {
-        "description": "Reach Level 40 in Inlaid Library."
+        "description": "Şaşalı Kütüphane'de 40. seviyeye ulaş."
       },
       "DefeatBossPlant": {
-        "description": "Defeat the Sword Guardian in the Dairy Plant."
+        "description": "Süt Fabrikası'nda Kutsal Şövalye'yi yen."
       },
       "FindMilkyWayMap": {
-        "description": "Find the Milky Way Map."
+        "description": "Sütyolu Haritası'nı bul."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Pentagram'ı 7. seviyeye yükselt."
+      },
+      "Unlock3Hypers": {
+        "description": "Üç bölümde hiper modun kilidini aç."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Molise'te 15 dakika hayatta kal."
+      },
+      "EvolvePentagram": {
+        "description": "Pentagram'ı evrimleştir."
       }
     }
   },

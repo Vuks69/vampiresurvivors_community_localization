@@ -451,12 +451,17 @@
         "description": "Ölümlülerin bulunmaması gereken bir yer. Kader her dakika değişir.",
         "tips": "Düşman azami canı +%50",
         "hyperTips": "%50 Altın bonusu\n%10 Şans bonusu",
-        "stagenNumber": "Challenge"
+        "stagenNumber": "Meydan Okuma"
       },
       "WAREHOUSE": {
-        "stageName": "Dairy Plant",
-        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
-        "hyperTips": "50% Gold bonus\n10% Luck bonus"
+        "stageName": "Süt Fabrikası",
+        "description": "Burada gizli olan büyülü harita bizi ya nihayet bir vampire ya pilice götürecek gibi.",
+        "hyperTips": "%50 Şans bonusu\n%10 Şans bonusu"
+      },
+      "MOLISE": {
+        "stageName": "Molise",
+        "description": "Burada var olmayan yerler var oluyor. Gelin, hayatın tadını çıkarın. Şehir dışına bekleriz.",
+        "hyperTips": "%50 Altın bonusu\n%10 Şans bonusu\n+%60 Düşman azami canı"
       }
     }
   },

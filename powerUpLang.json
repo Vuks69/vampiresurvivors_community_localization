@@ -1131,7 +1131,7 @@
       },
       "LUCK": {
         "name": "Şans",
-        "description": "Seviye başına şans %10 artar. (Maks %30)"
+        "description": "Seviye başına şans %10 artar. (maks %30)"
       },
       "GROWTH": {
         "name": "Büyüme",
@@ -1159,7 +1159,7 @@
       },
       "CURSE": {
         "name": "Lanet",
-        "description": "Düşman hızı, sağlığı, sayısı ve sıklığını seviye başına %10 arttırır."
+        "description": "Düşman hızı, sağlığı, sayısı ve sıklığını seviye başına %10 arttırır. (maks %50)"
       }
     }
   },

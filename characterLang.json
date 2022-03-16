@@ -1077,7 +1077,7 @@
         "surname": "Ladonna"
       },
       "CROCI": {
-        "name": "Krochi",
+        "charName": "Krochi",
         "surname": "Freetto",
         "description": "Fazladan 1 yeniden canlanma."
       },
@@ -1094,7 +1094,12 @@
       "POPPEA": {
         "charName": "Poppea",
         "surname": "Pecorina",
-        "description": "Gains +1% Duration every level."
+        "description": "Her seviye %1 etki alanı kazanır."
+      },
+      "CRISTINA": {
+        "description": "Fazladan 1 seviye ile başlar.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },

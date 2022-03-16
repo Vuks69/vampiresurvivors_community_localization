@@ -949,9 +949,9 @@
         "tips": "Düşme oranı Şans'a bağlıdır."
       },
       "RELIC_MAP": {
-        "name": "Milky Way Map",
-        "description": "Permanently enables the map in the pause menu.",
-        "achievementTips": "pause menu map."
+        "name": "Sütyolu Haritası",
+        "description": "Duraklatma Menüsü'ne harita kalıcı olarak eklenir.",
+        "achievementTips": "Duraklatma Menüsü haritası."
       }
     }
   },
