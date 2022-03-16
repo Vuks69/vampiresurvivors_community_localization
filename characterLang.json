@@ -382,8 +382,8 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "prefix": "Suor"
-        "description": "Permanente +0,5 LP und +50 maximale Lebenspunkte. Beginnt mit einem temporären Bereichsbonus.",
+        "prefix": "Suor",
+        "description": "Permanente +0,5 LP und +50 maximale Lebenspunkte. Beginnt mit einem temporären Bereichsbonus."
       },
       "MORTACCIO": {
         "charName": "Mortaccio",
