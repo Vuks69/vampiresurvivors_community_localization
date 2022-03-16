@@ -151,7 +151,7 @@
       },
       "MAXHEALTH": {
         "name": "قلب أجوف",
-        "description": "يزيد نقاط الصحة بنسبة 10%.ا"
+        "description": "يزيد نقاط الصحة بنسبة 20%.ا"
       },
       "ARMOR": {
         "name": "درع",
@@ -3225,7 +3225,7 @@
       },
       "MAXHEALTH": {
         "name": "Пусте Серце",
-        "description": "Збільшує макс. ОЗ на 10%."
+        "description": "Збільшує макс. ОЗ на 20%."
       },
       "ARMOR": {
         "name": "Броня",
@@ -3461,7 +3461,7 @@
       },
       "MAXHEALTH": {
         "name": "Kava Koro",
-        "description": "Pliigas maks sanecon je 10%."
+        "description": "Pliigas maks sanecon je 20%."
       },
       "ARMOR": {
         "name": "Kiraso",
@@ -3489,7 +3489,7 @@
       },
       "REGEN": {
         "name": "Pummarola",
-        "description": "Rolulo reakiras 0.1 SP je sekundo."
+        "description": "Rolulo reakiras 0.2 SP je sekundo."
       },
       "VORTEX": {
         "name": "Animmanĝanto",
