@@ -75,6 +75,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -159,12 +164,17 @@
         "charName": "萝",
         "surname": "卜豆",
         "description": "每升1级，效果持续时间增加 1%"
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
   "zh-TW": {
     "english": "Chinese (Traditional)",
-    "native": "繁體中文",
+    "native": "繁體中文 95%",
     "api": "tchinese",
     "translations": {}
   },
@@ -220,7 +230,7 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "Permanent +0.5 HP/s and +30 Max Health. Starts with temporary area bonus.",
+        "description": "Permanent +0.5 HP/s and +50 Max Health. Starts with temporary area bonus.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
@@ -261,6 +271,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -272,7 +287,7 @@
   },
   "fr": {
     "english": "French",
-    "native": "Français",
+    "native": "Français 80%",
     "api": "french",
     "translations": {
       "ANTONIO": {
@@ -304,7 +319,7 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "+ 0.5 PV et + 30 de santé max, en permanence. Commence avec un bonus de portée temporaire.",
+        "description": "+ 0.5 PV et + 50 de santé max, en permanence. Commence avec un bonus de portée temporaire.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
@@ -344,7 +359,12 @@
       "POPPEA": {
         "charName": "Poppea",
         "surname": "Pecorina",
-        "description": "Gains +1% Duration every level."
+        "description": "Gagne +1% de durée à chaque niveau."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -512,6 +532,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "+1% időtartamot kap szintenként."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -523,7 +548,7 @@
   },
   "ja": {
     "english": "Japanese",
-    "native": "日本語",
+    "native": "日本語 95%",
     "api": "japanese",
     "translations": {
       "ANTONIO": {
@@ -555,7 +580,7 @@
       },
       "GERMANA": {
         "charName": "クレーリチ",
-        "description": "永続的にライフを毎秒0.5獲得し、 ライフ上限が30増加。 一時的なエリアボーナスから始 まる。",
+        "description": "永続的にライフを毎秒0.5獲得し、 ライフ上限が50増加。 一時的なエリアボーナスから始 まる。",
         "prefix": "シスター"
       },
       "MORTACCIO": {
@@ -593,9 +618,14 @@
         "description": "20レベルごとに発射物が増加 （上限：3）。"
       },
       "POPPEA": {
-        "charName": "Poppea",
-        "surname": "Pecorina",
-        "description": "Gains +1% Duration every level."
+        "charName": "ポピア",
+        "surname": "ペコリーナ",
+        "description": "レベル毎に効果時間が+1%される。"
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -633,7 +663,7 @@
       },
       "GERMANA": {
         "charName": "클레리씨",
-        "description": "초당 체력회복량 0.5 추가 및 최대 체력 +30. 일시적인 공격범위 보너스를 받고 시작합니다.",
+        "description": "초당 체력회복량 0.5 추가 및 최대 체력 +50. 일시적인 공격범위 보너스를 받고 시작합니다.",
         "prefix": "시스터"
       },
       "MORTACCIO": {
@@ -674,6 +704,11 @@
         "charName": "포페아",
         "surname": "페코리나",
         "description": "매 레벨마다 무기의 지속시간이 1%씩 증가합니다."
+      },
+      "CRISTINA": {
+        "description": "시작시 추가 레벨을 획득합니다.",
+        "surname": "다베인",
+        "charName": "크리스틴"
       }
     }
   },
@@ -758,6 +793,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -801,7 +841,7 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "Bônus permanente de 0.5 HP/s e +30 de Saúde máxima. Começa com bônus temporário de área.",
+        "description": "Bônus permanente de 0.5 HP/s e +50 de Saúde máxima. Começa com bônus temporário de área.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
@@ -842,6 +882,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -885,7 +930,7 @@
       },
       "GERMANA": {
         "charName": "Клеричи",
-        "description": "Имеет +0.5 ОЗ/сек. и +30 Макс. ОЗ. Начинает с временным бонусом к Размеру.",
+        "description": "Имеет +0.5 ОЗ/сек. и +50 Макс. ОЗ. Начинает с временным бонусом к Размеру.",
         "prefix": "Суор"
       },
       "MORTACCIO": {
@@ -926,12 +971,17 @@
         "charName": "Поппея",
         "surname": "Пекорина",
         "description": "Прибавляет +1% к Сроку  с каждым уровнем."
+      },
+      "CRISTINA": {
+        "description": "Начинает с 1 доп. уровнем.",
+        "surname": "Давейн",
+        "charName": "Кристина"
       }
     }
   },
   "es": {
     "english": "Spanish",
-    "native": "Español",
+    "native": "Español 80%",
     "api": "spanish",
     "translations": {
       "ANTONIO": {
@@ -963,7 +1013,7 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "0,5 PS/s y +30 de salud máx. permanente. Comienza con bonus de radio temporal.",
+        "description": "0,5 PS/s y +50 de salud máx. permanente. Comienza con bonus de radio temporal.",
         "prefix": "Nun"
       },
       "MORTACCIO": {
@@ -1004,6 +1054,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -1184,6 +1239,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -1268,6 +1328,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   }

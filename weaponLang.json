@@ -222,6 +222,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -453,12 +458,17 @@
         "name": "曼纳加",
         "description": "进化的法力之歌，可能会减慢敌人的速度。",
         "tips": "合成条件：疯狂骷髅"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
   "zh-TW": {
     "english": "Chinese (Traditional)",
-    "native": "繁體中文",
+    "native": "繁體中文 95%",
     "api": "tchinese",
     "translations": {}
   },
@@ -702,6 +712,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -713,7 +728,7 @@
   },
   "fr": {
     "english": "French",
-    "native": "Français",
+    "native": "Français 80%",
     "api": "french",
     "translations": {
       "WHIP": {
@@ -925,14 +940,19 @@
         "tips": "Meilleur avec: chance."
       },
       "SONG": {
-        "name": "Song of Mana",
-        "description": "Attacks vertically, passes through enemies.",
-        "tips": "Ignores: amount, speed."
+        "name": "Chanson de Mana",
+        "description": "Attaque verticalement, passe à travers les ennemis.",
+        "tips": "Ignore: quantité, puissance de tir."
       },
       "MANNAGGIA": {
         "name": "Mannajja",
-        "description": "Evolved Song of Mana. Might slow enemies down.",
-        "tips": "Requires: Skull O'Maniac"
+        "description": "Évolution de la Chanson de Mana. Peut ralentir les ennemis.",
+        "tips": "Requiert: Crâne O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -1394,6 +1414,11 @@
         "name": "Mannajja",
         "description": "Felfejlesztett Manadal. Lelassíthatja az ellenfeleket.",
         "tips": "Szükséges: Őrült koponya"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -1405,7 +1430,7 @@
   },
   "ja": {
     "english": "Japanese",
-    "native": "日本語",
+    "native": "日本語 95%",
     "api": "japanese",
     "translations": {
       "WHIP": {
@@ -1590,9 +1615,9 @@
         "tips": "必要アイテム：愛の心臓"
       },
       "BORA": {
-        "name": "La Borra",
-        "description": "Evolved Santa Water. Damaging zones follow you and grow when they move.",
-        "tips": "Requires: Attractorb."
+        "name": "ラ・ボッラ",
+        "description": "進化した聖水。ダメージゾーンが、\n自身に引き寄せられつつ大きくなっていく。",
+        "tips": "必要アイテム：誘引のオーブ"
       },
       "SILF3": {
         "name": "破壊者",
@@ -1617,14 +1642,19 @@
         "tips": "ベストな組み合わせ：運気"
       },
       "SONG": {
-        "name": "Song of Mana",
-        "description": "Attacks vertically, passes through enemies.",
-        "tips": "Ignores: amount, speed."
+        "name": "ソング・オブ・マナ",
+        "description": "垂直方向に攻撃し、 敵を貫通する。",
+        "tips": "量、速度を無視する"
       },
       "MANNAGGIA": {
-        "name": "Mannajja",
-        "description": "Evolved Song of Mana. Might slow enemies down.",
-        "tips": "Requires: Skull O'Maniac"
+        "name": "マンナイヤ",
+        "description": "進化したソング・オブ・マナ。 敵の動きを遅くすることがある。",
+        "tips": "必要アイテム：スコル・オマニアック"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -1850,6 +1880,11 @@
         "name": "마력의 결정체",
         "description": "마나의 노래의 강화형. 적을 느려지게 만듭니다.",
         "tips": "요구 사항: 미치광이의 두개골"
+      },
+      "SIRE": {
+        "name": "매혹의 달",
+        "description": "오망성의 강화형. 추가 보석을 생성하고 처치한 적의 보석을 흡수합니다.",
+        "tips": "요구 사항: 왕관."
       }
     }
   },
@@ -2081,6 +2116,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -2312,6 +2352,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -2535,20 +2580,25 @@
         "tips": "Лучше сочетается с: удача."
       },
       "SONG": {
-        "name": "Песня Маны",
+        "name": "Песнь Маны",
         "description": "Атакует вертикально, проходя сквозь врагов.",
         "tips": "Игнорирует: количество, скорость."
       },
       "MANNAGGIA": {
         "name": "Маннаджа",
-        "description": "Улучшенная Песня Маны. Может замедлить врагов.",
+        "description": "Улучшенная Песнь Маны. Может замедлить врагов.",
         "tips": "Требует: Череп О'Маньяка"
+      },
+      "SIRE": {
+        "name": "Красивая Луна",
+        "description": "Улучшенная Пентаграмма. Создает доп. самоцветы и собирает их все.",
+        "tips": "Требует: Корона."
       }
     }
   },
   "es": {
     "english": "Spanish",
-    "native": "Español",
+    "native": "Español 80%",
     "api": "spanish",
     "translations": {
       "WHIP": {
@@ -2768,6 +2818,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -3241,6 +3296,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -3472,6 +3532,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   }

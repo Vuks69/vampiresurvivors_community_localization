@@ -142,7 +142,7 @@
   },
   "zh-TW": {
     "english": "Chinese (Traditional)",
-    "native": "繁體中文",
+    "native": "繁體中文 95%",
     "api": "tchinese",
     "translations": {}
   },
@@ -239,7 +239,7 @@
   },
   "fr": {
     "english": "French",
-    "native": "Français",
+    "native": "Français 80%",
     "api": "french",
     "translations": {
       "CLOVER": {
@@ -298,9 +298,9 @@
         "tips": "Taux de drop affecté par la chance."
       },
       "RELIC_MAP": {
-        "name": "Milky Way Map",
-        "description": "Permanently enables the map in the pause menu.",
-        "achievementTips": "pause menu map."
+        "name": "Carte de la Voie lactée",
+        "description": "Active de façon permanente la carte dans le menu pause.",
+        "achievementTips": "carte du menu pause."
       }
     }
   },
@@ -452,7 +452,7 @@
   },
   "ja": {
     "english": "Japanese",
-    "native": "日本語",
+    "native": "日本語 95%",
     "api": "japanese",
     "translations": {
       "CLOVER": {
@@ -511,9 +511,9 @@
         "tips": "ドロップ率は運気の影響を受ける。"
       },
       "RELIC_MAP": {
-        "name": "Milky Way Map",
-        "description": "Permanently enables the map in the pause menu.",
-        "achievementTips": "pause menu map."
+        "name": "天の川マップ",
+        "description": "ポーズメニューでマップが表示されます。",
+        "achievementTips": "ポーズメニューマップ"
       }
     }
   },
@@ -805,7 +805,7 @@
   },
   "es": {
     "english": "Spanish",
-    "native": "Español",
+    "native": "Español 80%",
     "api": "spanish",
     "translations": {
       "CLOVER": {

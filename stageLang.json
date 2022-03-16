@@ -26,6 +26,11 @@
         "stageName": "Dairy Plant",
         "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "hyperTips": "50% Gold bonus\n10% Luck bonus"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   },
@@ -61,12 +66,17 @@
         "stageName": "奶牛场",
         "description": "藏在这里的魔法地图， 最终可能会带我们找到一个吸血鬼， 或者至少能找到更多的烤鸡。",
         "hyperTips": "金币收益增加50%\n幸运增加10%"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   },
   "zh-TW": {
     "english": "Chinese (Traditional)",
-    "native": "繁體中文",
+    "native": "繁體中文 95%",
     "api": "tchinese",
     "translations": {}
   },
@@ -114,6 +124,11 @@
         "stageName": "Dairy Plant",
         "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "hyperTips": "50% Gold bonus\n10% Luck bonus"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   },
@@ -125,7 +140,7 @@
   },
   "fr": {
     "english": "French",
-    "native": "Français",
+    "native": "Français 80%",
     "api": "french",
     "translations": {
       "FOREST": {
@@ -143,12 +158,17 @@
         "description": "Un lieu interdit aux mortels. Là-bas, chaque minute qui passe fait vaciller le destin.",
         "tips": "Santé des ennemis + 50 %",
         "hyperTips": "50 % d'or bonus\n10 % de chance bonus",
-        "stagenNumber": "Challenge"
+        "stagenNumber": "Défi"
       },
       "WAREHOUSE": {
-        "stageName": "Dairy Plant",
-        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
+        "stageName": "Usine laitière",
+        "description": "La carte magique cachée ici pourrait enfin nous mener à un vampire, ou au moins à plus de poulet rôti.",
         "hyperTips": "50 % d'or bonus\n10 % de chance bonus"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   },
@@ -177,6 +197,11 @@
         "stageName": "Dairy Plant",
         "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "hyperTips": "50% Gold bonus\n10% Luck bonus"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   },
@@ -212,6 +237,11 @@
         "stageName": "Tejgyár",
         "description": "Az itt rejtőző mágikus térkép talán végre elvezethet a vámpírhoz, vagy legalább még egy kis grillcsirkéhez.",
         "hyperTips": "50% bónusz arany\n10% bónusz szerencse"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   },
@@ -223,7 +253,7 @@
   },
   "ja": {
     "english": "Japanese",
-    "native": "日本語",
+    "native": "日本語 95%",
     "api": "japanese",
     "translations": {
       "FOREST": {
@@ -233,7 +263,7 @@
       },
       "LIBRARY": {
         "stageName": "象眼の図書館",
-        "description": "このどこまでも長く続く図書館は、 いつでも静けさに包まれている。 休息や瞑想はもちろんのこと…… ローストチキン探しにもぴったりだ。しかし、なぜこんなところに石の仮面があるんだろうか？",
+        "description": "このどこまでも長く続く図書館は、 いつでも静けさに包まれている。  休息や瞑想はもちろんのこと……  ローストチキン探しにもぴったりだ。しかし、 なぜこんなところに石の仮面があるんだろうか？",
         "hyperTips": "50%のゴールドボーナス\n10%の運気ボーナス"
       },
       "GREENACRES": {
@@ -241,12 +271,17 @@
         "description": "人間は決して立ち入れない場所。 ここでは運命が数分で変わってしまう。",
         "tips": "敵のライフ50%アップ",
         "hyperTips": "50%のゴールドボーナス\n10%の運気ボーナス",
-        "stagenNumber": "Challenge"
+        "stagenNumber": "チャレンジ"
       },
       "WAREHOUSE": {
         "stageName": "酪農場",
-        "description": "ここに隠された魔法の地図が吸血鬼に導いてくれるかもしれないし、少なくともローストチキンをもっと食べることができるかもしれない。",
+        "description": "ここに隠された魔法の地図が吸血鬼に導 いてくれるかもしれないし、 少なくともローストチキンをもっと食べること ができるかもしれない。",
         "hyperTips": "50%のゴールドボーナス\n10%の運気ボーナス"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   },
@@ -276,6 +311,11 @@
         "stageName": "유제품 공장",
         "description": "이 공장에 숨겨진 마법지도는 우리를 뱀파이어에게 이끌지도 모릅니다. 아니라도 치킨은 더 얻을수 있겠죠.",
         "hyperTips": "골드 50% 보너스\n행운 10% 보너스"
+      },
+      "MOLISE": {
+        "stageName": "일 몰리세",
+        "description": "존재하지 않은 장소가 있습니다. 자연을 존중하며 휴식을 취하고 인생을 즐기세요.",
+        "hyperTips": "골드 50% 보너스\n행운 20% 보너스\n적 체력 +60%"
       }
     }
   },
@@ -311,6 +351,11 @@
         "stageName": "Dairy Plant",
         "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "hyperTips": "50% Gold bonus\n10% Luck bonus"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   },
@@ -346,6 +391,11 @@
         "stageName": "Dairy Plant",
         "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "hyperTips": "50% Bônus em moedas\n10% Bônus de Sorte"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   },
@@ -373,7 +423,7 @@
       "GREENACRES": {
         "stageName": "Зеленые Акры",
         "description": "Место, куда смертным вход воспрещен! Все может выйти из-под контроля в любой момент.",
-        "tips": "Здоровье врагов +50%",
+        "tips": "Здоровье Врагов +50%",
         "hyperTips": "50% бонус к Золоту\n10% бонус к Удаче",
         "stagenNumber": "Испытание"
       },
@@ -381,12 +431,17 @@
         "stageName": "Молочный Завод",
         "description": "Волшебная карта спрятана здесь. Может она, наконец, приведет нас к вампиру или, по крайней мере, к еще одному жареному цыпленку.",
         "hyperTips": "50% бонус к Золоту\n10% бонус к Удаче"
+      },
+      "MOLISE": {
+        "stageName": "Молизе",
+        "description": "Здесь есть места, которых не существует. Приезжайте отдыхать и наслаждаться жизнью, но уважайте природу. Увидимся в деревне.",
+        "hyperTips": "50% бонус к Золоту\n20% бонус к Удаче\nЗдоровье Врагов +60%"
       }
     }
   },
   "es": {
     "english": "Spanish",
-    "native": "Español",
+    "native": "Español 80%",
     "api": "spanish",
     "translations": {
       "FOREST": {
@@ -410,6 +465,11 @@
         "stageName": "Dairy Plant",
         "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "hyperTips": "Bonus de 50 % de oro\nBonus de 10 % de suerte"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   },
@@ -491,6 +551,11 @@
         "stageName": "Dairy Plant",
         "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "hyperTips": "50% Gold bonus\n10% Luck bonus"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   },
@@ -526,6 +591,11 @@
         "stageName": "Dairy Plant",
         "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
         "hyperTips": "50% Gold bonus\n10% Luck bonus"
+      },
+      "MOLISE": {
+        "stageName": "Il Molise",
+        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
+        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
       }
     }
   }

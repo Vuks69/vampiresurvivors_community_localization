@@ -172,6 +172,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -353,12 +365,24 @@
       },
       "FindMilkyWayMap": {
         "description": "找到小地图"
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
   "zh-TW": {
     "english": "Chinese (Traditional)",
-    "native": "繁體中文",
+    "native": "繁體中文 95%",
     "api": "tchinese",
     "translations": {}
   },
@@ -552,6 +576,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -563,7 +599,7 @@
   },
   "fr": {
     "english": "French",
-    "native": "Français",
+    "native": "Français 80%",
     "api": "french",
     "translations": {
       "ReachLV5": {
@@ -717,22 +753,34 @@
         "description": "Atteignez le niveau 100 avec Yatta Cavallo."
       },
       "EvolveSongOfMana": {
-        "description": "Evolve the Song Of Mana."
+        "description": "Faites évoluer le Chant du Mana."
       },
       "Survive15MinutesWithSong": {
-        "description": "Survive 15 minutes with Poppea."
+        "description": "Survivez 15 minutes avec Poppea."
       },
       "FindCoffinStage3": {
-        "description": "Find and open the coffin in the Dairy Plant."
+        "description": "Trouvez et ouvrez le cercueil dans la laiterie."
       },
       "ReachLV40InLibrary": {
-        "description": "Reach Level 40 in Inlaid Library."
+        "description": "Atteignez le niveau 40 dans la Bibliothèque marquetée."
       },
       "DefeatBossPlant": {
-        "description": "Defeat the Sword Guardian in the Dairy Plant."
+        "description": "Battre le gardien de l'épée dans l'usine laitière."
       },
       "FindMilkyWayMap": {
-        "description": "Find the Milky Way Map."
+        "description": "Trouvez la carte de la Voie lactée."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -1101,6 +1149,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Találd meg a Tejút térképet."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -1112,7 +1172,7 @@
   },
   "ja": {
     "english": "Japanese",
-    "native": "日本語",
+    "native": "日本語 95%",
     "api": "japanese",
     "translations": {
       "ReachLV5": {
@@ -1266,13 +1326,13 @@
         "description": "ヤッタ・カヴァロでレベル100に到達する。"
       },
       "EvolveSongOfMana": {
-        "description": "Evolve the Song Of Mana."
+        "description": "ソング・オブ・マナを進化させる。"
       },
       "Survive15MinutesWithSong": {
-        "description": "Survive 15 minutes with Poppea."
+        "description": "ポッピアで15分間生存する"
       },
       "FindCoffinStage3": {
-        "description": "Find and open the coffin in the Dairy Plant."
+        "description": "乳業工場にある棺桶を探して開ける。"
       },
       "ReachLV40InLibrary": {
         "description": "象眼細工の図書館でレベル40に到達する。"
@@ -1282,6 +1342,18 @@
       },
       "FindMilkyWayMap": {
         "description": "天の川マップを見つける。"
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -1457,6 +1529,18 @@
       },
       "FindMilkyWayMap": {
         "description": "은하수 지도 발견하기."
+      },
+      "GetPentagramToLevel7": {
+        "description": "오망성을 레벨7까지 강화하기."
+      },
+      "Unlock3Hypers": {
+        "description": "1, 2, 3스테이지에서 하이퍼모드 해금하기."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "몰리세에서 15분간 생존하기."
+      },
+      "EvolvePentagram": {
+        "description": "오망성 강화시키기."
       }
     }
   },
@@ -1638,6 +1722,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -1819,6 +1915,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -1987,7 +2095,7 @@
         "description": "Улучшите Песню Маны."
       },
       "Survive15MinutesWithSong": {
-        "description": "Выживите 15 минут с Поппея."
+        "description": "Выживите 15 минут с Поппеей."
       },
       "FindCoffinStage3": {
         "description": "Найдите и откройте гроб на Молочном Заводе."
@@ -2000,12 +2108,24 @@
       },
       "FindMilkyWayMap": {
         "description": "Найдите Карту Млечного Пути."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Получите Пентаграмму 7 Уровня."
+      },
+      "Unlock3Hypers": {
+        "description": "Разблокируйте режим Гипер для 3 обычных этапов."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Выживите 15 минут в Молизе."
+      },
+      "EvolvePentagram": {
+        "description": "Улучшите Пентаграмму."
       }
     }
   },
   "es": {
     "english": "Spanish",
-    "native": "Español",
+    "native": "Español 80%",
     "api": "spanish",
     "translations": {
       "ReachLV5": {
@@ -2175,6 +2295,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -2555,6 +2687,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -2736,6 +2880,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   }
