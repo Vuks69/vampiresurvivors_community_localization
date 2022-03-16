@@ -34,7 +34,7 @@
       },
       "GERMANA": {
         "charName": "كليريسي",
-        "description": "زيادة دائمة +0.5 نقاط الصحة لكل ثانية و +30 نقاط صحة. تبدأ مع زيادة مساحة مؤقتة.",
+        "description": "زيادة دائمة +0.5 نقاط الصحة لكل ثانية و +50 نقاط صحة. تبدأ مع زيادة مساحة مؤقتة.",
         "prefix": "سوور"
       },
       "MORTACCIO": {
@@ -752,7 +752,7 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "+30 Maks. Zdrowia, +0.5 PZ/s. Zaczyna z tymczasową premią do obszaru ataku.",
+        "description": "+50 Maks. Zdrowia, +0.5 PZ/s. Zaczyna z tymczasową premią do obszaru ataku.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
@@ -1114,7 +1114,7 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "Kalıcı 0.5/sn can yenileme ve +30 Azami Can. Geçici etki alanı bonusuyla başlar.",
+        "description": "Kalıcı 0.5/sn can yenileme ve +50 Azami Can. Geçici etki alanı bonusuyla başlar.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
@@ -1198,7 +1198,7 @@
       },
       "GERMANA": {
         "charName": "Клерічі",
-        "description": "Відразу +0.5 ОЗ/с и +30 Макс. ОЗ. Починає з тимчасовим бонусом до Розміру.",
+        "description": "Відразу +0.5 ОЗ/с и +50 Макс. ОЗ. Починає з тимчасовим бонусом до Розміру.",
         "prefix": "Суор"
       },
       "MORTACCIO": {
@@ -1287,7 +1287,7 @@
       },
       "GERMANA": {
         "charName": "Kleriĉi",
-        "description": "Permanenta +0.5 SP/s kaj +30 Maks Saneco. Komenciĝas kun provizora areo-bonuso.",
+        "description": "Permanenta +0.5 SP/s kaj +50 Maks Saneco. Komenciĝas kun provizora areo-bonuso.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
