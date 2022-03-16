@@ -908,6 +908,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },

@@ -1087,7 +1087,7 @@
       },
       "MAXHEALTH": {
         "name": "Hohlherz",
-        "description": "Erhöht die maximale Gesundheit um 10%."
+        "description": "Erhöht die maximale Gesundheit um 20%."
       },
       "ARMOR": {
         "name": "Rüstung",
@@ -1115,7 +1115,7 @@
       },
       "REGEN": {
         "name": "Pummarola",
-        "description": "Der Charakter erholt sich um 0,1 LP pro Sekunde."
+        "description": "Der Charakter erholt sich um 0,2 LP pro Sekunde."
       },
       "VORTEX": {
         "name": "Seelenfresser",
@@ -1158,6 +1158,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },

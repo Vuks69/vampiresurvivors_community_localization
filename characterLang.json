@@ -382,8 +382,8 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "Permanente +0,5 LP und +30 maximale Lebenspunkte. Beginnt mit einem temporären Bereichsbonus.",
         "prefix": "Suor"
+        "description": "Permanente +0,5 LP und +50 maximale Lebenspunkte. Beginnt mit einem temporären Bereichsbonus.",
       },
       "MORTACCIO": {
         "charName": "Mortaccio",
@@ -405,7 +405,7 @@
         "surname": "Ladonna"
       },
       "CROCI": {
-        "name": "Krochi",
+        "charName": "Krochi",
         "surname": "Freetto",
         "description": "Startet mit 1 Wiederbelebung. Erhält 1 weitere Wiederbelebung bei Level 33."
       },
@@ -417,12 +417,17 @@
       "CAVALLO": {
         "prefix": "Yatta",
         "charName": "Cavallo",
-        "description": "Gets more projectiles every 20 levels (max+3)."
+        "description": "Erhält alle 20 Levels mehr Geschosse (max+3)."
       },
       "POPPEA": {
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
