@@ -199,7 +199,7 @@
         "description": "火焰之杖升到 4 级"
       },
       "GetHolyBookToLevel4": {
-        "description": "国王圣经升到 4 级"
+        "description": "国王法典升到 4 级"
       },
       "GetHolyWaterToLevel4": {
         "description": "圣水升到 4 级"
@@ -286,7 +286,7 @@
         "description": "进化十字架"
       },
       "EvolveKingBible": {
-        "description": "进化国王圣经"
+        "description": "进化国王法典"
       },
       "EvolveFireWand": {
         "description": "进化火焰之杖"
@@ -295,7 +295,7 @@
         "description": "击败 100000 个敌人"
       },
       "Recover1000HP": {
-        "description": "总共恢复1000生命"
+        "description": "总共恢复 1000 生命"
       },
       "Earn5000CoinsInASingleRun": {
         "description": "在一次行动中获得 5000 个金币"
@@ -304,13 +304,13 @@
         "description": "进化圣水"
       },
       "UniteBirds": {
-        "description": "搭配白羽鸽和黑羽鸟"
+        "description": "搭配满级的白羽鸽和黑羽鸟"
       },
       "EvolveGarlic": {
         "description": "进化大蒜"
       },
       "Unlock2Hypers": {
-        "description": "解锁 2 个超级模式关卡"
+        "description": "解锁 2 个超级模式"
       },
       "EvolveLightning": {
         "description": "进化闪电戒指"
@@ -353,6 +353,18 @@
       },
       "FindMilkyWayMap": {
         "description": "找到小地图"
+      },
+      "GetPentagramToLevel7": {
+        "description": "五芒星升到 7 级"
+      },
+      "Unlock3Hypers": {
+        "description": "解锁 3 个超级模式"
+      },
+      "Survive15MinutesInMolise": {
+        "description": "在莫利塞生存 20 分钟"
+      },
+      "EvolvePentagram": {
+        "description": "进化五芒星"
       }
     }
   },
