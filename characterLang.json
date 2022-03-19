@@ -374,18 +374,18 @@
     "api": "german",
     "translations": {
       "ANTONIO": {
-        "description": "Erhält alle 10 Levels 10% mehr Schaden (max. +50%).",
+        "description": "Erhält pro 10 Level 10% mehr Schaden (max. +50%).",
         "charName": "Antonio",
         "surname": "Belpaese"
       },
       "IMELDA": {
-        "description": "Erhält alle 5 Levels 10% mehr Erfahrung (max. +30%).",
+        "description": "Erhält pro 5 Level 10% mehr Erfahrung (max. +30%).",
         "charName": "Imelda",
         "surname": "Belpaese"
       },
       "CIRO": {
         "charName": "Arca",
-        "description": "Die Abklingzeit der Waffe wird alle 10 Levels um 5% verringert (max. -15%).",
+        "description": "Die Abklingzeit der Waffe wird pro 10 Level um 5% verringert (max. -15%).",
         "surname": "Ladonna"
       },
       "DOMMARIO": {
@@ -403,11 +403,11 @@
       "GERMANA": {
         "charName": "Clerici",
         "prefix": "Suor",
-        "description": "Permanente +0,5 LP und +50 maximale Lebenspunkte. Beginnt mit einem temporären Bereichsbonus."
+        "description": "Permanente +0,5/s LP-Regeneration und +50 maximale Lebenspunkte. Beginnt mit einem temporären Bonus auf Angriffsreichweite."
       },
       "MORTACCIO": {
         "charName": "Mortaccio",
-        "description": "Erhält alle 20 Levels mehr Geschosse (max+3)."
+        "description": "Erhält alle 20 Level +1 mehr Geschosse (max+3)."
       },
       "CAMILLO": {
         "charName": "Poe",
@@ -416,12 +416,12 @@
       },
       "PASQUALINA": {
         "charName": "Pasqualina",
-        "description": "Geschosse werden alle 5 Levels um 10% schneller (max. +30%).",
+        "description": "Geschosse werden alle 5 Level um 10% schneller (max. +30%).",
         "surname": "Belpaese"
       },
       "PORTA": {
         "charName": "Porta",
-        "description": "Permanente +30% Bereich. Beginnt mit temporärem Abklingzeitbonus.",
+        "description": "Permanent +30% Angriffsreichweite. Beginnt mit temporärem Abklingzeitbonus.",
         "surname": "Ladonna"
       },
       "CROCI": {
@@ -432,20 +432,20 @@
       "LAMA": {
         "charName": "Lama",
         "surname": "Ladonna",
-        "description": "Gains +5% Might, MoveSpeed, and Curse every 10 levels (max +20%)."
+        "description": "Erhält +5% Macht, Bewegungsgeschwindigkeit und Fluch pro 10 Level (max +20%)."
       },
       "CAVALLO": {
         "prefix": "Yatta",
         "charName": "Cavallo",
-        "description": "Erhält alle 20 Levels mehr Geschosse (max+3)."
+        "description": "Erhält alle 20 Level +1 mehr Geschosse (max+3)."
       },
       "POPPEA": {
         "charName": "Poppea",
         "surname": "Pecorina",
-        "description": "Gains +1% Duration every level."
+        "description": "Erhält +1% Dauer pro Level."
       },
       "CRISTINA": {
-        "description": "Starts with 1 extra level.",
+        "description": "Startet mit 1 extra Level",
         "surname": "Davain",
         "charName": "Christine"
       }
