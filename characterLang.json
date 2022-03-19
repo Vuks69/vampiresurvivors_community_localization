@@ -163,12 +163,12 @@
       "POPPEA": {
         "charName": "萝",
         "surname": "卜豆",
-        "description": "每升1级，效果持续时间增加 1%"
+        "description": "每升1级，武器持续时间增加 1%"
       },
       "CRISTINA": {
-        "description": "Starts with 1 extra level.",
-        "surname": "Davain",
-        "charName": "Christine"
+        "description": "\n开局额外提升1个等级。",
+        "surname": "达文",
+        "charName": "克里斯汀"
       }
     }
   },
