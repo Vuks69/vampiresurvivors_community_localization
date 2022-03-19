@@ -174,7 +174,7 @@
   },
   "zh-TW": {
     "english": "Chinese (Traditional)",
-    "native": "繁體中文",
+    "native": "繁體中文 95%",
     "api": "tchinese",
     "translations": {}
   },
@@ -287,7 +287,7 @@
   },
   "fr": {
     "english": "French",
-    "native": "Français",
+    "native": "Français 80%",
     "api": "french",
     "translations": {
       "POWER": {
@@ -528,15 +528,15 @@
       },
       "REROLL": {
         "name": "Újradobás",
-        "description": "Rangonként egyszer szintlépéskor lehetséges új lehetőségeket kérése."
+        "description": "Rangonként egyszer szintlépéskor lehetséges új lehetőségek kérése."
       },
       "SKIP": {
         "name": "Átugrás",
-        "description": "Rangonként egyszer szintlépéskor lehetséges a lehetőségek átugrása TP-ért cserébe."
+        "description": "Rangonként egyszer szintlépéskor lehetséges a lehetőségek átugrása +TP-ért."
       },
       "CURSE": {
         "name": "Átok",
-        "description": "10%-kal növeli az ellenfelek sebességét, ÉP-jét, mennyiségét és gyakoriságát rangonként (max +50%)."
+        "description": "Ellenfelek sebessége, ÉP-je, mennyisége és gyakorisága +10% rangonként (max +50%)."
       }
     }
   },
@@ -548,7 +548,7 @@
   },
   "ja": {
     "english": "Japanese",
-    "native": "日本語",
+    "native": "日本語 95%",
     "api": "japanese",
     "translations": {
       "POWER": {
@@ -617,15 +617,15 @@
       },
       "REROLL": {
         "name": "リロール",
-        "description": "Once per rank, allows to get different choices when leveling up."
+        "description": "1ランクにつき1回、レベルアッ\nプの際に異なる選択肢を得るこ\nとができる。"
       },
       "SKIP": {
         "name": "スキップ",
-        "description": "Once per rank, allows to skip level up choices and get Experience instead."
+        "description": "1ランクにつき1回、レベルアッ\nプの選択肢をスキップして、代わ\nりに経験値を得ることができる。"
       },
       "CURSE": {
-        "name": "Curse",
-        "description": "Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%)."
+        "name": "呪い",
+        "description": "敵のスピード、ヘルス、数量、\n頻度をランク毎に10%ずつ増加\nさせる(最大+50%)。"
       }
     }
   },
@@ -981,7 +981,7 @@
   },
   "es": {
     "english": "Spanish",
-    "native": "Español",
+    "native": "Español 80%",
     "api": "spanish",
     "translations": {
       "POWER": {
@@ -1131,7 +1131,7 @@
       },
       "LUCK": {
         "name": "Şans",
-        "description": "Seviye başına şans %10 artar. (Maks %30)"
+        "description": "Seviye başına şans %10 artar. (maks %30)"
       },
       "GROWTH": {
         "name": "Büyüme",
@@ -1159,7 +1159,7 @@
       },
       "CURSE": {
         "name": "Lanet",
-        "description": "Düşman hızı, sağlığı, sayısı ve sıklığını seviye başına %10 arttırır."
+        "description": "Düşman hızı, sağlığı, sayısı ve sıklığını seviye başına %10 arttırır. (maks %50)"
       }
     }
   },

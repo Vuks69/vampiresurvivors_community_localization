@@ -346,7 +346,7 @@
   },
   "zh-TW": {
     "english": "Chinese (Traditional)",
-    "native": "繁體中文",
+    "native": "繁體中文 95%",
     "api": "tchinese",
     "translations": {}
   },
@@ -703,13 +703,13 @@
       "levelup_Xleft": "%0 restant",
       "weaponLevelUp_curse": "Augmente la vitesse, la santé, la quantité et la fréquence des ennemis de %0%.",
       "weaponLevelUp_cooldownIncreased": "Durée augmenté de %0 secondes\n",
-      "stageSelection_stageNumber": "Stage %0",
+      "stageSelection_stageNumber": "Niveau %0",
       "charFound_ok": "OK?",
-      "charFound_joins": "%0\nJOINS THE SURVIVORS!",
-      "charFound_another": "Thank you %0, but the vampire is in another coffin!",
-      "pause_showGuides": "Show Guides",
-      "pause_hideGuides": "Hide Guides",
-      "options_restoreBackup": "Restore Backup"
+      "charFound_joins": "%0\nREJOINT LES SURVIVANTS!",
+      "charFound_another": "Merci %0, mais le vampire est dans un autre cercueil!",
+      "pause_showGuides": "Afficher les guides",
+      "pause_hideGuides": "Cacher les guides",
+      "options_restoreBackup": "Restaurer la sauvegarde"
     }
   },
   "de": {
@@ -912,7 +912,7 @@
       "pause_quit": "KILÉPÉS",
       "pause_resume": "FOLYTATÁS",
       "newItem_header": "Fegyvert találtál!",
-      "newItem_get": "MEGSZERZÉS",
+      "newItem_get": "MEGSZEREZ",
       "newItem_discard": "ELVETÉS",
       "treasure_header": "Kincset találtál!",
       "treasure_open": "KINYITÁS",
@@ -999,7 +999,7 @@
       "powerupConfirm_price": "Ár",
       "powerupConfirm_buy": "Vásárlás",
       "powerupConfirm_maxed": "MAXIMUM\n SZINT\nELÉRVE",
-      "powerupConfirm_start": "INDÍTÁS",
+      "powerupConfirm_start": "START",
       "stageSelection_header": "Pálya kiválasztása",
       "stageSelectionPanel_name": "Név",
       "stageSelectionPanel_description": "Leírás",
@@ -1008,10 +1008,10 @@
       "stageConfirm_name": "Név",
       "stageConfirm_hyper": "Hiper?",
       "stageConfirm_description": "Leírás",
-      "stageConfirm_start": "INDÍTÁS",
+      "stageConfirm_start": "START",
       "stageConfirm_?": "???",
       "charSelection_name": "Név",
-      "charConfirm_start": "INDÍTÁS",
+      "charConfirm_start": "START",
       "charConfirm_name": "Név",
       "charConfirm_description": "Leírás",
       "charConfirm_confirm": "Megerősít",
@@ -1020,7 +1020,7 @@
       "resolution_header": "Felbontás",
       "resolution_fullscreen": "TELJES KÉPERNYŐ",
       "topBar_back": "VISSZA",
-      "topBar_options": "BEÁLLÍTÁSOK",
+      "topBar_options": "OPCIÓK",
       "topBar_quit": "KILÉPÉS",
       "credits_header": "Készítők",
       "credits_gameBy": "- készítette:",
@@ -1046,14 +1046,14 @@
       "levelup_reroll": "ÚJRADOBÁS",
       "levelup_Xleft": "%0 maradt",
       "weaponLevelUp_curse": "%0%-kal növeli az ellenfelek sebességét, ÉP-jét, mennyiségét és gyakoriságát.",
-      "weaponLevelUp_cooldownIncreased": "Cooldown increased by %0 seconds\n",
-      "stageSelection_stageNumber": "Stage %0",
+      "weaponLevelUp_cooldownIncreased": "%0 másodperccel növeli az újratöltést\n",
+      "stageSelection_stageNumber": "%0. pálya",
       "charFound_ok": "OK?",
-      "charFound_joins": "%0\nJOINS THE SURVIVORS!",
-      "charFound_another": "Thank you %0, but the vampire is in another coffin!",
-      "pause_showGuides": "Show Guides",
-      "pause_hideGuides": "Hide Guides",
-      "options_restoreBackup": "Restore Backup"
+      "charFound_joins": "%0\nCSATLAKOZIK A TÚLÉLŐKHÖZ!",
+      "charFound_another": "Ezer hálám, %0, de a vámpír egy másik koporsóban van!",
+      "pause_showGuides": "Iránytűk BE",
+      "pause_hideGuides": "Iránytűk KI",
+      "options_restoreBackup": "Bizt. mentés visszatöltése"
     }
   },
   "it": {
@@ -1064,7 +1064,7 @@
   },
   "ja": {
     "english": "Japanese",
-    "native": "日本語 80%",
+    "native": "日本語 95%",
     "api": "japanese",
     "translations": {
       "intro_start": "クリックで開始",
@@ -1221,19 +1221,19 @@
       "levelup_reroll": "リロール",
       "levelup_Xleft": "%0 残り",
       "weaponLevelUp_curse": "敵のスピード、ヘルス、量、頻度を%0%増加させる。",
-      "weaponLevelUp_cooldownIncreased": "Cooldown increased by %0 seconds\n",
-      "stageSelection_stageNumber": "Stage %0",
+      "weaponLevelUp_cooldownIncreased": "クールダウンが %0 秒間増加する。\n",
+      "stageSelection_stageNumber": "ステージ %0",
       "charFound_ok": "OK?",
       "charFound_joins": "%0\nJOINS THE SURVIVORS!",
-      "charFound_another": "Thank you %0, but the vampire is in another coffin!",
-      "pause_showGuides": "Show Guides",
-      "pause_hideGuides": "Hide Guides",
-      "options_restoreBackup": "Restore Backup"
+      "charFound_another": "ありがとう%0、 でもヴァンパイアは別の棺桶の中にいるんだ!",
+      "pause_showGuides": "ガイドを表示",
+      "pause_hideGuides": "ガイドの非表示",
+      "options_restoreBackup": "バックアップの復元"
     }
   },
   "ko": {
     "english": "Korean",
-    "native": "한국어 95%",
+    "native": "한국어",
     "api": "koreana",
     "translations": {
       "intro_start": "시작하려면 아무키나 누르세요",
@@ -1395,9 +1395,9 @@
       "charFound_ok": "OK?",
       "charFound_joins": "%0\n생존자 무리에 합류하였습니다!",
       "charFound_another": "감사합니다 %0, 하지만 뱀파이어는 다른 관에 있었네요!",
-      "pause_showGuides": "Show Guides",
-      "pause_hideGuides": "Hide Guides",
-      "options_restoreBackup": "Restore Backup"
+      "pause_showGuides": "가이드 보기",
+      "pause_hideGuides": "가이드 숨기기",
+      "options_restoreBackup": "백업 복구하기"
     }
   },
   "no": {
@@ -1918,10 +1918,10 @@
       "weaponLevelUp_cooldownIncreased": "Откат увеличен на %0 сек.\n",
       "stageSelection_stageNumber": "Этап %0",
       "charFound_ok": "ОК?",
-      "charFound_joins": "%0\nПРИСОЕДИНЯЙСЯ К ВЫЖИВШИМ!",
-      "charFound_another": "Спасибо %0, но вампир в другом гробу!",
-      "pause_showGuides": "Показывать Путь",
-      "pause_hideGuides": "Скрыть Путь",
+      "charFound_joins": "%0\nПРИСОЕДИНЯЕТСЯ К ВЫЖИВШИМ!",
+      "charFound_another": "Спасибо, %0, но вампир в другом гробу!",
+      "pause_showGuides": "Показать Пути",
+      "pause_hideGuides": "Скрыть Пути",
       "options_restoreBackup": "Восстановить Данные"
     }
   },
@@ -2271,14 +2271,14 @@
       "levelup_reroll": "YENİLE",
       "levelup_Xleft": "%0 kaldı",
       "weaponLevelUp_curse": "Düşman hızı, sağlığı, sayısı ve sıklığını %0% arttırır.",
-      "weaponLevelUp_cooldownIncreased": "Cooldown increased by %0 seconds\n",
-      "stageSelection_stageNumber": "Stage %0",
-      "charFound_ok": "OK?",
-      "charFound_joins": "%0\nJOINS THE SURVIVORS!",
-      "charFound_another": "Thank you %0, but the vampire is in another coffin!",
-      "pause_showGuides": "Show Guides",
-      "pause_hideGuides": "Hide Guides",
-      "options_restoreBackup": "Restore Backup"
+      "weaponLevelUp_cooldownIncreased": "Bekleme süresi %0 saniye artar./n",
+      "stageSelection_stageNumber": "Bölüm %0",
+      "charFound_ok": "Emin misin?",
+      "charFound_joins": "%0\nFELAKETZEDELERE KATILDI!",
+      "charFound_another": "Teşekkürler %0 fakat vampir başka bir tabutta!",
+      "pause_showGuides": "Öğreticiyi Göster",
+      "pause_hideGuides": "Öğreticiyi Gizle",
+      "options_restoreBackup": "Yedekten Yükle"
     }
   },
   "uk": {
