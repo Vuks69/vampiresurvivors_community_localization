@@ -391,7 +391,7 @@
       },
       "AREA": {
         "name": "Bereich",
-        "description": "Erhöht die Angriffsfläche um 5% pro Rang (max. +10%)."
+        "description": "Erhöht die Angriffsreichweite um 5% pro Rang (max. +10%)."
       },
       "SPEED": {
         "name": "Geschwindigkeit",
@@ -415,7 +415,7 @@
       },
       "MAGNET": {
         "name": "Magnet",
-        "description": "Reichweite von Gegenständen +25% pro Rang (max. +50%)."
+        "description": "Reichweite zum sammeln von Edelsteinen erhöht um +25% pro Rang (max. +50%)."
       },
       "LUCK": {
         "name": "Glück",
@@ -423,31 +423,31 @@
       },
       "GROWTH": {
         "name": "Wachstum",
-        "description": "Gewinnt 3% mehr Erfahrung pro Rang (max. 15%)."
+        "description": "Erhalte 3% mehr Erfahrung pro Rang (max. 15%)."
       },
       "GREED": {
         "name": "Gier",
-        "description": "Gewinnt 10% mehr Münzen pro Rang (max. +50%)."
+        "description": "Erhalte 10% mehr Münzen pro Rang (max. +50%)."
       },
       "SHIELD": {
         "name": "Schild",
-        "description": "Verhindert Schaden für einen Angriff. Stapelt sich mit Laurel."
+        "description": "Verhindert Schaden für einen Angriff. Kombinierbar mit Laurel."
       },
       "REVIVAL": {
         "name": "Wiederbelebung",
-        "description": "Wird einmal mit 50% Gesundheit wiederbelebt."
+        "description": "Einmalige Wiederbelebung mit 50% Gesundheit."
       },
       "REROLL": {
         "name": "Neu würfeln",
-        "description": "Einmal pro Rang, ermöglicht verschiedene Wahlmöglichkeiten beim Stufenaufstieg."
+        "description": "Einmal pro Rang, ermöglicht verschiedene Auswahlmöglichkeiten beim Stufenaufstieg."
       },
       "SKIP": {
         "name": "Überspringen",
         "description": "Erlaubt einmal pro Rang das Überspringen von Levelaufstiegswahlen und gewährt stattdessen Erfahrung."
       },
       "CURSE": {
-        "name": "Curse",
-        "description": "Increases enemy speed, health, quantity, and frequency by 10% per rank (max +50%)."
+        "name": "Fluch",
+        "description": "Erhöht gegnerische Bewegungsgeschwindigkeit, Leben, Anzahl, und Frequenz um 10% pro Rang (max +50%)."
       }
     }
   },

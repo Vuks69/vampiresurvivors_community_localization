@@ -967,9 +967,9 @@
         "tips": "Ignoriert: Geschwindigkeit, Dauer."
       },
       "VAMPIRICA": {
-        "name": "Blutige Träne",
+        "name": "Vampirica",
         "description": "Weiterentwickelte Peitsche. Kann kritischen Schaden verursachen und LP absorbieren.",
-        "tips": "Benötigt: Hohlherz"
+        "tips": "Benötigt: Hohles Herz"
       },
       "MAGIC_MISSILE": {
         "name": "Zauberstab",
@@ -979,7 +979,7 @@
       "HOLY_MISSILE": {
         "name": "Heiliger Zauberstab",
         "description": "Weiterentwickelter Zauberstab. Feuert ohne Verzögerung.",
-        "tips": "Benötigt: Einen leeren Folianten."
+        "tips": "Benötigt:Unbeschriebener Wälzer."
       },
       "AXE": {
         "name": "Axt",
@@ -987,13 +987,13 @@
         "tips": "Ignoriert: Dauer."
       },
       "SCYTHE": {
-        "name": "Todesspirale",
+        "name": "Sense vom Tod",
         "description": "Weiterentwickelte Axt. Durchdringt Gegner.",
         "tips": "Benötigt: Kandelabrador."
       },
       "KNIFE": {
         "name": "Messer",
-        "description": "Schießt schnell in die gegenüberliegende Richtung.",
+        "description": "Schießt schnell in die Blickrichtung.",
         "tips": "Ignoriert: Dauer."
       },
       "THOUSAND": {
@@ -1002,13 +1002,13 @@
         "tips": "Benötigt: Armschiene."
       },
       "HOLYWATER": {
-        "name": "Santa Water",
+        "name": "Weihwasser",
         "description": "Erzeugt schädliche Zonen.",
         "tips": "Ignoriert: Geschwindigkeit."
       },
       "DIAMOND": {
         "name": "Runenläufer",
-        "description": "Durchdring Gegner, hüpft herum.",
+        "description": "Durchdring Gegner, prallt ab.",
         "tips": "Am besten mit: Geschwindigkeit, Dauer."
       },
       "FIREBALL": {
@@ -1018,7 +1018,7 @@
       },
       "HELLFIRE": {
         "name": "Höllenfeuer",
-        "description": "Weiterentwickelter Feuerstab. Geht durch Gegner hindurch.",
+        "description": "Weiterentwickelter Feuerstab. Durchdringt Gegner.",
         "tips": "Benötigt: Spinat."
       },
       "HOLYBOOK": {
@@ -1039,7 +1039,7 @@
       "HEAVENSWORD": {
         "name": "Himmelsschwert",
         "description": "Weiterentwickeltes Kreuz. Kann kritischen Schaden verursachen.",
-        "tips": "Benötigt: Klee."
+        "tips": "Benötigt: Kleeblatt."
       },
       "GARLIC": {
         "name": "Knoblauch",
@@ -1048,12 +1048,12 @@
       },
       "LAUREL": {
         "name": "Lorbeer",
-        "description": "Schützt vor Schaden, wenn sie aktiv ist.",
+        "description": "Schützt vor Schaden, wenn es aktiv ist.",
         "tips": "Am besten mit: nur Abklingzeit."
       },
       "LIGHTNING": {
         "name": "Blitzring",
-        "description": "Schlägt auf zufällige Gegner ein.",
+        "description": "Schlägt in zufällige Gegner ein.",
         "tips": "Ignoriert: Geschwindigkeit, Dauer."
       },
       "PENTAGRAM": {
@@ -1073,12 +1073,12 @@
       },
       "BONE": {
         "name": "Knochen",
-        "description": "Wirft ein hüpfendes Geschoss.",
+        "description": "Wirft ein abprallendes Geschoss.",
         "tips": "Am besten mit: Dauer, Geschwindigkeit."
       },
       "LANCET": {
-        "name": "Uhr-Lanzette",
-        "description": "Chance, Gegner in der Zeit einzufrieren.",
+        "name": "Frost-Lanzette",
+        "description": "Chance, Gegner einzufrieren.",
         "tips": "Ignoriert: Kraft, Geschwindigkeit, Menge, Bereich."
       },
       "POWER": {
@@ -1094,7 +1094,7 @@
         "description": "Erhöht die Geschwindigkeit von Geschossen um 10%."
       },
       "COOLDOWN": {
-        "name": "Leerer Foliant",
+        "name": "Unbeschriebener Wälzer",
         "description": "Verringert die Abklingzeit von Waffen um 8%."
       },
       "DURATION": {
@@ -1106,7 +1106,7 @@
         "description": "Waffen feuern mehr Geschosse ab."
       },
       "MAXHEALTH": {
-        "name": "Hohlherz",
+        "name": "Hohles Herz",
         "description": "Erhöht die maximale Gesundheit um 20%."
       },
       "ARMOR": {
@@ -1127,11 +1127,11 @@
       },
       "LUCK": {
         "name": "Kleeblatt",
-        "description": "Der Charakter bekommt 10% mehr Glück."
+        "description": "Der Charakter hat 10% mehr Glück."
       },
       "GREED": {
         "name": "Steinmaske",
-        "description": "Der Charakter verdient 10% mehr Münzen."
+        "description": "Der Charakter erhält 10% mehr Münzen."
       },
       "REGEN": {
         "name": "Pummarola",
@@ -1139,12 +1139,12 @@
       },
       "VORTEX": {
         "name": "Seelenfresser",
-        "description": "Weiterentwickelter Knoblauch. Stiehlt Leben. Stärke erhöht sich wenn HP wiederhergestellt wird.",
+        "description": "Weiterentwickelter Knoblauch. Stiehlt Leben. Stärke erhöht sich wenn LP wiederhergestellt wird.",
         "tips": "Benötigt: Pummarola."
       },
       "BORA": {
         "name": "La Borra",
-        "description": "Weiterentwickeltes Santa Water. Schädliche Zonen folgen dir und wachsen wenn sie sich bewegen.",
+        "description": "Weiterentwickeltes Weihwasser. Schädliche Zonen folgen dir und wachsen wenn sie sich bewegen.",
         "tips": "Benötigt: Anziehungskugel."
       },
       "SILF3": {
@@ -1153,36 +1153,36 @@
       },
       "REVIVAL": {
         "name": "Tiragisú",
-        "description": "Wiederbelebt einmalig mit 50% Leben."
+        "description": "Holt Dich einmalig mit 50% LP in's Leben zurück."
       },
       "LOOP": {
-        "name": "Donnerschleife",
+        "name": "Donner-Reif",
         "description": "Entwickelter Blitzring. Geschosse schlagen zwei mal ein.",
         "tips": "Benötigt: Duplikator."
       },
       "CURSE": {
         "name": "Skull O'Maniac",
-        "description": "Increases enemy speed, health, quantity, and frequency by 10%."
+        "description": "Erhöht gegnerische Bewegungsgeschwindigkeit, Leben, Anzahl, und Frequenz um 10%."
       },
       "CHERRY": {
-        "name": "Cherry Bomb",
-        "description": "Throws a bouncing projectile. Explodes, sometimes.",
+        "name": "Kirschbombe",
+        "description": "Wirf ein abprallendes Geschoss. Explodiert...gelegentlich.",
         "tips": "Best with: luck."
       },
       "SONG": {
-        "name": "Song of Mana",
-        "description": "Attacks vertically, passes through enemies.",
-        "tips": "Ignores: amount, speed."
+        "name": "Lied des Mana",
+        "description": "Richtet vertikal Schaden an, durchdringt Gegner.",
+        "tips": "Ignoriert: Menge, Geschwindigkeit."
       },
       "MANNAGGIA": {
         "name": "Mannajja",
-        "description": "Evolved Song of Mana. Might slow enemies down.",
-        "tips": "Requires: Skull O'Maniac"
+        "description": "Entwickeltes Lied des Mana. Kann Gegner verlangsamen.",
+        "tips": "Benötigt: Skull O'Maniac"
       },
       "SIRE": {
-        "name": "Gorgeous Moon",
-        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
-        "tips": "Requires: Crown."
+        "name": "Bezaubernder Mond",
+        "description": "Entwickeltes Pentagram. Erschafft zusätzliche Edelsteine und sammelt alle ein.",
+        "tips": "Benötigt: Krone."
       }
     }
   },

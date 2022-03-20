@@ -311,7 +311,7 @@
     "translations": {
       "CLOVER": {
         "description": "Aufnehmen, um 10% mehr Glück zu haben.",
-        "name": "Kleeblättchen"
+        "name": "Kleeblatt"
       },
       "COIN": {
         "description": "Erhöht die Anzahl deiner Goldmünzen um 1.",
@@ -319,55 +319,55 @@
       },
       "COINBAG1": {
         "description": "Erhöht die Anzahl deiner Goldmünzen um 10.",
-        "name": "Münzsack"
+        "name": "Kleiner Münzsack"
       },
       "COINBAG2": {
         "description": "Erhöht die Anzahl deiner Goldmünzen um 25.",
-        "name": "Großer Münzsack"
+        "name": "Mittlerer Münzsack"
       },
       "COINBAGMAX": {
         "description": "Erhöht die Anzahl deiner Goldmünzen um 100.",
-        "name": "Reicher Münzsack",
-        "tips": "Die Drop-Rate hängt vom Glück ab."
+        "name": "Großer Münzsack",
+        "tips": "Die Drop-Rate hängt von Glück ab."
       },
       "GEM": {
         "description": "Erhöht die Erfahrung.",
-        "name": "Erfahrungs-Edelstein"
+        "name": "Edelstein"
       },
       "OROLOGION": {
-        "description": "Friert alle Gegner in der Zeit für 10 Sekunden ein.",
+        "description": "Friert alle Gegner für 10 Sekunden ein.",
         "name": "Orologion",
-        "tips": "Die Drop-Rate hängt vom Glück ab."
+        "tips": "Die Drop-Rate hängt von Glück ab."
       },
       "ROAST": {
         "description": "Stellt 30 Lebenspunkte wieder her.",
-        "name": "Bodenhuhn",
-        "tips": "Die Drop-Rate hängt vom Glück ab."
+        "name": "Brathähnchen",
+        "tips": "Die Drop-Rate hängt von Glück ab."
       },
       "ROSARY": {
         "description": "Zerstört alle Gegner in Sichtweite.",
         "name": "Rosenkranz",
-        "tips": "Die Drop-Rate hängt vom Glück ab."
+        "tips": "Die Drop-Rate hängt von Glück ab."
       },
       "TREASURE": {
-        "description": "Gibt Münzen und Power-ups. Wird von starken Gegnern fallen gelassen.",
+        "description": "Enthält Münzen und Power-ups. Wird von starken Gegnern fallen gelassen.",
         "name": "Schatztruhe",
-        "tips": "Die Qualität hängt vom Glück ab."
+        "tips": "Die Qualität hängt von Glück ab."
       },
       "VACUUM": {
         "description": "Sammelt alle Erfahrungssteine ein, die auf dem Boden liegen.",
         "name": "Vakuum",
-        "tips": "Die Drop-Rate hängt vom Glück ab."
+        "tips": "Die Drop-Rate hängt von Glück ab."
       },
       "NFT": {
-        "description": "Setzt vorübergehend Flammenkegel frei. Beeinflusst die Werte des Spielers.",
+        "description": "Setzt vorübergehend einen Flammenkegel frei. Beeinflusst von den Werten des Charakters.",
         "name": "Nduja Fritta",
-        "tips": "Die Drop-Rate hängt vom Glück ab."
+        "tips": "Die Drop-Rate hängt von Glück ab."
       },
       "RELIC_MAP": {
-        "name": "Milky Way Map",
-        "description": "Permanently enables the map in the pause menu.",
-        "achievementTips": "pause menu map."
+        "name": "Karte der Milchstraße",
+        "description": "Schaltet Dauerhaft die Karte im Pause-Menü frei.",
+        "achievementTips": "Pause-Menü Karte."
       }
     }
   },

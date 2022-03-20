@@ -180,28 +180,29 @@
       "FOREST": {
         "stageName": "Verrückter Wald",
         "description": "Das Schloss ist eine Lüge, aber hier gibt es trotzdem kostenloses Brathähnchen, also ist alles gut.",
-        "hyperTips": "50% Goldbonus"
+        "hyperTips": "50% Münzenbonus"
       },
       "LIBRARY": {
         "stageName": "Intarsienbibliothek",
-        "hyperTips": "50% Goldbonus\n10% Glücksbonus"
+        "description": "Diese stille, lange Bibliothek ist der ideale Ort zum ausruhen, meditieren und Brathähnchen schnabbulieren. Aber warum liegt hier eigentlich Stroh rum? Und wieso hast Du eine Steinmaske auf?",
+        "hyperTips": "50% Münzenbonus\n10% Glücksbonus"
       },
       "GREENACRES": {
         "stageName": "Grüner Acker",
         "description": "Ein Ort, an dem Sterbliche nicht erlaubt sind. Das Schicksal ändert sich jede Minute.",
         "tips": "Gesundheit der Gegner +50%",
-        "hyperTips": "50% Goldbonus\n10% Glücksbonus",
-        "stagenNumber": "Challenge"
+        "hyperTips": "50% Münzenbonus\n10% Glücksbonus",
+        "stagenNumber": "Herausforderung"
       },
       "WAREHOUSE": {
-        "stageName": "Dairy Plant",
-        "description": "The magic map hidden in here might finally lead us to a vampire, or at least to more roast chicken.",
-        "hyperTips": "50% Gold bonus\n10% Luck bonus"
+        "stageName": "Milchfabrik",
+        "description": "Die hier versteckte magische Karte führt uns vielleicht endlich zu einem Vampir...oder zumindest zu mehr Brathähnchen.",
+        "hyperTips": "50% Münzenbonus\n10% Glücksbonus"
       },
       "MOLISE": {
         "stageName": "Il Molise",
-        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
-        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
+        "description": "Es existieren Orte, die nicht wirklich existieren. Komm vorbei, entspanne Dich und genieße die Leichtigkeit des Lebens. Man sieht sich.",
+        "hyperTips": "50% Münzenbonus\n20% Glücksbonus\nGegnerische LP +60%"
       }
     }
   },

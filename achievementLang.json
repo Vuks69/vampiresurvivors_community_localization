@@ -805,7 +805,7 @@
         "description": "Bringe Königsbibel auf Level 4."
       },
       "GetHolyWaterToLevel4": {
-        "description": "Bringe Santa Water auf Level 4."
+        "description": "Bringe Weihwasser auf Level 4."
       },
       "GetLightningRingToLevel4": {
         "description": "Bringe Blitzring auf Level 4."
@@ -835,10 +835,10 @@
         "description": "Zerstöre 20 Lichtquellen."
       },
       "Eat5PotRoast": {
-        "description": "Finde 5 Bodenhühner."
+        "description": "Finde 5 Brathähnchen."
       },
       "FindAClover": {
-        "description": "Finde ein Kleeblättchen."
+        "description": "Finde ein Kleeblatt."
       },
       "FindAVacuum": {
         "description": "Finde ein Vakuum."
@@ -850,10 +850,10 @@
         "description": "Finde einen Rosenkranz."
       },
       "Defeat5000Enemies": {
-        "description": "Besiege insgesamt 5000 Gegner."
+        "description": "Besiege insgesamt 5.000 Gegner."
       },
       "Defeat3000Skeletons": {
-        "description": "Besiege insgesamt 3000 Skelette."
+        "description": "Besiege insgesamt 3.000 Skelette."
       },
       "DefeatBossMadForest": {
         "description": "Besiege die riesige Blaue Venus im Verrückten Wald."
@@ -874,49 +874,49 @@
         "description": "Bringe Knoblauch auf Level 7."
       },
       "EvolveWhip": {
-        "description": "Entwickle die Peitsche weiter."
+        "description": "Entwickle Peitsche."
       },
       "EvolveMagicWand": {
-        "description": "Entwickle den Zauberstab weiter."
+        "description": "Entwickle Zauberstab."
       },
       "EvolveKnife": {
-        "description": "Entwickle das Messer weiter."
+        "description": "Entwickle Messer."
       },
       "EvolveAxe": {
-        "description": "Entwickle die Axt weiter."
+        "description": "Entwickle Axt."
       },
       "EvolveCross": {
-        "description": "Entwickle das Kreuz weiter."
+        "description": "Entwickle Kreuz."
       },
       "EvolveKingBible": {
-        "description": "Entwickle die Königsbibel weiter."
+        "description": "Entwickle Königsbibel."
       },
       "EvolveFireWand": {
-        "description": "Entwickle den Feuerstab weiter."
+        "description": "Entwickle Feuerstab."
       },
       "Defeat100KEnemies": {
-        "description": "Besiege insgesamt 100000 Gegner."
+        "description": "Besiege insgesamt 100.000 Gegner."
       },
       "Recover1000HP": {
-        "description": "Stelle insgesamt 1000 HP wieder her."
+        "description": "Stelle insgesamt 1.000 LP wieder her."
       },
       "Earn5000CoinsInASingleRun": {
-        "description": "Verdiene 5000 Münzen in einer einzigen Runde."
+        "description": "Verdiene 5.000 Münzen in einer einzigen Runde."
       },
       "EvolveSantaWater": {
-        "description": "Entwickle das Santa Water."
+        "description": "Entwickle Weihwasser."
       },
       "UniteBirds": {
         "description": "Vereinige Ebenholz-Flügel und Peachone."
       },
       "EvolveGarlic": {
-        "description": "Entwickle den Knoblauch."
+        "description": "Entwickle Knoblauch."
       },
       "Unlock2Hypers": {
-        "description": "Schalte den Hyper Modus für 2 Stages frei."
+        "description": "Schalte den Hyper-Modus für 2 Stages frei."
       },
       "EvolveLightning": {
-        "description": "Entwickle den Blitzring weiter."
+        "description": "Entwickle den Blitzring."
       },
       "ReachLV100WithMortaccio": {
         "description": "Erreiche Level 100 mit Mortaccio."
@@ -928,46 +928,46 @@
         "description": "Überlebe 20 Minuten mit Krochi."
       },
       "Survive20MinutesWithCurse": {
-        "description": "Survive 20 minutes with at least +10% Curse."
+        "description": "Überlebe 20 Minuten mit mindestens +10% Fluch."
       },
       "Survive30MinutesWithAxe": {
-        "description": "Survive 30 minutes with Lama."
+        "description": "Überlebe 30 Minuten mit Lama."
       },
       "Defeat3000Buers": {
-        "description": "Defeat a total of 3000 Lion Heads."
+        "description": "Besiege 3.000 Löwenköpfe."
       },
       "ReachLV100WithCavallo": {
-        "description": "Reach Level 100 with Yatta Cavallo."
+        "description": "Erreiche Level 100 mit Yatta Cavallo."
       },
       "EvolveSongOfMana": {
-        "description": "Evolve the Song Of Mana."
+        "description": "Etnwickle das Lied des Mana."
       },
       "Survive15MinutesWithSong": {
-        "description": "Survive 15 minutes with Poppea."
+        "description": "Überlebe 15 Minuten mit Poppea."
       },
       "FindCoffinStage3": {
-        "description": "Find and open the coffin in the Dairy Plant."
+        "description": "Finde und öffne den Sarg in der Milchfabrik."
       },
       "ReachLV40InLibrary": {
-        "description": "Reach Level 40 in Inlaid Library."
+        "description": "Erreiche Level 40 in der Intarsienbibliothek."
       },
       "DefeatBossPlant": {
-        "description": "Defeat the Sword Guardian in the Dairy Plant."
+        "description": "Besiege den Schwertwächter in der Milchfabrik."
       },
       "FindMilkyWayMap": {
-        "description": "Find the Milky Way Map."
+        "description": "Finde die Karte der Milchstraße."
       },
       "GetPentagramToLevel7": {
-        "description": "Get Pentagram to Level 7."
+        "description": "Bringe Pentagram auf Level 7."
       },
       "Unlock3Hypers": {
-        "description": "Unlock Hyper mode for 3 normal stages."
+        "description": "Schalte den Hyper-Modus für 3 normale Stages frei."
       },
       "Survive15MinutesInMolise": {
-        "description": "Survive 15 minutes in Molise."
+        "description": "Überlebe 15 Minuten in Il Molise."
       },
       "EvolvePentagram": {
-        "description": "Evolve the Pentagram."
+        "description": "Entwickle Pentagram."
       }
     }
   },
