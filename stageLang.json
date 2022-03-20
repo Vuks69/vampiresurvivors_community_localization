@@ -219,29 +219,29 @@
       "FOREST": {
         "stageName": "Őrült erdő",
         "description": "A kastély egy hazugság, de még van ingyen grillcsirke, úgyhogy minden oké.",
-        "hyperTips": "50% bónusz arany"
+        "hyperTips": "+50% arany"
       },
       "LIBRARY": {
         "stageName": "Antik könyvtár",
         "description": "Ez a csendes, hosszú könyvtár ideális hely pihenni, meditálni és grillcsirkét gyűjteni. De mit keres itt egy kőmaszk?",
-        "hyperTips": "50% bónusz arany\n10% bónusz szerencse"
+        "hyperTips": "+50% arany\n+10% szerencse"
       },
       "GREENACRES": {
         "stageName": "Zöld mezők",
         "description": "Nem halandóknak való vidék. A sors minden percben megváltozik.",
         "tips": "Ellenfelek ÉP-je +50%",
-        "hyperTips": "50% bónusz arany\n10% bónusz szerencse",
+        "hyperTips": "+50% arany\n+10% szerencse",
         "stagenNumber": "Kihívás"
       },
       "WAREHOUSE": {
         "stageName": "Tejgyár",
         "description": "Az itt rejtőző mágikus térkép talán végre elvezethet a vámpírhoz, vagy legalább még egy kis grillcsirkéhez.",
-        "hyperTips": "50% bónusz arany\n10% bónusz szerencse"
+        "hyperTips": "+50% arany\n+10% szerencse"
       },
       "MOLISE": {
         "stageName": "Il Molise",
-        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
-        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
+        "description": "Léteznek olyan helyek, amelyek nem léteznek. Gyere pihenni és élvezni az életet! Vidéken találkozunk!",
+        "hyperTips": "+50% arany\n+20% szerencse\nEllenfelek ÉP-je +60%"
       }
     }
   },

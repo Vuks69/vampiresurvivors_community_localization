@@ -1151,16 +1151,16 @@
         "description": "Találd meg a Tejút térképet."
       },
       "GetPentagramToLevel7": {
-        "description": "Get Pentagram to Level 7."
+        "description": "Fejleszd fel a Pentagrammát a 7. szintre."
       },
       "Unlock3Hypers": {
-        "description": "Unlock Hyper mode for 3 normal stages."
+        "description": "Oldd fel a Hiper módot 3 normál pályán."
       },
       "Survive15MinutesInMolise": {
-        "description": "Survive 15 minutes in Molise."
+        "description": "Élj túl 15 percet Il Moliseban."
       },
       "EvolvePentagram": {
-        "description": "Evolve the Pentagram."
+        "description": "Alakítsd át a Pentagrammát."
       }
     }
   },

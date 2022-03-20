@@ -1200,7 +1200,7 @@
       "WHIP": {
         "name": "Korbács",
         "description": "Vízszintes támadás, áthatol az ellenfeleken.",
-        "tips": "Figyelmen kívül hagyja: gyorsaság, időtartam."
+        "tips": "Figyelmen kívül hagyja: gyorsaság, hatóidő."
       },
       "VAMPIRICA": {
         "name": "Véres könnycsepp",
@@ -1210,7 +1210,7 @@
       "MAGIC_MISSILE": {
         "name": "Varázspálca",
         "description": "A legközelebbi ellenfélre lő.",
-        "tips": "Figyelmen kívül hagyja: időtartam."
+        "tips": "Figyelmen kívül hagyja: hatóidő."
       },
       "HOLY_MISSILE": {
         "name": "Szent pálca",
@@ -1219,8 +1219,8 @@
       },
       "AXE": {
         "name": "Balta",
-        "description": "Nagy sebzés, nagy területskálázás.",
-        "tips": "Figyelmen kívül hagyja: időtartam."
+        "description": "Nagy sebzés, nagy hatókörskálázás.",
+        "tips": "Figyelmen kívül hagyja: hatóidő."
       },
       "SCYTHE": {
         "name": "Halálspirál",
@@ -1230,7 +1230,7 @@
       "KNIFE": {
         "name": "Tőr",
         "description": "Gyorsan lő a szemközti irányba.",
-        "tips": "Figyelmen kívül hagyja: időtartam."
+        "tips": "Figyelmen kívül hagyja: hatóidő."
       },
       "THOUSAND": {
         "name": "Ezer penge",
@@ -1245,12 +1245,12 @@
       "DIAMOND": {
         "name": "Rúnajelző",
         "description": "Áthatol az ellenfeleken, pattog.",
-        "tips": "Legjobb ezzel: gyorsaság, időtartam."
+        "tips": "Legjobb ezzel: gyorsaság, hatóidő."
       },
       "FIREBALL": {
         "name": "Tűzpálca",
         "description": "Véletlenszerű ellenfélre lő, nagy sebzést okoz.",
-        "tips": "Figyelmen kívül hagyja: időtartam."
+        "tips": "Figyelmen kívül hagyja: hatóidő."
       },
       "HELLFIRE": {
         "name": "Pokoltűz",
@@ -1260,7 +1260,7 @@
       "HOLYBOOK": {
         "name": "Biblia",
         "description": "A karakter körül köröz.",
-        "tips": "Legjobb ezzel: gyorsaság, időtartam, terület."
+        "tips": "Legjobb ezzel: gyorsaság, hatóidő, hatókör."
       },
       "VESPERS": {
         "name": "Szentségtelen imakönyv",
@@ -1270,7 +1270,7 @@
       "CROSS": {
         "name": "Kereszt",
         "description": "A legközelebbi ellenfélre céloz, bumeránghatása van.",
-        "tips": "Figyelmen kívül hagyja: időtartam."
+        "tips": "Figyelmen kívül hagyja: hatóidő."
       },
       "HEAVENSWORD": {
         "name": "Mennyei pallos",
@@ -1280,7 +1280,7 @@
       "GARLIC": {
         "name": "Fokhagyma",
         "description": "Sebzi a közeli ellenfeleket. Csökkenti a hátralökés- és lefagyás-ellenállást.",
-        "tips": "Figyelmen kívül hagyja: mennyiség, időtartam, gyorsaság."
+        "tips": "Figyelmen kívül hagyja: mennyiség, hatóidő, gyorsaság."
       },
       "LAUREL": {
         "name": "Babér",
@@ -1290,7 +1290,7 @@
       "LIGHTNING": {
         "name": "Villámgyűrű",
         "description": "Véletlenszerű ellenfelekre csap le.",
-        "tips": "Figyelmen kívül hagyja: gyorsaság, időtartam."
+        "tips": "Figyelmen kívül hagyja: gyorsaság, hatóidő."
       },
       "PENTAGRAM": {
         "name": "Pentagramma",
@@ -1300,22 +1300,22 @@
       "SILF": {
         "name": "Gerle",
         "description": "Egy köröző zónában bombáz.",
-        "tips": "Legjobb ezzel: újratöltés, időtartam."
+        "tips": "Legjobb ezzel: újratöltés, hatóidő."
       },
       "SILF2": {
         "name": "Ébenszárny",
         "description": "Egy köröző zónában bombáz.",
-        "tips": "Legjobb ezzel: újratöltés, időtartam."
+        "tips": "Legjobb ezzel: újratöltés, hatóidő."
       },
       "BONE": {
         "name": "Csont",
         "description": "Egy pattogó lövedék.",
-        "tips": "Legjobb ezzel: időtartam, gyorsaság."
+        "tips": "Legjobb ezzel: hatóidő, gyorsaság."
       },
       "LANCET": {
         "name": "Óraszike",
         "description": "Esély az ellenségek lefagyasztására.",
-        "tips": "Figyelmen kívül hagyja: erő, gyorsaság, mennyiség, terület."
+        "tips": "Figyelmen kívül hagyja: erő, gyorsaság, mennyiség, hatókör."
       },
       "POWER": {
         "name": "Spenót",
@@ -1323,7 +1323,7 @@
       },
       "AREA": {
         "name": "Kandelabrador",
-        "description": "10%-kal növeli a támadások területét."
+        "description": "10%-kal növeli a támadások hatókörét."
       },
       "SPEED": {
         "name": "Csuklóvédő",
@@ -1335,7 +1335,7 @@
       },
       "DURATION": {
         "name": "Bűbájoskötet",
-        "description": "10%-kal növeli a fegyverek hatásának időtartamát."
+        "description": "10%-kal növeli a fegyverek hatóidejét."
       },
       "AMOUNT": {
         "name": "Duplikátor",
@@ -1359,7 +1359,7 @@
       },
       "GROWTH": {
         "name": "Korona",
-        "description": "8%-kal több TP-t szerez a karakter."
+        "description": "+8% TP-t szerez a karakter."
       },
       "LUCK": {
         "name": "Lóhere",
@@ -1416,9 +1416,9 @@
         "tips": "Szükséges: Őrült koponya"
       },
       "SIRE": {
-        "name": "Gorgeous Moon",
-        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
-        "tips": "Requires: Crown."
+        "name": "Gyönyörű hold",
+        "description": "Felfejlesztett Pentagramma. További tapasztalatköveket dob és összegyűjti őket.",
+        "tips": "Szükséges: Korona."
       }
     }
   },

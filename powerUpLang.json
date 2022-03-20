@@ -464,59 +464,59 @@
     "translations": {
       "POWER": {
         "name": "Erő",
-        "description": "5%-kal növeli az okozott sebzést rangonként (max +25%)."
+        "description": "+5% okozott sebzés fokozatonként (max +25%)."
       },
       "REGEN": {
         "name": "Gyógyulás",
-        "description": "0,1 ÉP-t tölt vissza másodpercenként rangonként (max 0,5)."
+        "description": "Másodpercenként 0,1 ÉP-t tölt vissza fokozatonként (max 0,5)."
       },
       "MAXHEALTH": {
         "name": "Max ÉP",
-        "description": "10%-kal növeli a max ÉP-t rangonként (max +30%)."
+        "description": "+10% max ÉP fokozatonként (max +30%)."
       },
       "ARMOR": {
         "name": "Páncél",
-        "description": "1-gyel csökkenti a kapott sebzést rangonként (max -3)."
+        "description": "-1 kapott sebzés fokozatonként (max -3)."
       },
       "AREA": {
-        "name": "Terület",
-        "description": "5%-kal növeli a támadások területét rangonként (max +10%)."
+        "name": "Hatókör",
+        "description": "Támadások hatóköre +5% fokozatonként (max +10%)."
       },
       "SPEED": {
         "name": "Gyorsaság",
-        "description": "10%-kal növeli a lövedékek gyorsaságát rangonként (max +20%)."
+        "description": "Lövedékek gyorsasága +10% fokozatonként (max +20%)."
       },
       "COOLDOWN": {
         "name": "Újratöltés",
-        "description": "2,5%-kal gyorsabban használja a fegyvereket rangonként (max +5%)."
+        "description": "2,5%-kal gyorsabban használja a fegyvereket fokozatonként (max +5%)."
       },
       "DURATION": {
-        "name": "Időtartam",
-        "description": "15%-kal növeli a fegyverek hatásainak időtartamát rangonként (max +30%)."
+        "name": "Hatóidő",
+        "description": "Fegyverek hatóideje +15% fokozatonként (max +30%)."
       },
       "AMOUNT": {
         "name": "Mennyiség",
-        "description": "1 további lövedéket lő (minden fegyver)."
+        "description": "+1 lövedéket lő (minden fegyver)."
       },
       "MOVESPEED": {
         "name": "Sebesség",
-        "description": "5%-kal növeli a karakter sebességét rangonként (max +10%)."
+        "description": "Karakter sebessége +5% fokozatonként (max +10%)."
       },
       "MAGNET": {
         "name": "Mágnes",
-        "description": "25%-kal növeli a tárgyak felszedési távolságát rangonként (max +50%)."
+        "description": "Tárgyak felszedési távolsága +25% fokozatonként (max +50%)."
       },
       "LUCK": {
         "name": "Szerencse",
-        "description": "10%-kal növeli a szerencsét rangonként (max +30%)."
+        "description": "+10% szerencse fokozatonként (max +30%)."
       },
       "GROWTH": {
         "name": "Növekedés",
-        "description": "3%-kal növeli a TP-szerzést rangonként (max +15%)."
+        "description": "+3% TP fokozatonként (max +15%)."
       },
       "GREED": {
         "name": "Kapzsiság",
-        "description": "10%-kal növeli az érmék értékét rangonként (max +50%)."
+        "description": "Érmék értéke +10% fokozatonként (max +50%)."
       },
       "SHIELD": {
         "name": "Pajzs",
@@ -528,15 +528,15 @@
       },
       "REROLL": {
         "name": "Újradobás",
-        "description": "Rangonként egyszer szintlépéskor lehetséges új lehetőségek kérése."
+        "description": "Fokozatonként egyszer szintlépéskor új lehetőségek kérése."
       },
       "SKIP": {
         "name": "Átugrás",
-        "description": "Rangonként egyszer szintlépéskor lehetséges a lehetőségek átugrása +TP-ért."
+        "description": "Fokozatonként egyszer szintlépéskor lehetőségek átugrása +TP-ért."
       },
       "CURSE": {
         "name": "Átok",
-        "description": "Ellenfelek sebessége, ÉP-je, mennyisége és gyakorisága +10% rangonként (max +50%)."
+        "description": "Ellenfelek sebessége, ÉP-je, mennyisége és gyakorisága +10% fokozatonként (max +50%)."
       }
     }
   },

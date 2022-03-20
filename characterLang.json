@@ -463,23 +463,23 @@
     "api": "hungarian",
     "translations": {
       "ANTONIO": {
-        "description": "10%-kal többet sebez 10 szintenként (max +50%).",
+        "description": "+10% sebzés 10 szintenként (max +50%).",
         "charName": "Antonio",
         "surname": "Belpaese"
       },
       "IMELDA": {
-        "description": "10%-kal több TP-t szerez 5 szintenként (max +30%).",
+        "description": "+10% TP 5 szintenként (max +30%).",
         "charName": "Imelda",
         "surname": "Belpaese"
       },
       "CIRO": {
         "charName": "Arca",
-        "description": "5%-kal csökken a fegyverek újratöltése 10 szintenként (max -15%).",
+        "description": "Fegyverek újratöltése -5% 10 szintenként (max -15%).",
         "surname": "Ladonna"
       },
       "DOMMARIO": {
         "charName": "Dommario",
-        "description": "Állandó +40% időtartam és gyorsaság, -40% sebesség."
+        "description": "Állandó +40% hatóidő és gyorsaság, -40% sebesség."
       },
       "EXDASH": {
         "description": "Legalább szerencsés…"
@@ -491,12 +491,12 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "Állandó +0,5 ÉP/mp és +50 max ÉP. Ideiglenes területbónusszal kezd.",
+        "description": "Állandó +0,5 ÉP/mp és +50 max ÉP. Ideiglenes + hatókörrel kezd.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
         "charName": "Mortaccio",
-        "description": "1 további lövedéket lő 20 szintenként (max +3)."
+        "description": "+1 lövedék 20 szintenként (max +3)."
       },
       "CAMILLO": {
         "charName": "Poe",
@@ -505,36 +505,36 @@
       },
       "PASQUALINA": {
         "charName": "Pasqualina",
-        "description": "10%-kal gyorsabbak lesznek a lövedékek 5 szintenként (max +30%).",
+        "description": "Lövedékek gyorsasága +10% 5 szintenként (max +30%).",
         "surname": "Belpaese"
       },
       "PORTA": {
         "charName": "Porta",
-        "description": "Állandó +30% terület. Ideiglenes újratöltési bónusszal kezd.",
+        "description": "Állandó +30% hatókör. Ideiglenes újratöltési bónusszal kezd.",
         "surname": "Ladonna"
       },
       "CROCI": {
         "charName": "Krochi",
         "surname": "Freetto",
-        "description": "1 Feléledéssel kezd. Kap még 1 Feléledést a 33. szinten."
+        "description": "1 Feléledéssel kezd. +1 Feléledés a 33. szinten."
       },
       "LAMA": {
         "charName": "Lama",
         "surname": "Ladonna",
-        "description": "+5% Erőt, Sebességet és Átkot kap 10 szintenként (max +20%)."
+        "description": "+5% Erő, Sebesség és Átok 10 szintenként (max +20%)."
       },
       "CAVALLO": {
         "prefix": "Yatta",
         "charName": "Cavallo",
-        "description": "1 további lövedéket lő 20 szintenként (max +3)."
+        "description": "+1 lövedék 20 szintenként (max +3)."
       },
       "POPPEA": {
         "charName": "Poppea",
         "surname": "Pecorina",
-        "description": "+1% időtartamot kap szintenként."
+        "description": "+1% hatóidő szintenként."
       },
       "CRISTINA": {
-        "description": "Starts with 1 extra level.",
+        "description": "1 további szinttel kezd.",
         "surname": "Davain",
         "charName": "Christine"
       }
