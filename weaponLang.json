@@ -953,6 +953,16 @@
         "name": "Gorgeous Moon",
         "description": "Evolution du Pentagramme. Produit des gemmes et les attire vers vous.",
         "tips": "Requires: Couronne."
+      },
+      "ROCHER": {
+        "name": "NO FUTURE",
+        "description": "Evolution de Rune Laser. Explose quand il rebondit et s'arrête.",
+        "tips": "Requires: Armor"
+      },
+      "CART2": {
+        "name": "Carréllo",
+        "description": "Jette un chariot de mine rebondissant. Le nombre de rebond dépend de Quantité.",
+        "tips": "Ignores: duration."
       }
     }
   },
