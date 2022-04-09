@@ -344,7 +344,7 @@
       "CROCI": {
         "charName": "Krochi",
         "surname": "Freetto",
-        "description": "Commence avec 1 Réssurection. Gagne 1 Réssurection de plus au niveau 33."
+        "description": "Commence avec 1 Résurrection. Gagne 1 Résurrection de plus au niveau 33."
       },
       "LAMA": {
         "charName": "Lama",
@@ -362,7 +362,7 @@
         "description": "Gagne +1% de durée à chaque niveau."
       },
       "CRISTINA": {
-        "description": "Starts with 1 extra level.",
+        "description": "Commenence avec un niveau supplémentaire.",
         "surname": "Davain",
         "charName": "Christine"
       }
