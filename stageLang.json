@@ -146,29 +146,29 @@
       "FOREST": {
         "stageName": "Forêt folle",
         "description": "Le Château est un mensonge. Mais il y a quand même du poulet rôti gratuit dans le coin, alors tout va bien.",
-        "hyperTips": "50 % d'or bonus"
+        "hyperTips": "50 % de bonus d'or"
       },
       "LIBRARY": {
         "stageName": "Bibliothèque\nmarquetée",
         "description": "Calme, cette bibliothèque longiligne est l'endroit idéal pour se reposer, méditer et chercher du poulet rôti. Mais pourquoi y a-t-il un masque de pierre ici ?",
-        "hyperTips": "50 % d'or bonus\n10 % de chance bonus"
+        "hyperTips": "50 % de bonus d'or\n10 % de bonus de chance"
       },
       "GREENACRES": {
         "stageName": "Grande pâture",
         "description": "Un lieu interdit aux mortels. Là-bas, chaque minute qui passe fait vaciller le destin.",
         "tips": "Santé des ennemis + 50 %",
-        "hyperTips": "50 % d'or bonus\n10 % de chance bonus",
+        "hyperTips": "50 % de bonus d'or\n10 % de bonus de chance",
         "stagenNumber": "Défi"
       },
       "WAREHOUSE": {
         "stageName": "Usine laitière",
         "description": "La carte magique cachée ici pourrait enfin nous mener à un vampire, ou au moins à plus de poulet rôti.",
-        "hyperTips": "50 % d'or bonus\n10 % de chance bonus"
+        "hyperTips": "50 % de bonus d'or\n10 % de bonus de chance"
       },
       "MOLISE": {
         "stageName": "Il Molise",
-        "description": "There exists places that don't exist. Come to relax and enjoy life. See you in the country.",
-        "hyperTips": "50% Gold Bonus\n20% Luck bonus\nEnemies Health +60%"
+        "description": "Il existe des endroits qui n'existe pas. Venez vous relaxer et apprécier la vie. On se retrouve à la campagne.",
+        "hyperTips": "50% de bonus d'or\n20% de bonus de chance\nPV Ennemie +60%"
       }
     }
   },
