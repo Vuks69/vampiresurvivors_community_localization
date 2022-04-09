@@ -561,7 +561,7 @@
       "options_flashing_VFX": "Effets clignotants",
       "options_visibleJoystick": "Joystick visible",
       "options_damageNumbers": "Chiffres des dégâts",
-      "options_streamersafe": "Musique streaming sans risque",
+      "options_streamersafe": "Musique streaming ok",
       "options_resync": "Succès Steam synchronisés",
       "options_successful": "Patientez environ 1 minute",
       "options_error": "Une erreur est survenue",
@@ -702,14 +702,20 @@
       "levelup_reroll": "Relancer",
       "levelup_Xleft": "%0 restant",
       "weaponLevelUp_curse": "Augmente la vitesse, la santé, la quantité et la fréquence des ennemis de %0%.",
-      "weaponLevelUp_cooldownIncreased": "Durée augmenté de %0 secondes\n",
+      "weaponLevelUp_cooldownIncreased": "Durée augmentée de %0 secondes\n",
       "stageSelection_stageNumber": "Niveau %0",
       "charFound_ok": "OK?",
       "charFound_joins": "%0\nREJOINT LES SURVIVANTS!",
       "charFound_another": "Merci %0, mais le vampire est dans un autre cercueil!",
-      "pause_showGuides": "Afficher les guides",
-      "pause_hideGuides": "Cacher les guides",
-      "options_restoreBackup": "Restaurer la sauvegarde"
+      "pause_showGuides": "Aides",
+      "pause_hideGuides": "Sans aides",
+      "options_restoreBackup": "Restaurer \n la sauvegarde"      
+      "menu_unlocks": "SUCCÈS",
+      "levelup_banish": "BANNIR",
+      "levelup_cancel": "ANNULER",
+      "levelup_header_ban": "BANNIR!",
+      "options_reducephysics": "Mode Performance",
+      "stageConfirm_hurry": "Rapide?"
     }
   },
   "de": {
