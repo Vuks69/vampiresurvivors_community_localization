@@ -319,12 +319,12 @@
       },
       "GERMANA": {
         "charName": "Clerici",
-        "description": "+ 0.5 PV et + 50 de santé max, en permanence. Commence avec un bonus de portée temporaire.",
+        "description": "+ 0.5 PV et + 50 santé max. Commence avec un bonus de portée temporaire.",
         "prefix": "Suor"
       },
       "MORTACCIO": {
         "charName": "Mortaccio",
-        "description": "Obtient des projectiles supplémentaires tous les 20 niveaux (+ 3 max)."
+        "description": "Des projectiles supplémentaires tous les 20 niveaux (+ 3 max)."
       },
       "CAMILLO": {
         "charName": "Poe",
@@ -349,12 +349,12 @@
       "LAMA": {
         "charName": "Lama",
         "surname": "Ladonna",
-        "description": "Gagne +5% de puissance, de vitesse de déplacement et de malédiction tous les 10 niveaux (max +20%)."
+        "description": "+5% puissance, vitesse et malédiction tous les 10 niveaux (max +20%)."
       },
       "CAVALLO": {
         "prefix": "Yatta",
         "charName": "Cavallo",
-        "description": "Obtient des projectiles supplémentaires tous les 20 niveaux (+ 3 max)."
+        "description": "Des projectiles supplémentaires tous les 20 niveaux (+ 3 max)."
       },
       "POPPEA": {
         "charName": "Poppea",
@@ -365,6 +365,11 @@
         "description": "Commenence avec un niveau supplémentaire.",
         "surname": "Davain",
         "charName": "Christine"
+      }   
+      "MARIA": {
+        "description": "Des projectiles supplémentaires tous les 20 niveaux (+3 max).",
+        "prefix": "Bianca",
+        "charName": "Ramba"
       }
     }
   },
