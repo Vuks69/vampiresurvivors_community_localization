@@ -813,7 +813,7 @@
       },
       "GARLIC": {
         "name": "Ail",
-        "description": "Dégâts de proximité. Réduit résistance au recul et à l'immobilisation.",
+        "description": "Dégâts de proximité. Résistance au recul et à l'immobilisation réduite.",
         "tips": "Ignore: quantité, durée, puissance de tir."
       },
       "LAUREL": {
