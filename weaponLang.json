@@ -759,7 +759,7 @@
       "SCYTHE": {
         "name": "Spirale fatale",
         "description": "Évolution de la Hache. Traverse les ennemis.",
-        "tips": "Requiert: Chandellabrador."
+        "tips": "Requiert: Chandelier."
       },
       "KNIFE": {
         "name": "Poignard",
@@ -777,7 +777,7 @@
         "tips": "Ignore: puissance de tir."
       },
       "DIAMOND": {
-        "name": "Traqueur de runes",
+        "name": "Rune laser",
         "description": "Traverse les ennemis, rebondit.",
         "tips": "Plus efficace avec: puissance de tir, durée."
       },
@@ -813,7 +813,7 @@
       },
       "GARLIC": {
         "name": "Ail",
-        "description": "Inflige des dégâts aux ennemis à proximité. Réduit la résistance au recul et à l'immobilisation.",
+        "description": "Dégâts de proximité. Réduit résistance au recul et à l'immobilisation.",
         "tips": "Ignore: quantité, durée, puissance de tir."
       },
       "LAUREL": {
@@ -909,12 +909,12 @@
       },
       "VORTEX": {
         "name": "Mangeur d'âmes",
-        "description": "Évolution de l'Ail. Vole de vie. Sa puissance augmente lorsqu'il récupère des HP.",
+        "description": "Évolution de l'Ail. Vole de vie. Son pouvoir augmente quand il vole des PV.",
         "tips": "Requiert: Pummarola."
       },
       "BORA": {
         "name": "La Borra",
-        "description": "Évolution de l'Eau sainte. Les zones endommagées vous suivent et augmentent lorsqu'elles se déplacent.",
+        "description": "Évolution de l'Eau sainte. Les zones vous suivent et s'aggrandissent.",
         "tips": "Requiert: Orbe d'attraction."
       },
       "SILF3": {
@@ -923,7 +923,7 @@
       },
       "REVIVAL": {
         "name": "Tiramitsu",
-        "description": "Revivre une fois avec 50% de santé."
+        "description": "Ressuscite une fois avec 50% de santé."
       },
       "LOOP": {
         "name": "Boucle du tonnerre",
@@ -951,8 +951,8 @@
       },
       "SIRE": {
         "name": "Gorgeous Moon",
-        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
-        "tips": "Requires: Crown."
+        "description": "Evolution du Pentagramme. Produit des gemmes et les attire vers vous.",
+        "tips": "Requires: Couronne."
       }
     }
   },
