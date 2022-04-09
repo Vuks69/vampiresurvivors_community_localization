@@ -772,7 +772,7 @@
         "tips": "Requiert: Fortifiant."
       },
       "HOLYWATER": {
-        "name": "Eau sainte",
+        "name": "Eau bénite",
         "description": "Génère des zones de dégâts.",
         "tips": "Ignore: puissance de tir."
       },
@@ -914,7 +914,7 @@
       },
       "BORA": {
         "name": "La Borra",
-        "description": "Évolution de l'Eau sainte. Les zones vous suivent et s'aggrandissent.",
+        "description": "Évolution de l'Eau bénite. Les zones vous suivent et s'aggrandissent.",
         "tips": "Requiert: Orbe d'attraction."
       },
       "SILF3": {
