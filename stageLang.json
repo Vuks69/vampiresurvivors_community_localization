@@ -169,6 +169,10 @@
         "stageName": "Il Molise",
         "description": "Il existe des endroits qui n'existe pas. Venez vous relaxer et apprécier la vie. On se retrouve à la campagne.",
         "hyperTips": "50% de bonus d'or\n20% de bonus de chance\nPV Ennemie +60%"
+      },
+      "TOWER": {
+        "stageName": "La tour de Gallo",
+        "description": "Cette tour possède en son sein de nombreux artéfacts magiques et des monstres milléanaires."
       }
     }
   },
