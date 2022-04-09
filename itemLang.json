@@ -293,7 +293,7 @@
         "tips": "Taux de drop affecté par la chance."
       },
       "NFT": {
-        "description": "Souffle du feu en cône de façon temporaire. Objet affecté par les stats du joueur.",
+        "description": "Souffle du feu dans la direction du personnage. Dépend des stats du joueur.",
         "name": "Nduja Fritta",
         "tips": "Taux de drop affecté par la chance."
       },

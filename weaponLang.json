@@ -739,7 +739,7 @@
       "VAMPIRICA": {
         "name": "Larme de sang",
         "description": "Évolution du Fouet. Peut infliger des dégâts critiques et absorber des PV.",
-        "tips": "Requiert: Cœur vide."
+        "tips": "Requiert: Cœur creux."
       },
       "MAGIC_MISSILE": {
         "name": "Baguette magique",
@@ -772,12 +772,12 @@
         "tips": "Requiert: Fortifiant."
       },
       "HOLYWATER": {
-        "name": "Eau sainte",
+        "name": "Eau bénite",
         "description": "Génère des zones de dégâts.",
         "tips": "Ignore: puissance de tir."
       },
       "DIAMOND": {
-        "name": "Traqueur de runes",
+        "name": "Rune laser",
         "description": "Traverse les ennemis, rebondit.",
         "tips": "Plus efficace avec: puissance de tir, durée."
       },
@@ -813,7 +813,7 @@
       },
       "GARLIC": {
         "name": "Ail",
-        "description": "Inflige des dégâts aux ennemis à proximité. Réduit la résistance au recul et à l'immobilisation.",
+        "description": "Dégâts de proximité. Résistance au recul et à l'immobilisation réduite.",
         "tips": "Ignore: quantité, durée, puissance de tir."
       },
       "LAUREL": {
@@ -876,7 +876,7 @@
         "description": "Les armes tirent plus de projectiles."
       },
       "MAXHEALTH": {
-        "name": "Cœur vide",
+        "name": "Cœur creux",
         "description": "Augmente la santé max de 20%."
       },
       "ARMOR": {
@@ -909,21 +909,21 @@
       },
       "VORTEX": {
         "name": "Mangeur d'âmes",
-        "description": "Évolution de l'Ail. Vole de vie. Sa puissance augmente lorsqu'il récupère des HP.",
+        "description": "Évolution de l'Ail. Vole de vie. Son pouvoir augmente quand il vole des PV.",
         "tips": "Requiert: Pummarola."
       },
       "BORA": {
         "name": "La Borra",
-        "description": "Évolution de l'Eau sainte. Les zones endommagées vous suivent et augmentent lorsqu'elles se déplacent.",
+        "description": "Évolution de l'Eau bénite. Les zones vous suivent et s'aggrandissent.",
         "tips": "Requiert: Orbe d'attraction."
       },
       "SILF3": {
         "name": "Vandalier",
-        "description": "Union de la Pigeonne et des Ailes d'Ebène."
+        "description": "Union de  Pigeonne et d'Ailes d'Ebène."
       },
       "REVIVAL": {
         "name": "Tiramitsu",
-        "description": "Revivre une fois avec 50% de santé."
+        "description": "Ressuscite une fois avec 50% de santé."
       },
       "LOOP": {
         "name": "Boucle du tonnerre",
@@ -950,9 +950,34 @@
         "tips": "Requiert: Crâne O'Maniac"
       },
       "SIRE": {
-        "name": "Gorgeous Moon",
-        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
-        "tips": "Requires: Crown."
+        "name": "Lune radieuse",
+        "description": "Evolution du Pentagramme. Produit des gemmes et les attire vers vous.",
+        "tips": "Requiert: Couronne."
+      },
+      "GUNS": {
+        "name": "Phiera Der Tuphello",
+        "description": "Tire rapidement dans quatre directions fixes.",
+        "tips": "Ignore: durée."
+      },
+      "GUNS2": {
+        "name": "Eight the Sparrow",
+        "description": "Tire rapidement dans quatre directions fixes.",
+        "tips": "Ignore: durée."
+      },
+      "GUNS3": {
+        "name": "Phieraggi",
+        "description": "Fusion de Phiera Der Tuphello et de Eight The Sparrow. Scales with Revivals.",
+        "tips": "Requires: Tiragisú."
+      },
+      "ROCHER": {
+        "name": "NO FUTURE",
+        "description": "Evolution de Rune Laser. Explose quand il rebondit et s'arrête.",
+        "tips": "Requires: Armor"
+      },
+      "CART2": {
+        "name": "Carréllo",
+        "description": "Jette un chariot de mine rebondissant. Le nombre de rebond dépend de Quantité.",
+        "tips": "Ignores: duration."
       }
     }
   },
