@@ -560,7 +560,7 @@
       "options_music": "Musique",
       "options_flashing_VFX": "Effets clignotants",
       "options_visibleJoystick": "Joystick visible",
-      "options_damageNumbers": "Chiffres des dégâts",
+      "options_damageNumbers": "Nombre de dégâts",
       "options_streamersafe": "Musique streaming ok",
       "options_resync": "Succès Steam synchronisés",
       "options_successful": "Patientez environ 1 minute",
@@ -709,7 +709,7 @@
       "charFound_another": "Merci %0, mais le vampire est dans un autre cercueil!",
       "pause_showGuides": "Aides",
       "pause_hideGuides": "Sans aides",
-      "options_restoreBackup": "Restaurer \n la sauvegarde"      
+      "options_restoreBackup": "Restaurer\nla sauvegarde",      
       "menu_unlocks": "SUCCÈS",
       "levelup_banish": "BANNIR",
       "levelup_cancel": "ANNULER",
