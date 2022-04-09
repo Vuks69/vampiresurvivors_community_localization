@@ -627,7 +627,7 @@
         "description": "Faites évoluer la Baguette magique au niveau 7."
       },
       "GetPeachoneToLevel7": {
-        "description": "Faites évoluer Peachone au niveau 7."
+        "description": "Faites évoluer Pigeonne au niveau 7."
       },
       "GetRunetracerToLevel7": {
         "description": "Faites évoluer la Rune laser au niveau 7."
@@ -720,7 +720,7 @@
         "description": "Faîtes évoluer l'Eau bénite"
       },
       "UniteBirds": {
-        "description": "Faîtes évoluer Peachone et Ailes d'ébène."
+        "description": "Faîtes évoluer Pigeonne et Ailes d'ébène."
       },
       "EvolveGarlic": {
         "description": "Faîtes évoluer l'Ail."
