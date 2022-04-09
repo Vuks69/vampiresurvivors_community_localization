@@ -684,28 +684,28 @@
         "description": "Trouvez un Masque de pierre."
       },
       "GetGarlicToLevel7": {
-        "description": "Faîtes monter l'Ail au niveau 7."
+        "description": "Faites monter l'Ail au niveau 7."
       },
       "EvolveWhip": {
-        "description": "Faîtes évoluer le Fouet."
+        "description": "Faites évoluer le Fouet."
       },
       "EvolveMagicWand": {
-        "description": "Faîtes évoluer la Baguette magique."
+        "description": "Faites évoluer la Baguette magique."
       },
       "EvolveKnife": {
-        "description": "Faîtes évoluer le Poignard."
+        "description": "Faites évoluer le Poignard."
       },
       "EvolveAxe": {
-        "description": "Faîtes évoluer la Hache."
+        "description": "Faites évoluer la Hache."
       },
       "EvolveCross": {
-        "description": "Faîtes évoluer la Croix."
+        "description": "Faites évoluer la Croix."
       },
       "EvolveKingBible": {
-        "description": "Faîtes évoluer la Bible du roi."
+        "description": "Faites évoluer la Bible du roi."
       },
       "EvolveFireWand": {
-        "description": "Faîtes évoluer la Baguette de feu."
+        "description": "Faites évoluer la Baguette de feu."
       },
       "Defeat100KEnemies": {
         "description": "Éliminez un total de 100 000 ennemis."
@@ -717,13 +717,13 @@
         "description": "Gagnez 5000 pièces en un seul passage."
       },
       "EvolveSantaWater": {
-        "description": "Faîtes évoluer l'Eau bénite"
+        "description": "Faites évoluer l'Eau bénite"
       },
       "UniteBirds": {
-        "description": "Faîtes évoluer Pigeonne et Ailes d'ébène."
+        "description": "Faites évoluer Pigeonne et Ailes d'ébène."
       },
       "EvolveGarlic": {
-        "description": "Faîtes évoluer l'Ail."
+        "description": "Faites évoluer l'Ail."
       },
       "Unlock2Hypers": {
         "description": "Déverrouillez le mode Hyper pour 2 niveaux."

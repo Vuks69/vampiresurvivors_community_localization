@@ -573,7 +573,7 @@
       "treasure_header": "Trésor trouvé!",
       "treasure_open": "OUVRIR",
       "levelup_header": "Niveau supérieur!",
-      "levelup_footer": "\n\nAugmentez votre capacité Chance\n\npour avoir plus de probabilité d'avoir 4 choix",
+      "levelup_footer": "\nAugmentez votre capacité Chance\n\npour avoir plus de probabilité \n\n d'avoir 4 choix",
       "weapon_name": "Nom",
       "weapon_level": "Niveau",
       "weapon_description": "Description",
