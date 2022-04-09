@@ -739,7 +739,7 @@
       "VAMPIRICA": {
         "name": "Larme de sang",
         "description": "Évolution du Fouet. Peut infliger des dégâts critiques et absorber des PV.",
-        "tips": "Requiert: Cœur vide."
+        "tips": "Requiert: Cœur creux."
       },
       "MAGIC_MISSILE": {
         "name": "Baguette magique",
@@ -876,7 +876,7 @@
         "description": "Les armes tirent plus de projectiles."
       },
       "MAXHEALTH": {
-        "name": "Cœur vide",
+        "name": "Cœur creux",
         "description": "Augmente la santé max de 20%."
       },
       "ARMOR": {
