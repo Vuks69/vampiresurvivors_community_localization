@@ -950,9 +950,24 @@
         "tips": "Requiert: Crâne O'Maniac"
       },
       "SIRE": {
-        "name": "Gorgeous Moon",
+        "name": "Lune radieuse",
         "description": "Evolution du Pentagramme. Produit des gemmes et les attire vers vous.",
-        "tips": "Requires: Couronne."
+        "tips": "Requiert: Couronne."
+      },
+      "GUNS": {
+        "name": "Phiera Der Tuphello",
+        "description": "Tire rapidement dans quatre directions fixes.",
+        "tips": "Ignore: durée."
+      },
+      "GUNS2": {
+        "name": "Eight the Sparrow",
+        "description": "Tire rapidement dans quatre directions fixes.",
+        "tips": "Ignore: durée."
+      },
+      "GUNS3": {
+        "name": "Phieraggi",
+        "description": "Fusion de Phiera Der Tuphello et de Eight The Sparrow. Scales with Revivals.",
+        "tips": "Requires: Tiragisú."
       },
       "ROCHER": {
         "name": "NO FUTURE",
